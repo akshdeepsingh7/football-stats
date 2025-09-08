@@ -10,7 +10,7 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Monday, 08 September 2025, 09:05 AM UTC (Monday, 08 September 2025, 02:35 PM IST)
+**Last Updated:** Monday, 08 September 2025, 09:08 AM UTC (Monday, 08 September 2025, 02:38 PM IST)
 
 ### Premier League
 
