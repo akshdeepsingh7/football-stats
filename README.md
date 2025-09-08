@@ -10,5 +10,63 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-*(Charts will be auto-inserted here after running the script)*  
+**Last Updated:** Monday, 08 September 2025, 09:00 AM UTC (Monday, 08 September 2025, 02:30 PM IST)
+
+### Premier League
+
+![Premier League Winning Chances](images/Premier_League_winning_chances.png)
+
+### La Liga
+
+![La Liga Winning Chances](images/La_Liga_winning_chances.png)
+
+### Bundesliga
+
+![Bundesliga Winning Chances](images/Bundesliga_winning_chances.png)
+
+### Serie A
+
+![Serie A Winning Chances](images/Serie_A_winning_chances.png)
+
+### Ligue 1
+
+![Ligue 1 Winning Chances](images/Ligue_1_winning_chances.png)
+
+### Champions League
+
+![Champions League Winning Chances](images/Champions_League_winning_chances.png)
+
+### Europa League
+
+![Europa League Winning Chances](images/Europa_League_winning_chances.png)
+
+### Europa Conference League
+
+![Europa Conference League Winning Chances](images/Europa_Conference_League_winning_chances.png)
+
+### Liga Portugal
+
+![Liga Portugal Winning Chances](images/Liga_Portugal_winning_chances.png)
+
+### EFL Championship
+
+![EFL Championship Winning Chances](images/EFL_Championship_winning_chances.png)
+
+### Major League Soccer (MLS)
+
+![Major League Soccer (MLS) Winning Chances](images/Major_League_Soccer_(MLS)_winning_chances.png)
+
+### Indian Super League
+
+![Indian Super League Winning Chances](images/Indian_Super_League_winning_chances.png)
+
+### Liga Profesional Argentina (Clausura)
+
+![Liga Profesional Argentina (Clausura) Winning Chances](images/Liga_Profesional_Argentina_(Clausura)_winning_chances.png)
+
+### Brasileirão
+
+![Brasileirão Winning Chances](images/Brasileirão_winning_chances.png)
+
+
 <!-- END_WINNING_CHANCES -->
