@@ -1,0 +1,1392 @@
+{
+    "last_updated": {
+        "UTC": "Monday, 08 September 2025, 08:49 AM UTC",
+        "IST": "Monday, 08 September 2025, 02:19 PM IST"
+    },
+    "winning_chances": {
+        "Premier League": [
+            {
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 81.6
+            },
+            {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 64.62
+            },
+            {
+                "Team": "Arsenal",
+                "Winning Chance (%)": 55.33
+            },
+            {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 54.93
+            },
+            {
+                "Team": "Everton",
+                "Winning Chance (%)": 54.13
+            },
+            {
+                "Team": "Sunderland",
+                "Winning Chance (%)": 54.13
+            },
+            {
+                "Team": "AFC Bournemouth",
+                "Winning Chance (%)": 53.33
+            },
+            {
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 45.64
+            },
+            {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Nottingham Forest",
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Leeds United",
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Manchester City",
+                "Winning Chance (%)": 27.07
+            },
+            {
+                "Team": "Burnley",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Brentford",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "West Ham United",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Newcastle United",
+                "Winning Chance (%)": 17.78
+            },
+            {
+                "Team": "Fulham",
+                "Winning Chance (%)": 17.78
+            },
+            {
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 8.89
+            },
+            {
+                "Team": "Wolverhampton Wanderers",
+                "Winning Chance (%)": 0.0
+            }
+        ],
+        "La Liga": [
+            {
+                "Team": "Real Madrid",
+                "Winning Chance (%)": 82.0
+            },
+            {
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 81.2
+            },
+            {
+                "Team": "Villarreal",
+                "Winning Chance (%)": 65.02
+            },
+            {
+                "Team": "Barcelona",
+                "Winning Chance (%)": 63.82
+            },
+            {
+                "Team": "Espanyol",
+                "Winning Chance (%)": 63.02
+            },
+            {
+                "Team": "Getafe",
+                "Winning Chance (%)": 53.33
+            },
+            {
+                "Team": "Elche",
+                "Winning Chance (%)": 45.24
+            },
+            {
+                "Team": "Real Betis",
+                "Winning Chance (%)": 33.33
+            },
+            {
+                "Team": "Valencia",
+                "Winning Chance (%)": 36.36
+            },
+            {
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 35.96
+            },
+            {
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Osasuna",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Celta de Vigo",
+                "Winning Chance (%)": 20.0
+            },
+            {
+                "Team": "Real Oviedo",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 17.78
+            },
+            {
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 17.78
+            },
+            {
+                "Team": "Mallorca",
+                "Winning Chance (%)": 8.89
+            },
+            {
+                "Team": "Levante",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Girona",
+                "Winning Chance (%)": 0.0
+            }
+        ],
+        "Bundesliga": [
+            {
+                "Team": "Bayern Munich",
+                "Winning Chance (%)": 82.8
+            },
+            {
+                "Team": "Eintracht Frankfurt",
+                "Winning Chance (%)": 82.0
+            },
+            {
+                "Team": "K\u00f6ln",
+                "Winning Chance (%)": 81.6
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Winning Chance (%)": 54.53
+            },
+            {
+                "Team": "St. Pauli",
+                "Winning Chance (%)": 54.13
+            },
+            {
+                "Team": "VfL Wolfsburg",
+                "Winning Chance (%)": 54.13
+            },
+            {
+                "Team": "Augsburg",
+                "Winning Chance (%)": 40.4
+            },
+            {
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 40.0
+            },
+            {
+                "Team": "Hoffenheim",
+                "Winning Chance (%)": 40.0
+            },
+            {
+                "Team": "Union Berlin",
+                "Winning Chance (%)": 40.0
+            },
+            {
+                "Team": "RB Leipzig",
+                "Winning Chance (%)": 40.0
+            },
+            {
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Mainz 05",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Hamburg",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Werder Bremen",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Heidenheim",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "SC Freiburg",
+                "Winning Chance (%)": 0.0
+            }
+        ],
+        "Serie A": [
+            {
+                "Team": "Napoli",
+                "Winning Chance (%)": 81.2
+            },
+            {
+                "Team": "Juventus",
+                "Winning Chance (%)": 81.2
+            },
+            {
+                "Team": "Cremonese",
+                "Winning Chance (%)": 80.8
+            },
+            {
+                "Team": "Roma",
+                "Winning Chance (%)": 80.8
+            },
+            {
+                "Team": "Udinese",
+                "Winning Chance (%)": 53.73
+            },
+            {
+                "Team": "Inter",
+                "Winning Chance (%)": 41.6
+            },
+            {
+                "Team": "Lazio",
+                "Winning Chance (%)": 40.8
+            },
+            {
+                "Team": "Milan",
+                "Winning Chance (%)": 40.4
+            },
+            {
+                "Team": "Como",
+                "Winning Chance (%)": 40.4
+            },
+            {
+                "Team": "Bologna",
+                "Winning Chance (%)": 40.0
+            },
+            {
+                "Team": "Atalanta",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Fiorentina",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Pisa",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Cagliari",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Genoa",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Parma",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Lecce",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Hellas Verona",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Torino",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 0.0
+            }
+        ],
+        "Ligue 1": [
+            {
+                "Team": "PSG",
+                "Winning Chance (%)": 82.0
+            },
+            {
+                "Team": "Lyon",
+                "Winning Chance (%)": 82.0
+            },
+            {
+                "Team": "Lille",
+                "Winning Chance (%)": 65.02
+            },
+            {
+                "Team": "Monaco",
+                "Winning Chance (%)": 54.13
+            },
+            {
+                "Team": "Lens",
+                "Winning Chance (%)": 54.13
+            },
+            {
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 53.73
+            },
+            {
+                "Team": "Toulouse",
+                "Winning Chance (%)": 53.33
+            },
+            {
+                "Team": "Angers",
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Rennes",
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Marseille",
+                "Winning Chance (%)": 27.07
+            },
+            {
+                "Team": "Le Havre",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Nice",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Nantes",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Auxerre",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Paris",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Lorient",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Brest",
+                "Winning Chance (%)": 8.89
+            },
+            {
+                "Team": "Metz",
+                "Winning Chance (%)": 0.0
+            }
+        ],
+        "Champions League": [
+            {
+                "Team": "Ajax",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Arsenal",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Atalanta",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Barcelona",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Bayern Munich",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Benfica",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Bod\u00f8/Glimt",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Club Brugge",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Eintracht Frankfurt",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "FC Copenhagen",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Galatasaray",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Inter",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Juventus",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Kairat",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Manchester City",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Marseille",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Monaco",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Napoli",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Newcastle United",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Olympiacos",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "PSG",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "PSV",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Pafos",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Qaraba\u011f",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Real Madrid",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Slavia Prague",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Sporting CP",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Union Saint-Gilloise",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Villarreal",
+                "Winning Chance (%)": 0.0
+            }
+        ],
+        "Europa League": [
+            {
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "FC Basel",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Bologna",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Brann",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Celta de Vigo",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Celtic",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Dinamo Zagreb",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "FCSB",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Fenerbah\u00e7e",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Ferencv\u00e1ros",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Feyenoord",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "SC Freiburg",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "KRC Genk",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Go Ahead Eagles",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Lille",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Ludogorets",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Lyon",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Maccabi Tel Aviv",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Malm\u00f6",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Midtjylland",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Nice",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Nottingham Forest",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "PAOK",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Panathinaikos",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Porto",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Rangers",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Real Betis",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Red Star Belgrade",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Roma",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "RB Salzburg",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Braga",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Sturm Graz",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Utrecht",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Plze\u0148",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "BSC Young Boys",
+                "Winning Chance (%)": 0.0
+            }
+        ],
+        "Europa Conference League": [
+            {
+                "Team": "AEK Athens",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "AEK Larnaca",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "AZ",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Aberdeen",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Brei\u00f0ablik",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Celje",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Dynamo Kyiv",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Drita",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Fiorentina",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Hamrun Spartans",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "H\u00e4cken",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Jagiellonia",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "KuPS",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Lausanne-Sport",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Lech",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Legia",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Lincoln Red Imps",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Mainz 05",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Noah",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Omonia",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Rak\u00f3w",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Rapid Vienna",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Rijeka",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Samsunspor",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Shakhtar Donetsk",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Shamrock Rovers",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Shelbourne",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Shk\u00ebndija",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Sigma Olomouc",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Slovan Bratislava",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Sparta Prague",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Universitatea Craiova",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Zrinjski Mostar",
+                "Winning Chance (%)": 0.0
+            }
+        ],
+        "Liga Portugal": [
+            {
+                "Team": "Porto",
+                "Winning Chance (%)": 84.0
+            },
+            {
+                "Team": "Famalic\u00e3o",
+                "Winning Chance (%)": 68.67
+            },
+            {
+                "Team": "Sporting CP",
+                "Winning Chance (%)": 64.0
+            },
+            {
+                "Team": "Benfica",
+                "Winning Chance (%)": 82.0
+            },
+            {
+                "Team": "Moreirense",
+                "Winning Chance (%)": 60.8
+            },
+            {
+                "Team": "Braga",
+                "Winning Chance (%)": 55.73
+            },
+            {
+                "Team": "Gil Vicente",
+                "Winning Chance (%)": 47.47
+            },
+            {
+                "Team": "Arouca",
+                "Winning Chance (%)": 33.33
+            },
+            {
+                "Team": "Nacional",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Vit\u00f3ria S.C.",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Rio Ave",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 20.0
+            },
+            {
+                "Team": "Casa Pia",
+                "Winning Chance (%)": 20.0
+            },
+            {
+                "Team": "Estoril",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Alverca",
+                "Winning Chance (%)": 6.67
+            },
+            {
+                "Team": "AVS",
+                "Winning Chance (%)": 6.67
+            },
+            {
+                "Team": "Tondela",
+                "Winning Chance (%)": 6.67
+            }
+        ],
+        "EFL Championship": [
+            {
+                "Team": "Middlesbrough",
+                "Winning Chance (%)": 82.4
+            },
+            {
+                "Team": "West Bromwich Albion",
+                "Winning Chance (%)": 67.87
+            },
+            {
+                "Team": "Stoke City",
+                "Winning Chance (%)": 62.0
+            },
+            {
+                "Team": "Leicester City",
+                "Winning Chance (%)": 61.2
+            },
+            {
+                "Team": "Coventry City",
+                "Winning Chance (%)": 56.53
+            },
+            {
+                "Team": "Bristol City",
+                "Winning Chance (%)": 55.33
+            },
+            {
+                "Team": "Swansea City",
+                "Winning Chance (%)": 47.47
+            },
+            {
+                "Team": "Portsmouth",
+                "Winning Chance (%)": 47.07
+            },
+            {
+                "Team": "Preston North End",
+                "Winning Chance (%)": 47.07
+            },
+            {
+                "Team": "Birmingham City",
+                "Winning Chance (%)": 46.67
+            },
+            {
+                "Team": "Norwich City",
+                "Winning Chance (%)": 40.4
+            },
+            {
+                "Team": "Millwall",
+                "Winning Chance (%)": 40.0
+            },
+            {
+                "Team": "Southampton",
+                "Winning Chance (%)": 33.33
+            },
+            {
+                "Team": "Watford",
+                "Winning Chance (%)": 33.33
+            },
+            {
+                "Team": "Wrexham",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Charlton Athletic",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Hull City",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Queens Park Rangers",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Blackburn Rovers",
+                "Winning Chance (%)": 20.0
+            },
+            {
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 20.0
+            },
+            {
+                "Team": "Derby County",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Oxford United",
+                "Winning Chance (%)": 6.67
+            },
+            {
+                "Team": "Sheffield Wednesday",
+                "Winning Chance (%)": 6.67
+            },
+            {
+                "Team": "Sheffield United",
+                "Winning Chance (%)": 0.0
+            }
+        ],
+        "Major League Soccer (MLS)": [
+            {
+                "Team": "Philadelphia Union",
+                "Winning Chance (%)": 61.61
+            },
+            {
+                "Team": "Cincinnati",
+                "Winning Chance (%)": 50.22
+            },
+            {
+                "Team": "Charlotte",
+                "Winning Chance (%)": 49.18
+            },
+            {
+                "Team": "Nashville",
+                "Winning Chance (%)": 52.38
+            },
+            {
+                "Team": "Orlando City",
+                "Winning Chance (%)": 50.36
+            },
+            {
+                "Team": "Inter Miami",
+                "Winning Chance (%)": 54.67
+            },
+            {
+                "Team": "Columbus Crew",
+                "Winning Chance (%)": 45.41
+            },
+            {
+                "Team": "NYCFC",
+                "Winning Chance (%)": 45.86
+            },
+            {
+                "Team": "Chicago Fire",
+                "Winning Chance (%)": 41.2
+            },
+            {
+                "Team": "New York RB",
+                "Winning Chance (%)": 38.38
+            },
+            {
+                "Team": "New England Revolution",
+                "Winning Chance (%)": 28.51
+            },
+            {
+                "Team": "Atlanta United",
+                "Winning Chance (%)": 24.76
+            },
+            {
+                "Team": "Toronto",
+                "Winning Chance (%)": 23.81
+            },
+            {
+                "Team": "CF Montr\u00e9al",
+                "Winning Chance (%)": 22.07
+            },
+            {
+                "Team": "DC United",
+                "Winning Chance (%)": 22.07
+            },
+            {
+                "Team": "San Diego",
+                "Winning Chance (%)": 59.49
+            },
+            {
+                "Team": "Minnesota United",
+                "Winning Chance (%)": 53.3
+            },
+            {
+                "Team": "Vancouver Whitecaps",
+                "Winning Chance (%)": 54.8
+            },
+            {
+                "Team": "Seattle Sounders",
+                "Winning Chance (%)": 47.46
+            },
+            {
+                "Team": "LAFC",
+                "Winning Chance (%)": 46.85
+            },
+            {
+                "Team": "Austin",
+                "Winning Chance (%)": 39.05
+            },
+            {
+                "Team": "Portland Timbers",
+                "Winning Chance (%)": 37.14
+            },
+            {
+                "Team": "Colorado Rapids",
+                "Winning Chance (%)": 33.1
+            },
+            {
+                "Team": "San Jose Earthquakes",
+                "Winning Chance (%)": 32.98
+            },
+            {
+                "Team": "Houston Dynamo",
+                "Winning Chance (%)": 30.34
+            },
+            {
+                "Team": "Real Salt Lake",
+                "Winning Chance (%)": 30.62
+            },
+            {
+                "Team": "Dallas",
+                "Winning Chance (%)": 29.52
+            },
+            {
+                "Team": "Sporting KC",
+                "Winning Chance (%)": 24.83
+            },
+            {
+                "Team": "St. Louis City",
+                "Winning Chance (%)": 20.23
+            },
+            {
+                "Team": "LA Galaxy",
+                "Winning Chance (%)": 19.05
+            }
+        ],
+        "Indian Super League": [
+            {
+                "Team": "Mohun Bagan SG",
+                "Winning Chance (%)": 74.62
+            },
+            {
+                "Team": "FC Goa",
+                "Winning Chance (%)": 59.73
+            },
+            {
+                "Team": "Bengaluru",
+                "Winning Chance (%)": 45.82
+            },
+            {
+                "Team": "NorthEast Utd",
+                "Winning Chance (%)": 49.02
+            },
+            {
+                "Team": "Jamshedpur",
+                "Winning Chance (%)": 42.22
+            },
+            {
+                "Team": "Mumbai City",
+                "Winning Chance (%)": 40.4
+            },
+            {
+                "Team": "Odisha",
+                "Winning Chance (%)": 39.47
+            },
+            {
+                "Team": "Kerala Blasters",
+                "Winning Chance (%)": 32.22
+            },
+            {
+                "Team": "East Bengal",
+                "Winning Chance (%)": 31.11
+            },
+            {
+                "Team": "Punjab FC",
+                "Winning Chance (%)": 31.11
+            },
+            {
+                "Team": "Chennaiyin",
+                "Winning Chance (%)": 30.0
+            },
+            {
+                "Team": "Hyderabad",
+                "Winning Chance (%)": 20.0
+            },
+            {
+                "Team": "Mohammedan",
+                "Winning Chance (%)": 14.44
+            }
+        ],
+        "Liga Profesional Argentina (Clausura)": [
+            {
+                "Team": "Barracas",
+                "Winning Chance (%)": 54.53
+            },
+            {
+                "Team": "C\u00f3rdoba SdE",
+                "Winning Chance (%)": 51.92
+            },
+            {
+                "Team": "Boca Juniors",
+                "Winning Chance (%)": 48.11
+            },
+            {
+                "Team": "Uni\u00f3n",
+                "Winning Chance (%)": 47.71
+            },
+            {
+                "Team": "Def y Justicia",
+                "Winning Chance (%)": 46.91
+            },
+            {
+                "Team": "Estudiantes",
+                "Winning Chance (%)": 45.71
+            },
+            {
+                "Team": "Hurac\u00e1n",
+                "Winning Chance (%)": 41.9
+            },
+            {
+                "Team": "Banfield",
+                "Winning Chance (%)": 38.1
+            },
+            {
+                "Team": "Argentinos Juniors",
+                "Winning Chance (%)": 30.88
+            },
+            {
+                "Team": "Independiente Rivadavia",
+                "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "Belgrano",
+                "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "Tigre",
+                "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "Newell's Old Boys",
+                "Winning Chance (%)": 22.86
+            },
+            {
+                "Team": "Racing Club",
+                "Winning Chance (%)": 15.24
+            },
+            {
+                "Team": "Aldosivi",
+                "Winning Chance (%)": 11.43
+            },
+            {
+                "Team": "River Plate",
+                "Winning Chance (%)": 61.14
+            },
+            {
+                "Team": "V\u00e9lez",
+                "Winning Chance (%)": 55.73
+            },
+            {
+                "Team": "Riestra",
+                "Winning Chance (%)": 51.12
+            },
+            {
+                "Team": "San Lorenzo",
+                "Winning Chance (%)": 46.51
+            },
+            {
+                "Team": "Rosario",
+                "Winning Chance (%)": 45.24
+            },
+            {
+                "Team": "GELP",
+                "Winning Chance (%)": 38.1
+            },
+            {
+                "Team": "Lan\u00fas",
+                "Winning Chance (%)": 38.1
+            },
+            {
+                "Team": "Atl. Tucum\u00e1n",
+                "Winning Chance (%)": 35.09
+            },
+            {
+                "Team": "San Mart\u00edn SJ",
+                "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "Godoy Cruz",
+                "Winning Chance (%)": 22.86
+            },
+            {
+                "Team": "Platense",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Sarmiento",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Instituto",
+                "Winning Chance (%)": 22.86
+            },
+            {
+                "Team": "Talleres",
+                "Winning Chance (%)": 19.05
+            },
+            {
+                "Team": "Independiente",
+                "Winning Chance (%)": 13.33
+            }
+        ],
+        "Brasileir\u00e3o": [
+            {
+                "Team": "Flamengo",
+                "Winning Chance (%)": 73.68
+            },
+            {
+                "Team": "Cruzeiro",
+                "Winning Chance (%)": 61.33
+            },
+            {
+                "Team": "Palmeiras",
+                "Winning Chance (%)": 62.13
+            },
+            {
+                "Team": "Bahia",
+                "Winning Chance (%)": 50.4
+            },
+            {
+                "Team": "Botafogo",
+                "Winning Chance (%)": 53.47
+            },
+            {
+                "Team": "Mirassol",
+                "Winning Chance (%)": 52.67
+            },
+            {
+                "Team": "S\u00e3o Paulo",
+                "Winning Chance (%)": 39.99
+            },
+            {
+                "Team": "RB Bragantino",
+                "Winning Chance (%)": 36.36
+            },
+            {
+                "Team": "Fluminense",
+                "Winning Chance (%)": 37.33
+            },
+            {
+                "Team": "Internacional",
+                "Winning Chance (%)": 34.29
+            },
+            {
+                "Team": "Cear\u00e1",
+                "Winning Chance (%)": 33.02
+            },
+            {
+                "Team": "Corinthians",
+                "Winning Chance (%)": 31.52
+            },
+            {
+                "Team": "Gr\u00eamio",
+                "Winning Chance (%)": 31.75
+            },
+            {
+                "Team": "Atl\u00e9tico Mineiro",
+                "Winning Chance (%)": 32.0
+            },
+            {
+                "Team": "Vasco da Gama",
+                "Winning Chance (%)": 27.94
+            },
+            {
+                "Team": "Santos",
+                "Winning Chance (%)": 27.94
+            },
+            {
+                "Team": "Vit\u00f3ria",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Juventude",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Fortaleza",
+                "Winning Chance (%)": 19.05
+            },
+            {
+                "Team": "Sport",
+                "Winning Chance (%)": 13.33
+            }
+        ]
+    }
+}
