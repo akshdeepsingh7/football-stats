@@ -1,7 +1,7 @@
 name: Run Script and Commit Files
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 * * * *'
   push:
     branches:
       - main
