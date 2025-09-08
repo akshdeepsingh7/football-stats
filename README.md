@@ -10,7 +10,7 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Monday, 08 September 2025, 09:00 AM UTC (Monday, 08 September 2025, 02:30 PM IST)
+**Last Updated:** Monday, 08 September 2025, 09:05 AM UTC (Monday, 08 September 2025, 02:35 PM IST)
 
 ### Premier League
 
@@ -52,17 +52,9 @@ Access the raw data here:
 
 ![EFL Championship Winning Chances](images/EFL_Championship_winning_chances.png)
 
-### Major League Soccer (MLS)
-
-![Major League Soccer (MLS) Winning Chances](images/Major_League_Soccer_(MLS)_winning_chances.png)
-
 ### Indian Super League
 
 ![Indian Super League Winning Chances](images/Indian_Super_League_winning_chances.png)
-
-### Liga Profesional Argentina (Clausura)
-
-![Liga Profesional Argentina (Clausura) Winning Chances](images/Liga_Profesional_Argentina_(Clausura)_winning_chances.png)
 
 ### Brasileirão
 
