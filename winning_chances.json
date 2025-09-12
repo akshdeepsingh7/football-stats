@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 12 September 2025, 06:14 PM UTC",
-        "IST": "Friday, 12 September 2025, 11:44 PM IST"
+        "UTC": "Friday, 12 September 2025, 08:12 PM UTC",
+        "IST": "Saturday, 13 September 2025, 01:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -108,12 +108,16 @@
                 "Winning Chance (%)": 63.02
             },
             {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 40.4
+            },
+            {
                 "Team": "Getafe",
                 "Winning Chance (%)": 53.33
             },
             {
                 "Team": "Elche",
-                "Winning Chance (%)": 45.24
+                "Winning Chance (%)": 33.73
             },
             {
                 "Team": "Real Betis",
@@ -130,10 +134,6 @@
             {
                 "Team": "Alav\u00e9s",
                 "Winning Chance (%)": 35.56
-            },
-            {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Osasuna",
@@ -175,7 +175,7 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 82.0
+                "Winning Chance (%)": 54.93
             },
             {
                 "Team": "K\u00f6ln",
@@ -192,6 +192,10 @@
             {
                 "Team": "VfL Wolfsburg",
                 "Winning Chance (%)": 54.13
+            },
+            {
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Augsburg",
@@ -212,10 +216,6 @@
             {
                 "Team": "RB Leipzig",
                 "Winning Chance (%)": 40.0
-            },
-            {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Mainz 05",
@@ -338,6 +338,10 @@
                 "Winning Chance (%)": 65.02
             },
             {
+                "Team": "Marseille",
+                "Winning Chance (%)": 41.6
+            },
+            {
                 "Team": "Monaco",
                 "Winning Chance (%)": 54.13
             },
@@ -362,10 +366,6 @@
                 "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 27.07
-            },
-            {
                 "Team": "Le Havre",
                 "Winning Chance (%)": 26.67
             },
@@ -387,7 +387,7 @@
             },
             {
                 "Team": "Lorient",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Brest",
@@ -842,16 +842,16 @@
                 "Winning Chance (%)": 84.0
             },
             {
+                "Team": "Benfica",
+                "Winning Chance (%)": 68.67
+            },
+            {
                 "Team": "Famalic\u00e3o",
                 "Winning Chance (%)": 68.67
             },
             {
                 "Team": "Sporting CP",
                 "Winning Chance (%)": 64.0
-            },
-            {
-                "Team": "Benfica",
-                "Winning Chance (%)": 82.0
             },
             {
                 "Team": "Moreirense",
@@ -866,6 +866,10 @@
                 "Winning Chance (%)": 47.47
             },
             {
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Arouca",
                 "Winning Chance (%)": 33.33
             },
@@ -874,8 +878,8 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 26.67
+                "Team": "Alverca",
+                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
@@ -898,16 +902,12 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Alverca",
-                "Winning Chance (%)": 6.67
-            },
-            {
                 "Team": "AVS",
                 "Winning Chance (%)": 6.67
             },
             {
                 "Team": "Tondela",
-                "Winning Chance (%)": 6.67
+                "Winning Chance (%)": 5.33
             }
         ],
         "EFL Championship": [
@@ -956,6 +956,10 @@
                 "Winning Chance (%)": 40.4
             },
             {
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 32.4
+            },
+            {
                 "Team": "Millwall",
                 "Winning Chance (%)": 40.0
             },
@@ -985,10 +989,6 @@
             },
             {
                 "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 20.0
-            },
-            {
-                "Team": "Ipswich Town",
                 "Winning Chance (%)": 20.0
             },
             {
