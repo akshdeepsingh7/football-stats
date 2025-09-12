@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 12 September 2025, 08:12 PM UTC",
-        "IST": "Saturday, 13 September 2025, 01:42 AM IST"
+        "UTC": "Friday, 12 September 2025, 10:10 PM UTC",
+        "IST": "Saturday, 13 September 2025, 03:40 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -108,16 +108,12 @@
                 "Winning Chance (%)": 63.02
             },
             {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 40.4
+                "Team": "Elche",
+                "Winning Chance (%)": 40.8
             },
             {
                 "Team": "Getafe",
                 "Winning Chance (%)": 53.33
-            },
-            {
-                "Team": "Elche",
-                "Winning Chance (%)": 33.73
             },
             {
                 "Team": "Real Betis",
@@ -130,6 +126,10 @@
             {
                 "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 35.96
+            },
+            {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Alav\u00e9s",
@@ -174,12 +174,12 @@
                 "Winning Chance (%)": 82.8
             },
             {
-                "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 54.93
-            },
-            {
                 "Team": "K\u00f6ln",
                 "Winning Chance (%)": 81.6
+            },
+            {
+                "Team": "Eintracht Frankfurt",
+                "Winning Chance (%)": 54.53
             },
             {
                 "Team": "Borussia Dortmund",
@@ -195,7 +195,7 @@
             },
             {
                 "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 35.56
+                "Winning Chance (%)": 35.96
             },
             {
                 "Team": "Augsburg",
@@ -339,7 +339,7 @@
             },
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 41.6
+                "Winning Chance (%)": 42.0
             },
             {
                 "Team": "Monaco",
@@ -952,12 +952,12 @@
                 "Winning Chance (%)": 46.67
             },
             {
-                "Team": "Norwich City",
-                "Winning Chance (%)": 40.4
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 33.6
             },
             {
-                "Team": "Ipswich Town",
-                "Winning Chance (%)": 32.4
+                "Team": "Norwich City",
+                "Winning Chance (%)": 40.4
             },
             {
                 "Team": "Millwall",
