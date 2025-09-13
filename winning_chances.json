@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 September 2025, 08:14 PM UTC",
-        "IST": "Sunday, 14 September 2025, 01:44 AM IST"
+        "UTC": "Saturday, 13 September 2025, 08:35 PM UTC",
+        "IST": "Sunday, 14 September 2025, 02:05 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -23,7 +23,7 @@
             },
             {
                 "Team": "Chelsea",
-                "Winning Chance (%)": 48.67
+                "Winning Chance (%)": 55.73
             },
             {
                 "Team": "Everton",
@@ -38,10 +38,6 @@
                 "Winning Chance (%)": 41.2
             },
             {
-                "Team": "Brentford",
-                "Winning Chance (%)": 40.0
-            },
-            {
                 "Team": "Newcastle United",
                 "Winning Chance (%)": 33.33
             },
@@ -52,6 +48,10 @@
             {
                 "Team": "Manchester United",
                 "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Brentford",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Brighton & Hove Albion",
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 82.4
+                "Winning Chance (%)": 82.0
             },
             {
                 "Team": "Juventus",
