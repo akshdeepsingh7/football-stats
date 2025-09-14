@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 September 2025, 11:35 AM UTC",
-        "IST": "Sunday, 14 September 2025, 05:05 PM IST"
+        "UTC": "Sunday, 14 September 2025, 12:25 PM UTC",
+        "IST": "Sunday, 14 September 2025, 05:55 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -145,10 +145,14 @@
             },
             {
                 "Team": "Celta de Vigo",
-                "Winning Chance (%)": 20.0
+                "Winning Chance (%)": 16.0
             },
             {
                 "Team": "Real Oviedo",
+                "Winning Chance (%)": 20.0
+            },
+            {
+                "Team": "Girona",
                 "Winning Chance (%)": 20.0
             },
             {
@@ -161,10 +165,6 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Girona",
                 "Winning Chance (%)": 0.0
             }
         ],
@@ -252,12 +252,12 @@
                 "Winning Chance (%)": 81.6
             },
             {
-                "Team": "Roma",
-                "Winning Chance (%)": 63.02
-            },
-            {
                 "Team": "Cremonese",
                 "Winning Chance (%)": 80.8
+            },
+            {
+                "Team": "Roma",
+                "Winning Chance (%)": 53.73
             },
             {
                 "Team": "Udinese",
@@ -266,6 +266,10 @@
             {
                 "Team": "Cagliari",
                 "Winning Chance (%)": 35.96
+            },
+            {
+                "Team": "Torino",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Lazio",
@@ -293,10 +297,6 @@
             },
             {
                 "Team": "Fiorentina",
-                "Winning Chance (%)": 17.78
-            },
-            {
-                "Team": "Torino",
                 "Winning Chance (%)": 17.78
             },
             {
