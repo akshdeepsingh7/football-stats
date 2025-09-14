@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 September 2025, 04:15 PM UTC",
-        "IST": "Sunday, 14 September 2025, 09:45 PM IST"
+        "UTC": "Sunday, 14 September 2025, 04:38 PM UTC",
+        "IST": "Sunday, 14 September 2025, 10:08 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -128,24 +128,24 @@
                 "Winning Chance (%)": 33.73
             },
             {
-                "Team": "Valencia",
-                "Winning Chance (%)": 36.36
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 33.73
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 35.96
+                "Team": "Valencia",
+                "Winning Chance (%)": 36.36
             },
             {
                 "Team": "Sevilla",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Celta de Vigo",
-                "Winning Chance (%)": 21.33
-            },
-            {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Celta de Vigo",
+                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Real Oviedo",
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "PSG",
-                "Winning Chance (%)": 82.4
+                "Winning Chance (%)": 82.8
             },
             {
                 "Team": "Lille",
@@ -351,18 +351,18 @@
             },
             {
                 "Team": "Lens",
-                "Winning Chance (%)": 40.4
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Nice",
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Paris",
+                "Team": "Toulouse",
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Toulouse",
+                "Team": "Paris",
                 "Winning Chance (%)": 40.0
             },
             {
