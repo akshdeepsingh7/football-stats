@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 September 2025, 03:12 PM UTC",
-        "IST": "Sunday, 14 September 2025, 08:42 PM IST"
+        "UTC": "Sunday, 14 September 2025, 03:35 PM UTC",
+        "IST": "Sunday, 14 September 2025, 09:05 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -38,6 +38,10 @@
                 "Winning Chance (%)": 41.2
             },
             {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 33.33
+            },
+            {
                 "Team": "Newcastle United",
                 "Winning Chance (%)": 33.33
             },
@@ -46,8 +50,8 @@
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 35.56
+                "Team": "Manchester City",
+                "Winning Chance (%)": 27.07
             },
             {
                 "Team": "Brentford",
@@ -64,10 +68,6 @@
             {
                 "Team": "Leeds United",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Manchester City",
-                "Winning Chance (%)": 27.07
             },
             {
                 "Team": "Burnley",
@@ -223,15 +223,15 @@
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 13.33
+                "Winning Chance (%)": 17.78
+            },
+            {
+                "Team": "Werder Bremen",
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Mainz 05",
                 "Winning Chance (%)": 8.89
-            },
-            {
-                "Team": "Werder Bremen",
-                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Hamburg",
@@ -326,12 +326,12 @@
         ],
         "Ligue 1": [
             {
-                "Team": "Lille",
-                "Winning Chance (%)": 69.87
+                "Team": "PSG",
+                "Winning Chance (%)": 82.4
             },
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 82.0
+                "Team": "Lille",
+                "Winning Chance (%)": 69.87
             },
             {
                 "Team": "Lyon",
@@ -342,16 +342,16 @@
                 "Winning Chance (%)": 61.2
             },
             {
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 47.07
+            },
+            {
                 "Team": "Marseille",
                 "Winning Chance (%)": 42.0
             },
             {
                 "Team": "Lens",
-                "Winning Chance (%)": 54.13
-            },
-            {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 53.73
+                "Winning Chance (%)": 40.4
             },
             {
                 "Team": "Nice",
@@ -362,27 +362,31 @@
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Angers",
-                "Winning Chance (%)": 35.56
-            },
-            {
-                "Team": "Rennes",
-                "Winning Chance (%)": 35.56
+                "Team": "Paris",
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Le Havre",
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Angers",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Rennes",
+                "Winning Chance (%)": 35.56
+            },
+            {
                 "Team": "Nantes",
                 "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Paris",
-                "Winning Chance (%)": 26.67
+                "Team": "Auxerre",
+                "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Auxerre",
+                "Team": "Metz",
                 "Winning Chance (%)": 20.0
             },
             {
@@ -391,11 +395,7 @@
             },
             {
                 "Team": "Brest",
-                "Winning Chance (%)": 8.89
-            },
-            {
-                "Team": "Metz",
-                "Winning Chance (%)": 0.0
+                "Winning Chance (%)": 6.67
             }
         ],
         "Champions League": [
@@ -1088,12 +1088,12 @@
                 "Winning Chance (%)": 53.47
             },
             {
-                "Team": "S\u00e3o Paulo",
-                "Winning Chance (%)": 39.99
+                "Team": "RB Bragantino",
+                "Winning Chance (%)": 38.26
             },
             {
-                "Team": "RB Bragantino",
-                "Winning Chance (%)": 35.94
+                "Team": "S\u00e3o Paulo",
+                "Winning Chance (%)": 39.99
             },
             {
                 "Team": "Corinthians",
@@ -1141,7 +1141,7 @@
             },
             {
                 "Team": "Sport",
-                "Winning Chance (%)": 13.97
+                "Winning Chance (%)": 12.7
             }
         ]
     }
