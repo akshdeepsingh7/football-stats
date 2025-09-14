@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 September 2025, 10:13 AM UTC",
-        "IST": "Sunday, 14 September 2025, 03:43 PM IST"
+        "UTC": "Sunday, 14 September 2025, 10:36 AM UTC",
+        "IST": "Sunday, 14 September 2025, 04:06 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -252,11 +252,11 @@
                 "Winning Chance (%)": 81.6
             },
             {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 80.8
+                "Team": "Roma",
+                "Winning Chance (%)": 63.02
             },
             {
-                "Team": "Roma",
+                "Team": "Cremonese",
                 "Winning Chance (%)": 80.8
             },
             {
@@ -296,6 +296,10 @@
                 "Winning Chance (%)": 17.78
             },
             {
+                "Team": "Torino",
+                "Winning Chance (%)": 17.78
+            },
+            {
                 "Team": "Pisa",
                 "Winning Chance (%)": 13.33
             },
@@ -309,10 +313,6 @@
             },
             {
                 "Team": "Hellas Verona",
-                "Winning Chance (%)": 13.33
-            },
-            {
-                "Team": "Torino",
                 "Winning Chance (%)": 13.33
             },
             {
