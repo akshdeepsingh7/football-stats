@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 September 2025, 02:11 PM UTC",
-        "IST": "Sunday, 14 September 2025, 07:41 PM IST"
+        "UTC": "Sunday, 14 September 2025, 02:35 PM UTC",
+        "IST": "Sunday, 14 September 2025, 08:05 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -125,7 +125,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 33.33
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Valencia",
@@ -148,6 +148,10 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Levante",
+                "Winning Chance (%)": 20.0
+            },
+            {
                 "Team": "Real Oviedo",
                 "Winning Chance (%)": 20.0
             },
@@ -162,10 +166,6 @@
             {
                 "Team": "Girona",
                 "Winning Chance (%)": 6.67
-            },
-            {
-                "Team": "Levante",
-                "Winning Chance (%)": 0.0
             }
         ],
         "Bundesliga": [
@@ -186,10 +186,6 @@
                 "Winning Chance (%)": 54.53
             },
             {
-                "Team": "Augsburg",
-                "Winning Chance (%)": 54.13
-            },
-            {
                 "Team": "Hoffenheim",
                 "Winning Chance (%)": 53.73
             },
@@ -202,11 +198,15 @@
                 "Winning Chance (%)": 45.24
             },
             {
+                "Team": "St. Pauli",
+                "Winning Chance (%)": 45.24
+            },
+            {
                 "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 35.96
             },
             {
-                "Team": "St. Pauli",
+                "Team": "Augsburg",
                 "Winning Chance (%)": 35.96
             },
             {
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Atalanta",
-                "Winning Chance (%)": 45.24
+                "Winning Chance (%)": 46.04
             },
             {
                 "Team": "Cagliari",
@@ -866,16 +866,24 @@
                 "Winning Chance (%)": 47.47
             },
             {
+                "Team": "Vit\u00f3ria S.C.",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Santa Clara",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Arouca",
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Estoril",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Arouca",
-                "Winning Chance (%)": 33.33
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Alverca",
@@ -884,14 +892,6 @@
             {
                 "Team": "Nacional",
                 "Winning Chance (%)": 21.33
-            },
-            {
-                "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Estrela Amadora",
-                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Rio Ave",
