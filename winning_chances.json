@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 September 2025, 05:11 PM UTC",
-        "IST": "Sunday, 14 September 2025, 10:41 PM IST"
+        "UTC": "Sunday, 14 September 2025, 05:35 PM UTC",
+        "IST": "Sunday, 14 September 2025, 11:05 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -268,10 +268,6 @@
                 "Winning Chance (%)": 45.64
             },
             {
-                "Team": "Lazio",
-                "Winning Chance (%)": 36.36
-            },
-            {
                 "Team": "Cagliari",
                 "Winning Chance (%)": 35.96
             },
@@ -296,6 +292,14 @@
                 "Winning Chance (%)": 27.87
             },
             {
+                "Team": "Lazio",
+                "Winning Chance (%)": 27.07
+            },
+            {
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Fiorentina",
                 "Winning Chance (%)": 17.78
             },
@@ -309,10 +313,6 @@
             },
             {
                 "Team": "Pisa",
-                "Winning Chance (%)": 8.89
-            },
-            {
-                "Team": "Sassuolo",
                 "Winning Chance (%)": 8.89
             },
             {
@@ -870,7 +870,7 @@
                 "Winning Chance (%)": 37.33
             },
             {
-                "Team": "Arouca",
+                "Team": "Casa Pia",
                 "Winning Chance (%)": 32.0
             },
             {
@@ -882,15 +882,15 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Nacional",
-                "Winning Chance (%)": 21.33
+                "Team": "Arouca",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Alverca",
                 "Winning Chance (%)": 21.33
             },
             {
-                "Team": "Casa Pia",
+                "Team": "Nacional",
                 "Winning Chance (%)": 21.33
             },
             {
