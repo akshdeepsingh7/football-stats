@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 15 September 2025, 08:16 PM UTC",
-        "IST": "Tuesday, 16 September 2025, 01:46 AM IST"
+        "UTC": "Monday, 15 September 2025, 08:38 PM UTC",
+        "IST": "Tuesday, 16 September 2025, 02:08 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -96,16 +96,16 @@
                 "Winning Chance (%)": 70.67
             },
             {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 67.87
-            },
-            {
                 "Team": "Getafe",
                 "Winning Chance (%)": 60.8
             },
             {
                 "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 60.8
+            },
+            {
+                "Team": "Espanyol",
+                "Winning Chance (%)": 54.13
             },
             {
                 "Team": "Villarreal",
@@ -156,11 +156,11 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Levante",
-                "Winning Chance (%)": 6.67
+                "Team": "Mallorca",
+                "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Mallorca",
+                "Team": "Levante",
                 "Winning Chance (%)": 6.67
             },
             {
@@ -264,10 +264,6 @@
                 "Winning Chance (%)": 54.13
             },
             {
-                "Team": "Como",
-                "Winning Chance (%)": 54.13
-            },
-            {
                 "Team": "Roma",
                 "Winning Chance (%)": 53.73
             },
@@ -277,6 +273,10 @@
             },
             {
                 "Team": "Cagliari",
+                "Winning Chance (%)": 35.96
+            },
+            {
+                "Team": "Como",
                 "Winning Chance (%)": 35.96
             },
             {
@@ -300,6 +300,10 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Genoa",
+                "Winning Chance (%)": 17.78
+            },
+            {
                 "Team": "Fiorentina",
                 "Winning Chance (%)": 17.78
             },
@@ -309,10 +313,6 @@
             },
             {
                 "Team": "Pisa",
-                "Winning Chance (%)": 8.89
-            },
-            {
-                "Team": "Genoa",
                 "Winning Chance (%)": 8.89
             },
             {
