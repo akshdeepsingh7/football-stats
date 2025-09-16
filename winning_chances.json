@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 16 September 2025, 06:46 PM UTC",
-        "IST": "Wednesday, 17 September 2025, 12:16 AM IST"
+        "UTC": "Tuesday, 16 September 2025, 07:12 PM UTC",
+        "IST": "Wednesday, 17 September 2025, 12:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -408,6 +408,30 @@
                 "Winning Chance (%)": 80.8
             },
             {
+                "Team": "Benfica",
+                "Winning Chance (%)": 80.4
+            },
+            {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 80.4
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Juventus",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Marseille",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Real Madrid",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Ajax",
                 "Winning Chance (%)": 0.0
             },
@@ -432,15 +456,7 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Benfica",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Bod\u00f8/Glimt",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Borussia Dortmund",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -468,10 +484,6 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Juventus",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Kairat",
                 "Winning Chance (%)": 0.0
             },
@@ -481,10 +493,6 @@
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Marseille",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -512,14 +520,6 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Qaraba\u011f",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Real Madrid",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Slavia Prague",
                 "Winning Chance (%)": 0.0
             },
@@ -528,7 +528,7 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Tottenham Hotspur",
+                "Team": "Qaraba\u011f",
                 "Winning Chance (%)": 0.0
             },
             {
