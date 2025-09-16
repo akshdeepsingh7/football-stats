@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 16 September 2025, 04:44 PM UTC",
-        "IST": "Tuesday, 16 September 2025, 10:14 PM IST"
+        "UTC": "Tuesday, 16 September 2025, 05:13 PM UTC",
+        "IST": "Tuesday, 16 September 2025, 10:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -400,19 +400,23 @@
         ],
         "Champions League": [
             {
+                "Team": "Union Saint-Gilloise",
+                "Winning Chance (%)": 80.4
+            },
+            {
+                "Team": "Arsenal",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Ajax",
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Arsenal",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Atalanta",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -508,10 +512,6 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "PSV",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Pafos",
                 "Winning Chance (%)": 0.0
             },
@@ -536,11 +536,11 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Union Saint-Gilloise",
+                "Team": "Villarreal",
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Villarreal",
+                "Team": "PSV",
                 "Winning Chance (%)": 0.0
             }
         ],
