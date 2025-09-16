@@ -10,7 +10,7 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Tuesday, 16 September 2025, 12:29 PM UTC (Tuesday, 16 September 2025, 05:59 PM IST)
+**Last Updated:** Tuesday, 16 September 2025, 01:06 PM UTC (Tuesday, 16 September 2025, 06:36 PM IST)
 
 _Charts are sorted by Winning Chance (%)_
 
