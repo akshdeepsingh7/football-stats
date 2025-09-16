@@ -10,7 +10,7 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Tuesday, 16 September 2025, 05:37 PM UTC (Tuesday, 16 September 2025, 11:07 PM IST)
+**Last Updated:** Tuesday, 16 September 2025, 06:21 PM UTC (Tuesday, 16 September 2025, 11:51 PM IST)
 
 _Charts are sorted by Winning Chance (%)_
 
@@ -41,6 +41,10 @@ _Charts are sorted by Winning Chance (%)_
 ### Europa League
 
 ![Europa League Winning Chances](images/Europa_League_winning_chances.png)
+
+### Europa Conference League
+
+![Europa Conference League Winning Chances](images/Europa_Conference_League_winning_chances.png)
 
 ### Liga Portugal
 
