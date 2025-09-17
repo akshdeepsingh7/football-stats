@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 17 September 2025, 06:45 PM UTC",
-        "IST": "Thursday, 18 September 2025, 12:15 AM IST"
+        "UTC": "Wednesday, 17 September 2025, 07:12 PM UTC",
+        "IST": "Thursday, 18 September 2025, 12:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -408,11 +408,19 @@
                 "Winning Chance (%)": 80.8
             },
             {
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 80.8
+            },
+            {
                 "Team": "Qaraba\u011f",
                 "Winning Chance (%)": 80.4
             },
             {
                 "Team": "Real Madrid",
+                "Winning Chance (%)": 80.4
+            },
+            {
+                "Team": "PSG",
                 "Winning Chance (%)": 80.4
             },
             {
@@ -436,6 +444,22 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Ajax",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Bayern Munich",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Inter",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Olympiacos",
                 "Winning Chance (%)": 26.67
             },
@@ -444,31 +468,11 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Ajax",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Atalanta",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Barcelona",
                 "Winning Chance (%)": 0.0
             },
             {
                 "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Bayern Munich",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Chelsea",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -488,15 +492,7 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Inter",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Kairat",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Liverpool FC",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -516,10 +512,6 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Sporting CP",
                 "Winning Chance (%)": 0.0
             },
@@ -532,6 +524,10 @@
                 "Winning Chance (%)": 0.0
             },
             {
+                "Team": "Atalanta",
+                "Winning Chance (%)": 0.0
+            },
+            {
                 "Team": "Villarreal",
                 "Winning Chance (%)": 0.0
             },
@@ -541,6 +537,10 @@
             },
             {
                 "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Atl\u00e9tico de Madrid",
                 "Winning Chance (%)": 0.0
             }
         ],
