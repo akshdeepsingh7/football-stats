@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 17 September 2025, 04:43 PM UTC",
-        "IST": "Wednesday, 17 September 2025, 10:13 PM IST"
+        "UTC": "Wednesday, 17 September 2025, 05:13 PM UTC",
+        "IST": "Wednesday, 17 September 2025, 10:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -416,6 +416,10 @@
                 "Winning Chance (%)": 80.4
             },
             {
+                "Team": "Slavia Prague",
+                "Winning Chance (%)": 80.4
+            },
+            {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 80.4
             },
@@ -425,6 +429,14 @@
             },
             {
                 "Team": "Juventus",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Olympiacos",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Pafos",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -449,10 +461,6 @@
             },
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Bod\u00f8/Glimt",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -504,19 +512,7 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Olympiacos",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "PSG",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Pafos",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Slavia Prague",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -529,6 +525,10 @@
             },
             {
                 "Team": "Marseille",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Bod\u00f8/Glimt",
                 "Winning Chance (%)": 0.0
             },
             {
