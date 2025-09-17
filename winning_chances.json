@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 17 September 2025, 08:15 PM UTC",
-        "IST": "Thursday, 18 September 2025, 01:45 AM IST"
+        "UTC": "Wednesday, 17 September 2025, 08:38 PM UTC",
+        "IST": "Thursday, 18 September 2025, 02:08 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -408,6 +408,10 @@
                 "Winning Chance (%)": 80.8
             },
             {
+                "Team": "Bayern Munich",
+                "Winning Chance (%)": 80.8
+            },
+            {
                 "Team": "Arsenal",
                 "Winning Chance (%)": 80.8
             },
@@ -417,10 +421,6 @@
             },
             {
                 "Team": "Qaraba\u011f",
-                "Winning Chance (%)": 80.4
-            },
-            {
-                "Team": "Bayern Munich",
                 "Winning Chance (%)": 80.4
             },
             {
@@ -516,15 +516,15 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Chelsea",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Marseille",
                 "Winning Chance (%)": 0.0
             },
             {
                 "Team": "Villarreal",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Chelsea",
                 "Winning Chance (%)": 0.0
             },
             {
