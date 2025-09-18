@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 18 September 2025, 05:13 PM UTC",
-        "IST": "Thursday, 18 September 2025, 10:43 PM IST"
+        "UTC": "Thursday, 18 September 2025, 05:37 PM UTC",
+        "IST": "Thursday, 18 September 2025, 11:07 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -404,6 +404,10 @@
                 "Winning Chance (%)": 81.6
             },
             {
+                "Team": "Club Brugge",
+                "Winning Chance (%)": 81.2
+            },
+            {
                 "Team": "Union Saint-Gilloise",
                 "Winning Chance (%)": 80.8
             },
@@ -453,14 +457,6 @@
             },
             {
                 "Team": "Slavia Prague",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Club Brugge",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Monaco",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -537,6 +533,10 @@
             },
             {
                 "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Monaco",
                 "Winning Chance (%)": 0.0
             },
             {
