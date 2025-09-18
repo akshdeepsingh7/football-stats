@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 18 September 2025, 04:43 PM UTC",
-        "IST": "Thursday, 18 September 2025, 10:13 PM IST"
+        "UTC": "Thursday, 18 September 2025, 05:13 PM UTC",
+        "IST": "Thursday, 18 September 2025, 10:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -432,6 +432,10 @@
                 "Winning Chance (%)": 80.4
             },
             {
+                "Team": "FC Copenhagen",
+                "Winning Chance (%)": 80.4
+            },
+            {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 80.4
             },
@@ -452,6 +456,14 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Club Brugge",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Monaco",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Olympiacos",
                 "Winning Chance (%)": 26.67
             },
@@ -464,19 +476,7 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Club Brugge",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "FC Copenhagen",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -489,10 +489,6 @@
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Monaco",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -517,6 +513,10 @@
             },
             {
                 "Team": "Marseille",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 0.0
             },
             {
