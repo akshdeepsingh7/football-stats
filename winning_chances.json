@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 18 September 2025, 06:21 PM UTC",
-        "IST": "Thursday, 18 September 2025, 11:51 PM IST"
+        "UTC": "Thursday, 18 September 2025, 06:47 PM UTC",
+        "IST": "Friday, 19 September 2025, 12:17 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -400,12 +400,12 @@
         ],
         "Champions League": [
             {
-                "Team": "Club Brugge",
+                "Team": "PSG",
                 "Winning Chance (%)": 81.6
             },
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 81.6
+                "Team": "Club Brugge",
+                "Winning Chance (%)": 81.2
             },
             {
                 "Team": "Union Saint-Gilloise",
@@ -436,10 +436,6 @@
                 "Winning Chance (%)": 80.4
             },
             {
-                "Team": "FC Copenhagen",
-                "Winning Chance (%)": 80.4
-            },
-            {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 80.4
             },
@@ -452,7 +448,15 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Bod\u00f8/Glimt",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "FC Copenhagen",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -512,10 +516,6 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Villarreal",
                 "Winning Chance (%)": 0.0
             },
@@ -536,11 +536,11 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Atalanta",
+                "Team": "Monaco",
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Monaco",
+                "Team": "Atalanta",
                 "Winning Chance (%)": 0.0
             }
         ],
