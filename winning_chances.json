@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 18 September 2025, 07:36 PM UTC",
-        "IST": "Friday, 19 September 2025, 01:06 AM IST"
+        "UTC": "Thursday, 18 September 2025, 08:16 PM UTC",
+        "IST": "Friday, 19 September 2025, 01:46 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -416,6 +416,10 @@
                 "Winning Chance (%)": 80.8
             },
             {
+                "Team": "Eintracht Frankfurt",
+                "Winning Chance (%)": 80.8
+            },
+            {
                 "Team": "Arsenal",
                 "Winning Chance (%)": 80.8
             },
@@ -436,7 +440,7 @@
                 "Winning Chance (%)": 80.4
             },
             {
-                "Team": "Galatasaray",
+                "Team": "Sporting CP",
                 "Winning Chance (%)": 80.4
             },
             {
@@ -472,10 +476,6 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Kairat",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 26.67
             },
@@ -496,10 +496,6 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Sporting CP",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Atl\u00e9tico de Madrid",
                 "Winning Chance (%)": 0.0
             },
@@ -512,7 +508,7 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Eintracht Frankfurt",
+                "Team": "Kairat",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -521,6 +517,10 @@
             },
             {
                 "Team": "Chelsea",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Galatasaray",
                 "Winning Chance (%)": 0.0
             },
             {
