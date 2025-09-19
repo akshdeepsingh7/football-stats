@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 19 September 2025, 07:11 PM UTC",
-        "IST": "Saturday, 20 September 2025, 12:41 AM IST"
+        "UTC": "Friday, 19 September 2025, 07:36 PM UTC",
+        "IST": "Saturday, 20 September 2025, 01:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -174,10 +174,6 @@
                 "Winning Chance (%)": 84.8
             },
             {
-                "Team": "St. Pauli",
-                "Winning Chance (%)": 54.53
-            },
-            {
                 "Team": "Borussia Dortmund",
                 "Winning Chance (%)": 64.22
             },
@@ -186,12 +182,20 @@
                 "Winning Chance (%)": 63.82
             },
             {
+                "Team": "St. Pauli",
+                "Winning Chance (%)": 47.47
+            },
+            {
                 "Team": "Eintracht Frankfurt",
                 "Winning Chance (%)": 54.53
             },
             {
                 "Team": "Hoffenheim",
                 "Winning Chance (%)": 53.73
+            },
+            {
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "RB Leipzig",
@@ -208,10 +212,6 @@
             {
                 "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 35.96
-            },
-            {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Augsburg",
@@ -272,20 +272,16 @@
                 "Winning Chance (%)": 45.64
             },
             {
+                "Team": "Cagliari",
+                "Winning Chance (%)": 33.73
+            },
+            {
                 "Team": "Como",
                 "Winning Chance (%)": 35.96
             },
             {
                 "Team": "Torino",
                 "Winning Chance (%)": 35.56
-            },
-            {
-                "Team": "Cagliari",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Lecce",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Inter",
@@ -314,6 +310,10 @@
             {
                 "Team": "Hellas Verona",
                 "Winning Chance (%)": 17.78
+            },
+            {
+                "Team": "Lecce",
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Pisa",
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 84.4
+                "Winning Chance (%)": 85.2
             },
             {
                 "Team": "Sporting CP",
@@ -894,11 +894,11 @@
                 "Winning Chance (%)": 21.33
             },
             {
-                "Team": "Rio Ave",
-                "Winning Chance (%)": 20.0
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 16.0
             },
             {
-                "Team": "Estrela Amadora",
+                "Team": "Rio Ave",
                 "Winning Chance (%)": 16.0
             },
             {
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Middlesbrough",
-                "Winning Chance (%)": 64.62
+                "Winning Chance (%)": 73.91
             },
             {
                 "Team": "Stoke City",
@@ -924,12 +924,12 @@
                 "Winning Chance (%)": 61.87
             },
             {
-                "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 49.69
-            },
-            {
                 "Team": "Leicester City",
                 "Winning Chance (%)": 54.53
+            },
+            {
+                "Team": "West Bromwich Albion",
+                "Winning Chance (%)": 44.84
             },
             {
                 "Team": "Coventry City",
