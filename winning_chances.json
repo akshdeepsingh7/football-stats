@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 19 September 2025, 06:20 PM UTC",
-        "IST": "Friday, 19 September 2025, 11:50 PM IST"
+        "UTC": "Friday, 19 September 2025, 06:45 PM UTC",
+        "IST": "Saturday, 20 September 2025, 12:15 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -174,16 +174,16 @@
                 "Winning Chance (%)": 84.8
             },
             {
+                "Team": "St. Pauli",
+                "Winning Chance (%)": 54.53
+            },
+            {
                 "Team": "Borussia Dortmund",
                 "Winning Chance (%)": 64.22
             },
             {
                 "Team": "K\u00f6ln",
                 "Winning Chance (%)": 63.82
-            },
-            {
-                "Team": "St. Pauli",
-                "Winning Chance (%)": 63.42
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -210,11 +210,11 @@
                 "Winning Chance (%)": 35.96
             },
             {
-                "Team": "Augsburg",
+                "Team": "VfB Stuttgart",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "VfB Stuttgart",
+                "Team": "Augsburg",
                 "Winning Chance (%)": 26.67
             },
             {
