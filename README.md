@@ -10,7 +10,7 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Saturday, 20 September 2025, 02:37 PM UTC (Saturday, 20 September 2025, 08:07 PM IST)
+**Last Updated:** Saturday, 20 September 2025, 03:36 PM UTC (Saturday, 20 September 2025, 09:06 PM IST)
 
 _Charts are sorted by Winning Chance (%)_
 
@@ -33,6 +33,10 @@ _Charts are sorted by Winning Chance (%)_
 ### Ligue 1
 
 ![Ligue 1 Winning Chances](images/Ligue_1_winning_chances.png)
+
+### Champions League
+
+![Champions League Winning Chances](images/Champions_League_winning_chances.png)
 
 ### Europa League
 
