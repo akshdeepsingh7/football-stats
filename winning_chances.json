@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 September 2025, 07:35 PM UTC",
-        "IST": "Sunday, 21 September 2025, 01:05 AM IST"
+        "UTC": "Saturday, 20 September 2025, 08:14 PM UTC",
+        "IST": "Sunday, 21 September 2025, 01:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -30,16 +30,16 @@
                 "Winning Chance (%)": 44.67
             },
             {
+                "Team": "Fulham",
+                "Winning Chance (%)": 43.07
+            },
+            {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 47.47
             },
             {
                 "Team": "Everton",
                 "Winning Chance (%)": 37.73
-            },
-            {
-                "Team": "Brentford",
-                "Winning Chance (%)": 37.33
             },
             {
                 "Team": "Manchester United",
@@ -62,15 +62,15 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Fulham",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Nottingham Forest",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Burnley",
+                "Winning Chance (%)": 21.33
+            },
+            {
+                "Team": "Brentford",
                 "Winning Chance (%)": 21.33
             },
             {
@@ -253,7 +253,7 @@
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 61.2
+                "Winning Chance (%)": 62.0
             },
             {
                 "Team": "Cremonese",
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Udinese",
-                "Winning Chance (%)": 47.07
+                "Winning Chance (%)": 46.67
             },
             {
                 "Team": "Roma",
@@ -335,19 +335,19 @@
             },
             {
                 "Team": "Lille",
-                "Winning Chance (%)": 56.13
+                "Winning Chance (%)": 55.73
             },
             {
                 "Team": "Monaco",
                 "Winning Chance (%)": 61.2
             },
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 60.8
+                "Team": "Lens",
+                "Winning Chance (%)": 48.8
             },
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 48.4
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 60.8
             },
             {
                 "Team": "Rennes",
@@ -1092,12 +1092,12 @@
                 "Winning Chance (%)": 42.18
             },
             {
-                "Team": "RB Bragantino",
-                "Winning Chance (%)": 35.94
+                "Team": "Fluminense",
+                "Winning Chance (%)": 37.58
             },
             {
-                "Team": "Fluminense",
-                "Winning Chance (%)": 35.15
+                "Team": "RB Bragantino",
+                "Winning Chance (%)": 35.94
             },
             {
                 "Team": "Corinthians",
@@ -1129,7 +1129,7 @@
             },
             {
                 "Team": "Vit\u00f3ria",
-                "Winning Chance (%)": 25.56
+                "Winning Chance (%)": 24.44
             },
             {
                 "Team": "Juventude",
