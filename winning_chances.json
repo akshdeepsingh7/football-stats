@@ -1,13 +1,13 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 September 2025, 11:35 AM UTC",
-        "IST": "Saturday, 20 September 2025, 05:05 PM IST"
+        "UTC": "Saturday, 20 September 2025, 12:27 PM UTC",
+        "IST": "Saturday, 20 September 2025, 05:57 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 71.33
+                "Winning Chance (%)": 82.8
             },
             {
                 "Team": "Arsenal",
@@ -26,12 +26,12 @@
                 "Winning Chance (%)": 55.73
             },
             {
-                "Team": "Everton",
-                "Winning Chance (%)": 43.47
-            },
-            {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 47.47
+            },
+            {
+                "Team": "Everton",
+                "Winning Chance (%)": 37.33
             },
             {
                 "Team": "Manchester City",
@@ -152,19 +152,19 @@
                 "Winning Chance (%)": 20.0
             },
             {
+                "Team": "Levante",
+                "Winning Chance (%)": 10.67
+            },
+            {
                 "Team": "Real Sociedad",
                 "Winning Chance (%)": 10.67
             },
             {
-                "Team": "Levante",
-                "Winning Chance (%)": 6.67
+                "Team": "Girona",
+                "Winning Chance (%)": 10.67
             },
             {
                 "Team": "Mallorca",
-                "Winning Chance (%)": 6.67
-            },
-            {
-                "Team": "Girona",
                 "Winning Chance (%)": 6.67
             }
         ],
