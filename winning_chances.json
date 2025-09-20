@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 September 2025, 10:36 PM UTC",
-        "IST": "Sunday, 21 September 2025, 04:06 AM IST"
+        "UTC": "Saturday, 20 September 2025, 11:12 PM UTC",
+        "IST": "Sunday, 21 September 2025, 04:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1076,16 +1076,16 @@
                 "Winning Chance (%)": 64.41
             },
             {
+                "Team": "Botafogo",
+                "Winning Chance (%)": 52.02
+            },
+            {
                 "Team": "Mirassol",
                 "Winning Chance (%)": 53.67
             },
             {
-                "Team": "Botafogo",
-                "Winning Chance (%)": 49.3
-            },
-            {
                 "Team": "Bahia",
-                "Winning Chance (%)": 45.24
+                "Winning Chance (%)": 46.85
             },
             {
                 "Team": "S\u00e3o Paulo",
@@ -1100,12 +1100,12 @@
                 "Winning Chance (%)": 35.94
             },
             {
-                "Team": "Cear\u00e1",
-                "Winning Chance (%)": 34.78
-            },
-            {
                 "Team": "Corinthians",
                 "Winning Chance (%)": 33.62
+            },
+            {
+                "Team": "Cear\u00e1",
+                "Winning Chance (%)": 32.46
             },
             {
                 "Team": "Internacional",
@@ -1113,7 +1113,7 @@
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
-                "Winning Chance (%)": 31.52
+                "Winning Chance (%)": 30.3
             },
             {
                 "Team": "Gr\u00eamio",
