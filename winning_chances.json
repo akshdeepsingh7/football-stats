@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 September 2025, 08:14 PM UTC",
-        "IST": "Sunday, 21 September 2025, 01:44 AM IST"
+        "UTC": "Saturday, 20 September 2025, 08:35 PM UTC",
+        "IST": "Sunday, 21 September 2025, 02:05 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -100,10 +100,6 @@
                 "Winning Chance (%)": 55.73
             },
             {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 54.13
-            },
-            {
                 "Team": "Espanyol",
                 "Winning Chance (%)": 53.73
             },
@@ -116,11 +112,19 @@
                 "Winning Chance (%)": 60.8
             },
             {
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 48.4
+            },
+            {
                 "Team": "Sevilla",
                 "Winning Chance (%)": 37.73
             },
             {
                 "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 37.33
+            },
+            {
+                "Team": "Valencia",
                 "Winning Chance (%)": 37.33
             },
             {
@@ -134,10 +138,6 @@
             {
                 "Team": "Atl\u00e9tico de Madrid",
                 "Winning Chance (%)": 33.73
-            },
-            {
-                "Team": "Valencia",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Levante",
@@ -335,15 +335,15 @@
             },
             {
                 "Team": "Lille",
-                "Winning Chance (%)": 55.73
+                "Winning Chance (%)": 55.33
+            },
+            {
+                "Team": "Lens",
+                "Winning Chance (%)": 49.2
             },
             {
                 "Team": "Monaco",
                 "Winning Chance (%)": 61.2
-            },
-            {
-                "Team": "Lens",
-                "Winning Chance (%)": 48.8
             },
             {
                 "Team": "Strasbourg",
