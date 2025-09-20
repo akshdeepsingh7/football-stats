@@ -1,13 +1,13 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 September 2025, 11:11 AM UTC",
-        "IST": "Saturday, 20 September 2025, 04:41 PM IST"
+        "UTC": "Saturday, 20 September 2025, 11:35 AM UTC",
+        "IST": "Saturday, 20 September 2025, 05:05 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 82.0
+                "Winning Chance (%)": 71.33
             },
             {
                 "Team": "Arsenal",
@@ -27,7 +27,7 @@
             },
             {
                 "Team": "Everton",
-                "Winning Chance (%)": 47.47
+                "Winning Chance (%)": 43.47
             },
             {
                 "Team": "Sunderland",
@@ -917,7 +917,7 @@
             },
             {
                 "Team": "Stoke City",
-                "Winning Chance (%)": 66.4
+                "Winning Chance (%)": 60.18
             },
             {
                 "Team": "Bristol City",
@@ -925,19 +925,19 @@
             },
             {
                 "Team": "Leicester City",
-                "Winning Chance (%)": 54.53
+                "Winning Chance (%)": 50.09
+            },
+            {
+                "Team": "Coventry City",
+                "Winning Chance (%)": 47.64
             },
             {
                 "Team": "West Bromwich Albion",
                 "Winning Chance (%)": 44.84
             },
             {
-                "Team": "Coventry City",
-                "Winning Chance (%)": 51.2
-            },
-            {
                 "Team": "Swansea City",
-                "Winning Chance (%)": 43.47
+                "Winning Chance (%)": 40.8
             },
             {
                 "Team": "Preston North End",
@@ -948,16 +948,16 @@
                 "Winning Chance (%)": 43.07
             },
             {
-                "Team": "Norwich City",
-                "Winning Chance (%)": 37.73
-            },
-            {
                 "Team": "Birmingham City",
-                "Winning Chance (%)": 37.33
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Queens Park Rangers",
-                "Winning Chance (%)": 37.33
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Norwich City",
+                "Winning Chance (%)": 37.73
             },
             {
                 "Team": "Millwall",
