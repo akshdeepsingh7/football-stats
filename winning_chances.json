@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 September 2025, 06:41 PM UTC",
-        "IST": "Sunday, 21 September 2025, 12:11 AM IST"
+        "UTC": "Saturday, 20 September 2025, 07:09 PM UTC",
+        "IST": "Sunday, 21 September 2025, 12:39 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -50,11 +50,11 @@
                 "Winning Chance (%)": 41.6
             },
             {
-                "Team": "Newcastle United",
-                "Winning Chance (%)": 33.33
+                "Team": "Fulham",
+                "Winning Chance (%)": 32.0
             },
             {
-                "Team": "Fulham",
+                "Team": "Newcastle United",
                 "Winning Chance (%)": 33.33
             },
             {
@@ -62,11 +62,11 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Nottingham Forest",
+                "Team": "Brentford",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Brentford",
+                "Team": "Nottingham Forest",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -100,6 +100,10 @@
                 "Winning Chance (%)": 55.73
             },
             {
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 54.13
+            },
+            {
                 "Team": "Espanyol",
                 "Winning Chance (%)": 53.73
             },
@@ -109,10 +113,6 @@
             },
             {
                 "Team": "Getafe",
-                "Winning Chance (%)": 60.8
-            },
-            {
-                "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 60.8
             },
             {
@@ -136,6 +136,10 @@
                 "Winning Chance (%)": 33.73
             },
             {
+                "Team": "Valencia",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Levante",
                 "Winning Chance (%)": 21.33
             },
@@ -146,10 +150,6 @@
             {
                 "Team": "Celta de Vigo",
                 "Winning Chance (%)": 21.33
-            },
-            {
-                "Team": "Valencia",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Real Oviedo",
@@ -252,11 +252,11 @@
                 "Winning Chance (%)": 82.0
             },
             {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 63.02
+                "Team": "Udinese",
+                "Winning Chance (%)": 54.13
             },
             {
-                "Team": "Udinese",
+                "Team": "Cremonese",
                 "Winning Chance (%)": 63.02
             },
             {
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 54.13
+                "Winning Chance (%)": 47.47
             },
             {
                 "Team": "Roma",
@@ -335,7 +335,7 @@
             },
             {
                 "Team": "Lille",
-                "Winning Chance (%)": 69.87
+                "Winning Chance (%)": 61.87
             },
             {
                 "Team": "Monaco",
@@ -350,12 +350,12 @@
                 "Winning Chance (%)": 42.67
             },
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 42.0
+                "Team": "Lens",
+                "Winning Chance (%)": 37.33
             },
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 40.0
+                "Team": "Marseille",
+                "Winning Chance (%)": 42.0
             },
             {
                 "Team": "Toulouse",
@@ -1096,12 +1096,12 @@
                 "Winning Chance (%)": 35.94
             },
             {
-                "Team": "Corinthians",
-                "Winning Chance (%)": 33.62
+                "Team": "Fluminense",
+                "Winning Chance (%)": 35.15
             },
             {
-                "Team": "Fluminense",
-                "Winning Chance (%)": 35.56
+                "Team": "Corinthians",
+                "Winning Chance (%)": 33.62
             },
             {
                 "Team": "Cear\u00e1",
@@ -1129,7 +1129,7 @@
             },
             {
                 "Team": "Vit\u00f3ria",
-                "Winning Chance (%)": 25.51
+                "Winning Chance (%)": 25.56
             },
             {
                 "Team": "Juventude",
