@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 September 2025, 06:18 PM UTC",
-        "IST": "Saturday, 20 September 2025, 11:48 PM IST"
+        "UTC": "Saturday, 20 September 2025, 06:41 PM UTC",
+        "IST": "Sunday, 21 September 2025, 12:11 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -27,7 +27,7 @@
             },
             {
                 "Team": "Chelsea",
-                "Winning Chance (%)": 44.27
+                "Winning Chance (%)": 44.67
             },
             {
                 "Team": "Sunderland",
@@ -96,6 +96,10 @@
                 "Winning Chance (%)": 70.67
             },
             {
+                "Team": "Villarreal",
+                "Winning Chance (%)": 55.73
+            },
+            {
                 "Team": "Espanyol",
                 "Winning Chance (%)": 53.73
             },
@@ -112,15 +116,7 @@
                 "Winning Chance (%)": 60.8
             },
             {
-                "Team": "Villarreal",
-                "Winning Chance (%)": 44.67
-            },
-            {
                 "Team": "Sevilla",
-                "Winning Chance (%)": 37.73
-            },
-            {
-                "Team": "Osasuna",
                 "Winning Chance (%)": 37.73
             },
             {
@@ -130,6 +126,10 @@
             {
                 "Team": "Elche",
                 "Winning Chance (%)": 40.8
+            },
+            {
+                "Team": "Osasuna",
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
@@ -362,23 +362,23 @@
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Nice",
-                "Winning Chance (%)": 32.0
-            },
-            {
                 "Team": "Paris",
                 "Winning Chance (%)": 40.0
+            },
+            {
+                "Team": "Nice",
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Angers",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Nantes",
+                "Team": "Brest",
                 "Winning Chance (%)": 21.33
             },
             {
-                "Team": "Brest",
+                "Team": "Nantes",
                 "Winning Chance (%)": 21.33
             },
             {
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 71.73
+                "Winning Chance (%)": 72.53
             },
             {
                 "Team": "Sporting CP",
@@ -902,12 +902,12 @@
                 "Winning Chance (%)": 16.0
             },
             {
-                "Team": "AVS",
-                "Winning Chance (%)": 4.44
-            },
-            {
                 "Team": "Tondela",
                 "Winning Chance (%)": 5.33
+            },
+            {
+                "Team": "AVS",
+                "Winning Chance (%)": 4.44
             }
         ],
         "EFL Championship": [
