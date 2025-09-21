@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 September 2025, 06:43 PM UTC",
-        "IST": "Monday, 22 September 2025, 12:13 AM IST"
+        "UTC": "Sunday, 21 September 2025, 07:11 PM UTC",
+        "IST": "Monday, 22 September 2025, 12:41 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -93,11 +93,15 @@
             },
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 70.67
+                "Winning Chance (%)": 62.67
             },
             {
                 "Team": "Villarreal",
                 "Winning Chance (%)": 55.73
+            },
+            {
+                "Team": "Getafe",
+                "Winning Chance (%)": 54.13
             },
             {
                 "Team": "Espanyol",
@@ -110,10 +114,6 @@
             {
                 "Team": "Real Betis",
                 "Winning Chance (%)": 40.8
-            },
-            {
-                "Team": "Getafe",
-                "Winning Chance (%)": 60.8
             },
             {
                 "Team": "Athletic Bilbao",
@@ -280,6 +280,10 @@
                 "Winning Chance (%)": 46.67
             },
             {
+                "Team": "Inter",
+                "Winning Chance (%)": 41.6
+            },
+            {
                 "Team": "Bologna",
                 "Winning Chance (%)": 40.0
             },
@@ -288,15 +292,11 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Inter",
-                "Winning Chance (%)": 27.87
+                "Team": "Lazio",
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Sassuolo",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Lazio",
                 "Winning Chance (%)": 20.0
             },
             {
@@ -1076,12 +1076,12 @@
                 "Winning Chance (%)": 62.89
             },
             {
-                "Team": "Botafogo",
-                "Winning Chance (%)": 52.02
+                "Team": "Mirassol",
+                "Winning Chance (%)": 52.78
             },
             {
-                "Team": "Mirassol",
-                "Winning Chance (%)": 53.67
+                "Team": "Botafogo",
+                "Winning Chance (%)": 52.02
             },
             {
                 "Team": "Bahia",
@@ -1128,12 +1128,12 @@
                 "Winning Chance (%)": 27.88
             },
             {
-                "Team": "Vit\u00f3ria",
-                "Winning Chance (%)": 24.44
+                "Team": "Juventude",
+                "Winning Chance (%)": 25.51
             },
             {
-                "Team": "Juventude",
-                "Winning Chance (%)": 25.45
+                "Team": "Vit\u00f3ria",
+                "Winning Chance (%)": 24.44
             },
             {
                 "Team": "Fortaleza",
