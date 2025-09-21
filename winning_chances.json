@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 September 2025, 02:11 PM UTC",
-        "IST": "Sunday, 21 September 2025, 07:41 PM IST"
+        "UTC": "Sunday, 21 September 2025, 02:36 PM UTC",
+        "IST": "Sunday, 21 September 2025, 08:06 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -132,12 +132,12 @@
                 "Winning Chance (%)": 40.8
             },
             {
-                "Team": "Osasuna",
-                "Winning Chance (%)": 32.0
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 32.4
             },
             {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 33.73
+                "Team": "Osasuna",
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Rayo Vallecano",
@@ -161,7 +161,7 @@
             },
             {
                 "Team": "Mallorca",
-                "Winning Chance (%)": 6.67
+                "Winning Chance (%)": 10.67
             },
             {
                 "Team": "Girona",
@@ -191,7 +191,7 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 40.4
+                "Winning Chance (%)": 40.8
             },
             {
                 "Team": "SC Freiburg",
@@ -886,6 +886,10 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 17.78
+            },
+            {
                 "Team": "Alverca",
                 "Winning Chance (%)": 17.78
             },
@@ -894,16 +898,12 @@
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Estrela Amadora",
-                "Winning Chance (%)": 16.0
-            },
-            {
                 "Team": "Rio Ave",
                 "Winning Chance (%)": 16.0
             },
             {
                 "Team": "Tondela",
-                "Winning Chance (%)": 5.33
+                "Winning Chance (%)": 8.89
             },
             {
                 "Team": "AVS",
@@ -916,12 +916,12 @@
                 "Winning Chance (%)": 73.91
             },
             {
-                "Team": "Bristol City",
-                "Winning Chance (%)": 56.53
-            },
-            {
                 "Team": "Stoke City",
                 "Winning Chance (%)": 55.33
+            },
+            {
+                "Team": "Bristol City",
+                "Winning Chance (%)": 51.69
             },
             {
                 "Team": "Leicester City",
@@ -992,16 +992,16 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Oxford United",
+                "Winning Chance (%)": 22.22
+            },
+            {
                 "Team": "Derby County",
                 "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Sheffield Wednesday",
                 "Winning Chance (%)": 17.78
-            },
-            {
-                "Team": "Oxford United",
-                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Sheffield United",
