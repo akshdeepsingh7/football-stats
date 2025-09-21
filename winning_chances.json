@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 September 2025, 05:36 PM UTC",
-        "IST": "Sunday, 21 September 2025, 11:06 PM IST"
+        "UTC": "Sunday, 21 September 2025, 06:18 PM UTC",
+        "IST": "Sunday, 21 September 2025, 11:48 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -174,12 +174,12 @@
                 "Winning Chance (%)": 86.0
             },
             {
-                "Team": "RB Leipzig",
-                "Winning Chance (%)": 60.0
+                "Team": "Borussia Dortmund",
+                "Winning Chance (%)": 69.07
             },
             {
-                "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 55.33
+                "Team": "RB Leipzig",
+                "Winning Chance (%)": 60.0
             },
             {
                 "Team": "K\u00f6ln",
@@ -191,10 +191,6 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 40.8
-            },
-            {
-                "Team": "VfL Wolfsburg",
                 "Winning Chance (%)": 40.8
             },
             {
@@ -215,6 +211,10 @@
             },
             {
                 "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 33.73
+            },
+            {
+                "Team": "VfL Wolfsburg",
                 "Winning Chance (%)": 33.73
             },
             {
@@ -272,20 +272,16 @@
                 "Winning Chance (%)": 47.47
             },
             {
+                "Team": "Como",
+                "Winning Chance (%)": 47.47
+            },
+            {
                 "Team": "Udinese",
                 "Winning Chance (%)": 46.67
             },
             {
                 "Team": "Bologna",
                 "Winning Chance (%)": 40.0
-            },
-            {
-                "Team": "Fiorentina",
-                "Winning Chance (%)": 33.33
-            },
-            {
-                "Team": "Como",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Torino",
@@ -309,6 +305,10 @@
             },
             {
                 "Team": "Genoa",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Fiorentina",
                 "Winning Chance (%)": 13.33
             },
             {
