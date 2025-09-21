@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 September 2025, 03:35 PM UTC",
-        "IST": "Sunday, 21 September 2025, 09:05 PM IST"
+        "UTC": "Sunday, 21 September 2025, 04:15 PM UTC",
+        "IST": "Sunday, 21 September 2025, 09:45 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -10,16 +10,20 @@
                 "Winning Chance (%)": 82.4
             },
             {
-                "Team": "Arsenal",
-                "Winning Chance (%)": 56.53
-            },
-            {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 56.13
             },
             {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 53.73
+            },
+            {
+                "Team": "Arsenal",
+                "Winning Chance (%)": 50.8
+            },
+            {
+                "Team": "Manchester City",
+                "Winning Chance (%)": 50.0
             },
             {
                 "Team": "Crystal Palace",
@@ -36,10 +40,6 @@
             {
                 "Team": "Fulham",
                 "Winning Chance (%)": 43.07
-            },
-            {
-                "Team": "Manchester City",
-                "Winning Chance (%)": 38.93
             },
             {
                 "Team": "Everton",
@@ -280,8 +280,12 @@
                 "Winning Chance (%)": 40.0
             },
             {
+                "Team": "Fiorentina",
+                "Winning Chance (%)": 33.33
+            },
+            {
                 "Team": "Como",
-                "Winning Chance (%)": 35.96
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Torino",
@@ -302,10 +306,6 @@
             {
                 "Team": "Hellas Verona",
                 "Winning Chance (%)": 20.0
-            },
-            {
-                "Team": "Fiorentina",
-                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Genoa",
@@ -342,24 +342,28 @@
                 "Winning Chance (%)": 55.33
             },
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 49.2
+                "Team": "Monaco",
+                "Winning Chance (%)": 54.53
             },
             {
-                "Team": "Monaco",
-                "Winning Chance (%)": 48.8
+                "Team": "Lens",
+                "Winning Chance (%)": 49.2
             },
             {
                 "Team": "Rennes",
                 "Winning Chance (%)": 42.67
             },
             {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 37.33
-            },
-            {
                 "Team": "Marseille",
                 "Winning Chance (%)": 42.0
+            },
+            {
+                "Team": "Toulouse",
+                "Winning Chance (%)": 32.0
+            },
+            {
+                "Team": "Auxerre",
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Paris",
@@ -367,6 +371,10 @@
             },
             {
                 "Team": "Nice",
+                "Winning Chance (%)": 32.0
+            },
+            {
+                "Team": "Lorient",
                 "Winning Chance (%)": 32.0
             },
             {
@@ -378,24 +386,16 @@
                 "Winning Chance (%)": 21.33
             },
             {
-                "Team": "Le Havre",
-                "Winning Chance (%)": 21.33
-            },
-            {
                 "Team": "Nantes",
                 "Winning Chance (%)": 21.33
             },
             {
-                "Team": "Auxerre",
-                "Winning Chance (%)": 21.33
+                "Team": "Le Havre",
+                "Winning Chance (%)": 16.0
             },
             {
                 "Team": "Metz",
-                "Winning Chance (%)": 21.33
-            },
-            {
-                "Team": "Lorient",
-                "Winning Chance (%)": 21.33
+                "Winning Chance (%)": 10.67
             }
         ],
         "Champions League": [
@@ -921,7 +921,7 @@
             },
             {
                 "Team": "Bristol City",
-                "Winning Chance (%)": 51.69
+                "Winning Chance (%)": 51.29
             },
             {
                 "Team": "Leicester City",
@@ -988,12 +988,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Watford",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Oxford United",
                 "Winning Chance (%)": 22.22
+            },
+            {
+                "Team": "Watford",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Derby County",
