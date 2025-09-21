@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 September 2025, 08:15 PM UTC",
-        "IST": "Monday, 22 September 2025, 01:45 AM IST"
+        "UTC": "Sunday, 21 September 2025, 08:36 PM UTC",
+        "IST": "Monday, 22 September 2025, 02:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -93,7 +93,7 @@
             },
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 74.13
+                "Winning Chance (%)": 74.53
             },
             {
                 "Team": "Villarreal",
@@ -112,11 +112,11 @@
                 "Winning Chance (%)": 40.8
             },
             {
-                "Team": "Getafe",
+                "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 48.0
             },
             {
-                "Team": "Athletic Bilbao",
+                "Team": "Getafe",
                 "Winning Chance (%)": 48.0
             },
             {
@@ -842,12 +842,16 @@
                 "Winning Chance (%)": 85.6
             },
             {
-                "Team": "Benfica",
-                "Winning Chance (%)": 72.53
+                "Team": "Famalic\u00e3o",
+                "Winning Chance (%)": 59.78
             },
             {
                 "Team": "Gil Vicente",
                 "Winning Chance (%)": 59.78
+            },
+            {
+                "Team": "Benfica",
+                "Winning Chance (%)": 72.53
             },
             {
                 "Team": "Sporting CP",
@@ -856,10 +860,6 @@
             {
                 "Team": "Moreirense",
                 "Winning Chance (%)": 65.6
-            },
-            {
-                "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 50.49
             },
             {
                 "Team": "Braga",
@@ -879,7 +879,7 @@
             },
             {
                 "Team": "Casa Pia",
-                "Winning Chance (%)": 31.11
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Estoril",
@@ -1065,7 +1065,7 @@
         "Brasileir\u00e3o": [
             {
                 "Team": "Flamengo",
-                "Winning Chance (%)": 75.41
+                "Winning Chance (%)": 73.93
             },
             {
                 "Team": "Palmeiras",
@@ -1101,7 +1101,7 @@
             },
             {
                 "Team": "Corinthians",
-                "Winning Chance (%)": 33.62
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Cear\u00e1",
@@ -1109,19 +1109,19 @@
             },
             {
                 "Team": "Internacional",
-                "Winning Chance (%)": 32.73
+                "Winning Chance (%)": 32.46
+            },
+            {
+                "Team": "Gr\u00eamio",
+                "Winning Chance (%)": 30.14
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
                 "Winning Chance (%)": 30.3
             },
             {
-                "Team": "Gr\u00eamio",
-                "Winning Chance (%)": 30.3
-            },
-            {
                 "Team": "Vasco da Gama",
-                "Winning Chance (%)": 27.88
+                "Winning Chance (%)": 27.83
             },
             {
                 "Team": "Santos",
@@ -1141,7 +1141,7 @@
             },
             {
                 "Team": "Sport",
-                "Winning Chance (%)": 13.97
+                "Winning Chance (%)": 14.55
             }
         ]
     }
