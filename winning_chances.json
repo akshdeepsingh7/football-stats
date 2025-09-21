@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 September 2025, 04:40 PM UTC",
-        "IST": "Sunday, 21 September 2025, 10:10 PM IST"
+        "UTC": "Sunday, 21 September 2025, 05:11 PM UTC",
+        "IST": "Sunday, 21 September 2025, 10:41 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -104,6 +104,10 @@
                 "Winning Chance (%)": 53.73
             },
             {
+                "Team": "Elche",
+                "Winning Chance (%)": 49.2
+            },
+            {
                 "Team": "Real Betis",
                 "Winning Chance (%)": 40.8
             },
@@ -114,10 +118,6 @@
             {
                 "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 48.0
-            },
-            {
-                "Team": "Elche",
-                "Winning Chance (%)": 38.13
             },
             {
                 "Team": "Sevilla",
@@ -153,7 +153,7 @@
             },
             {
                 "Team": "Real Oviedo",
-                "Winning Chance (%)": 21.33
+                "Winning Chance (%)": 16.0
             },
             {
                 "Team": "Real Sociedad",
@@ -186,6 +186,10 @@
                 "Winning Chance (%)": 47.47
             },
             {
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 47.47
+            },
+            {
                 "Team": "St. Pauli",
                 "Winning Chance (%)": 47.07
             },
@@ -214,10 +218,6 @@
                 "Winning Chance (%)": 45.24
             },
             {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 33.73
-            },
-            {
                 "Team": "Mainz 05",
                 "Winning Chance (%)": 27.07
             },
@@ -235,7 +235,7 @@
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 13.33
+                "Winning Chance (%)": 6.67
             },
             {
                 "Team": "Heidenheim",
@@ -331,7 +331,7 @@
             },
             {
                 "Team": "Monaco",
-                "Winning Chance (%)": 65.6
+                "Winning Chance (%)": 66.4
             },
             {
                 "Team": "Lyon",
@@ -854,12 +854,12 @@
                 "Winning Chance (%)": 65.6
             },
             {
-                "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 54.93
+                "Team": "Gil Vicente",
+                "Winning Chance (%)": 50.09
             },
             {
-                "Team": "Gil Vicente",
-                "Winning Chance (%)": 54.53
+                "Team": "Famalic\u00e3o",
+                "Winning Chance (%)": 54.93
             },
             {
                 "Team": "Braga",
@@ -878,12 +878,12 @@
                 "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Casa Pia",
-                "Winning Chance (%)": 32.0
-            },
-            {
                 "Team": "Estoril",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Casa Pia",
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Estrela Amadora",
