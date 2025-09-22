@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 22 September 2025, 08:38 PM UTC",
-        "IST": "Tuesday, 23 September 2025, 02:08 AM IST"
+        "UTC": "Monday, 22 September 2025, 09:12 PM UTC",
+        "IST": "Tuesday, 23 September 2025, 02:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 82.8
+                "Winning Chance (%)": 82.4
             },
             {
                 "Team": "Juventus",
@@ -842,20 +842,20 @@
                 "Winning Chance (%)": 85.6
             },
             {
-                "Team": "Gil Vicente",
-                "Winning Chance (%)": 59.78
-            },
-            {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 62.18
-            },
-            {
-                "Team": "Moreirense",
-                "Winning Chance (%)": 59.38
+                "Winning Chance (%)": 71.87
             },
             {
                 "Team": "Benfica",
                 "Winning Chance (%)": 72.53
+            },
+            {
+                "Team": "Gil Vicente",
+                "Winning Chance (%)": 59.78
+            },
+            {
+                "Team": "Moreirense",
+                "Winning Chance (%)": 54.13
             },
             {
                 "Team": "Famalic\u00e3o",
