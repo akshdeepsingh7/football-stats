@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 22 September 2025, 05:37 PM UTC",
-        "IST": "Monday, 22 September 2025, 11:07 PM IST"
+        "UTC": "Monday, 22 September 2025, 06:21 PM UTC",
+        "IST": "Monday, 22 September 2025, 11:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -326,11 +326,11 @@
         ],
         "Ligue 1": [
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 82.8
+                "Team": "Monaco",
+                "Winning Chance (%)": 66.4
             },
             {
-                "Team": "Monaco",
+                "Team": "PSG",
                 "Winning Chance (%)": 66.4
             },
             {
@@ -346,16 +346,16 @@
                 "Winning Chance (%)": 55.33
             },
             {
+                "Team": "Marseille",
+                "Winning Chance (%)": 50.4
+            },
+            {
                 "Team": "Lens",
                 "Winning Chance (%)": 49.2
             },
             {
                 "Team": "Rennes",
                 "Winning Chance (%)": 42.67
-            },
-            {
-                "Team": "Marseille",
-                "Winning Chance (%)": 42.0
             },
             {
                 "Team": "Toulouse",
