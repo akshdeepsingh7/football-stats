@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 22 September 2025, 08:16 PM UTC",
-        "IST": "Tuesday, 23 September 2025, 01:46 AM IST"
+        "UTC": "Monday, 22 September 2025, 08:38 PM UTC",
+        "IST": "Tuesday, 23 September 2025, 02:08 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 68.67
+                "Winning Chance (%)": 82.8
             },
             {
                 "Team": "Juventus",
@@ -308,16 +308,16 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Pisa",
-                "Winning Chance (%)": 13.33
-            },
-            {
                 "Team": "Fiorentina",
                 "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Parma",
                 "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Pisa",
+                "Winning Chance (%)": 6.67
             },
             {
                 "Team": "Lecce",
