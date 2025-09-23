@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 23 September 2025, 07:12 PM UTC",
-        "IST": "Wednesday, 24 September 2025, 12:42 AM IST"
+        "UTC": "Tuesday, 23 September 2025, 07:35 PM UTC",
+        "IST": "Wednesday, 24 September 2025, 01:05 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -89,19 +89,19 @@
         "La Liga": [
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 83.2
+                "Winning Chance (%)": 74.31
             },
             {
                 "Team": "Barcelona",
                 "Winning Chance (%)": 74.53
             },
             {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 49.29
+                "Team": "Villarreal",
+                "Winning Chance (%)": 51.29
             },
             {
-                "Team": "Villarreal",
-                "Winning Chance (%)": 55.73
+                "Team": "Espanyol",
+                "Winning Chance (%)": 49.29
             },
             {
                 "Team": "Athletic Bilbao",
@@ -120,12 +120,12 @@
                 "Winning Chance (%)": 48.0
             },
             {
-                "Team": "Valencia",
-                "Winning Chance (%)": 35.56
+                "Team": "Sevilla",
+                "Winning Chance (%)": 35.96
             },
             {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 37.73
+                "Team": "Valencia",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Alav\u00e9s",
@@ -140,16 +140,16 @@
                 "Winning Chance (%)": 32.0
             },
             {
+                "Team": "Levante",
+                "Winning Chance (%)": 22.22
+            },
+            {
                 "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Celta de Vigo",
                 "Winning Chance (%)": 22.22
-            },
-            {
-                "Team": "Levante",
-                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Real Oviedo",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 72.53
+                "Winning Chance (%)": 65.42
             },
             {
                 "Team": "Gil Vicente",
@@ -899,7 +899,7 @@
             },
             {
                 "Team": "Rio Ave",
-                "Winning Chance (%)": 16.0
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Tondela",
