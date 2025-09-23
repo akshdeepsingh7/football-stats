@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 23 September 2025, 05:11 PM UTC",
-        "IST": "Tuesday, 23 September 2025, 10:41 PM IST"
+        "UTC": "Tuesday, 23 September 2025, 05:37 PM UTC",
+        "IST": "Tuesday, 23 September 2025, 11:07 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -96,15 +96,15 @@
                 "Winning Chance (%)": 74.53
             },
             {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 49.29
-            },
-            {
                 "Team": "Villarreal",
                 "Winning Chance (%)": 55.73
             },
             {
-                "Team": "Athletic Bilbao",
+                "Team": "Espanyol",
+                "Winning Chance (%)": 44.44
+            },
+            {
+                "Team": "Valencia",
                 "Winning Chance (%)": 44.44
             },
             {
@@ -120,8 +120,8 @@
                 "Winning Chance (%)": 48.0
             },
             {
-                "Team": "Valencia",
-                "Winning Chance (%)": 35.56
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Sevilla",
@@ -152,6 +152,10 @@
                 "Winning Chance (%)": 21.33
             },
             {
+                "Team": "Girona",
+                "Winning Chance (%)": 17.78
+            },
+            {
                 "Team": "Real Oviedo",
                 "Winning Chance (%)": 16.0
             },
@@ -162,10 +166,6 @@
             {
                 "Team": "Mallorca",
                 "Winning Chance (%)": 10.67
-            },
-            {
-                "Team": "Girona",
-                "Winning Chance (%)": 8.89
             }
         ],
         "Bundesliga": [
