@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 24 September 2025, 04:45 PM UTC",
-        "IST": "Wednesday, 24 September 2025, 10:15 PM IST"
+        "UTC": "Wednesday, 24 September 2025, 05:13 PM UTC",
+        "IST": "Wednesday, 24 September 2025, 10:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -108,6 +108,10 @@
                 "Winning Chance (%)": 44.44
             },
             {
+                "Team": "Getafe",
+                "Winning Chance (%)": 44.44
+            },
+            {
                 "Team": "Elche",
                 "Winning Chance (%)": 49.2
             },
@@ -116,8 +120,8 @@
                 "Winning Chance (%)": 40.8
             },
             {
-                "Team": "Getafe",
-                "Winning Chance (%)": 48.0
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Valencia",
@@ -126,10 +130,6 @@
             {
                 "Team": "Sevilla",
                 "Winning Chance (%)": 31.11
-            },
-            {
-                "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 37.33
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
@@ -546,6 +546,18 @@
         ],
         "Europa League": [
             {
+                "Team": "Midtjylland",
+                "Winning Chance (%)": 80.4
+            },
+            {
+                "Team": "Maccabi Tel Aviv",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "PAOK",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Aston Villa",
                 "Winning Chance (%)": 0.0
             },
@@ -614,15 +626,7 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Maccabi Tel Aviv",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Malm\u00f6",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Midtjylland",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -631,10 +635,6 @@
             },
             {
                 "Team": "Nottingham Forest",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "PAOK",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -670,10 +670,6 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Sturm Graz",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "VfB Stuttgart",
                 "Winning Chance (%)": 0.0
             },
@@ -687,6 +683,10 @@
             },
             {
                 "Team": "BSC Young Boys",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Sturm Graz",
                 "Winning Chance (%)": 0.0
             }
         ],
