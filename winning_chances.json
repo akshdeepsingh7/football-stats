@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 24 September 2025, 07:12 PM UTC",
-        "IST": "Thursday, 25 September 2025, 12:42 AM IST"
+        "UTC": "Wednesday, 24 September 2025, 07:35 PM UTC",
+        "IST": "Thursday, 25 September 2025, 01:05 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -128,12 +128,12 @@
                 "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 31.11
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 31.51
             },
             {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 32.4
+                "Team": "Sevilla",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Osasuna",
@@ -152,16 +152,16 @@
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Real Oviedo",
-                "Winning Chance (%)": 16.0
-            },
-            {
                 "Team": "Real Sociedad",
-                "Winning Chance (%)": 10.67
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Mallorca",
-                "Winning Chance (%)": 10.67
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Real Oviedo",
+                "Winning Chance (%)": 16.0
             },
             {
                 "Team": "Girona",
@@ -546,19 +546,23 @@
         ],
         "Europa League": [
             {
+                "Team": "Ludogorets",
+                "Winning Chance (%)": 80.8
+            },
+            {
                 "Team": "Midtjylland",
                 "Winning Chance (%)": 80.8
             },
             {
-                "Team": "Ludogorets",
+                "Team": "Nottingham Forest",
                 "Winning Chance (%)": 80.4
             },
             {
-                "Team": "FC Basel",
-                "Winning Chance (%)": 26.67
+                "Team": "SC Freiburg",
+                "Winning Chance (%)": 80.4
             },
             {
-                "Team": "Celtic",
+                "Team": "Fenerbah\u00e7e",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -566,15 +570,11 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Fenerbah\u00e7e",
+                "Team": "Celtic",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Feyenoord",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "SC Freiburg",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -586,15 +586,7 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Nottingham Forest",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "PAOK",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Real Betis",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -679,6 +671,14 @@
             },
             {
                 "Team": "BSC Young Boys",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Real Betis",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "FC Basel",
                 "Winning Chance (%)": 0.0
             },
             {
