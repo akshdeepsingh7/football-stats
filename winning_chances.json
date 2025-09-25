@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 25 September 2025, 04:45 PM UTC",
-        "IST": "Thursday, 25 September 2025, 10:15 PM IST"
+        "UTC": "Thursday, 25 September 2025, 05:13 PM UTC",
+        "IST": "Thursday, 25 September 2025, 10:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -566,6 +566,10 @@
                 "Winning Chance (%)": 80.4
             },
             {
+                "Team": "FCSB",
+                "Winning Chance (%)": 80.4
+            },
+            {
                 "Team": "Braga",
                 "Winning Chance (%)": 80.4
             },
@@ -586,6 +590,14 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Brann",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Lille",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Maccabi Tel Aviv",
                 "Winning Chance (%)": 26.67
             },
@@ -602,15 +614,7 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Brann",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Celta de Vigo",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "FCSB",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -619,14 +623,6 @@
             },
             {
                 "Team": "KRC Genk",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Go Ahead Eagles",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Lille",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -679,6 +675,10 @@
             },
             {
                 "Team": "Feyenoord",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Go Ahead Eagles",
                 "Winning Chance (%)": 0.0
             },
             {
