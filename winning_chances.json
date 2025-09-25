@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 25 September 2025, 05:38 PM UTC",
-        "IST": "Thursday, 25 September 2025, 11:08 PM IST"
+        "UTC": "Thursday, 25 September 2025, 06:21 PM UTC",
+        "IST": "Thursday, 25 September 2025, 11:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -104,10 +104,6 @@
                 "Winning Chance (%)": 49.29
             },
             {
-                "Team": "Elche",
-                "Winning Chance (%)": 45.64
-            },
-            {
                 "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 44.44
             },
@@ -124,6 +120,14 @@
                 "Winning Chance (%)": 40.8
             },
             {
+                "Team": "Elche",
+                "Winning Chance (%)": 40.8
+            },
+            {
+                "Team": "Osasuna",
+                "Winning Chance (%)": 40.4
+            },
+            {
                 "Team": "Alav\u00e9s",
                 "Winning Chance (%)": 35.56
             },
@@ -133,10 +137,6 @@
             },
             {
                 "Team": "Sevilla",
-                "Winning Chance (%)": 31.11
-            },
-            {
-                "Team": "Osasuna",
                 "Winning Chance (%)": 31.11
             },
             {
@@ -582,19 +582,19 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Celtic",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Red Star Belgrade",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Brann",
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Celtic",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Lille",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Red Star Belgrade",
                 "Winning Chance (%)": 26.67
             },
             {
