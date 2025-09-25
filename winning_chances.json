@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 25 September 2025, 06:21 PM UTC",
-        "IST": "Thursday, 25 September 2025, 11:51 PM IST"
+        "UTC": "Thursday, 25 September 2025, 06:47 PM UTC",
+        "IST": "Friday, 26 September 2025, 12:17 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -566,6 +566,10 @@
                 "Winning Chance (%)": 80.4
             },
             {
+                "Team": "Lille",
+                "Winning Chance (%)": 80.4
+            },
+            {
                 "Team": "FCSB",
                 "Winning Chance (%)": 80.4
             },
@@ -582,15 +586,7 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Brann",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Celtic",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Lille",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -663,6 +659,10 @@
             },
             {
                 "Team": "FC Basel",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Brann",
                 "Winning Chance (%)": 0.0
             },
             {
