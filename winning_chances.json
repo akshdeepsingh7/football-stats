@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 25 September 2025, 07:12 PM UTC",
-        "IST": "Friday, 26 September 2025, 12:42 AM IST"
+        "UTC": "Thursday, 25 September 2025, 07:36 PM UTC",
+        "IST": "Friday, 26 September 2025, 01:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -93,7 +93,7 @@
             },
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 74.53
+                "Winning Chance (%)": 67.42
             },
             {
                 "Team": "Villarreal",
@@ -102,6 +102,10 @@
             {
                 "Team": "Espanyol",
                 "Winning Chance (%)": 49.29
+            },
+            {
+                "Team": "Elche",
+                "Winning Chance (%)": 45.64
             },
             {
                 "Team": "Athletic Bilbao",
@@ -120,14 +124,6 @@
                 "Winning Chance (%)": 40.8
             },
             {
-                "Team": "Elche",
-                "Winning Chance (%)": 40.8
-            },
-            {
-                "Team": "Osasuna",
-                "Winning Chance (%)": 40.4
-            },
-            {
                 "Team": "Alav\u00e9s",
                 "Winning Chance (%)": 35.56
             },
@@ -137,6 +133,10 @@
             },
             {
                 "Team": "Sevilla",
+                "Winning Chance (%)": 31.11
+            },
+            {
+                "Team": "Osasuna",
                 "Winning Chance (%)": 31.11
             },
             {
@@ -157,7 +157,7 @@
             },
             {
                 "Team": "Real Oviedo",
-                "Winning Chance (%)": 16.0
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Mallorca",
@@ -546,6 +546,10 @@
         ],
         "Europa League": [
             {
+                "Team": "Panathinaikos",
+                "Winning Chance (%)": 80.8
+            },
+            {
                 "Team": "Dinamo Zagreb",
                 "Winning Chance (%)": 80.8
             },
@@ -574,7 +578,11 @@
                 "Winning Chance (%)": 80.4
             },
             {
-                "Team": "Panathinaikos",
+                "Team": "Plze\u0148",
+                "Winning Chance (%)": 80.4
+            },
+            {
+                "Team": "Aston Villa",
                 "Winning Chance (%)": 80.4
             },
             {
@@ -598,19 +606,7 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Bologna",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Celta de Vigo",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Ferencv\u00e1ros",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -650,10 +646,6 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Plze\u0148",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "FC Basel",
                 "Winning Chance (%)": 0.0
             },
@@ -670,6 +662,14 @@
                 "Winning Chance (%)": 0.0
             },
             {
+                "Team": "Bologna",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Ferencv\u00e1ros",
+                "Winning Chance (%)": 0.0
+            },
+            {
                 "Team": "Feyenoord",
                 "Winning Chance (%)": 0.0
             },
@@ -678,11 +678,11 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "BSC Young Boys",
+                "Team": "Fenerbah\u00e7e",
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Fenerbah\u00e7e",
+                "Team": "BSC Young Boys",
                 "Winning Chance (%)": 0.0
             },
             {
