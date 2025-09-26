@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 September 2025, 06:19 PM UTC",
-        "IST": "Friday, 26 September 2025, 11:49 PM IST"
+        "UTC": "Friday, 26 September 2025, 06:44 PM UTC",
+        "IST": "Saturday, 27 September 2025, 12:14 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 86.0
+                "Winning Chance (%)": 75.33
             },
             {
                 "Team": "Borussia Dortmund",
@@ -218,12 +218,12 @@
                 "Winning Chance (%)": 33.73
             },
             {
-                "Team": "Mainz 05",
-                "Winning Chance (%)": 27.07
-            },
-            {
                 "Team": "Werder Bremen",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Mainz 05",
+                "Winning Chance (%)": 27.07
             },
             {
                 "Team": "Hamburg",
