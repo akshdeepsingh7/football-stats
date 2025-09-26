@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 September 2025, 08:15 PM UTC",
-        "IST": "Saturday, 27 September 2025, 01:45 AM IST"
+        "UTC": "Friday, 26 September 2025, 08:37 PM UTC",
+        "IST": "Saturday, 27 September 2025, 02:07 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 87.2
+                "Winning Chance (%)": 87.6
             },
             {
                 "Team": "Borussia Dortmund",
@@ -326,8 +326,8 @@
         ],
         "Ligue 1": [
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 68.27
+                "Team": "Marseille",
+                "Winning Chance (%)": 56.13
             },
             {
                 "Team": "Monaco",
@@ -342,12 +342,12 @@
                 "Winning Chance (%)": 65.6
             },
             {
-                "Team": "Lille",
-                "Winning Chance (%)": 55.33
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 54.13
             },
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 42.0
+                "Team": "Lille",
+                "Winning Chance (%)": 55.33
             },
             {
                 "Team": "Lens",
