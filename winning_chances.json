@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 September 2025, 05:36 PM UTC",
-        "IST": "Saturday, 27 September 2025, 11:06 PM IST"
+        "UTC": "Saturday, 27 September 2025, 06:18 PM UTC",
+        "IST": "Saturday, 27 September 2025, 11:48 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -183,7 +183,7 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 50.8
+                "Winning Chance (%)": 50.0
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -248,12 +248,8 @@
                 "Winning Chance (%)": 82.4
             },
             {
-                "Team": "Atalanta",
-                "Winning Chance (%)": 61.47
-            },
-            {
                 "Team": "Juventus",
-                "Winning Chance (%)": 54.53
+                "Winning Chance (%)": 60.27
             },
             {
                 "Team": "Milan",
@@ -262,6 +258,10 @@
             {
                 "Team": "Roma",
                 "Winning Chance (%)": 60.8
+            },
+            {
+                "Team": "Atalanta",
+                "Winning Chance (%)": 50.4
             },
             {
                 "Team": "Cremonese",
