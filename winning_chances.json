@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 September 2025, 05:11 PM UTC",
-        "IST": "Saturday, 27 September 2025, 10:41 PM IST"
+        "UTC": "Saturday, 27 September 2025, 05:36 PM UTC",
+        "IST": "Saturday, 27 September 2025, 11:06 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -183,7 +183,7 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 50.0
+                "Winning Chance (%)": 50.8
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -878,16 +878,16 @@
                 "Winning Chance (%)": 30.48
             },
             {
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Casa Pia",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Estoril",
                 "Winning Chance (%)": 22.22
-            },
-            {
-                "Team": "Estrela Amadora",
-                "Winning Chance (%)": 19.05
             },
             {
                 "Team": "Tondela",
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 7.62
+                "Winning Chance (%)": 3.81
             }
         ],
         "EFL Championship": [
