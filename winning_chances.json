@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 September 2025, 08:14 PM UTC",
-        "IST": "Sunday, 28 September 2025, 01:44 AM IST"
+        "UTC": "Saturday, 27 September 2025, 08:36 PM UTC",
+        "IST": "Sunday, 28 September 2025, 02:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -12,10 +12,6 @@
             {
                 "Team": "Crystal Palace",
                 "Winning Chance (%)": 55.33
-            },
-            {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 51.69
             },
             {
                 "Team": "Sunderland",
@@ -32,6 +28,10 @@
             {
                 "Team": "Arsenal",
                 "Winning Chance (%)": 56.53
+            },
+            {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 46.84
             },
             {
                 "Team": "Chelsea",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 4.44
+                "Winning Chance (%)": 13.33
             }
         ],
         "La Liga": [
@@ -97,7 +97,7 @@
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 56.13
+                "Winning Chance (%)": 64.15
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
@@ -108,16 +108,16 @@
                 "Winning Chance (%)": 46.11
             },
             {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 41.9
-            },
-            {
                 "Team": "Getafe",
                 "Winning Chance (%)": 41.9
             },
             {
                 "Team": "Elche",
                 "Winning Chance (%)": 45.64
+            },
+            {
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 38.1
             },
             {
                 "Team": "Real Betis",
@@ -260,12 +260,12 @@
                 "Winning Chance (%)": 60.8
             },
             {
-                "Team": "Atalanta",
+                "Team": "Inter",
                 "Winning Chance (%)": 50.4
             },
             {
-                "Team": "Inter",
-                "Winning Chance (%)": 50.0
+                "Team": "Atalanta",
+                "Winning Chance (%)": 50.4
             },
             {
                 "Team": "Cremonese",
@@ -281,7 +281,7 @@
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 37.73
+                "Winning Chance (%)": 37.33
             },
             {
                 "Team": "Bologna",
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "PSG",
-                "Winning Chance (%)": 69.47
+                "Winning Chance (%)": 69.87
             },
             {
                 "Team": "Marseille",
