@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 September 2025, 12:56 PM UTC",
-        "IST": "Saturday, 27 September 2025, 06:26 PM IST"
+        "UTC": "Saturday, 27 September 2025, 01:20 PM UTC",
+        "IST": "Saturday, 27 September 2025, 06:50 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -260,19 +260,19 @@
                 "Winning Chance (%)": 60.8
             },
             {
+                "Team": "Cremonese",
+                "Winning Chance (%)": 48.8
+            },
+            {
                 "Team": "Atalanta",
                 "Winning Chance (%)": 55.73
             },
             {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 54.13
+                "Team": "Como",
+                "Winning Chance (%)": 43.47
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 47.47
-            },
-            {
-                "Team": "Como",
                 "Winning Chance (%)": 47.47
             },
             {
@@ -917,7 +917,7 @@
             },
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 53.52
+                "Winning Chance (%)": 53.92
             },
             {
                 "Team": "Stoke City",
@@ -944,10 +944,6 @@
                 "Winning Chance (%)": 41.9
             },
             {
-                "Team": "Wrexham",
-                "Winning Chance (%)": 38.1
-            },
-            {
                 "Team": "Queens Park Rangers",
                 "Winning Chance (%)": 44.44
             },
@@ -958,6 +954,10 @@
             {
                 "Team": "Swansea City",
                 "Winning Chance (%)": 34.69
+            },
+            {
+                "Team": "Wrexham",
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Charlton Athletic",
@@ -988,16 +988,16 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Derby County",
+                "Winning Chance (%)": 22.86
+            },
+            {
                 "Team": "Oxford United",
                 "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Watford",
                 "Winning Chance (%)": 22.22
-            },
-            {
-                "Team": "Derby County",
-                "Winning Chance (%)": 19.05
             },
             {
                 "Team": "Sheffield Wednesday",
