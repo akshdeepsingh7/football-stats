@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 September 2025, 07:35 PM UTC",
-        "IST": "Sunday, 28 September 2025, 01:05 AM IST"
+        "UTC": "Saturday, 27 September 2025, 08:14 PM UTC",
+        "IST": "Sunday, 28 September 2025, 01:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "PSG",
-                "Winning Chance (%)": 60.18
+                "Winning Chance (%)": 69.47
             },
             {
                 "Team": "Marseille",
@@ -362,10 +362,6 @@
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "Auxerre",
-                "Winning Chance (%)": 31.11
-            },
-            {
                 "Team": "Lorient",
                 "Winning Chance (%)": 31.11
             },
@@ -376,6 +372,10 @@
             {
                 "Team": "Nice",
                 "Winning Chance (%)": 32.0
+            },
+            {
+                "Team": "Auxerre",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Angers",
@@ -842,12 +842,12 @@
                 "Winning Chance (%)": 85.6
             },
             {
-                "Team": "Benfica",
-                "Winning Chance (%)": 68.36
+                "Team": "Sporting CP",
+                "Winning Chance (%)": 74.57
             },
             {
-                "Team": "Sporting CP",
-                "Winning Chance (%)": 66.55
+                "Team": "Benfica",
+                "Winning Chance (%)": 68.36
             },
             {
                 "Team": "Moreirense",
@@ -887,7 +887,7 @@
             },
             {
                 "Team": "Estoril",
-                "Winning Chance (%)": 22.86
+                "Winning Chance (%)": 19.05
             },
             {
                 "Team": "Tondela",
@@ -1137,11 +1137,11 @@
             },
             {
                 "Team": "Fortaleza",
-                "Winning Chance (%)": 21.11
+                "Winning Chance (%)": 23.33
             },
             {
                 "Team": "Sport",
-                "Winning Chance (%)": 17.39
+                "Winning Chance (%)": 16.23
             }
         ]
     }
