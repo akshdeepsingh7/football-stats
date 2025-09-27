@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 September 2025, 06:42 PM UTC",
-        "IST": "Sunday, 28 September 2025, 12:12 AM IST"
+        "UTC": "Saturday, 27 September 2025, 07:10 PM UTC",
+        "IST": "Sunday, 28 September 2025, 12:40 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -12,6 +12,10 @@
             {
                 "Team": "Crystal Palace",
                 "Winning Chance (%)": 55.33
+            },
+            {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 51.69
             },
             {
                 "Team": "Sunderland",
@@ -28,10 +32,6 @@
             {
                 "Team": "Arsenal",
                 "Winning Chance (%)": 56.53
-            },
-            {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 56.13
             },
             {
                 "Team": "Chelsea",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 0.0
+                "Winning Chance (%)": 4.44
             }
         ],
         "La Liga": [
@@ -97,7 +97,7 @@
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 60.58
+                "Winning Chance (%)": 56.13
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
@@ -108,16 +108,16 @@
                 "Winning Chance (%)": 46.11
             },
             {
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 41.9
+            },
+            {
                 "Team": "Getafe",
                 "Winning Chance (%)": 41.9
             },
             {
                 "Team": "Elche",
                 "Winning Chance (%)": 45.64
-            },
-            {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 44.44
             },
             {
                 "Team": "Real Betis",
@@ -264,6 +264,10 @@
                 "Winning Chance (%)": 50.4
             },
             {
+                "Team": "Inter",
+                "Winning Chance (%)": 50.0
+            },
+            {
                 "Team": "Cremonese",
                 "Winning Chance (%)": 48.8
             },
@@ -272,16 +276,12 @@
                 "Winning Chance (%)": 43.47
             },
             {
-                "Team": "Cagliari",
-                "Winning Chance (%)": 47.47
-            },
-            {
                 "Team": "Udinese",
                 "Winning Chance (%)": 46.67
             },
             {
-                "Team": "Inter",
-                "Winning Chance (%)": 41.6
+                "Team": "Cagliari",
+                "Winning Chance (%)": 37.73
             },
             {
                 "Team": "Bologna",
@@ -326,12 +326,12 @@
         ],
         "Ligue 1": [
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 56.13
+                "Team": "PSG",
+                "Winning Chance (%)": 60.18
             },
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 66.4
+                "Team": "Marseille",
+                "Winning Chance (%)": 56.13
             },
             {
                 "Team": "Monaco",
@@ -362,12 +362,12 @@
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "Lorient",
+                "Team": "Auxerre",
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "Auxerre",
-                "Winning Chance (%)": 32.0
+                "Team": "Lorient",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Paris",
@@ -1137,11 +1137,11 @@
             },
             {
                 "Team": "Fortaleza",
-                "Winning Chance (%)": 20.87
+                "Winning Chance (%)": 21.11
             },
             {
                 "Team": "Sport",
-                "Winning Chance (%)": 16.97
+                "Winning Chance (%)": 17.39
             }
         ]
     }
