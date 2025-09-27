@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 September 2025, 09:35 PM UTC",
-        "IST": "Sunday, 28 September 2025, 03:05 AM IST"
+        "UTC": "Saturday, 27 September 2025, 10:12 PM UTC",
+        "IST": "Sunday, 28 September 2025, 03:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1069,7 +1069,7 @@
             },
             {
                 "Team": "Cruzeiro",
-                "Winning Chance (%)": 63.2
+                "Winning Chance (%)": 61.73
             },
             {
                 "Team": "Palmeiras",
@@ -1100,6 +1100,14 @@
                 "Winning Chance (%)": 34.44
             },
             {
+                "Team": "Vasco da Gama",
+                "Winning Chance (%)": 32.8
+            },
+            {
+                "Team": "Internacional",
+                "Winning Chance (%)": 33.33
+            },
+            {
                 "Team": "Corinthians",
                 "Winning Chance (%)": 32.22
             },
@@ -1108,16 +1116,8 @@
                 "Winning Chance (%)": 32.22
             },
             {
-                "Team": "Vasco da Gama",
-                "Winning Chance (%)": 30.27
-            },
-            {
                 "Team": "Cear\u00e1",
                 "Winning Chance (%)": 32.46
-            },
-            {
-                "Team": "Internacional",
-                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Santos",
@@ -1128,12 +1128,12 @@
                 "Winning Chance (%)": 30.3
             },
             {
-                "Team": "Juventude",
+                "Team": "Vit\u00f3ria",
                 "Winning Chance (%)": 24.44
             },
             {
-                "Team": "Vit\u00f3ria",
-                "Winning Chance (%)": 24.44
+                "Team": "Juventude",
+                "Winning Chance (%)": 23.33
             },
             {
                 "Team": "Fortaleza",
