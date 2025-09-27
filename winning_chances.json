@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 September 2025, 08:36 PM UTC",
-        "IST": "Sunday, 28 September 2025, 02:06 AM IST"
+        "UTC": "Saturday, 27 September 2025, 09:12 PM UTC",
+        "IST": "Sunday, 28 September 2025, 02:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -12,6 +12,10 @@
             {
                 "Team": "Crystal Palace",
                 "Winning Chance (%)": 55.33
+            },
+            {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 51.69
             },
             {
                 "Team": "Sunderland",
@@ -28,10 +32,6 @@
             {
                 "Team": "Arsenal",
                 "Winning Chance (%)": 56.53
-            },
-            {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 46.84
             },
             {
                 "Team": "Chelsea",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 13.33
+                "Winning Chance (%)": 4.44
             }
         ],
         "La Liga": [
