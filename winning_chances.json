@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 September 2025, 11:35 AM UTC",
-        "IST": "Saturday, 27 September 2025, 05:05 PM IST"
+        "UTC": "Saturday, 27 September 2025, 12:25 PM UTC",
+        "IST": "Saturday, 27 September 2025, 05:55 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -38,16 +38,20 @@
                 "Winning Chance (%)": 43.07
             },
             {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 35.56
-            },
-            {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 38.93
             },
             {
                 "Team": "Everton",
                 "Winning Chance (%)": 37.73
+            },
+            {
+                "Team": "Brentford",
+                "Winning Chance (%)": 31.11
+            },
+            {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Leeds United",
@@ -60,10 +64,6 @@
             {
                 "Team": "Brighton & Hove Albion",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Brentford",
-                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Nottingham Forest",
@@ -104,15 +104,15 @@
                 "Winning Chance (%)": 46.11
             },
             {
+                "Team": "Getafe",
+                "Winning Chance (%)": 41.9
+            },
+            {
                 "Team": "Elche",
                 "Winning Chance (%)": 45.64
             },
             {
                 "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 44.44
-            },
-            {
-                "Team": "Getafe",
                 "Winning Chance (%)": 44.44
             },
             {
@@ -148,12 +148,12 @@
                 "Winning Chance (%)": 22.22
             },
             {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 22.22
+                "Team": "Levante",
+                "Winning Chance (%)": 19.05
             },
             {
-                "Team": "Levante",
-                "Winning Chance (%)": 17.78
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Real Oviedo",
@@ -916,16 +916,16 @@
                 "Winning Chance (%)": 73.91
             },
             {
+                "Team": "Coventry City",
+                "Winning Chance (%)": 53.12
+            },
+            {
                 "Team": "Stoke City",
                 "Winning Chance (%)": 55.33
             },
             {
                 "Team": "Leicester City",
                 "Winning Chance (%)": 46.91
-            },
-            {
-                "Team": "Coventry City",
-                "Winning Chance (%)": 45.1
             },
             {
                 "Team": "Bristol City",
@@ -940,12 +940,12 @@
                 "Winning Chance (%)": 42.3
             },
             {
-                "Team": "Birmingham City",
+                "Team": "Millwall",
                 "Winning Chance (%)": 41.9
             },
             {
-                "Team": "Millwall",
-                "Winning Chance (%)": 41.9
+                "Team": "Birmingham City",
+                "Winning Chance (%)": 38.1
             },
             {
                 "Team": "Queens Park Rangers",
