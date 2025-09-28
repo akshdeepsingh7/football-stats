@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 02:35 PM UTC",
-        "IST": "Sunday, 28 September 2025, 08:05 PM IST"
+        "UTC": "Sunday, 28 September 2025, 03:12 PM UTC",
+        "IST": "Sunday, 28 September 2025, 08:42 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -249,7 +249,7 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 65.2
+                "Winning Chance (%)": 65.6
             },
             {
                 "Team": "Juventus",
@@ -354,10 +354,6 @@
                 "Winning Chance (%)": 49.2
             },
             {
-                "Team": "Nice",
-                "Winning Chance (%)": 40.0
-            },
-            {
                 "Team": "Rennes",
                 "Winning Chance (%)": 42.67
             },
@@ -366,12 +362,16 @@
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "Lorient",
+                "Team": "Paris",
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "Paris",
-                "Winning Chance (%)": 26.67
+                "Team": "Nice",
+                "Winning Chance (%)": 31.11
+            },
+            {
+                "Team": "Lorient",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Auxerre",
