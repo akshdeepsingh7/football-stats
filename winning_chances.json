@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 04:15 PM UTC",
-        "IST": "Sunday, 28 September 2025, 09:45 PM IST"
+        "UTC": "Sunday, 28 September 2025, 04:39 PM UTC",
+        "IST": "Sunday, 28 September 2025, 10:09 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -93,7 +93,7 @@
             },
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 77.11
+                "Winning Chance (%)": 70.76
             },
             {
                 "Team": "Villarreal",
@@ -140,6 +140,10 @@
                 "Winning Chance (%)": 31.11
             },
             {
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 22.86
+            },
+            {
                 "Team": "Levante",
                 "Winning Chance (%)": 19.05
             },
@@ -150,10 +154,6 @@
             {
                 "Team": "Celta de Vigo",
                 "Winning Chance (%)": 19.05
-            },
-            {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Mallorca",
@@ -280,10 +280,6 @@
                 "Winning Chance (%)": 37.33
             },
             {
-                "Team": "Bologna",
-                "Winning Chance (%)": 37.33
-            },
-            {
                 "Team": "Udinese",
                 "Winning Chance (%)": 37.33
             },
@@ -292,8 +288,16 @@
                 "Winning Chance (%)": 32.0
             },
             {
+                "Team": "Bologna",
+                "Winning Chance (%)": 32.0
+            },
+            {
                 "Team": "Torino",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Lecce",
+                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Lazio",
@@ -317,10 +321,6 @@
             },
             {
                 "Team": "Pisa",
-                "Winning Chance (%)": 10.67
-            },
-            {
-                "Team": "Lecce",
                 "Winning Chance (%)": 10.67
             }
         ],
