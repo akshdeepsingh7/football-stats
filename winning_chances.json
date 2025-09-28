@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 07:11 PM UTC",
-        "IST": "Monday, 29 September 2025, 12:41 AM IST"
+        "UTC": "Sunday, 28 September 2025, 07:35 PM UTC",
+        "IST": "Monday, 29 September 2025, 01:05 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -108,16 +108,16 @@
                 "Winning Chance (%)": 47.71
             },
             {
+                "Team": "Real Betis",
+                "Winning Chance (%)": 46.91
+            },
+            {
                 "Team": "Espanyol",
                 "Winning Chance (%)": 46.11
             },
             {
                 "Team": "Getafe",
                 "Winning Chance (%)": 41.9
-            },
-            {
-                "Team": "Real Betis",
-                "Winning Chance (%)": 38.9
             },
             {
                 "Team": "Sevilla",
@@ -128,16 +128,16 @@
                 "Winning Chance (%)": 38.1
             },
             {
-                "Team": "Osasuna",
-                "Winning Chance (%)": 30.48
-            },
-            {
                 "Team": "Alav\u00e9s",
                 "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Valencia",
                 "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Osasuna",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Levante",
@@ -245,11 +245,11 @@
         "Serie A": [
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 66.4
+                "Winning Chance (%)": 66.8
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 66.0
+                "Winning Chance (%)": 65.6
             },
             {
                 "Team": "Roma",
@@ -859,7 +859,7 @@
             },
             {
                 "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 50.49
+                "Winning Chance (%)": 47.31
             },
             {
                 "Team": "Braga",
@@ -903,7 +903,7 @@
             },
             {
                 "Team": "Rio Ave",
-                "Winning Chance (%)": 17.78
+                "Winning Chance (%)": 19.05
             },
             {
                 "Team": "AVS",
@@ -1081,7 +1081,7 @@
             },
             {
                 "Team": "Botafogo",
-                "Winning Chance (%)": 50.53
+                "Winning Chance (%)": 49.07
             },
             {
                 "Team": "Bahia",
@@ -1093,7 +1093,7 @@
             },
             {
                 "Team": "Fluminense",
-                "Winning Chance (%)": 37.1
+                "Winning Chance (%)": 39.42
             },
             {
                 "Team": "Gr\u00eamio",
