@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 01:23 PM UTC",
-        "IST": "Sunday, 28 September 2025, 06:53 PM IST"
+        "UTC": "Sunday, 28 September 2025, 01:36 PM UTC",
+        "IST": "Sunday, 28 September 2025, 07:06 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -186,6 +186,10 @@
                 "Winning Chance (%)": 49.6
             },
             {
+                "Team": "SC Freiburg",
+                "Winning Chance (%)": 48.4
+            },
+            {
                 "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 43.47
             },
@@ -198,16 +202,12 @@
                 "Winning Chance (%)": 37.33
             },
             {
-                "Team": "SC Freiburg",
-                "Winning Chance (%)": 40.0
-            },
-            {
                 "Team": "VfB Stuttgart",
                 "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Hoffenheim",
-                "Winning Chance (%)": 40.0
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Union Berlin",
