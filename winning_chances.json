@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 02:11 PM UTC",
-        "IST": "Sunday, 28 September 2025, 07:41 PM IST"
+        "UTC": "Sunday, 28 September 2025, 02:35 PM UTC",
+        "IST": "Sunday, 28 September 2025, 08:05 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -34,15 +34,15 @@
                 "Winning Chance (%)": 56.53
             },
             {
-                "Team": "Fulham",
-                "Winning Chance (%)": 40.4
-            },
-            {
                 "Team": "Chelsea",
                 "Winning Chance (%)": 36.76
             },
             {
                 "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Fulham",
                 "Winning Chance (%)": 35.56
             },
             {
@@ -66,12 +66,12 @@
                 "Winning Chance (%)": 32.0
             },
             {
-                "Team": "Nottingham Forest",
-                "Winning Chance (%)": 22.22
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 17.78
+                "Team": "Nottingham Forest",
+                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Burnley",
@@ -108,12 +108,12 @@
                 "Winning Chance (%)": 46.11
             },
             {
-                "Team": "Getafe",
-                "Winning Chance (%)": 41.9
+                "Team": "Elche",
+                "Winning Chance (%)": 43.1
             },
             {
-                "Team": "Elche",
-                "Winning Chance (%)": 45.64
+                "Team": "Getafe",
+                "Winning Chance (%)": 41.9
             },
             {
                 "Team": "Sevilla",
@@ -141,7 +141,7 @@
             },
             {
                 "Team": "Celta de Vigo",
-                "Winning Chance (%)": 22.22
+                "Winning Chance (%)": 22.86
             },
             {
                 "Team": "Levante",
@@ -867,15 +867,15 @@
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 35.56
-            },
-            {
-                "Team": "Arouca",
-                "Winning Chance (%)": 35.56
+                "Winning Chance (%)": 34.29
             },
             {
                 "Team": "Santa Clara",
                 "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "Arouca",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Estrela Amadora",
@@ -884,6 +884,10 @@
             {
                 "Team": "Casa Pia",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Alverca",
+                "Winning Chance (%)": 19.05
             },
             {
                 "Team": "Estoril",
@@ -899,10 +903,6 @@
             },
             {
                 "Team": "Rio Ave",
-                "Winning Chance (%)": 17.78
-            },
-            {
-                "Team": "Alverca",
                 "Winning Chance (%)": 17.78
             },
             {
