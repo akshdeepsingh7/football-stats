@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 05:35 PM UTC",
-        "IST": "Sunday, 28 September 2025, 11:05 PM IST"
+        "UTC": "Sunday, 28 September 2025, 06:18 PM UTC",
+        "IST": "Sunday, 28 September 2025, 11:48 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -88,12 +88,12 @@
         ],
         "La Liga": [
             {
-                "Team": "Real Madrid",
-                "Winning Chance (%)": 71.77
+                "Team": "Barcelona",
+                "Winning Chance (%)": 78.78
             },
             {
-                "Team": "Barcelona",
-                "Winning Chance (%)": 70.76
+                "Team": "Real Madrid",
+                "Winning Chance (%)": 71.77
             },
             {
                 "Team": "Villarreal",
@@ -140,10 +140,6 @@
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 22.86
-            },
-            {
                 "Team": "Levante",
                 "Winning Chance (%)": 19.05
             },
@@ -153,6 +149,10 @@
             },
             {
                 "Team": "Celta de Vigo",
+                "Winning Chance (%)": 19.05
+            },
+            {
+                "Team": "Real Sociedad",
                 "Winning Chance (%)": 19.05
             },
             {
@@ -272,12 +272,12 @@
                 "Winning Chance (%)": 48.8
             },
             {
-                "Team": "Bologna",
-                "Winning Chance (%)": 48.4
-            },
-            {
                 "Team": "Como",
                 "Winning Chance (%)": 43.47
+            },
+            {
+                "Team": "Bologna",
+                "Winning Chance (%)": 37.33
             },
             {
                 "Team": "Cagliari",
@@ -321,7 +321,7 @@
             },
             {
                 "Team": "Lecce",
-                "Winning Chance (%)": 5.33
+                "Winning Chance (%)": 10.67
             }
         ],
         "Ligue 1": [
