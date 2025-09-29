@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 29 September 2025, 08:15 PM UTC",
-        "IST": "Tuesday, 30 September 2025, 01:45 AM IST"
+        "UTC": "Monday, 29 September 2025, 08:36 PM UTC",
+        "IST": "Tuesday, 30 September 2025, 02:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -34,12 +34,12 @@
                 "Winning Chance (%)": 47.64
             },
             {
-                "Team": "Everton",
-                "Winning Chance (%)": 45.24
-            },
-            {
                 "Team": "Chelsea",
                 "Winning Chance (%)": 36.76
+            },
+            {
+                "Team": "Everton",
+                "Winning Chance (%)": 35.96
             },
             {
                 "Team": "Brighton & Hove Albion",
@@ -79,7 +79,7 @@
             },
             {
                 "Team": "West Ham United",
-                "Winning Chance (%)": 13.33
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 86.4
+                "Winning Chance (%)": 86.8
             },
             {
                 "Team": "Sporting CP",
