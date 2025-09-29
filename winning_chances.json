@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 29 September 2025, 07:11 PM UTC",
-        "IST": "Tuesday, 30 September 2025, 12:41 AM IST"
+        "UTC": "Monday, 29 September 2025, 07:36 PM UTC",
+        "IST": "Tuesday, 30 September 2025, 01:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -34,12 +34,12 @@
                 "Winning Chance (%)": 47.64
             },
             {
-                "Team": "Chelsea",
-                "Winning Chance (%)": 36.76
+                "Team": "Everton",
+                "Winning Chance (%)": 45.24
             },
             {
-                "Team": "Everton",
-                "Winning Chance (%)": 35.96
+                "Team": "Chelsea",
+                "Winning Chance (%)": 36.76
             },
             {
                 "Team": "Brighton & Hove Albion",
@@ -79,7 +79,7 @@
             },
             {
                 "Team": "West Ham United",
-                "Winning Chance (%)": 17.78
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -289,7 +289,7 @@
             },
             {
                 "Team": "Lazio",
-                "Winning Chance (%)": 32.4
+                "Winning Chance (%)": 32.8
             },
             {
                 "Team": "Sassuolo",
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 77.98
+                "Winning Chance (%)": 86.0
             },
             {
                 "Team": "Sporting CP",
@@ -866,15 +866,15 @@
                 "Winning Chance (%)": 35.89
             },
             {
-                "Team": "Arouca",
-                "Winning Chance (%)": 34.29
-            },
-            {
-                "Team": "Santa Clara",
+                "Team": "Vit\u00f3ria S.C.",
                 "Winning Chance (%)": 30.48
             },
             {
-                "Team": "Vit\u00f3ria S.C.",
+                "Team": "Arouca",
+                "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "Santa Clara",
                 "Winning Chance (%)": 30.48
             },
             {
