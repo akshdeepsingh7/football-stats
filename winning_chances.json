@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 30 September 2025, 05:13 PM UTC",
-        "IST": "Tuesday, 30 September 2025, 10:43 PM IST"
+        "UTC": "Tuesday, 30 September 2025, 05:38 PM UTC",
+        "IST": "Tuesday, 30 September 2025, 11:08 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -400,12 +400,12 @@
         ],
         "Champions League": [
             {
-                "Team": "Real Madrid",
-                "Winning Chance (%)": 80.8
+                "Team": "Club Brugge",
+                "Winning Chance (%)": 81.6
             },
             {
-                "Team": "Club Brugge",
-                "Winning Chance (%)": 54.53
+                "Team": "Real Madrid",
+                "Winning Chance (%)": 80.8
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -488,10 +488,6 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Atalanta",
-                "Winning Chance (%)": 13.33
-            },
-            {
                 "Team": "Atl\u00e9tico de Madrid",
                 "Winning Chance (%)": 0.0
             },
@@ -541,6 +537,10 @@
             },
             {
                 "Team": "Kairat",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Atalanta",
                 "Winning Chance (%)": 0.0
             }
         ],
