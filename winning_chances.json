@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 01 October 2025, 11:12 PM UTC",
-        "IST": "Thursday, 02 October 2025, 04:42 AM IST"
+        "UTC": "Wednesday, 01 October 2025, 11:35 PM UTC",
+        "IST": "Thursday, 02 October 2025, 05:05 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1077,7 +1077,7 @@
             },
             {
                 "Team": "Mirassol",
-                "Winning Chance (%)": 51.2
+                "Winning Chance (%)": 52.67
             },
             {
                 "Team": "Botafogo",
@@ -1089,19 +1089,23 @@
             },
             {
                 "Team": "Fluminense",
-                "Winning Chance (%)": 38.89
-            },
-            {
-                "Team": "RB Bragantino",
-                "Winning Chance (%)": 35.9
+                "Winning Chance (%)": 41.11
             },
             {
                 "Team": "S\u00e3o Paulo",
                 "Winning Chance (%)": 38.13
             },
             {
+                "Team": "RB Bragantino",
+                "Winning Chance (%)": 33.85
+            },
+            {
                 "Team": "Gr\u00eamio",
                 "Winning Chance (%)": 34.13
+            },
+            {
+                "Team": "Corinthians",
+                "Winning Chance (%)": 32.82
             },
             {
                 "Team": "Cear\u00e1",
@@ -1112,16 +1116,12 @@
                 "Winning Chance (%)": 30.77
             },
             {
-                "Team": "Corinthians",
-                "Winning Chance (%)": 30.77
-            },
-            {
                 "Team": "Atl\u00e9tico Mineiro",
                 "Winning Chance (%)": 32.22
             },
             {
                 "Team": "Internacional",
-                "Winning Chance (%)": 30.93
+                "Winning Chance (%)": 29.87
             },
             {
                 "Team": "Santos",
@@ -1141,7 +1141,7 @@
             },
             {
                 "Team": "Sport",
-                "Winning Chance (%)": 16.67
+                "Winning Chance (%)": 15.56
             }
         ]
     }
