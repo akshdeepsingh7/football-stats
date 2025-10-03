@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 03 October 2025, 06:20 PM UTC",
-        "IST": "Friday, 03 October 2025, 11:50 PM IST"
+        "UTC": "Friday, 03 October 2025, 06:45 PM UTC",
+        "IST": "Saturday, 04 October 2025, 12:15 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -195,7 +195,11 @@
             },
             {
                 "Team": "K\u00f6ln",
-                "Winning Chance (%)": 37.73
+                "Winning Chance (%)": 35.96
+            },
+            {
+                "Team": "Hoffenheim",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "SC Freiburg",
@@ -203,10 +207,6 @@
             },
             {
                 "Team": "St. Pauli",
-                "Winning Chance (%)": 37.33
-            },
-            {
-                "Team": "Hoffenheim",
                 "Winning Chance (%)": 37.33
             },
             {
