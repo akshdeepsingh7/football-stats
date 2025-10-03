@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 03 October 2025, 08:16 PM UTC",
-        "IST": "Saturday, 04 October 2025, 01:46 AM IST"
+        "UTC": "Friday, 03 October 2025, 08:37 PM UTC",
+        "IST": "Saturday, 04 October 2025, 02:07 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -18,10 +18,6 @@
                 "Winning Chance (%)": 55.33
             },
             {
-                "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 46.11
-            },
-            {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 51.69
             },
@@ -30,12 +26,16 @@
                 "Winning Chance (%)": 50.09
             },
             {
-                "Team": "Manchester City",
-                "Winning Chance (%)": 47.64
+                "Team": "AFC Bournemouth",
+                "Winning Chance (%)": 41.9
             },
             {
                 "Team": "Fulham",
-                "Winning Chance (%)": 34.29
+                "Winning Chance (%)": 41.9
+            },
+            {
+                "Team": "Manchester City",
+                "Winning Chance (%)": 47.64
             },
             {
                 "Team": "Chelsea",
@@ -272,6 +272,10 @@
                 "Winning Chance (%)": 48.8
             },
             {
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 40.0
+            },
+            {
                 "Team": "Como",
                 "Winning Chance (%)": 43.47
             },
@@ -288,10 +292,6 @@
                 "Winning Chance (%)": 37.33
             },
             {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 31.11
-            },
-            {
                 "Team": "Lazio",
                 "Winning Chance (%)": 33.2
             },
@@ -304,12 +304,12 @@
                 "Winning Chance (%)": 21.33
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 17.78
-            },
-            {
                 "Team": "Fiorentina",
                 "Winning Chance (%)": 16.0
+            },
+            {
+                "Team": "Hellas Verona",
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Pisa",
