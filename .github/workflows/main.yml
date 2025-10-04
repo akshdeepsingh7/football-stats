@@ -1,5 +1,4 @@
 name: Run Script and Commit Files
-
 on:
   schedule:
     - cron: '*/30 * * * *'
@@ -29,7 +28,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          key: ${{ runner.os }}-pip-${{ hashFiles('decrypt.py') }}
           restore-keys: |
             ${{ runner.os }}-pip-
       
