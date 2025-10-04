@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 October 2025, 12:25 PM UTC",
-        "IST": "Saturday, 04 October 2025, 05:55 PM IST"
+        "UTC": "Saturday, 04 October 2025, 12:57 PM UTC",
+        "IST": "Saturday, 04 October 2025, 06:27 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -10,16 +10,16 @@
                 "Winning Chance (%)": 68.67
             },
             {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 56.53
+            },
+            {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 54.53
             },
             {
                 "Team": "Arsenal",
                 "Winning Chance (%)": 61.38
-            },
-            {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 48.51
             },
             {
                 "Team": "Crystal Palace",
@@ -32,10 +32,6 @@
             {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 47.64
-            },
-            {
-                "Team": "Leeds United",
-                "Winning Chance (%)": 34.29
             },
             {
                 "Team": "Chelsea",
@@ -51,6 +47,10 @@
             },
             {
                 "Team": "Fulham",
+                "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "Leeds United",
                 "Winning Chance (%)": 30.48
             },
             {
@@ -136,15 +136,15 @@
                 "Winning Chance (%)": 30.48
             },
             {
+                "Team": "Levante",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Valencia",
                 "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Real Oviedo",
-                "Winning Chance (%)": 23.33
-            },
-            {
-                "Team": "Levante",
                 "Winning Chance (%)": 20.0
             },
             {
@@ -921,7 +921,7 @@
             },
             {
                 "Team": "Stoke City",
-                "Winning Chance (%)": 46.44
+                "Winning Chance (%)": 52.77
             },
             {
                 "Team": "West Bromwich Albion",
@@ -992,11 +992,11 @@
                 "Winning Chance (%)": 23.33
             },
             {
-                "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 23.33
+                "Team": "Oxford United",
+                "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Oxford United",
+                "Team": "Blackburn Rovers",
                 "Winning Chance (%)": 20.0
             },
             {
