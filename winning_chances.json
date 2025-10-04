@@ -1,13 +1,13 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 October 2025, 03:12 PM UTC",
-        "IST": "Saturday, 04 October 2025, 08:42 PM IST"
+        "UTC": "Saturday, 04 October 2025, 03:35 PM UTC",
+        "IST": "Saturday, 04 October 2025, 09:05 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 64.95
+                "Winning Chance (%)": 65.35
             },
             {
                 "Team": "Liverpool FC",
@@ -920,35 +920,39 @@
                 "Winning Chance (%)": 55.73
             },
             {
-                "Team": "Bristol City",
-                "Winning Chance (%)": 50.21
-            },
-            {
-                "Team": "Leicester City",
-                "Winning Chance (%)": 49.01
+                "Team": "Preston North End",
+                "Winning Chance (%)": 48.61
             },
             {
                 "Team": "Stoke City",
                 "Winning Chance (%)": 46.44
             },
             {
-                "Team": "Preston North End",
-                "Winning Chance (%)": 42.28
+                "Team": "Bristol City",
+                "Winning Chance (%)": 43.88
+            },
+            {
+                "Team": "Leicester City",
+                "Winning Chance (%)": 42.68
             },
             {
                 "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 41.88
+                "Winning Chance (%)": 41.48
             },
             {
                 "Team": "Millwall",
                 "Winning Chance (%)": 41.48
             },
             {
-                "Team": "Charlton Athletic",
+                "Team": "Swansea City",
                 "Winning Chance (%)": 39.32
             },
             {
-                "Team": "Swansea City",
+                "Team": "Queens Park Rangers",
+                "Winning Chance (%)": 38.52
+            },
+            {
+                "Team": "Charlton Athletic",
                 "Winning Chance (%)": 35.96
             },
             {
@@ -961,10 +965,6 @@
             },
             {
                 "Team": "Hull City",
-                "Winning Chance (%)": 35.56
-            },
-            {
-                "Team": "Queens Park Rangers",
                 "Winning Chance (%)": 35.56
             },
             {
