@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 October 2025, 04:40 PM UTC",
-        "IST": "Saturday, 04 October 2025, 10:10 PM IST"
+        "UTC": "Saturday, 04 October 2025, 05:11 PM UTC",
+        "IST": "Saturday, 04 October 2025, 10:41 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -11,7 +11,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 62.95
+                "Winning Chance (%)": 58.74
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -26,6 +26,10 @@
                 "Winning Chance (%)": 55.33
             },
             {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 43.5
+            },
+            {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 42.3
             },
@@ -36,10 +40,6 @@
             {
                 "Team": "Manchester United",
                 "Winning Chance (%)": 38.1
-            },
-            {
-                "Team": "Chelsea",
-                "Winning Chance (%)": 35.49
             },
             {
                 "Team": "Everton",
@@ -104,6 +104,10 @@
                 "Winning Chance (%)": 51.12
             },
             {
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 43.33
+            },
+            {
                 "Team": "Atl\u00e9tico de Madrid",
                 "Winning Chance (%)": 47.71
             },
@@ -114,10 +118,6 @@
             {
                 "Team": "Espanyol",
                 "Winning Chance (%)": 46.11
-            },
-            {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 36.67
             },
             {
                 "Team": "Getafe",
@@ -144,10 +144,6 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Mallorca",
-                "Winning Chance (%)": 20.0
-            },
-            {
                 "Team": "Real Oviedo",
                 "Winning Chance (%)": 20.0
             },
@@ -166,12 +162,16 @@
             {
                 "Team": "Real Sociedad",
                 "Winning Chance (%)": 19.05
+            },
+            {
+                "Team": "Mallorca",
+                "Winning Chance (%)": 16.67
             }
         ],
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 88.0
+                "Winning Chance (%)": 88.4
             },
             {
                 "Team": "Borussia Dortmund",
@@ -191,7 +191,7 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 41.2
+                "Winning Chance (%)": 40.8
             },
             {
                 "Team": "VfB Stuttgart",
@@ -363,7 +363,7 @@
             },
             {
                 "Team": "Brest",
-                "Winning Chance (%)": 31.11
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Toulouse",
@@ -378,15 +378,15 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Nantes",
+                "Winning Chance (%)": 22.86
+            },
+            {
                 "Team": "Auxerre",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Le Havre",
-                "Winning Chance (%)": 22.22
-            },
-            {
-                "Team": "Nantes",
                 "Winning Chance (%)": 22.22
             },
             {
@@ -870,6 +870,14 @@
                 "Winning Chance (%)": 35.89
             },
             {
+                "Team": "Alverca",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 30.48
+            },
+            {
                 "Team": "Casa Pia",
                 "Winning Chance (%)": 26.67
             },
@@ -882,16 +890,8 @@
                 "Winning Chance (%)": 30.48
             },
             {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 30.48
-            },
-            {
                 "Team": "Estrela Amadora",
                 "Winning Chance (%)": 23.33
-            },
-            {
-                "Team": "Alverca",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Estoril",
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 3.81
+                "Winning Chance (%)": 6.67
             }
         ],
         "EFL Championship": [
