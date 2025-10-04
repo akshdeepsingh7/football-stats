@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 October 2025, 06:42 PM UTC",
-        "IST": "Sunday, 05 October 2025, 12:12 AM IST"
+        "UTC": "Saturday, 04 October 2025, 07:10 PM UTC",
+        "IST": "Sunday, 05 October 2025, 12:40 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -93,11 +93,11 @@
             },
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 71.77
+                "Winning Chance (%)": 66.53
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 64.15
+                "Winning Chance (%)": 59.87
             },
             {
                 "Team": "Elche",
@@ -265,7 +265,11 @@
             },
             {
                 "Team": "Atalanta",
-                "Winning Chance (%)": 50.4
+                "Winning Chance (%)": 46.84
+            },
+            {
+                "Team": "Como",
+                "Winning Chance (%)": 40.8
             },
             {
                 "Team": "Sassuolo",
@@ -274,10 +278,6 @@
             {
                 "Team": "Cremonese",
                 "Winning Chance (%)": 40.0
-            },
-            {
-                "Team": "Como",
-                "Winning Chance (%)": 43.47
             },
             {
                 "Team": "Bologna",
@@ -346,12 +346,12 @@
                 "Winning Chance (%)": 54.13
             },
             {
-                "Team": "Lille",
-                "Winning Chance (%)": 46.04
+                "Team": "Lens",
+                "Winning Chance (%)": 43.1
             },
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 45.64
+                "Team": "Lille",
+                "Winning Chance (%)": 46.04
             },
             {
                 "Team": "Paris",
@@ -374,16 +374,16 @@
                 "Winning Chance (%)": 31.11
             },
             {
+                "Team": "Auxerre",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Lorient",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Nantes",
                 "Winning Chance (%)": 22.86
-            },
-            {
-                "Team": "Auxerre",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Le Havre",
