@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 October 2025, 07:35 PM UTC",
-        "IST": "Sunday, 05 October 2025, 01:05 AM IST"
+        "UTC": "Saturday, 04 October 2025, 08:14 PM UTC",
+        "IST": "Sunday, 05 October 2025, 01:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -88,16 +88,16 @@
         ],
         "La Liga": [
             {
+                "Team": "Real Madrid",
+                "Winning Chance (%)": 73.6
+            },
+            {
                 "Team": "Barcelona",
                 "Winning Chance (%)": 78.78
             },
             {
-                "Team": "Real Madrid",
-                "Winning Chance (%)": 66.53
-            },
-            {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 59.87
+                "Winning Chance (%)": 56.13
             },
             {
                 "Team": "Elche",
@@ -862,6 +862,10 @@
                 "Winning Chance (%)": 47.31
             },
             {
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 36.67
+            },
+            {
                 "Team": "Alverca",
                 "Winning Chance (%)": 33.33
             },
@@ -870,19 +874,15 @@
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 30.0
-            },
-            {
                 "Team": "Braga",
                 "Winning Chance (%)": 35.89
             },
             {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 30.0
+                "Team": "Casa Pia",
+                "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Casa Pia",
+                "Team": "Vit\u00f3ria S.C.",
                 "Winning Chance (%)": 26.67
             },
             {
