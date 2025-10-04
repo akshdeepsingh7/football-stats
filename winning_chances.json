@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 October 2025, 09:12 PM UTC",
-        "IST": "Sunday, 05 October 2025, 02:42 AM IST"
+        "UTC": "Saturday, 04 October 2025, 09:35 PM UTC",
+        "IST": "Sunday, 05 October 2025, 03:05 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1077,7 +1077,7 @@
             },
             {
                 "Team": "Botafogo",
-                "Winning Chance (%)": 50.5
+                "Winning Chance (%)": 49.86
             },
             {
                 "Team": "Mirassol",
@@ -1093,15 +1093,15 @@
             },
             {
                 "Team": "Fluminense",
-                "Winning Chance (%)": 38.89
+                "Winning Chance (%)": 38.4
             },
             {
                 "Team": "RB Bragantino",
-                "Winning Chance (%)": 33.85
+                "Winning Chance (%)": 33.58
             },
             {
                 "Team": "Gr\u00eamio",
-                "Winning Chance (%)": 33.85
+                "Winning Chance (%)": 33.58
             },
             {
                 "Team": "Cear\u00e1",
@@ -1112,16 +1112,16 @@
                 "Winning Chance (%)": 30.77
             },
             {
+                "Team": "Atl\u00e9tico Mineiro",
+                "Winning Chance (%)": 32.0
+            },
+            {
                 "Team": "Corinthians",
                 "Winning Chance (%)": 30.77
             },
             {
-                "Team": "Atl\u00e9tico Mineiro",
-                "Winning Chance (%)": 32.22
-            },
-            {
                 "Team": "Internacional",
-                "Winning Chance (%)": 30.93
+                "Winning Chance (%)": 30.77
             },
             {
                 "Team": "Santos",
