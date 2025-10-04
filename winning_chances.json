@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 October 2025, 11:11 AM UTC",
-        "IST": "Saturday, 04 October 2025, 04:41 PM IST"
+        "UTC": "Saturday, 04 October 2025, 11:36 AM UTC",
+        "IST": "Saturday, 04 October 2025, 05:06 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -18,12 +18,12 @@
                 "Winning Chance (%)": 61.38
             },
             {
-                "Team": "Crystal Palace",
-                "Winning Chance (%)": 55.33
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 48.51
             },
             {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 51.69
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 55.33
             },
             {
                 "Team": "Sunderland",
@@ -32,6 +32,10 @@
             {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 47.64
+            },
+            {
+                "Team": "Leeds United",
+                "Winning Chance (%)": 34.29
             },
             {
                 "Team": "Chelsea",
@@ -48,10 +52,6 @@
             {
                 "Team": "Fulham",
                 "Winning Chance (%)": 30.48
-            },
-            {
-                "Team": "Leeds United",
-                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Brentford",
@@ -912,16 +912,16 @@
         ],
         "EFL Championship": [
             {
+                "Team": "Coventry City",
+                "Winning Chance (%)": 62.7
+            },
+            {
                 "Team": "Middlesbrough",
                 "Winning Chance (%)": 62.8
             },
             {
-                "Team": "Coventry City",
-                "Winning Chance (%)": 59.33
-            },
-            {
                 "Team": "Stoke City",
-                "Winning Chance (%)": 48.67
+                "Winning Chance (%)": 46.44
             },
             {
                 "Team": "West Bromwich Albion",
@@ -972,15 +972,15 @@
                 "Winning Chance (%)": 33.33
             },
             {
+                "Team": "Hull City",
+                "Winning Chance (%)": 29.63
+            },
+            {
                 "Team": "Watford",
                 "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Portsmouth",
-                "Winning Chance (%)": 30.0
-            },
-            {
-                "Team": "Hull City",
                 "Winning Chance (%)": 30.0
             },
             {
@@ -992,20 +992,20 @@
                 "Winning Chance (%)": 23.33
             },
             {
+                "Team": "Blackburn Rovers",
+                "Winning Chance (%)": 23.33
+            },
+            {
                 "Team": "Oxford United",
                 "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 22.86
-            },
-            {
                 "Team": "Sheffield Wednesday",
-                "Winning Chance (%)": 20.0
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Sheffield United",
-                "Winning Chance (%)": 10.0
+                "Winning Chance (%)": 11.85
             }
         ],
         "Indian Super League": [
