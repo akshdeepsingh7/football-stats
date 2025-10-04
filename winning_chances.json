@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 October 2025, 05:35 PM UTC",
-        "IST": "Saturday, 04 October 2025, 11:05 PM IST"
+        "UTC": "Saturday, 04 October 2025, 06:18 PM UTC",
+        "IST": "Saturday, 04 October 2025, 11:48 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -11,7 +11,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 58.74
+                "Winning Chance (%)": 62.95
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -26,10 +26,6 @@
                 "Winning Chance (%)": 55.33
             },
             {
-                "Team": "Chelsea",
-                "Winning Chance (%)": 43.5
-            },
-            {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 42.3
             },
@@ -40,6 +36,10 @@
             {
                 "Team": "Manchester United",
                 "Winning Chance (%)": 38.1
+            },
+            {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 35.49
             },
             {
                 "Team": "Everton",
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 88.4
+                "Winning Chance (%)": 88.8
             },
             {
                 "Team": "Borussia Dortmund",
@@ -191,7 +191,7 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 40.8
+                "Winning Chance (%)": 40.4
             },
             {
                 "Team": "VfB Stuttgart",
@@ -257,7 +257,7 @@
             },
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 57.33
+                "Winning Chance (%)": 56.93
             },
             {
                 "Team": "Juventus",
@@ -870,6 +870,14 @@
                 "Winning Chance (%)": 35.89
             },
             {
+                "Team": "Alverca",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 30.48
+            },
+            {
                 "Team": "Casa Pia",
                 "Winning Chance (%)": 26.67
             },
@@ -882,15 +890,7 @@
                 "Winning Chance (%)": 30.48
             },
             {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 30.48
-            },
-            {
                 "Team": "Estrela Amadora",
-                "Winning Chance (%)": 23.33
-            },
-            {
-                "Team": "Alverca",
                 "Winning Chance (%)": 23.33
             },
             {
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 13.33
+                "Winning Chance (%)": 6.67
             }
         ],
         "EFL Championship": [
