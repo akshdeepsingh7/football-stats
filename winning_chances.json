@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 08:14 PM UTC",
-        "IST": "Monday, 06 October 2025, 01:44 AM IST"
+        "UTC": "Sunday, 05 October 2025, 08:36 PM UTC",
+        "IST": "Monday, 06 October 2025, 02:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -100,12 +100,12 @@
                 "Winning Chance (%)": 55.73
             },
             {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 52.4
-            },
-            {
                 "Team": "Real Betis",
                 "Winning Chance (%)": 52.0
+            },
+            {
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 45.33
             },
             {
                 "Team": "Sevilla",
@@ -148,16 +148,16 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Celta de Vigo",
+                "Winning Chance (%)": 20.0
+            },
+            {
                 "Team": "Real Oviedo",
                 "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Girona",
                 "Winning Chance (%)": 20.0
-            },
-            {
-                "Team": "Celta de Vigo",
-                "Winning Chance (%)": 16.67
             },
             {
                 "Team": "Real Sociedad",
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "PSG",
-                "Winning Chance (%)": 72.17
+                "Winning Chance (%)": 64.15
             },
             {
                 "Team": "Marseille",
@@ -351,7 +351,7 @@
             },
             {
                 "Team": "Lille",
-                "Winning Chance (%)": 39.3
+                "Winning Chance (%)": 43.5
             },
             {
                 "Team": "Paris",
@@ -839,15 +839,15 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 87.2
+                "Winning Chance (%)": 80.53
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 76.4
+                "Winning Chance (%)": 69.33
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 68.36
+                "Winning Chance (%)": 63.6
             },
             {
                 "Team": "Gil Vicente",
@@ -866,16 +866,16 @@
                 "Winning Chance (%)": 36.67
             },
             {
-                "Team": "Alverca",
-                "Winning Chance (%)": 33.33
+                "Team": "Braga",
+                "Winning Chance (%)": 34.93
             },
             {
                 "Team": "Nacional",
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Braga",
-                "Winning Chance (%)": 31.2
+                "Team": "Alverca",
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Arouca",
@@ -1069,7 +1069,7 @@
             },
             {
                 "Team": "Palmeiras",
-                "Winning Chance (%)": 62.67
+                "Winning Chance (%)": 63.07
             },
             {
                 "Team": "Cruzeiro",
@@ -1085,7 +1085,7 @@
             },
             {
                 "Team": "S\u00e3o Paulo",
-                "Winning Chance (%)": 42.89
+                "Winning Chance (%)": 42.49
             },
             {
                 "Team": "Bahia",
@@ -1098,6 +1098,10 @@
             {
                 "Team": "RB Bragantino",
                 "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Vasco da Gama",
+                "Winning Chance (%)": 32.99
             },
             {
                 "Team": "Corinthians",
@@ -1116,10 +1120,6 @@
                 "Winning Chance (%)": 33.07
             },
             {
-                "Team": "Vasco da Gama",
-                "Winning Chance (%)": 29.63
-            },
-            {
                 "Team": "Atl\u00e9tico Mineiro",
                 "Winning Chance (%)": 30.93
             },
@@ -1129,7 +1129,7 @@
             },
             {
                 "Team": "Vit\u00f3ria",
-                "Winning Chance (%)": 27.65
+                "Winning Chance (%)": 24.69
             },
             {
                 "Team": "Juventude",
