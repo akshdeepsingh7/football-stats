@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 08:36 PM UTC",
-        "IST": "Monday, 06 October 2025, 02:06 AM IST"
+        "UTC": "Sunday, 05 October 2025, 09:12 PM UTC",
+        "IST": "Monday, 06 October 2025, 02:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1064,12 +1064,12 @@
         ],
         "Brasileir\u00e3o": [
             {
-                "Team": "Flamengo",
-                "Winning Chance (%)": 73.87
+                "Team": "Palmeiras",
+                "Winning Chance (%)": 67.07
             },
             {
-                "Team": "Palmeiras",
-                "Winning Chance (%)": 63.07
+                "Team": "Flamengo",
+                "Winning Chance (%)": 73.87
             },
             {
                 "Team": "Cruzeiro",
@@ -1084,16 +1084,16 @@
                 "Winning Chance (%)": 49.7
             },
             {
-                "Team": "S\u00e3o Paulo",
-                "Winning Chance (%)": 42.49
-            },
-            {
                 "Team": "Bahia",
                 "Winning Chance (%)": 43.87
             },
             {
                 "Team": "Fluminense",
                 "Winning Chance (%)": 41.33
+            },
+            {
+                "Team": "S\u00e3o Paulo",
+                "Winning Chance (%)": 38.73
             },
             {
                 "Team": "RB Bragantino",
