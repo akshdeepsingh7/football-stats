@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 02:36 PM UTC",
-        "IST": "Sunday, 05 October 2025, 08:06 PM IST"
+        "UTC": "Sunday, 05 October 2025, 03:12 PM UTC",
+        "IST": "Sunday, 05 October 2025, 08:42 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -23,11 +23,15 @@
             },
             {
                 "Team": "Crystal Palace",
-                "Winning Chance (%)": 51.52
+                "Winning Chance (%)": 47.31
             },
             {
                 "Team": "Chelsea",
                 "Winning Chance (%)": 43.5
+            },
+            {
+                "Team": "Everton",
+                "Winning Chance (%)": 42.7
             },
             {
                 "Team": "Sunderland",
@@ -42,20 +46,16 @@
                 "Winning Chance (%)": 38.1
             },
             {
-                "Team": "Everton",
+                "Team": "Newcastle United",
                 "Winning Chance (%)": 34.69
+            },
+            {
+                "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 34.29
             },
             {
                 "Team": "Aston Villa",
                 "Winning Chance (%)": 34.29
-            },
-            {
-                "Team": "Newcastle United",
-                "Winning Chance (%)": 34.29
-            },
-            {
-                "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Fulham",
@@ -74,16 +74,16 @@
                 "Winning Chance (%)": 19.05
             },
             {
-                "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 15.24
-            },
-            {
                 "Team": "Burnley",
                 "Winning Chance (%)": 15.24
             },
             {
                 "Team": "West Ham United",
                 "Winning Chance (%)": 15.24
+            },
+            {
+                "Team": "Wolverhampton Wanderers",
+                "Winning Chance (%)": 7.62
             }
         ],
         "La Liga": [
@@ -182,16 +182,16 @@
                 "Winning Chance (%)": 57.78
             },
             {
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 54.13
+            },
+            {
                 "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 50.49
             },
             {
                 "Team": "K\u00f6ln",
                 "Winning Chance (%)": 45.24
-            },
-            {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 44.84
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -235,7 +235,7 @@
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 17.78
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
@@ -326,16 +326,16 @@
         ],
         "Ligue 1": [
             {
-                "Team": "Lyon",
-                "Winning Chance (%)": 70.97
-            },
-            {
                 "Team": "Marseille",
                 "Winning Chance (%)": 61.14
             },
             {
                 "Team": "PSG",
                 "Winning Chance (%)": 69.87
+            },
+            {
+                "Team": "Lyon",
+                "Winning Chance (%)": 58.74
             },
             {
                 "Team": "Lens",
@@ -358,16 +358,16 @@
                 "Winning Chance (%)": 38.1
             },
             {
+                "Team": "Toulouse",
+                "Winning Chance (%)": 38.1
+            },
+            {
                 "Team": "Rennes",
                 "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Brest",
                 "Winning Chance (%)": 30.48
-            },
-            {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Nice",
