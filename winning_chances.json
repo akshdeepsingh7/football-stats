@@ -1,13 +1,17 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 01:36 PM UTC",
-        "IST": "Sunday, 05 October 2025, 07:06 PM IST"
+        "UTC": "Sunday, 05 October 2025, 02:12 PM UTC",
+        "IST": "Sunday, 05 October 2025, 07:42 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
                 "Winning Chance (%)": 65.35
+            },
+            {
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 59.54
             },
             {
                 "Team": "Liverpool FC",
@@ -20,10 +24,6 @@
             {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 54.53
-            },
-            {
-                "Team": "Crystal Palace",
-                "Winning Chance (%)": 51.52
             },
             {
                 "Team": "Chelsea",
@@ -42,12 +42,12 @@
                 "Winning Chance (%)": 38.1
             },
             {
-                "Team": "Everton",
-                "Winning Chance (%)": 34.69
-            },
-            {
                 "Team": "Aston Villa",
                 "Winning Chance (%)": 34.29
+            },
+            {
+                "Team": "Everton",
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Brighton & Hove Albion",
@@ -101,7 +101,7 @@
             },
             {
                 "Team": "Elche",
-                "Winning Chance (%)": 44.53
+                "Winning Chance (%)": 44.13
             },
             {
                 "Team": "Athletic Bilbao",
@@ -121,7 +121,7 @@
             },
             {
                 "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 36.67
+                "Winning Chance (%)": 37.07
             },
             {
                 "Team": "Getafe",
@@ -269,7 +269,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 44.84
+                "Winning Chance (%)": 45.64
             },
             {
                 "Team": "Como",
