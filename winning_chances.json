@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 11:11 AM UTC",
-        "IST": "Sunday, 05 October 2025, 04:41 PM IST"
+        "UTC": "Sunday, 05 October 2025, 11:36 AM UTC",
+        "IST": "Sunday, 05 October 2025, 05:06 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -944,6 +944,10 @@
                 "Winning Chance (%)": 41.48
             },
             {
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 45.73
+            },
+            {
                 "Team": "Bristol City",
                 "Winning Chance (%)": 40.52
             },
@@ -972,10 +976,6 @@
                 "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Ipswich Town",
-                "Winning Chance (%)": 38.67
-            },
-            {
                 "Team": "Southampton",
                 "Winning Chance (%)": 32.59
             },
@@ -985,7 +985,7 @@
             },
             {
                 "Team": "Norwich City",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 23.7
             },
             {
                 "Team": "Derby County",
