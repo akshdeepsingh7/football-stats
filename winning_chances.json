@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 10:13 AM UTC",
-        "IST": "Sunday, 05 October 2025, 03:43 PM IST"
+        "UTC": "Sunday, 05 October 2025, 10:37 AM UTC",
+        "IST": "Sunday, 05 October 2025, 04:07 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -280,15 +280,15 @@
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Bologna",
-                "Winning Chance (%)": 37.33
-            },
-            {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 37.33
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Udinese",
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Bologna",
                 "Winning Chance (%)": 37.33
             },
             {
