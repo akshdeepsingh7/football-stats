@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 04:40 PM UTC",
-        "IST": "Sunday, 05 October 2025, 10:10 PM IST"
+        "UTC": "Sunday, 05 October 2025, 05:11 PM UTC",
+        "IST": "Sunday, 05 October 2025, 10:41 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -100,20 +100,16 @@
                 "Winning Chance (%)": 55.73
             },
             {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 44.93
+                "Team": "Espanyol",
+                "Winning Chance (%)": 50.8
             },
             {
-                "Team": "Real Betis",
+                "Team": "Sevilla",
                 "Winning Chance (%)": 44.93
             },
             {
                 "Team": "Elche",
                 "Winning Chance (%)": 44.13
-            },
-            {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 43.73
             },
             {
                 "Team": "Athletic Bilbao",
@@ -122,6 +118,10 @@
             {
                 "Team": "Atl\u00e9tico de Madrid",
                 "Winning Chance (%)": 47.71
+            },
+            {
+                "Team": "Real Betis",
+                "Winning Chance (%)": 41.2
             },
             {
                 "Team": "Alav\u00e9s",
@@ -335,7 +335,7 @@
             },
             {
                 "Team": "Strasbourg",
-                "Winning Chance (%)": 59.14
+                "Winning Chance (%)": 59.94
             },
             {
                 "Team": "Lyon",
@@ -350,10 +350,6 @@
                 "Winning Chance (%)": 51.12
             },
             {
-                "Team": "Rennes",
-                "Winning Chance (%)": 45.71
-            },
-            {
                 "Team": "Lille",
                 "Winning Chance (%)": 46.04
             },
@@ -363,6 +359,10 @@
             },
             {
                 "Team": "Toulouse",
+                "Winning Chance (%)": 38.1
+            },
+            {
+                "Team": "Rennes",
                 "Winning Chance (%)": 38.1
             },
             {
@@ -378,16 +378,16 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Le Havre",
+                "Winning Chance (%)": 22.86
+            },
+            {
                 "Team": "Nantes",
                 "Winning Chance (%)": 22.86
             },
             {
                 "Team": "Auxerre",
                 "Winning Chance (%)": 22.86
-            },
-            {
-                "Team": "Le Havre",
-                "Winning Chance (%)": 19.05
             },
             {
                 "Team": "Angers",
@@ -886,6 +886,10 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Rio Ave",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Casa Pia",
                 "Winning Chance (%)": 26.67
             },
@@ -894,16 +898,12 @@
                 "Winning Chance (%)": 23.33
             },
             {
-                "Team": "Tondela",
-                "Winning Chance (%)": 20.0
-            },
-            {
                 "Team": "Estoril",
                 "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Rio Ave",
-                "Winning Chance (%)": 20.0
+                "Team": "Tondela",
+                "Winning Chance (%)": 16.67
             },
             {
                 "Team": "AVS",
