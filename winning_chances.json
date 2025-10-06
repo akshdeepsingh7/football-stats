@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 11:35 PM UTC",
-        "IST": "Monday, 06 October 2025, 05:05 AM IST"
+        "UTC": "Monday, 06 October 2025, 01:07 AM UTC",
+        "IST": "Monday, 06 October 2025, 06:37 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1100,6 +1100,10 @@
                 "Winning Chance (%)": 35.56
             },
             {
+                "Team": "Cear\u00e1",
+                "Winning Chance (%)": 35.27
+            },
+            {
                 "Team": "Vasco da Gama",
                 "Winning Chance (%)": 32.99
             },
@@ -1112,10 +1116,6 @@
                 "Winning Chance (%)": 32.59
             },
             {
-                "Team": "Cear\u00e1",
-                "Winning Chance (%)": 32.82
-            },
-            {
                 "Team": "Internacional",
                 "Winning Chance (%)": 32.82
             },
@@ -1125,7 +1125,7 @@
             },
             {
                 "Team": "Santos",
-                "Winning Chance (%)": 29.74
+                "Winning Chance (%)": 28.72
             },
             {
                 "Team": "Vit\u00f3ria",
