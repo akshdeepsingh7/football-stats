@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 15 October 2025, 11:35 PM UTC",
-        "IST": "Thursday, 16 October 2025, 05:05 AM IST"
+        "UTC": "Thursday, 16 October 2025, 01:08 AM UTC",
+        "IST": "Thursday, 16 October 2025, 06:38 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1065,23 +1065,23 @@
         "Brasileir\u00e3o": [
             {
                 "Team": "Palmeiras",
-                "Winning Chance (%)": 70.25
+                "Winning Chance (%)": 71.45
             },
             {
                 "Team": "Flamengo",
-                "Winning Chance (%)": 72.48
+                "Winning Chance (%)": 73.28
             },
             {
                 "Team": "Cruzeiro",
-                "Winning Chance (%)": 59.36
+                "Winning Chance (%)": 58.48
             },
             {
                 "Team": "Mirassol",
-                "Winning Chance (%)": 53.07
+                "Winning Chance (%)": 53.47
             },
             {
                 "Team": "Botafogo",
-                "Winning Chance (%)": 46.15
+                "Winning Chance (%)": 45.35
             },
             {
                 "Team": "Bahia",
@@ -1105,11 +1105,11 @@
             },
             {
                 "Team": "Vasco da Gama",
-                "Winning Chance (%)": 32.99
+                "Winning Chance (%)": 32.78
             },
             {
                 "Team": "Corinthians",
-                "Winning Chance (%)": 32.59
+                "Winning Chance (%)": 31.43
             },
             {
                 "Team": "Gr\u00eamio",
@@ -1117,7 +1117,7 @@
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
-                "Winning Chance (%)": 32.82
+                "Winning Chance (%)": 32.59
             },
             {
                 "Team": "Internacional",
@@ -1125,15 +1125,15 @@
             },
             {
                 "Team": "Santos",
-                "Winning Chance (%)": 28.72
+                "Winning Chance (%)": 30.62
+            },
+            {
+                "Team": "Fortaleza",
+                "Winning Chance (%)": 24.69
             },
             {
                 "Team": "Vit\u00f3ria",
                 "Winning Chance (%)": 24.69
-            },
-            {
-                "Team": "Fortaleza",
-                "Winning Chance (%)": 24.62
             },
             {
                 "Team": "Juventude",
