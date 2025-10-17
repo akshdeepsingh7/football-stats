@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 17 October 2025, 07:35 PM UTC",
-        "IST": "Saturday, 18 October 2025, 01:05 AM IST"
+        "UTC": "Friday, 17 October 2025, 08:16 PM UTC",
+        "IST": "Saturday, 18 October 2025, 01:46 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -912,12 +912,12 @@
         ],
         "EFL Championship": [
             {
-                "Team": "Coventry City",
-                "Winning Chance (%)": 64.3
+                "Team": "Middlesbrough",
+                "Winning Chance (%)": 59.2
             },
             {
-                "Team": "Middlesbrough",
-                "Winning Chance (%)": 53.07
+                "Team": "Coventry City",
+                "Winning Chance (%)": 64.3
             },
             {
                 "Team": "Leicester City",
@@ -936,10 +936,6 @@
                 "Winning Chance (%)": 44.44
             },
             {
-                "Team": "Ipswich Town",
-                "Winning Chance (%)": 44.28
-            },
-            {
                 "Team": "West Bromwich Albion",
                 "Winning Chance (%)": 41.48
             },
@@ -949,6 +945,10 @@
             },
             {
                 "Team": "Bristol City",
+                "Winning Chance (%)": 40.52
+            },
+            {
+                "Team": "Ipswich Town",
                 "Winning Chance (%)": 40.52
             },
             {
