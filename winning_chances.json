@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 17 October 2025, 06:19 PM UTC",
-        "IST": "Friday, 17 October 2025, 11:49 PM IST"
+        "UTC": "Friday, 17 October 2025, 06:44 PM UTC",
+        "IST": "Saturday, 18 October 2025, 12:14 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -194,6 +194,10 @@
                 "Winning Chance (%)": 45.24
             },
             {
+                "Team": "Union Berlin",
+                "Winning Chance (%)": 38.1
+            },
+            {
                 "Team": "Eintracht Frankfurt",
                 "Winning Chance (%)": 40.4
             },
@@ -218,10 +222,6 @@
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "Union Berlin",
-                "Winning Chance (%)": 31.11
-            },
-            {
                 "Team": "Augsburg",
                 "Winning Chance (%)": 26.67
             },
@@ -234,12 +234,12 @@
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Borussia M\u00f6nchengladbach",
+                "Team": "Heidenheim",
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Heidenheim",
-                "Winning Chance (%)": 13.33
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Winning Chance (%)": 11.43
             }
         ],
         "Serie A": [
