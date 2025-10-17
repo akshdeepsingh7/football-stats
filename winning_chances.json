@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 17 October 2025, 08:16 PM UTC",
-        "IST": "Saturday, 18 October 2025, 01:46 AM IST"
+        "UTC": "Friday, 17 October 2025, 08:38 PM UTC",
+        "IST": "Saturday, 18 October 2025, 02:08 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -104,6 +104,10 @@
                 "Winning Chance (%)": 52.0
             },
             {
+                "Team": "Espanyol",
+                "Winning Chance (%)": 44.84
+            },
+            {
                 "Team": "Atl\u00e9tico de Madrid",
                 "Winning Chance (%)": 45.33
             },
@@ -114,10 +118,6 @@
             {
                 "Team": "Elche",
                 "Winning Chance (%)": 44.13
-            },
-            {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 38.52
             },
             {
                 "Team": "Athletic Bilbao",
@@ -148,12 +148,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Real Oviedo",
-                "Winning Chance (%)": 20.74
-            },
-            {
                 "Team": "Celta de Vigo",
                 "Winning Chance (%)": 20.0
+            },
+            {
+                "Team": "Real Oviedo",
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Girona",
@@ -326,11 +326,11 @@
         ],
         "Ligue 1": [
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 63.2
+                "Team": "PSG",
+                "Winning Chance (%)": 59.87
             },
             {
-                "Team": "PSG",
+                "Team": "Strasbourg",
                 "Winning Chance (%)": 56.13
             },
             {
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Middlesbrough",
-                "Winning Chance (%)": 59.2
+                "Winning Chance (%)": 58.8
             },
             {
                 "Team": "Coventry City",
@@ -944,11 +944,11 @@
                 "Winning Chance (%)": 41.48
             },
             {
-                "Team": "Bristol City",
-                "Winning Chance (%)": 40.52
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 40.92
             },
             {
-                "Team": "Ipswich Town",
+                "Team": "Bristol City",
                 "Winning Chance (%)": 40.52
             },
             {
