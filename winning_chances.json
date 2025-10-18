@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 04:40 PM UTC",
-        "IST": "Saturday, 18 October 2025, 10:10 PM IST"
+        "UTC": "Saturday, 18 October 2025, 05:11 PM UTC",
+        "IST": "Saturday, 18 October 2025, 10:41 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -171,19 +171,19 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 81.18
+                "Winning Chance (%)": 89.2
             },
             {
                 "Team": "RB Leipzig",
                 "Winning Chance (%)": 61.35
             },
             {
-                "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 60.34
-            },
-            {
                 "Team": "VfB Stuttgart",
                 "Winning Chance (%)": 59.14
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Winning Chance (%)": 56.13
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -339,11 +339,11 @@
             },
             {
                 "Team": "Lyon",
-                "Winning Chance (%)": 50.8
+                "Winning Chance (%)": 51.2
             },
             {
                 "Team": "Monaco",
-                "Winning Chance (%)": 51.12
+                "Winning Chance (%)": 48.27
             },
             {
                 "Team": "Lens",
@@ -391,7 +391,7 @@
             },
             {
                 "Team": "Angers",
-                "Winning Chance (%)": 19.05
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Metz",
