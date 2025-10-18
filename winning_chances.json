@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 12:27 PM UTC",
-        "IST": "Saturday, 18 October 2025, 05:57 PM IST"
+        "UTC": "Saturday, 18 October 2025, 12:59 PM UTC",
+        "IST": "Saturday, 18 October 2025, 06:29 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -18,16 +18,16 @@
                 "Winning Chance (%)": 56.53
             },
             {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 49.07
+            },
+            {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 54.53
             },
             {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 53.12
-            },
-            {
-                "Team": "Chelsea",
-                "Winning Chance (%)": 41.6
             },
             {
                 "Team": "Crystal Palace",
@@ -71,7 +71,7 @@
             },
             {
                 "Team": "Nottingham Forest",
-                "Winning Chance (%)": 20.0
+                "Winning Chance (%)": 16.67
             },
             {
                 "Team": "Burnley",
