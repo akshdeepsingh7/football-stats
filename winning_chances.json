@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 03:35 PM UTC",
-        "IST": "Saturday, 18 October 2025, 09:05 PM IST"
+        "UTC": "Saturday, 18 October 2025, 04:16 PM UTC",
+        "IST": "Saturday, 18 October 2025, 09:46 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -31,7 +31,7 @@
             },
             {
                 "Team": "Sunderland",
-                "Winning Chance (%)": 47.47
+                "Winning Chance (%)": 47.87
             },
             {
                 "Team": "Crystal Palace",
@@ -88,12 +88,12 @@
         ],
         "La Liga": [
             {
-                "Team": "Real Madrid",
-                "Winning Chance (%)": 74.0
+                "Team": "Barcelona",
+                "Winning Chance (%)": 70.79
             },
             {
-                "Team": "Barcelona",
-                "Winning Chance (%)": 64.46
+                "Team": "Real Madrid",
+                "Winning Chance (%)": 74.0
             },
             {
                 "Team": "Villarreal",
@@ -152,15 +152,15 @@
                 "Winning Chance (%)": 23.7
             },
             {
-                "Team": "Girona",
-                "Winning Chance (%)": 20.74
-            },
-            {
                 "Team": "Celta de Vigo",
                 "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Real Oviedo",
+                "Winning Chance (%)": 17.78
+            },
+            {
+                "Team": "Girona",
                 "Winning Chance (%)": 17.78
             },
             {
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 69.07
+                "Winning Chance (%)": 63.35
             },
             {
                 "Team": "Roma",
@@ -300,11 +300,11 @@
                 "Winning Chance (%)": 22.86
             },
             {
-                "Team": "Parma",
-                "Winning Chance (%)": 22.22
+                "Team": "Torino",
+                "Winning Chance (%)": 22.86
             },
             {
-                "Team": "Torino",
+                "Team": "Parma",
                 "Winning Chance (%)": 22.22
             },
             {
@@ -334,12 +334,12 @@
                 "Winning Chance (%)": 56.13
             },
             {
-                "Team": "Lyon",
-                "Winning Chance (%)": 54.93
-            },
-            {
                 "Team": "Marseille",
                 "Winning Chance (%)": 61.14
+            },
+            {
+                "Team": "Lyon",
+                "Winning Chance (%)": 51.2
             },
             {
                 "Team": "Monaco",
@@ -354,6 +354,10 @@
                 "Winning Chance (%)": 43.5
             },
             {
+                "Team": "Nice",
+                "Winning Chance (%)": 36.67
+            },
+            {
                 "Team": "Paris",
                 "Winning Chance (%)": 38.1
             },
@@ -364,10 +368,6 @@
             {
                 "Team": "Rennes",
                 "Winning Chance (%)": 38.1
-            },
-            {
-                "Team": "Nice",
-                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Brest",
@@ -925,7 +925,7 @@
             },
             {
                 "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 45.73
+                "Winning Chance (%)": 45.33
             },
             {
                 "Team": "Millwall",
@@ -941,7 +941,7 @@
             },
             {
                 "Team": "Preston North End",
-                "Winning Chance (%)": 43.47
+                "Winning Chance (%)": 43.87
             },
             {
                 "Team": "Charlton Athletic",
