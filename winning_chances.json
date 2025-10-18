@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 11:36 AM UTC",
-        "IST": "Saturday, 18 October 2025, 05:06 PM IST"
+        "UTC": "Saturday, 18 October 2025, 12:27 PM UTC",
+        "IST": "Saturday, 18 October 2025, 05:57 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -100,6 +100,10 @@
                 "Winning Chance (%)": 55.73
             },
             {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 49.41
+            },
+            {
                 "Team": "Real Betis",
                 "Winning Chance (%)": 52.0
             },
@@ -110,10 +114,6 @@
             {
                 "Team": "Atl\u00e9tico de Madrid",
                 "Winning Chance (%)": 45.33
-            },
-            {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 44.93
             },
             {
                 "Team": "Elche",
@@ -165,7 +165,7 @@
             },
             {
                 "Team": "Mallorca",
-                "Winning Chance (%)": 16.67
+                "Winning Chance (%)": 14.81
             }
         ],
         "Bundesliga": [
@@ -920,6 +920,10 @@
                 "Winning Chance (%)": 64.3
             },
             {
+                "Team": "Millwall",
+                "Winning Chance (%)": 45.33
+            },
+            {
                 "Team": "Leicester City",
                 "Winning Chance (%)": 49.41
             },
@@ -928,15 +932,11 @@
                 "Winning Chance (%)": 49.01
             },
             {
-                "Team": "Queens Park Rangers",
-                "Winning Chance (%)": 42.67
-            },
-            {
                 "Team": "Stoke City",
                 "Winning Chance (%)": 46.44
             },
             {
-                "Team": "Millwall",
+                "Team": "Queens Park Rangers",
                 "Winning Chance (%)": 40.0
             },
             {
@@ -984,7 +984,7 @@
                 "Winning Chance (%)": 29.63
             },
             {
-                "Team": "Derby County",
+                "Team": "Oxford United",
                 "Winning Chance (%)": 24.0
             },
             {
@@ -992,8 +992,8 @@
                 "Winning Chance (%)": 23.7
             },
             {
-                "Team": "Oxford United",
-                "Winning Chance (%)": 18.67
+                "Team": "Derby County",
+                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Blackburn Rovers",
