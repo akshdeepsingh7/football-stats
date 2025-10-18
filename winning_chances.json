@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 06:18 PM UTC",
-        "IST": "Saturday, 18 October 2025, 11:48 PM IST"
+        "UTC": "Saturday, 18 October 2025, 06:42 PM UTC",
+        "IST": "Sunday, 19 October 2025, 12:12 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -97,11 +97,11 @@
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 59.1
+                "Winning Chance (%)": 52.77
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 46.04
+                "Winning Chance (%)": 49.41
             },
             {
                 "Team": "Espanyol",
@@ -334,16 +334,16 @@
                 "Winning Chance (%)": 56.13
             },
             {
+                "Team": "Monaco",
+                "Winning Chance (%)": 55.33
+            },
+            {
                 "Team": "Marseille",
                 "Winning Chance (%)": 61.14
             },
             {
                 "Team": "Lyon",
                 "Winning Chance (%)": 51.2
-            },
-            {
-                "Team": "Monaco",
-                "Winning Chance (%)": 48.27
             },
             {
                 "Team": "Lens",
@@ -391,7 +391,7 @@
             },
             {
                 "Team": "Angers",
-                "Winning Chance (%)": 20.0
+                "Winning Chance (%)": 16.67
             },
             {
                 "Team": "Metz",
