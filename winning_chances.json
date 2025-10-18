@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 12:59 PM UTC",
-        "IST": "Saturday, 18 October 2025, 06:29 PM IST"
+        "UTC": "Saturday, 18 October 2025, 01:26 PM UTC",
+        "IST": "Saturday, 18 October 2025, 06:56 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -19,7 +19,7 @@
             },
             {
                 "Team": "Chelsea",
-                "Winning Chance (%)": 49.07
+                "Winning Chance (%)": 49.47
             },
             {
                 "Team": "AFC Bournemouth",
@@ -272,12 +272,12 @@
                 "Winning Chance (%)": 46.04
             },
             {
-                "Team": "Como",
-                "Winning Chance (%)": 40.8
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 38.1
             },
             {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 40.0
+                "Team": "Como",
+                "Winning Chance (%)": 40.8
             },
             {
                 "Team": "Cremonese",
@@ -296,11 +296,11 @@
                 "Winning Chance (%)": 32.31
             },
             {
-                "Team": "Parma",
-                "Winning Chance (%)": 22.22
+                "Team": "Lecce",
+                "Winning Chance (%)": 22.86
             },
             {
-                "Team": "Lecce",
+                "Team": "Parma",
                 "Winning Chance (%)": 22.22
             },
             {
@@ -308,19 +308,19 @@
                 "Winning Chance (%)": 22.22
             },
             {
+                "Team": "Hellas Verona",
+                "Winning Chance (%)": 15.24
+            },
+            {
                 "Team": "Fiorentina",
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 13.33
+                "Team": "Pisa",
+                "Winning Chance (%)": 11.43
             },
             {
                 "Team": "Genoa",
-                "Winning Chance (%)": 8.89
-            },
-            {
-                "Team": "Pisa",
                 "Winning Chance (%)": 8.89
             }
         ],
