@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 08:36 PM UTC",
-        "IST": "Sunday, 19 October 2025, 02:06 AM IST"
+        "UTC": "Saturday, 18 October 2025, 09:12 PM UTC",
+        "IST": "Sunday, 19 October 2025, 02:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 64.4
+                "Winning Chance (%)": 65.6
             },
             {
                 "Team": "PSG",
@@ -382,12 +382,12 @@
                 "Winning Chance (%)": 22.86
             },
             {
-                "Team": "Le Havre",
-                "Winning Chance (%)": 20.0
-            },
-            {
                 "Team": "Auxerre",
                 "Winning Chance (%)": 22.86
+            },
+            {
+                "Team": "Le Havre",
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Angers",
