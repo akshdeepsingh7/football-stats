@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 October 2025, 04:41 PM UTC",
-        "IST": "Sunday, 19 October 2025, 10:11 PM IST"
+        "UTC": "Sunday, 19 October 2025, 05:12 PM UTC",
+        "IST": "Sunday, 19 October 2025, 10:42 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -14,11 +14,11 @@
                 "Winning Chance (%)": 57.73
             },
             {
-                "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 51.2
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 54.93
             },
             {
-                "Team": "Liverpool FC",
+                "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 51.2
             },
             {
@@ -38,10 +38,6 @@
                 "Winning Chance (%)": 44.93
             },
             {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 43.33
-            },
-            {
                 "Team": "Brighton & Hove Albion",
                 "Winning Chance (%)": 40.4
             },
@@ -51,6 +47,10 @@
             },
             {
                 "Team": "Everton",
+                "Winning Chance (%)": 36.67
+            },
+            {
+                "Team": "Manchester United",
                 "Winning Chance (%)": 36.67
             },
             {
@@ -128,6 +128,10 @@
                 "Winning Chance (%)": 37.07
             },
             {
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 32.59
+            },
+            {
                 "Team": "Getafe",
                 "Winning Chance (%)": 36.67
             },
@@ -137,11 +141,7 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 23.7
             },
             {
                 "Team": "Valencia",
@@ -198,20 +198,16 @@
                 "Winning Chance (%)": 38.5
             },
             {
+                "Team": "Hoffenheim",
+                "Winning Chance (%)": 38.1
+            },
+            {
                 "Team": "Union Berlin",
                 "Winning Chance (%)": 38.1
             },
             {
                 "Team": "SC Freiburg",
                 "Winning Chance (%)": 34.29
-            },
-            {
-                "Team": "St. Pauli",
-                "Winning Chance (%)": 30.48
-            },
-            {
-                "Team": "Hoffenheim",
-                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Hamburg",
@@ -223,6 +219,10 @@
             },
             {
                 "Team": "Augsburg",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "St. Pauli",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -351,15 +351,15 @@
             },
             {
                 "Team": "Toulouse",
-                "Winning Chance (%)": 43.73
-            },
-            {
-                "Team": "Rennes",
-                "Winning Chance (%)": 43.33
+                "Winning Chance (%)": 44.53
             },
             {
                 "Team": "Lille",
                 "Winning Chance (%)": 43.5
+            },
+            {
+                "Team": "Rennes",
+                "Winning Chance (%)": 36.67
             },
             {
                 "Team": "Nice",
@@ -378,15 +378,15 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Auxerre",
+                "Winning Chance (%)": 23.33
+            },
+            {
                 "Team": "Nantes",
                 "Winning Chance (%)": 22.86
             },
             {
                 "Team": "Le Havre",
-                "Winning Chance (%)": 20.0
-            },
-            {
-                "Team": "Auxerre",
                 "Winning Chance (%)": 20.0
             },
             {
