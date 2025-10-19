@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 October 2025, 02:12 PM UTC",
-        "IST": "Sunday, 19 October 2025, 07:42 PM IST"
+        "UTC": "Sunday, 19 October 2025, 02:36 PM UTC",
+        "IST": "Sunday, 19 October 2025, 08:06 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -136,6 +136,10 @@
                 "Winning Chance (%)": 29.63
             },
             {
+                "Team": "Celta de Vigo",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Levante",
                 "Winning Chance (%)": 26.67
             },
@@ -152,10 +156,6 @@
                 "Winning Chance (%)": 23.7
             },
             {
-                "Team": "Celta de Vigo",
-                "Winning Chance (%)": 20.0
-            },
-            {
                 "Team": "Real Oviedo",
                 "Winning Chance (%)": 17.78
             },
@@ -165,7 +165,7 @@
             },
             {
                 "Team": "Real Sociedad",
-                "Winning Chance (%)": 16.67
+                "Winning Chance (%)": 14.81
             }
         ],
         "Bundesliga": [
@@ -338,6 +338,10 @@
                 "Winning Chance (%)": 56.13
             },
             {
+                "Team": "Lens",
+                "Winning Chance (%)": 55.33
+            },
+            {
                 "Team": "Lyon",
                 "Winning Chance (%)": 51.2
             },
@@ -346,16 +350,8 @@
                 "Winning Chance (%)": 48.27
             },
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 48.27
-            },
-            {
                 "Team": "Lille",
                 "Winning Chance (%)": 43.5
-            },
-            {
-                "Team": "Paris",
-                "Winning Chance (%)": 36.67
             },
             {
                 "Team": "Nice",
@@ -368,6 +364,10 @@
             {
                 "Team": "Rennes",
                 "Winning Chance (%)": 38.1
+            },
+            {
+                "Team": "Paris",
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Brest",
