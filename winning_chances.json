@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 October 2025, 01:26 PM UTC",
-        "IST": "Sunday, 19 October 2025, 06:56 PM IST"
+        "UTC": "Sunday, 19 October 2025, 01:38 PM UTC",
+        "IST": "Sunday, 19 October 2025, 07:08 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -10,12 +10,12 @@
                 "Winning Chance (%)": 68.13
             },
             {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 60.27
-            },
-            {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 57.73
+            },
+            {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 53.2
             },
             {
                 "Team": "Liverpool FC",
@@ -46,15 +46,15 @@
                 "Winning Chance (%)": 36.67
             },
             {
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 33.33
+            },
+            {
                 "Team": "Manchester United",
                 "Winning Chance (%)": 38.1
             },
             {
                 "Team": "Newcastle United",
-                "Winning Chance (%)": 30.0
-            },
-            {
-                "Team": "Aston Villa",
                 "Winning Chance (%)": 30.0
             },
             {
@@ -194,16 +194,16 @@
                 "Winning Chance (%)": 42.7
             },
             {
+                "Team": "SC Freiburg",
+                "Winning Chance (%)": 42.3
+            },
+            {
                 "Team": "Union Berlin",
                 "Winning Chance (%)": 38.1
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 40.4
-            },
-            {
-                "Team": "SC Freiburg",
-                "Winning Chance (%)": 35.56
+                "Winning Chance (%)": 34.29
             },
             {
                 "Team": "Hamburg",
@@ -260,16 +260,16 @@
                 "Winning Chance (%)": 60.18
             },
             {
+                "Team": "Bologna",
+                "Winning Chance (%)": 51.52
+            },
+            {
                 "Team": "Como",
                 "Winning Chance (%)": 47.31
             },
             {
                 "Team": "Juventus",
                 "Winning Chance (%)": 46.51
-            },
-            {
-                "Team": "Bologna",
-                "Winning Chance (%)": 43.5
             },
             {
                 "Team": "Atalanta",
@@ -284,12 +284,12 @@
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Cagliari",
-                "Winning Chance (%)": 34.29
-            },
-            {
                 "Team": "Udinese",
                 "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Cagliari",
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Torino",
@@ -338,10 +338,6 @@
                 "Winning Chance (%)": 56.13
             },
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 55.33
-            },
-            {
                 "Team": "Lyon",
                 "Winning Chance (%)": 51.2
             },
@@ -350,8 +346,16 @@
                 "Winning Chance (%)": 48.27
             },
             {
+                "Team": "Lens",
+                "Winning Chance (%)": 48.27
+            },
+            {
                 "Team": "Lille",
                 "Winning Chance (%)": 43.5
+            },
+            {
+                "Team": "Paris",
+                "Winning Chance (%)": 36.67
             },
             {
                 "Team": "Nice",
@@ -364,10 +368,6 @@
             {
                 "Team": "Rennes",
                 "Winning Chance (%)": 38.1
-            },
-            {
-                "Team": "Paris",
-                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Brest",
