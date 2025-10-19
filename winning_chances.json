@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 October 2025, 02:36 PM UTC",
-        "IST": "Sunday, 19 October 2025, 08:06 PM IST"
+        "UTC": "Sunday, 19 October 2025, 03:13 PM UTC",
+        "IST": "Sunday, 19 October 2025, 08:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -14,10 +14,6 @@
                 "Winning Chance (%)": 57.73
             },
             {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 53.2
-            },
-            {
                 "Team": "Liverpool FC",
                 "Winning Chance (%)": 58.74
             },
@@ -27,6 +23,10 @@
             },
             {
                 "Team": "Chelsea",
+                "Winning Chance (%)": 49.47
+            },
+            {
+                "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 49.47
             },
             {
@@ -42,12 +42,12 @@
                 "Winning Chance (%)": 40.4
             },
             {
-                "Team": "Everton",
-                "Winning Chance (%)": 36.67
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 33.33
+                "Team": "Everton",
+                "Winning Chance (%)": 36.67
             },
             {
                 "Team": "Manchester United",
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 51.52
+                "Winning Chance (%)": 51.92
             },
             {
                 "Team": "Como",
