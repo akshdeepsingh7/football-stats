@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 20 October 2025, 06:49 PM UTC",
-        "IST": "Tuesday, 21 October 2025, 12:19 AM IST"
+        "UTC": "Monday, 20 October 2025, 07:12 PM UTC",
+        "IST": "Tuesday, 21 October 2025, 12:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -58,6 +58,10 @@
                 "Winning Chance (%)": 30.0
             },
             {
+                "Team": "Brentford",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Fulham",
                 "Winning Chance (%)": 26.67
             },
@@ -66,20 +70,16 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Brentford",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Burnley",
                 "Winning Chance (%)": 23.33
             },
             {
-                "Team": "Nottingham Forest",
+                "Team": "West Ham United",
                 "Winning Chance (%)": 16.67
             },
             {
-                "Team": "West Ham United",
-                "Winning Chance (%)": 15.24
+                "Team": "Nottingham Forest",
+                "Winning Chance (%)": 16.67
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -124,12 +124,12 @@
                 "Winning Chance (%)": 39.32
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 32.99
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 35.96
             },
             {
-                "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 37.07
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 32.99
             },
             {
                 "Team": "Getafe",
@@ -140,12 +140,12 @@
                 "Winning Chance (%)": 29.63
             },
             {
-                "Team": "Levante",
-                "Winning Chance (%)": 23.7
-            },
-            {
                 "Team": "Valencia",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Levante",
+                "Winning Chance (%)": 23.7
             },
             {
                 "Team": "Mallorca",
@@ -272,6 +272,10 @@
                 "Winning Chance (%)": 46.51
             },
             {
+                "Team": "Cremonese",
+                "Winning Chance (%)": 45.71
+            },
+            {
                 "Team": "Atalanta",
                 "Winning Chance (%)": 44.3
             },
@@ -280,19 +284,15 @@
                 "Winning Chance (%)": 38.1
             },
             {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 38.1
-            },
-            {
-                "Team": "Udinese",
-                "Winning Chance (%)": 34.29
-            },
-            {
                 "Team": "Lazio",
                 "Winning Chance (%)": 31.68
             },
             {
                 "Team": "Cagliari",
+                "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "Udinese",
                 "Winning Chance (%)": 30.48
             },
             {
