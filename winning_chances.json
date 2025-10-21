@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 21 October 2025, 04:44 PM UTC",
-        "IST": "Tuesday, 21 October 2025, 10:14 PM IST"
+        "UTC": "Tuesday, 21 October 2025, 05:14 PM UTC",
+        "IST": "Tuesday, 21 October 2025, 10:44 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -424,6 +424,10 @@
                 "Winning Chance (%)": 81.2
             },
             {
+                "Team": "Barcelona",
+                "Winning Chance (%)": 53.73
+            },
+            {
                 "Team": "Borussia Dortmund",
                 "Winning Chance (%)": 54.53
             },
@@ -457,10 +461,6 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 40.0
-            },
-            {
-                "Team": "Barcelona",
                 "Winning Chance (%)": 40.0
             },
             {
@@ -500,6 +500,10 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Pafos",
+                "Winning Chance (%)": 17.78
+            },
+            {
                 "Team": "Villarreal",
                 "Winning Chance (%)": 13.33
             },
@@ -512,10 +516,6 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Olympiacos",
-                "Winning Chance (%)": 13.33
-            },
-            {
                 "Team": "Monaco",
                 "Winning Chance (%)": 13.33
             },
@@ -524,8 +524,12 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Pafos",
-                "Winning Chance (%)": 13.33
+                "Team": "Olympiacos",
+                "Winning Chance (%)": 8.89
+            },
+            {
+                "Team": "Kairat",
+                "Winning Chance (%)": 8.89
             },
             {
                 "Team": "Benfica",
@@ -537,10 +541,6 @@
             },
             {
                 "Team": "Ajax",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Kairat",
                 "Winning Chance (%)": 0.0
             }
         ],
