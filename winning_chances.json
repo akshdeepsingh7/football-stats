@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 22 October 2025, 04:48 PM UTC",
-        "IST": "Wednesday, 22 October 2025, 10:18 PM IST"
+        "UTC": "Wednesday, 22 October 2025, 05:14 PM UTC",
+        "IST": "Wednesday, 22 October 2025, 10:44 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -412,16 +412,16 @@
                 "Winning Chance (%)": 83.2
             },
             {
+                "Team": "Qaraba\u011f",
+                "Winning Chance (%)": 81.6
+            },
+            {
                 "Team": "Borussia Dortmund",
                 "Winning Chance (%)": 64.22
             },
             {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 63.82
-            },
-            {
-                "Team": "Qaraba\u011f",
-                "Winning Chance (%)": 63.42
             },
             {
                 "Team": "Bayern Munich",
@@ -440,16 +440,16 @@
                 "Winning Chance (%)": 55.33
             },
             {
+                "Team": "Galatasaray",
+                "Winning Chance (%)": 53.33
+            },
+            {
                 "Team": "PSV",
                 "Winning Chance (%)": 36.36
             },
             {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 53.73
-            },
-            {
-                "Team": "Galatasaray",
-                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Marseille",
@@ -466,10 +466,6 @@
             {
                 "Team": "Eintracht Frankfurt",
                 "Winning Chance (%)": 40.0
-            },
-            {
-                "Team": "Bod\u00f8/Glimt",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Liverpool FC",
@@ -500,6 +496,10 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Bod\u00f8/Glimt",
+                "Winning Chance (%)": 17.78
+            },
+            {
                 "Team": "Pafos",
                 "Winning Chance (%)": 17.78
             },
@@ -524,10 +524,6 @@
                 "Winning Chance (%)": 8.89
             },
             {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 8.89
-            },
-            {
                 "Team": "Olympiacos",
                 "Winning Chance (%)": 8.89
             },
@@ -537,6 +533,10 @@
             },
             {
                 "Team": "Benfica",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 0.0
             },
             {
