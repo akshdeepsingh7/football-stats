@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 22 October 2025, 08:39 PM UTC",
-        "IST": "Thursday, 23 October 2025, 02:09 AM IST"
+        "UTC": "Wednesday, 22 October 2025, 09:12 PM UTC",
+        "IST": "Thursday, 23 October 2025, 02:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -444,6 +444,10 @@
                 "Winning Chance (%)": 54.53
             },
             {
+                "Team": "Sporting CP",
+                "Winning Chance (%)": 54.53
+            },
+            {
                 "Team": "Qaraba\u011f",
                 "Winning Chance (%)": 53.73
             },
@@ -456,20 +460,16 @@
                 "Winning Chance (%)": 44.84
             },
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 36.76
-            },
-            {
                 "Team": "PSV",
-                "Winning Chance (%)": 36.36
-            },
-            {
-                "Team": "Sporting CP",
                 "Winning Chance (%)": 36.36
             },
             {
                 "Team": "Atalanta",
                 "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Marseille",
+                "Winning Chance (%)": 27.47
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
