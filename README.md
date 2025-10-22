@@ -10,7 +10,7 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Wednesday, 22 October 2025, 08:18 PM UTC (Thursday, 23 October 2025, 01:48 AM IST)
+**Last Updated:** Wednesday, 22 October 2025, 08:39 PM UTC (Thursday, 23 October 2025, 02:09 AM IST)
 
 _Charts are sorted by Winning Chance (%)_
 
@@ -21,6 +21,10 @@ _Charts are sorted by Winning Chance (%)_
 ### La Liga
 
 ![La Liga Winning Chances](images/La_Liga_winning_chances.png)
+
+### Bundesliga
+
+![Bundesliga Winning Chances](images/Bundesliga_winning_chances.png)
 
 ### Serie A
 
@@ -37,6 +41,10 @@ _Charts are sorted by Winning Chance (%)_
 ### Europa League
 
 ![Europa League Winning Chances](images/Europa_League_winning_chances.png)
+
+### Europa Conference League
+
+![Europa Conference League Winning Chances](images/Europa_Conference_League_winning_chances.png)
 
 ### Liga Portugal
 
