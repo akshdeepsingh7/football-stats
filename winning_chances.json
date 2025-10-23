@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 23 October 2025, 04:19 PM UTC",
-        "IST": "Thursday, 23 October 2025, 09:49 PM IST"
+        "UTC": "Thursday, 23 October 2025, 04:45 PM UTC",
+        "IST": "Thursday, 23 October 2025, 10:15 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -546,23 +546,23 @@
         ],
         "Europa League": [
             {
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 63.42
+            },
+            {
+                "Team": "Braga",
+                "Winning Chance (%)": 63.42
+            },
+            {
+                "Team": "Lyon",
+                "Winning Chance (%)": 63.42
+            },
+            {
                 "Team": "Dinamo Zagreb",
                 "Winning Chance (%)": 81.6
             },
             {
                 "Team": "Midtjylland",
-                "Winning Chance (%)": 81.2
-            },
-            {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 81.2
-            },
-            {
-                "Team": "Braga",
-                "Winning Chance (%)": 81.2
-            },
-            {
-                "Team": "Lyon",
                 "Winning Chance (%)": 81.2
             },
             {
@@ -574,12 +574,16 @@
                 "Winning Chance (%)": 80.8
             },
             {
+                "Team": "Real Betis",
+                "Winning Chance (%)": 45.24
+            },
+            {
                 "Team": "Plze\u0148",
                 "Winning Chance (%)": 54.53
             },
             {
-                "Team": "Real Betis",
-                "Winning Chance (%)": 54.13
+                "Team": "FC Basel",
+                "Winning Chance (%)": 35.96
             },
             {
                 "Team": "SC Freiburg",
@@ -590,6 +594,14 @@
                 "Winning Chance (%)": 53.73
             },
             {
+                "Team": "Go Ahead Eagles",
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "KRC Genk",
+                "Winning Chance (%)": 35.56
+            },
+            {
                 "Team": "Panathinaikos",
                 "Winning Chance (%)": 40.8
             },
@@ -598,23 +610,11 @@
                 "Winning Chance (%)": 40.4
             },
             {
-                "Team": "FC Basel",
-                "Winning Chance (%)": 40.4
-            },
-            {
-                "Team": "Go Ahead Eagles",
-                "Winning Chance (%)": 40.0
-            },
-            {
                 "Team": "Roma",
                 "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Brann",
-                "Winning Chance (%)": 40.0
-            },
-            {
-                "Team": "KRC Genk",
                 "Winning Chance (%)": 40.0
             },
             {
@@ -642,11 +642,11 @@
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Nottingham Forest",
-                "Winning Chance (%)": 13.33
+                "Team": "Red Star Belgrade",
+                "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Red Star Belgrade",
+                "Team": "Nottingham Forest",
                 "Winning Chance (%)": 13.33
             },
             {
