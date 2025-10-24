@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 24 October 2025, 08:16 PM UTC",
-        "IST": "Saturday, 25 October 2025, 01:46 AM IST"
+        "UTC": "Friday, 24 October 2025, 08:40 PM UTC",
+        "IST": "Saturday, 25 October 2025, 02:10 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 59.47
+                "Winning Chance (%)": 55.73
             },
             {
                 "Team": "Inter",
@@ -308,12 +308,12 @@
                 "Winning Chance (%)": 22.86
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 15.24
+                "Team": "Pisa",
+                "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Pisa",
-                "Winning Chance (%)": 13.33
+                "Team": "Hellas Verona",
+                "Winning Chance (%)": 15.24
             },
             {
                 "Team": "Fiorentina",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 59.5
+                "Winning Chance (%)": 59.9
             },
             {
                 "Team": "Benfica",
@@ -928,6 +928,10 @@
                 "Winning Chance (%)": 49.26
             },
             {
+                "Team": "Preston North End",
+                "Winning Chance (%)": 43.42
+            },
+            {
                 "Team": "Charlton Athletic",
                 "Winning Chance (%)": 45.24
             },
@@ -946,10 +950,6 @@
             {
                 "Team": "Leicester City",
                 "Winning Chance (%)": 42.81
-            },
-            {
-                "Team": "Preston North End",
-                "Winning Chance (%)": 38.58
             },
             {
                 "Team": "West Bromwich Albion",
@@ -988,12 +988,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Sheffield United",
-                "Winning Chance (%)": 22.22
-            },
-            {
                 "Team": "Oxford United",
                 "Winning Chance (%)": 21.82
+            },
+            {
+                "Team": "Sheffield United",
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Norwich City",
