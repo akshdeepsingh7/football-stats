@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 24 October 2025, 06:21 PM UTC",
-        "IST": "Friday, 24 October 2025, 11:51 PM IST"
+        "UTC": "Friday, 24 October 2025, 06:45 PM UTC",
+        "IST": "Saturday, 25 October 2025, 12:15 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -194,6 +194,10 @@
                 "Winning Chance (%)": 42.7
             },
             {
+                "Team": "Union Berlin",
+                "Winning Chance (%)": 36.67
+            },
+            {
                 "Team": "Eintracht Frankfurt",
                 "Winning Chance (%)": 38.5
             },
@@ -202,19 +206,15 @@
                 "Winning Chance (%)": 38.1
             },
             {
-                "Team": "Union Berlin",
-                "Winning Chance (%)": 38.1
-            },
-            {
                 "Team": "SC Freiburg",
                 "Winning Chance (%)": 34.29
             },
             {
-                "Team": "Hamburg",
-                "Winning Chance (%)": 30.48
+                "Team": "Werder Bremen",
+                "Winning Chance (%)": 30.0
             },
             {
-                "Team": "Werder Bremen",
+                "Team": "Hamburg",
                 "Winning Chance (%)": 30.48
             },
             {
