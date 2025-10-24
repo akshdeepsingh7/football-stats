@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 24 October 2025, 07:36 PM UTC",
-        "IST": "Saturday, 25 October 2025, 01:06 AM IST"
+        "UTC": "Friday, 24 October 2025, 08:16 PM UTC",
+        "IST": "Saturday, 25 October 2025, 01:46 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -112,16 +112,16 @@
                 "Winning Chance (%)": 45.24
             },
             {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 38.13
-            },
-            {
                 "Team": "Elche",
                 "Winning Chance (%)": 42.28
             },
             {
                 "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 41.48
+            },
+            {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 35.07
             },
             {
                 "Team": "Alav\u00e9s",
@@ -144,6 +144,10 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 24.0
+            },
+            {
                 "Team": "Levante",
                 "Winning Chance (%)": 23.7
             },
@@ -154,10 +158,6 @@
             {
                 "Team": "Celta de Vigo",
                 "Winning Chance (%)": 20.74
-            },
-            {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 18.67
             },
             {
                 "Team": "Real Oviedo",
@@ -194,7 +194,7 @@
                 "Winning Chance (%)": 42.7
             },
             {
-                "Team": "Union Berlin",
+                "Team": "Werder Bremen",
                 "Winning Chance (%)": 36.67
             },
             {
@@ -206,12 +206,12 @@
                 "Winning Chance (%)": 38.1
             },
             {
-                "Team": "SC Freiburg",
-                "Winning Chance (%)": 34.29
+                "Team": "Union Berlin",
+                "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Werder Bremen",
-                "Winning Chance (%)": 30.0
+                "Team": "SC Freiburg",
+                "Winning Chance (%)": 34.29
             },
             {
                 "Team": "Hamburg",
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 66.53
+                "Winning Chance (%)": 59.47
             },
             {
                 "Team": "Inter",
@@ -312,16 +312,16 @@
                 "Winning Chance (%)": 15.24
             },
             {
+                "Team": "Pisa",
+                "Winning Chance (%)": 13.33
+            },
+            {
                 "Team": "Fiorentina",
                 "Winning Chance (%)": 11.43
             },
             {
                 "Team": "Genoa",
                 "Winning Chance (%)": 11.43
-            },
-            {
-                "Team": "Pisa",
-                "Winning Chance (%)": 10.0
             }
         ],
         "Ligue 1": [
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 59.1
+                "Winning Chance (%)": 59.5
             },
             {
                 "Team": "Benfica",
@@ -948,12 +948,12 @@
                 "Winning Chance (%)": 42.81
             },
             {
-                "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 41.21
+                "Team": "Preston North End",
+                "Winning Chance (%)": 38.58
             },
             {
-                "Team": "Preston North End",
-                "Winning Chance (%)": 35.56
+                "Team": "West Bromwich Albion",
+                "Winning Chance (%)": 41.21
             },
             {
                 "Team": "Watford",
@@ -984,12 +984,12 @@
                 "Winning Chance (%)": 29.09
             },
             {
-                "Team": "Sheffield United",
+                "Team": "Derby County",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Derby County",
-                "Winning Chance (%)": 26.67
+                "Team": "Sheffield United",
+                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Oxford United",
