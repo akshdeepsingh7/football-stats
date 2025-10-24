@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 24 October 2025, 01:47 PM UTC",
-        "IST": "Friday, 24 October 2025, 07:17 PM IST"
+        "UTC": "Friday, 24 October 2025, 02:15 PM UTC",
+        "IST": "Friday, 24 October 2025, 07:45 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -716,6 +716,10 @@
                 "Winning Chance (%)": 80.8
             },
             {
+                "Team": "Sparta Prague",
+                "Winning Chance (%)": 54.53
+            },
+            {
                 "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 54.13
             },
@@ -742,10 +746,6 @@
             {
                 "Team": "Zrinjski Mostar",
                 "Winning Chance (%)": 41.6
-            },
-            {
-                "Team": "Sparta Prague",
-                "Winning Chance (%)": 81.2
             },
             {
                 "Team": "Lech",
@@ -792,6 +792,10 @@
                 "Winning Chance (%)": 13.33
             },
             {
+                "Team": "Rijeka",
+                "Winning Chance (%)": 13.33
+            },
+            {
                 "Team": "Shelbourne",
                 "Winning Chance (%)": 13.33
             },
@@ -806,10 +810,6 @@
             {
                 "Team": "Brei\u00f0ablik",
                 "Winning Chance (%)": 13.33
-            },
-            {
-                "Team": "Rijeka",
-                "Winning Chance (%)": 0.0
             },
             {
                 "Team": "Slovan Bratislava",
