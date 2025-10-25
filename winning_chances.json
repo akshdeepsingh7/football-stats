@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 12:27 PM UTC",
-        "IST": "Saturday, 25 October 2025, 05:57 PM IST"
+        "UTC": "Saturday, 25 October 2025, 12:59 PM UTC",
+        "IST": "Saturday, 25 October 2025, 06:29 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -148,6 +148,10 @@
                 "Winning Chance (%)": 24.0
             },
             {
+                "Team": "Real Oviedo",
+                "Winning Chance (%)": 24.0
+            },
+            {
                 "Team": "Levante",
                 "Winning Chance (%)": 23.7
             },
@@ -160,12 +164,8 @@
                 "Winning Chance (%)": 20.74
             },
             {
-                "Team": "Real Oviedo",
-                "Winning Chance (%)": 18.67
-            },
-            {
                 "Team": "Girona",
-                "Winning Chance (%)": 18.67
+                "Winning Chance (%)": 16.0
             }
         ],
         "Bundesliga": [
@@ -920,16 +920,16 @@
                 "Winning Chance (%)": 61.38
             },
             {
+                "Team": "Stoke City",
+                "Winning Chance (%)": 48.67
+            },
+            {
                 "Team": "Millwall",
                 "Winning Chance (%)": 48.48
             },
             {
                 "Team": "Bristol City",
                 "Winning Chance (%)": 49.26
-            },
-            {
-                "Team": "Stoke City",
-                "Winning Chance (%)": 43.82
             },
             {
                 "Team": "Preston North End",
@@ -968,16 +968,16 @@
                 "Winning Chance (%)": 35.14
             },
             {
-                "Team": "Portsmouth",
-                "Winning Chance (%)": 31.11
-            },
-            {
                 "Team": "Wrexham",
                 "Winning Chance (%)": 31.52
             },
             {
                 "Team": "Swansea City",
                 "Winning Chance (%)": 31.52
+            },
+            {
+                "Team": "Portsmouth",
+                "Winning Chance (%)": 28.89
             },
             {
                 "Team": "Southampton",
