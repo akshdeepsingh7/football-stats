@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 04:41 PM UTC",
-        "IST": "Saturday, 25 October 2025, 10:11 PM IST"
+        "UTC": "Saturday, 25 October 2025, 05:11 PM UTC",
+        "IST": "Saturday, 25 October 2025, 10:41 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -16,6 +16,10 @@
             {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 57.73
+            },
+            {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 47.81
             },
             {
                 "Team": "AFC Bournemouth",
@@ -34,16 +38,8 @@
                 "Winning Chance (%)": 43.88
             },
             {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 41.48
-            },
-            {
                 "Team": "Crystal Palace",
                 "Winning Chance (%)": 44.93
-            },
-            {
-                "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 38.92
             },
             {
                 "Team": "Newcastle United",
@@ -52,6 +48,10 @@
             {
                 "Team": "Aston Villa",
                 "Winning Chance (%)": 40.0
+            },
+            {
+                "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Everton",
@@ -327,11 +327,15 @@
         "Ligue 1": [
             {
                 "Team": "PSG",
-                "Winning Chance (%)": 63.26
+                "Winning Chance (%)": 63.66
             },
             {
                 "Team": "Marseille",
                 "Winning Chance (%)": 65.6
+            },
+            {
+                "Team": "Monaco",
+                "Winning Chance (%)": 52.37
             },
             {
                 "Team": "Strasbourg",
@@ -350,12 +354,8 @@
                 "Winning Chance (%)": 49.07
             },
             {
-                "Team": "Monaco",
-                "Winning Chance (%)": 48.27
-            },
-            {
                 "Team": "Toulouse",
-                "Winning Chance (%)": 44.53
+                "Winning Chance (%)": 39.32
             },
             {
                 "Team": "Rennes",
@@ -878,15 +878,15 @@
                 "Winning Chance (%)": 29.63
             },
             {
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Arouca",
                 "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Rio Ave",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Santa Clara",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 3.33
+                "Winning Chance (%)": 5.93
             }
         ],
         "EFL Championship": [
