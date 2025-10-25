@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 12:59 PM UTC",
-        "IST": "Saturday, 25 October 2025, 06:29 PM IST"
+        "UTC": "Saturday, 25 October 2025, 01:25 PM UTC",
+        "IST": "Saturday, 25 October 2025, 06:55 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -265,11 +265,15 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 47.31
+                "Winning Chance (%)": 44.93
             },
             {
                 "Team": "Juventus",
                 "Winning Chance (%)": 46.51
+            },
+            {
+                "Team": "Udinese",
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Atalanta",
@@ -282,10 +286,6 @@
             {
                 "Team": "Cremonese",
                 "Winning Chance (%)": 38.1
-            },
-            {
-                "Team": "Udinese",
-                "Winning Chance (%)": 34.29
             },
             {
                 "Team": "Lazio",
@@ -301,11 +301,11 @@
             },
             {
                 "Team": "Parma",
-                "Winning Chance (%)": 22.86
+                "Winning Chance (%)": 23.33
             },
             {
                 "Team": "Lecce",
-                "Winning Chance (%)": 22.86
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Hellas Verona",
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 72.62
+                "Winning Chance (%)": 72.22
             },
             {
                 "Team": "Middlesbrough",
@@ -948,12 +948,16 @@
                 "Winning Chance (%)": 43.64
             },
             {
-                "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 40.0
-            },
-            {
                 "Team": "Leicester City",
                 "Winning Chance (%)": 42.81
+            },
+            {
+                "Team": "West Bromwich Albion",
+                "Winning Chance (%)": 37.78
+            },
+            {
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 40.39
             },
             {
                 "Team": "Watford",
@@ -962,10 +966,6 @@
             {
                 "Team": "Birmingham City",
                 "Winning Chance (%)": 36.36
-            },
-            {
-                "Team": "Ipswich Town",
-                "Winning Chance (%)": 35.14
             },
             {
                 "Team": "Wrexham",
