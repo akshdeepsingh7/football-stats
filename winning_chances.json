@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 07:11 PM UTC",
-        "IST": "Sunday, 26 October 2025, 12:41 AM IST"
+        "UTC": "Saturday, 25 October 2025, 07:36 PM UTC",
+        "IST": "Sunday, 26 October 2025, 01:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -842,16 +842,16 @@
                 "Winning Chance (%)": 80.53
             },
             {
+                "Team": "Benfica",
+                "Winning Chance (%)": 59.9
+            },
+            {
                 "Team": "Sporting CP",
                 "Winning Chance (%)": 69.33
             },
             {
                 "Team": "Gil Vicente",
                 "Winning Chance (%)": 60.3
-            },
-            {
-                "Team": "Benfica",
-                "Winning Chance (%)": 63.6
             },
             {
                 "Team": "Moreirense",
@@ -878,24 +878,24 @@
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Alverca",
+                "Team": "Arouca",
                 "Winning Chance (%)": 29.63
             },
             {
-                "Team": "Arouca",
-                "Winning Chance (%)": 30.0
+                "Team": "Alverca",
+                "Winning Chance (%)": 29.63
             },
             {
                 "Team": "Rio Ave",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Casa Pia",
-                "Winning Chance (%)": 26.67
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 23.7
             },
             {
-                "Team": "Estrela Amadora",
-                "Winning Chance (%)": 23.33
+                "Team": "Casa Pia",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Estoril",
