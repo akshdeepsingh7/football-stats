@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 06:19 PM UTC",
-        "IST": "Saturday, 25 October 2025, 11:49 PM IST"
+        "UTC": "Saturday, 25 October 2025, 06:44 PM UTC",
+        "IST": "Sunday, 26 October 2025, 12:14 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -179,7 +179,7 @@
             },
             {
                 "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 52.8
+                "Winning Chance (%)": 59.87
             },
             {
                 "Team": "VfB Stuttgart",
@@ -199,7 +199,7 @@
             },
             {
                 "Team": "K\u00f6ln",
-                "Winning Chance (%)": 40.8
+                "Winning Chance (%)": 37.07
             },
             {
                 "Team": "Werder Bremen",
@@ -866,6 +866,10 @@
                 "Winning Chance (%)": 36.67
             },
             {
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 32.59
+            },
+            {
                 "Team": "Braga",
                 "Winning Chance (%)": 34.93
             },
@@ -876,10 +880,6 @@
             {
                 "Team": "Alverca",
                 "Winning Chance (%)": 29.63
-            },
-            {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Arouca",
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 5.93
+                "Winning Chance (%)": 2.96
             }
         ],
         "EFL Championship": [
