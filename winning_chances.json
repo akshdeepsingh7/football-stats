@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 11:11 AM UTC",
-        "IST": "Saturday, 25 October 2025, 04:41 PM IST"
+        "UTC": "Saturday, 25 October 2025, 11:36 AM UTC",
+        "IST": "Saturday, 25 October 2025, 05:06 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 69.81
+                "Winning Chance (%)": 71.82
             },
             {
                 "Team": "Middlesbrough",
@@ -928,15 +928,15 @@
                 "Winning Chance (%)": 49.26
             },
             {
+                "Team": "Stoke City",
+                "Winning Chance (%)": 43.82
+            },
+            {
                 "Team": "Preston North End",
                 "Winning Chance (%)": 43.42
             },
             {
                 "Team": "Charlton Athletic",
-                "Winning Chance (%)": 45.24
-            },
-            {
-                "Team": "Stoke City",
                 "Winning Chance (%)": 45.24
             },
             {
@@ -948,16 +948,16 @@
                 "Winning Chance (%)": 43.64
             },
             {
+                "Team": "West Bromwich Albion",
+                "Winning Chance (%)": 40.0
+            },
+            {
                 "Team": "Leicester City",
                 "Winning Chance (%)": 42.81
             },
             {
-                "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 41.21
-            },
-            {
                 "Team": "Watford",
-                "Winning Chance (%)": 36.36
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Birmingham City",
@@ -965,7 +965,11 @@
             },
             {
                 "Team": "Ipswich Town",
-                "Winning Chance (%)": 35.87
+                "Winning Chance (%)": 35.14
+            },
+            {
+                "Team": "Portsmouth",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Wrexham",
@@ -973,10 +977,6 @@
             },
             {
                 "Team": "Swansea City",
-                "Winning Chance (%)": 31.52
-            },
-            {
-                "Team": "Portsmouth",
                 "Winning Chance (%)": 31.52
             },
             {
