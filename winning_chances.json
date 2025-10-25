@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 01:25 PM UTC",
-        "IST": "Saturday, 25 October 2025, 06:55 PM IST"
+        "UTC": "Saturday, 25 October 2025, 01:38 PM UTC",
+        "IST": "Saturday, 25 October 2025, 07:08 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -175,7 +175,7 @@
             },
             {
                 "Team": "RB Leipzig",
-                "Winning Chance (%)": 61.35
+                "Winning Chance (%)": 57.07
             },
             {
                 "Team": "VfB Stuttgart",
@@ -194,16 +194,16 @@
                 "Winning Chance (%)": 42.7
             },
             {
-                "Team": "Werder Bremen",
-                "Winning Chance (%)": 36.67
-            },
-            {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 38.5
+                "Winning Chance (%)": 37.07
             },
             {
                 "Team": "Hoffenheim",
-                "Winning Chance (%)": 38.1
+                "Winning Chance (%)": 36.67
+            },
+            {
+                "Team": "Werder Bremen",
+                "Winning Chance (%)": 36.67
             },
             {
                 "Team": "Union Berlin",
@@ -215,7 +215,7 @@
             },
             {
                 "Team": "Hamburg",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Augsburg",
@@ -227,14 +227,14 @@
             },
             {
                 "Team": "VfL Wolfsburg",
-                "Winning Chance (%)": 19.05
-            },
-            {
-                "Team": "Mainz 05",
-                "Winning Chance (%)": 15.24
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Heidenheim",
+                "Winning Chance (%)": 16.67
+            },
+            {
+                "Team": "Mainz 05",
                 "Winning Chance (%)": 15.24
             },
             {
