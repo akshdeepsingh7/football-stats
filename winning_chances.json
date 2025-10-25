@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 04:16 PM UTC",
-        "IST": "Saturday, 25 October 2025, 09:46 PM IST"
+        "UTC": "Saturday, 25 October 2025, 04:41 PM UTC",
+        "IST": "Saturday, 25 October 2025, 10:11 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -34,16 +34,16 @@
                 "Winning Chance (%)": 43.88
             },
             {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 41.48
+            },
+            {
                 "Team": "Crystal Palace",
                 "Winning Chance (%)": 44.93
             },
             {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 43.33
-            },
-            {
                 "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 40.4
+                "Winning Chance (%)": 38.92
             },
             {
                 "Team": "Newcastle United",
@@ -112,12 +112,12 @@
                 "Winning Chance (%)": 49.41
             },
             {
-                "Team": "Elche",
-                "Winning Chance (%)": 37.73
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 41.48
+                "Team": "Elche",
+                "Winning Chance (%)": 37.73
             },
             {
                 "Team": "Sevilla",
@@ -128,12 +128,12 @@
                 "Winning Chance (%)": 35.96
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 32.99
+                "Team": "Getafe",
+                "Winning Chance (%)": 32.0
             },
             {
-                "Team": "Getafe",
-                "Winning Chance (%)": 32.59
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 32.99
             },
             {
                 "Team": "Osasuna",
@@ -178,12 +178,12 @@
                 "Winning Chance (%)": 66.13
             },
             {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 59.14
+                "Team": "Borussia Dortmund",
+                "Winning Chance (%)": 52.8
             },
             {
-                "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 56.13
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 59.14
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -199,7 +199,7 @@
             },
             {
                 "Team": "K\u00f6ln",
-                "Winning Chance (%)": 42.7
+                "Winning Chance (%)": 40.8
             },
             {
                 "Team": "Werder Bremen",
@@ -244,20 +244,20 @@
         ],
         "Serie A": [
             {
+                "Team": "Napoli",
+                "Winning Chance (%)": 62.4
+            },
+            {
                 "Team": "Milan",
                 "Winning Chance (%)": 59.47
             },
             {
-                "Team": "Inter",
-                "Winning Chance (%)": 57.33
-            },
-            {
-                "Team": "Napoli",
-                "Winning Chance (%)": 55.33
-            },
-            {
                 "Team": "Roma",
                 "Winning Chance (%)": 58.74
+            },
+            {
+                "Team": "Inter",
+                "Winning Chance (%)": 53.6
             },
             {
                 "Team": "Bologna",
