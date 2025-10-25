@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 06:44 PM UTC",
-        "IST": "Sunday, 26 October 2025, 12:14 AM IST"
+        "UTC": "Saturday, 25 October 2025, 07:11 PM UTC",
+        "IST": "Sunday, 26 October 2025, 12:41 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -27,7 +27,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 51.2
+                "Winning Chance (%)": 45.24
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -40,6 +40,10 @@
             {
                 "Team": "Crystal Palace",
                 "Winning Chance (%)": 44.93
+            },
+            {
+                "Team": "Brentford",
+                "Winning Chance (%)": 38.52
             },
             {
                 "Team": "Newcastle United",
@@ -60,10 +64,6 @@
             {
                 "Team": "Leeds United",
                 "Winning Chance (%)": 32.59
-            },
-            {
-                "Team": "Brentford",
-                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Fulham",
@@ -96,12 +96,12 @@
                 "Winning Chance (%)": 70.79
             },
             {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 49.2
+                "Team": "Villarreal",
+                "Winning Chance (%)": 50.4
             },
             {
-                "Team": "Villarreal",
-                "Winning Chance (%)": 52.77
+                "Team": "Espanyol",
+                "Winning Chance (%)": 49.2
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
@@ -272,19 +272,19 @@
                 "Winning Chance (%)": 46.51
             },
             {
+                "Team": "Atalanta",
+                "Winning Chance (%)": 42.4
+            },
+            {
                 "Team": "Udinese",
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Atalanta",
-                "Winning Chance (%)": 44.3
+                "Team": "Cremonese",
+                "Winning Chance (%)": 36.67
             },
             {
                 "Team": "Sassuolo",
-                "Winning Chance (%)": 38.1
-            },
-            {
-                "Team": "Cremonese",
                 "Winning Chance (%)": 38.1
             },
             {
@@ -331,19 +331,19 @@
             },
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 65.6
+                "Winning Chance (%)": 61.9
             },
             {
                 "Team": "Monaco",
                 "Winning Chance (%)": 52.37
             },
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 56.13
+                "Team": "Lens",
+                "Winning Chance (%)": 52.37
             },
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 55.33
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 56.13
             },
             {
                 "Team": "Lyon",
@@ -1100,11 +1100,15 @@
                 "Winning Chance (%)": 34.94
             },
             {
+                "Team": "Corinthians",
+                "Winning Chance (%)": 32.89
+            },
+            {
                 "Team": "RB Bragantino",
                 "Winning Chance (%)": 33.1
             },
             {
-                "Team": "Corinthians",
+                "Team": "Atl\u00e9tico Mineiro",
                 "Winning Chance (%)": 33.1
             },
             {
@@ -1113,23 +1117,19 @@
             },
             {
                 "Team": "Cear\u00e1",
-                "Winning Chance (%)": 33.33
+                "Winning Chance (%)": 32.18
             },
             {
                 "Team": "Internacional",
                 "Winning Chance (%)": 32.18
             },
             {
-                "Team": "Atl\u00e9tico Mineiro",
-                "Winning Chance (%)": 31.43
+                "Team": "Vit\u00f3ria",
+                "Winning Chance (%)": 28.44
             },
             {
                 "Team": "Santos",
                 "Winning Chance (%)": 29.52
-            },
-            {
-                "Team": "Vit\u00f3ria",
-                "Winning Chance (%)": 28.51
             },
             {
                 "Team": "Juventude",
