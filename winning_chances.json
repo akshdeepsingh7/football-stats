@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 October 2025, 04:42 PM UTC",
-        "IST": "Sunday, 26 October 2025, 10:12 PM IST"
+        "UTC": "Sunday, 26 October 2025, 05:12 PM UTC",
+        "IST": "Sunday, 26 October 2025, 10:42 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -14,6 +14,10 @@
                 "Winning Chance (%)": 55.33
             },
             {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 53.57
+            },
+            {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 51.97
             },
@@ -24,10 +28,6 @@
             {
                 "Team": "Manchester United",
                 "Winning Chance (%)": 47.81
-            },
-            {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 47.24
             },
             {
                 "Team": "Liverpool FC",
@@ -54,12 +54,12 @@
                 "Winning Chance (%)": 35.96
             },
             {
-                "Team": "Everton",
+                "Team": "Brighton & Hove Albion",
                 "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 35.56
+                "Team": "Everton",
+                "Winning Chance (%)": 32.59
             },
             {
                 "Team": "Leeds United",
@@ -187,7 +187,7 @@
             },
             {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 55.33
+                "Winning Chance (%)": 51.6
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -222,16 +222,16 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Mainz 05",
+                "Winning Chance (%)": 23.33
+            },
+            {
                 "Team": "St. Pauli",
                 "Winning Chance (%)": 23.33
             },
             {
                 "Team": "Augsburg",
                 "Winning Chance (%)": 23.33
-            },
-            {
-                "Team": "Mainz 05",
-                "Winning Chance (%)": 16.67
             },
             {
                 "Team": "Heidenheim",
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 51.92
+                "Winning Chance (%)": 49.07
             },
             {
                 "Team": "Como",
@@ -312,12 +312,12 @@
                 "Winning Chance (%)": 16.67
             },
             {
-                "Team": "Pisa",
+                "Team": "Fiorentina",
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Fiorentina",
-                "Winning Chance (%)": 11.43
+                "Team": "Pisa",
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Genoa",
@@ -354,16 +354,16 @@
                 "Winning Chance (%)": 51.2
             },
             {
+                "Team": "Nice",
+                "Winning Chance (%)": 41.48
+            },
+            {
                 "Team": "Toulouse",
                 "Winning Chance (%)": 39.32
             },
             {
                 "Team": "Rennes",
-                "Winning Chance (%)": 35.56
-            },
-            {
-                "Team": "Nice",
-                "Winning Chance (%)": 35.56
+                "Winning Chance (%)": 32.59
             },
             {
                 "Team": "Paris",
@@ -862,15 +862,15 @@
                 "Winning Chance (%)": 50.4
             },
             {
-                "Team": "Nacional",
-                "Winning Chance (%)": 38.52
-            },
-            {
                 "Team": "Vit\u00f3ria S.C.",
                 "Winning Chance (%)": 32.59
             },
             {
                 "Team": "Rio Ave",
+                "Winning Chance (%)": 32.59
+            },
+            {
+                "Team": "Nacional",
                 "Winning Chance (%)": 32.59
             },
             {
@@ -894,12 +894,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Estrela Amadora",
+                "Team": "Estoril",
                 "Winning Chance (%)": 20.74
             },
             {
-                "Team": "Estoril",
-                "Winning Chance (%)": 17.78
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 20.74
             },
             {
                 "Team": "Tondela",
