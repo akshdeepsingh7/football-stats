@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 October 2025, 02:12 PM UTC",
-        "IST": "Sunday, 26 October 2025, 07:42 PM IST"
+        "UTC": "Sunday, 26 October 2025, 02:37 PM UTC",
+        "IST": "Sunday, 26 October 2025, 08:07 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -10,16 +10,16 @@
                 "Winning Chance (%)": 64.06
             },
             {
-                "Team": "Manchester City",
-                "Winning Chance (%)": 54.77
+                "Team": "AFC Bournemouth",
+                "Winning Chance (%)": 54.93
             },
             {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 51.97
             },
             {
-                "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 48.61
+                "Team": "Manchester City",
+                "Winning Chance (%)": 51.41
             },
             {
                 "Team": "Manchester United",
@@ -28,6 +28,10 @@
             {
                 "Team": "Liverpool FC",
                 "Winning Chance (%)": 45.24
+            },
+            {
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 44.84
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -43,10 +47,6 @@
             },
             {
                 "Team": "Brentford",
-                "Winning Chance (%)": 38.52
-            },
-            {
-                "Team": "Aston Villa",
                 "Winning Chance (%)": 38.52
             },
             {
@@ -66,16 +66,16 @@
                 "Winning Chance (%)": 32.59
             },
             {
+                "Team": "Burnley",
+                "Winning Chance (%)": 29.63
+            },
+            {
                 "Team": "Fulham",
                 "Winning Chance (%)": 23.7
             },
             {
-                "Team": "Burnley",
-                "Winning Chance (%)": 23.7
-            },
-            {
                 "Team": "Nottingham Forest",
-                "Winning Chance (%)": 17.78
+                "Winning Chance (%)": 14.81
             },
             {
                 "Team": "West Ham United",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 8.89
+                "Winning Chance (%)": 5.93
             }
         ],
         "La Liga": [
@@ -182,12 +182,12 @@
                 "Winning Chance (%)": 59.87
             },
             {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 59.14
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 52.0
             },
             {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 55.33
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 59.14
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -206,12 +206,12 @@
                 "Winning Chance (%)": 36.67
             },
             {
-                "Team": "Union Berlin",
+                "Team": "SC Freiburg",
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "SC Freiburg",
-                "Winning Chance (%)": 34.29
+                "Team": "Union Berlin",
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "VfL Wolfsburg",
@@ -248,12 +248,12 @@
                 "Winning Chance (%)": 62.8
             },
             {
-                "Team": "Milan",
-                "Winning Chance (%)": 59.47
+                "Team": "Roma",
+                "Winning Chance (%)": 62.0
             },
             {
-                "Team": "Roma",
-                "Winning Chance (%)": 54.93
+                "Team": "Milan",
+                "Winning Chance (%)": 59.47
             },
             {
                 "Team": "Inter",
@@ -280,10 +280,6 @@
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 36.67
-            },
-            {
                 "Team": "Cremonese",
                 "Winning Chance (%)": 36.67
             },
@@ -292,24 +288,28 @@
                 "Winning Chance (%)": 36.67
             },
             {
-                "Team": "Cagliari",
-                "Winning Chance (%)": 30.0
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Lazio",
                 "Winning Chance (%)": 31.68
             },
             {
+                "Team": "Cagliari",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Parma",
+                "Winning Chance (%)": 23.33
+            },
+            {
+                "Team": "Hellas Verona",
                 "Winning Chance (%)": 23.33
             },
             {
                 "Team": "Lecce",
                 "Winning Chance (%)": 20.0
-            },
-            {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 16.67
             },
             {
                 "Team": "Pisa",
@@ -338,16 +338,16 @@
                 "Winning Chance (%)": 58.53
             },
             {
+                "Team": "Lille",
+                "Winning Chance (%)": 53.57
+            },
+            {
                 "Team": "Monaco",
                 "Winning Chance (%)": 52.37
             },
             {
                 "Team": "Strasbourg",
                 "Winning Chance (%)": 56.13
-            },
-            {
-                "Team": "Lille",
-                "Winning Chance (%)": 46.84
             },
             {
                 "Team": "Lyon",
@@ -395,7 +395,7 @@
             },
             {
                 "Team": "Metz",
-                "Winning Chance (%)": 8.89
+                "Winning Chance (%)": 5.93
             }
         ],
         "Champions League": [
