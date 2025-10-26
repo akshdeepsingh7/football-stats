@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 October 2025, 01:00 PM UTC",
-        "IST": "Sunday, 26 October 2025, 06:30 PM IST"
+        "UTC": "Sunday, 26 October 2025, 01:38 PM UTC",
+        "IST": "Sunday, 26 October 2025, 07:08 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -136,6 +136,10 @@
                 "Winning Chance (%)": 32.99
             },
             {
+                "Team": "Levante",
+                "Winning Chance (%)": 29.33
+            },
+            {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 29.63
             },
@@ -148,12 +152,8 @@
                 "Winning Chance (%)": 24.0
             },
             {
-                "Team": "Levante",
-                "Winning Chance (%)": 23.7
-            },
-            {
                 "Team": "Mallorca",
-                "Winning Chance (%)": 23.7
+                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Celta de Vigo",
@@ -284,12 +284,12 @@
                 "Winning Chance (%)": 36.67
             },
             {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 38.1
+                "Team": "Torino",
+                "Winning Chance (%)": 36.67
             },
             {
-                "Team": "Torino",
-                "Winning Chance (%)": 30.0
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 38.1
             },
             {
                 "Team": "Lazio",
@@ -312,16 +312,16 @@
                 "Winning Chance (%)": 15.24
             },
             {
-                "Team": "Genoa",
-                "Winning Chance (%)": 13.33
-            },
-            {
                 "Team": "Pisa",
                 "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Fiorentina",
                 "Winning Chance (%)": 11.43
+            },
+            {
+                "Team": "Genoa",
+                "Winning Chance (%)": 10.0
             }
         ],
         "Ligue 1": [
