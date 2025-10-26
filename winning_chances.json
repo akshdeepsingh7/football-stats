@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 October 2025, 05:37 PM UTC",
-        "IST": "Sunday, 26 October 2025, 11:07 PM IST"
+        "UTC": "Sunday, 26 October 2025, 06:19 PM UTC",
+        "IST": "Sunday, 26 October 2025, 11:49 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -128,16 +128,16 @@
                 "Winning Chance (%)": 35.07
             },
             {
+                "Team": "Osasuna",
+                "Winning Chance (%)": 34.67
+            },
+            {
                 "Team": "Alav\u00e9s",
                 "Winning Chance (%)": 35.96
             },
             {
                 "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 32.99
-            },
-            {
-                "Team": "Osasuna",
-                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Levante",
@@ -157,7 +157,7 @@
             },
             {
                 "Team": "Celta de Vigo",
-                "Winning Chance (%)": 21.33
+                "Winning Chance (%)": 18.67
             },
             {
                 "Team": "Real Oviedo",
@@ -178,16 +178,16 @@
                 "Winning Chance (%)": 66.13
             },
             {
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 62.4
+            },
+            {
                 "Team": "Borussia Dortmund",
                 "Winning Chance (%)": 59.87
             },
             {
                 "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 59.47
-            },
-            {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 55.33
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -231,7 +231,7 @@
             },
             {
                 "Team": "Mainz 05",
-                "Winning Chance (%)": 16.67
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Heidenheim",
@@ -257,7 +257,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 56.13
+                "Winning Chance (%)": 56.53
             },
             {
                 "Team": "Inter",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 69.33
+                "Winning Chance (%)": 65.26
             },
             {
                 "Team": "Gil Vicente",
@@ -903,7 +903,7 @@
             },
             {
                 "Team": "Tondela",
-                "Winning Chance (%)": 16.67
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "AVS",
