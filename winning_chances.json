@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 29 October 2025, 08:17 PM UTC",
-        "IST": "Thursday, 30 October 2025, 01:47 AM IST"
+        "UTC": "Wednesday, 29 October 2025, 08:41 PM UTC",
+        "IST": "Thursday, 30 October 2025, 02:11 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -334,16 +334,16 @@
                 "Winning Chance (%)": 58.0
             },
             {
-                "Team": "Monaco",
-                "Winning Chance (%)": 55.73
+                "Team": "Lens",
+                "Winning Chance (%)": 52.27
             },
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 55.87
+                "Winning Chance (%)": 52.8
             },
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 52.27
+                "Team": "Monaco",
+                "Winning Chance (%)": 50.0
             },
             {
                 "Team": "Lille",
@@ -370,19 +370,19 @@
                 "Winning Chance (%)": 32.0
             },
             {
+                "Team": "Angers",
+                "Winning Chance (%)": 32.0
+            },
+            {
+                "Team": "Nantes",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Paris FC",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Angers",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Brest",
-                "Winning Chance (%)": 24.0
-            },
-            {
-                "Team": "Nantes",
                 "Winning Chance (%)": 24.0
             },
             {
