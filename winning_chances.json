@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 29 October 2025, 09:37 PM UTC",
-        "IST": "Thursday, 30 October 2025, 03:07 AM IST"
+        "UTC": "Wednesday, 29 October 2025, 10:14 PM UTC",
+        "IST": "Thursday, 30 October 2025, 03:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -326,24 +326,24 @@
         ],
         "Ligue 1": [
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 61.6
-            },
-            {
                 "Team": "PSG",
                 "Winning Chance (%)": 60.4
             },
             {
-                "Team": "Lyon",
-                "Winning Chance (%)": 58.4
+                "Team": "Monaco",
+                "Winning Chance (%)": 56.13
             },
             {
-                "Team": "Monaco",
-                "Winning Chance (%)": 55.73
+                "Team": "Marseille",
+                "Winning Chance (%)": 55.87
             },
             {
                 "Team": "Strasbourg",
                 "Winning Chance (%)": 54.27
+            },
+            {
+                "Team": "Lyon",
+                "Winning Chance (%)": 52.27
             },
             {
                 "Team": "Lens",
@@ -358,12 +358,12 @@
                 "Winning Chance (%)": 45.73
             },
             {
-                "Team": "Rennes",
-                "Winning Chance (%)": 37.33
+                "Team": "Toulouse",
+                "Winning Chance (%)": 38.13
             },
             {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 35.07
+                "Team": "Rennes",
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Le Havre",
@@ -371,6 +371,10 @@
             },
             {
                 "Team": "Paris FC",
+                "Winning Chance (%)": 29.33
+            },
+            {
+                "Team": "Angers",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -379,10 +383,6 @@
             },
             {
                 "Team": "Nantes",
-                "Winning Chance (%)": 24.0
-            },
-            {
-                "Team": "Angers",
                 "Winning Chance (%)": 24.0
             },
             {
@@ -1089,7 +1089,7 @@
             },
             {
                 "Team": "Fluminense",
-                "Winning Chance (%)": 40.86
+                "Winning Chance (%)": 40.4
             },
             {
                 "Team": "Vasco da Gama",
@@ -1112,12 +1112,12 @@
                 "Winning Chance (%)": 32.0
             },
             {
-                "Team": "Atl\u00e9tico Mineiro",
-                "Winning Chance (%)": 33.1
+                "Team": "Cear\u00e1",
+                "Winning Chance (%)": 32.0
             },
             {
-                "Team": "Cear\u00e1",
-                "Winning Chance (%)": 32.18
+                "Team": "Atl\u00e9tico Mineiro",
+                "Winning Chance (%)": 33.1
             },
             {
                 "Team": "Internacional",
