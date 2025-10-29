@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 29 October 2025, 06:49 PM UTC",
-        "IST": "Thursday, 30 October 2025, 12:19 AM IST"
+        "UTC": "Wednesday, 29 October 2025, 07:12 PM UTC",
+        "IST": "Thursday, 30 October 2025, 12:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -249,35 +249,35 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 58.3
+                "Winning Chance (%)": 64.62
             },
             {
                 "Team": "Milan",
                 "Winning Chance (%)": 56.13
             },
             {
+                "Team": "Como",
+                "Winning Chance (%)": 49.41
+            },
+            {
                 "Team": "Inter",
                 "Winning Chance (%)": 53.2
+            },
+            {
+                "Team": "Juventus",
+                "Winning Chance (%)": 45.24
             },
             {
                 "Team": "Bologna",
                 "Winning Chance (%)": 49.07
             },
             {
-                "Team": "Como",
-                "Winning Chance (%)": 43.08
-            },
-            {
                 "Team": "Atalanta",
                 "Winning Chance (%)": 40.92
             },
             {
-                "Team": "Juventus",
-                "Winning Chance (%)": 38.92
-            },
-            {
                 "Team": "Udinese",
-                "Winning Chance (%)": 38.52
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Lazio",
@@ -301,7 +301,7 @@
             },
             {
                 "Team": "Parma",
-                "Winning Chance (%)": 23.7
+                "Winning Chance (%)": 20.74
             },
             {
                 "Team": "Lecce",
@@ -309,7 +309,7 @@
             },
             {
                 "Team": "Hellas Verona",
-                "Winning Chance (%)": 17.78
+                "Winning Chance (%)": 14.81
             },
             {
                 "Team": "Fiorentina",
