@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 29 October 2025, 08:41 PM UTC",
-        "IST": "Thursday, 30 October 2025, 02:11 AM IST"
+        "UTC": "Wednesday, 29 October 2025, 09:13 PM UTC",
+        "IST": "Thursday, 30 October 2025, 02:43 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -252,12 +252,12 @@
                 "Winning Chance (%)": 64.62
             },
             {
-                "Team": "Milan",
-                "Winning Chance (%)": 56.13
+                "Team": "Inter",
+                "Winning Chance (%)": 56.93
             },
             {
-                "Team": "Inter",
-                "Winning Chance (%)": 50.61
+                "Team": "Milan",
+                "Winning Chance (%)": 56.13
             },
             {
                 "Team": "Como",
@@ -273,7 +273,7 @@
             },
             {
                 "Team": "Cremonese",
-                "Winning Chance (%)": 41.48
+                "Winning Chance (%)": 41.88
             },
             {
                 "Team": "Atalanta",
@@ -308,16 +308,16 @@
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Fiorentina",
-                "Winning Chance (%)": 14.81
-            },
-            {
                 "Team": "Hellas Verona",
                 "Winning Chance (%)": 14.81
             },
             {
                 "Team": "Pisa",
                 "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Fiorentina",
+                "Winning Chance (%)": 11.85
             },
             {
                 "Team": "Genoa",
@@ -334,6 +334,10 @@
                 "Winning Chance (%)": 58.0
             },
             {
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 53.47
+            },
+            {
                 "Team": "Lens",
                 "Winning Chance (%)": 52.27
             },
@@ -348,10 +352,6 @@
             {
                 "Team": "Lille",
                 "Winning Chance (%)": 48.93
-            },
-            {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 47.73
             },
             {
                 "Team": "Nice",
@@ -391,7 +391,7 @@
             },
             {
                 "Team": "Auxerre",
-                "Winning Chance (%)": 21.33
+                "Winning Chance (%)": 18.67
             },
             {
                 "Team": "Metz",
