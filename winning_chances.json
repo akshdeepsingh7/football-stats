@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 30 October 2025, 06:21 PM UTC",
-        "IST": "Thursday, 30 October 2025, 11:51 PM IST"
+        "UTC": "Thursday, 30 October 2025, 06:49 PM UTC",
+        "IST": "Friday, 31 October 2025, 12:19 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -280,6 +280,10 @@
                 "Winning Chance (%)": 40.92
             },
             {
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 38.52
+            },
+            {
                 "Team": "Udinese",
                 "Winning Chance (%)": 35.56
             },
@@ -292,12 +296,8 @@
                 "Winning Chance (%)": 38.27
             },
             {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 32.59
-            },
-            {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 29.63
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Parma",
