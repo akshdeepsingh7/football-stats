@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 31 October 2025, 09:13 PM UTC",
-        "IST": "Saturday, 01 November 2025, 02:43 AM IST"
+        "UTC": "Friday, 31 October 2025, 09:35 PM UTC",
+        "IST": "Saturday, 01 November 2025, 03:05 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -108,12 +108,12 @@
                 "Winning Chance (%)": 49.2
             },
             {
-                "Team": "Real Betis",
-                "Winning Chance (%)": 43.87
+                "Team": "Getafe",
+                "Winning Chance (%)": 41.21
             },
             {
-                "Team": "Getafe",
-                "Winning Chance (%)": 36.36
+                "Team": "Real Betis",
+                "Winning Chance (%)": 43.87
             },
             {
                 "Team": "Rayo Vallecano",
@@ -160,12 +160,12 @@
                 "Winning Chance (%)": 24.0
             },
             {
-                "Team": "Girona",
-                "Winning Chance (%)": 19.39
-            },
-            {
                 "Team": "Real Oviedo",
                 "Winning Chance (%)": 18.67
+            },
+            {
+                "Team": "Girona",
+                "Winning Chance (%)": 16.97
             }
         ],
         "Bundesliga": [
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 73.99
+                "Winning Chance (%)": 67.04
             },
             {
                 "Team": "Middlesbrough",
@@ -952,6 +952,10 @@
                 "Winning Chance (%)": 38.98
             },
             {
+                "Team": "Wrexham",
+                "Winning Chance (%)": 34.87
+            },
+            {
                 "Team": "West Bromwich Albion",
                 "Winning Chance (%)": 37.78
             },
@@ -970,10 +974,6 @@
             {
                 "Team": "Birmingham City",
                 "Winning Chance (%)": 33.33
-            },
-            {
-                "Team": "Wrexham",
-                "Winning Chance (%)": 28.72
             },
             {
                 "Team": "Derby County",
