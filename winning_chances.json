@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 31 October 2025, 09:35 PM UTC",
-        "IST": "Saturday, 01 November 2025, 03:05 AM IST"
+        "UTC": "Friday, 31 October 2025, 10:14 PM UTC",
+        "IST": "Saturday, 01 November 2025, 03:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 68.53
+                "Winning Chance (%)": 74.67
             },
             {
                 "Team": "Benfica",
@@ -866,14 +866,6 @@
                 "Winning Chance (%)": 41.72
             },
             {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 32.59
-            },
-            {
-                "Team": "Alverca",
-                "Winning Chance (%)": 29.33
-            },
-            {
                 "Team": "Vit\u00f3ria S.C.",
                 "Winning Chance (%)": 32.59
             },
@@ -884,6 +876,14 @@
             {
                 "Team": "Nacional",
                 "Winning Chance (%)": 32.59
+            },
+            {
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 32.59
+            },
+            {
+                "Team": "Alverca",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Arouca",
