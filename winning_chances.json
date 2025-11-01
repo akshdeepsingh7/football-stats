@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 01 November 2025, 04:40 PM UTC",
-        "IST": "Saturday, 01 November 2025, 10:10 PM IST"
+        "UTC": "Saturday, 01 November 2025, 05:11 PM UTC",
+        "IST": "Saturday, 01 November 2025, 10:41 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -22,16 +22,16 @@
                 "Winning Chance (%)": 51.97
             },
             {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 45.73
+            },
+            {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 51.41
             },
             {
                 "Team": "Crystal Palace",
                 "Winning Chance (%)": 44.67
-            },
-            {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 42.67
             },
             {
                 "Team": "Brighton & Hove Albion",
@@ -75,7 +75,7 @@
             },
             {
                 "Team": "Nottingham Forest",
-                "Winning Chance (%)": 21.33
+                "Winning Chance (%)": 16.0
             },
             {
                 "Team": "West Ham United",
@@ -101,7 +101,7 @@
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 51.68
+                "Winning Chance (%)": 57.73
             },
             {
                 "Team": "Espanyol",
@@ -116,10 +116,6 @@
                 "Winning Chance (%)": 43.87
             },
             {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 34.34
-            },
-            {
                 "Team": "Elche",
                 "Winning Chance (%)": 37.73
             },
@@ -130,6 +126,10 @@
             {
                 "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 33.94
+            },
+            {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 31.52
             },
             {
                 "Team": "Alav\u00e9s",
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 65.42
+                "Winning Chance (%)": 61.87
             },
             {
                 "Team": "Roma",
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 49.81
+                "Winning Chance (%)": 47.73
             },
             {
                 "Team": "Bologna",
@@ -916,24 +916,24 @@
                 "Winning Chance (%)": 67.04
             },
             {
-                "Team": "Millwall",
-                "Winning Chance (%)": 54.13
-            },
-            {
                 "Team": "Middlesbrough",
                 "Winning Chance (%)": 53.28
             },
             {
                 "Team": "Stoke City",
-                "Winning Chance (%)": 53.23
+                "Winning Chance (%)": 52.83
+            },
+            {
+                "Team": "Millwall",
+                "Winning Chance (%)": 49.63
             },
             {
                 "Team": "Bristol City",
-                "Winning Chance (%)": 46.73
+                "Winning Chance (%)": 47.13
             },
             {
                 "Team": "Preston North End",
-                "Winning Chance (%)": 46.73
+                "Winning Chance (%)": 47.13
             },
             {
                 "Team": "Hull City",
@@ -980,16 +980,16 @@
                 "Winning Chance (%)": 34.87
             },
             {
+                "Team": "Oxford United",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Blackburn Rovers",
                 "Winning Chance (%)": 28.89
             },
             {
                 "Team": "Portsmouth",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Oxford United",
-                "Winning Chance (%)": 24.62
             },
             {
                 "Team": "Southampton",
