@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 01 November 2025, 05:11 PM UTC",
-        "IST": "Saturday, 01 November 2025, 10:41 PM IST"
+        "UTC": "Saturday, 01 November 2025, 05:35 PM UTC",
+        "IST": "Saturday, 01 November 2025, 11:05 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -10,12 +10,12 @@
                 "Winning Chance (%)": 72.67
             },
             {
-                "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 55.33
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 52.0
             },
             {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 54.37
+                "Team": "AFC Bournemouth",
+                "Winning Chance (%)": 55.33
             },
             {
                 "Team": "Sunderland",
@@ -34,6 +34,10 @@
                 "Winning Chance (%)": 44.67
             },
             {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 42.4
+            },
+            {
                 "Team": "Brighton & Hove Albion",
                 "Winning Chance (%)": 40.8
             },
@@ -44,10 +48,6 @@
             {
                 "Team": "Aston Villa",
                 "Winning Chance (%)": 44.84
-            },
-            {
-                "Team": "Chelsea",
-                "Winning Chance (%)": 43.88
             },
             {
                 "Team": "Brentford",
@@ -116,12 +116,12 @@
                 "Winning Chance (%)": 43.87
             },
             {
-                "Team": "Elche",
-                "Winning Chance (%)": 37.73
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 36.36
             },
             {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 37.33
+                "Team": "Elche",
+                "Winning Chance (%)": 37.73
             },
             {
                 "Team": "Rayo Vallecano",
@@ -144,15 +144,15 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 24.24
+            },
+            {
                 "Team": "Levante",
                 "Winning Chance (%)": 24.0
             },
             {
                 "Team": "Mallorca",
-                "Winning Chance (%)": 24.0
-            },
-            {
-                "Team": "Real Sociedad",
                 "Winning Chance (%)": 24.0
             },
             {
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 90.4
+                "Winning Chance (%)": 84.47
             },
             {
                 "Team": "RB Leipzig",
@@ -182,12 +182,12 @@
                 "Winning Chance (%)": 62.86
             },
             {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 54.93
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 56.13
             },
             {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 59.47
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 54.93
             },
             {
                 "Team": "Eintracht Frankfurt",
