@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 01 November 2025, 01:28 PM UTC",
-        "IST": "Saturday, 01 November 2025, 06:58 PM IST"
+        "UTC": "Saturday, 01 November 2025, 01:39 PM UTC",
+        "IST": "Saturday, 01 November 2025, 07:09 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -928,12 +928,12 @@
                 "Winning Chance (%)": 52.49
             },
             {
-                "Team": "Stoke City",
-                "Winning Chance (%)": 48.67
+                "Team": "Hull City",
+                "Winning Chance (%)": 45.53
             },
             {
-                "Team": "Hull City",
-                "Winning Chance (%)": 41.03
+                "Team": "Stoke City",
+                "Winning Chance (%)": 48.67
             },
             {
                 "Team": "Charlton Athletic",
@@ -996,12 +996,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Norwich City",
-                "Winning Chance (%)": 18.46
-            },
-            {
                 "Team": "Sheffield United",
                 "Winning Chance (%)": 20.0
+            },
+            {
+                "Team": "Norwich City",
+                "Winning Chance (%)": 16.41
             },
             {
                 "Team": "Sheffield Wednesday",
