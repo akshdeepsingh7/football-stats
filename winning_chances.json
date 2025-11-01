@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 01 November 2025, 08:36 PM UTC",
-        "IST": "Sunday, 02 November 2025, 02:06 AM IST"
+        "UTC": "Saturday, 01 November 2025, 09:11 PM UTC",
+        "IST": "Sunday, 02 November 2025, 02:41 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -12,6 +12,10 @@
             {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 55.33
+            },
+            {
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 49.2
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -38,16 +42,12 @@
                 "Winning Chance (%)": 44.67
             },
             {
-                "Team": "Liverpool FC",
-                "Winning Chance (%)": 43.47
+                "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 40.8
             },
             {
                 "Team": "Aston Villa",
-                "Winning Chance (%)": 43.07
-            },
-            {
-                "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 40.8
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Brentford",
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 78.33
+                "Winning Chance (%)": 78.73
             },
             {
                 "Team": "Villarreal",
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Juventus",
-                "Winning Chance (%)": 49.6
+                "Winning Chance (%)": 50.0
             },
             {
                 "Team": "Como",
@@ -1077,19 +1077,19 @@
             },
             {
                 "Team": "Mirassol",
-                "Winning Chance (%)": 57.29
+                "Winning Chance (%)": 56.57
             },
             {
                 "Team": "Bahia",
                 "Winning Chance (%)": 45.96
             },
             {
-                "Team": "Fluminense",
-                "Winning Chance (%)": 42.58
+                "Team": "Botafogo",
+                "Winning Chance (%)": 46.49
             },
             {
-                "Team": "Botafogo",
-                "Winning Chance (%)": 46.98
+                "Team": "Fluminense",
+                "Winning Chance (%)": 42.58
             },
             {
                 "Team": "Vasco da Gama",
@@ -1125,7 +1125,7 @@
             },
             {
                 "Team": "Santos",
-                "Winning Chance (%)": 28.44
+                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Vit\u00f3ria",
@@ -1133,7 +1133,7 @@
             },
             {
                 "Team": "Fortaleza",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 24.89
             },
             {
                 "Team": "Juventude",
