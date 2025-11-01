@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 01 November 2025, 06:42 PM UTC",
-        "IST": "Sunday, 02 November 2025, 12:12 AM IST"
+        "UTC": "Saturday, 01 November 2025, 07:10 PM UTC",
+        "IST": "Sunday, 02 November 2025, 12:40 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -882,6 +882,10 @@
                 "Winning Chance (%)": 32.59
             },
             {
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Estoril",
                 "Winning Chance (%)": 26.67
             },
@@ -890,15 +894,11 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Casa Pia",
-                "Winning Chance (%)": 24.0
-            },
-            {
                 "Team": "Arouca",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Estrela Amadora",
+                "Team": "Casa Pia",
                 "Winning Chance (%)": 21.33
             },
             {
@@ -1073,7 +1073,7 @@
             },
             {
                 "Team": "Cruzeiro",
-                "Winning Chance (%)": 59.07
+                "Winning Chance (%)": 60.41
             },
             {
                 "Team": "Mirassol",
@@ -1125,15 +1125,15 @@
             },
             {
                 "Team": "Santos",
-                "Winning Chance (%)": 29.43
+                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Vit\u00f3ria",
-                "Winning Chance (%)": 27.56
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Fortaleza",
-                "Winning Chance (%)": 24.83
+                "Winning Chance (%)": 24.89
             },
             {
                 "Team": "Juventude",
