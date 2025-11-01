@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 01 November 2025, 06:19 PM UTC",
-        "IST": "Saturday, 01 November 2025, 11:49 PM IST"
+        "UTC": "Saturday, 01 November 2025, 06:42 PM UTC",
+        "IST": "Sunday, 02 November 2025, 12:12 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -116,15 +116,15 @@
                 "Winning Chance (%)": 43.87
             },
             {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 36.36
-            },
-            {
                 "Team": "Elche",
                 "Winning Chance (%)": 37.73
             },
             {
                 "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 33.94
+            },
+            {
+                "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 33.94
             },
             {
@@ -136,16 +136,16 @@
                 "Winning Chance (%)": 32.0
             },
             {
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 29.09
+            },
+            {
                 "Team": "Celta de Vigo",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 24.24
             },
             {
                 "Team": "Levante",
@@ -866,20 +866,24 @@
                 "Winning Chance (%)": 41.72
             },
             {
-                "Team": "Rio Ave",
-                "Winning Chance (%)": 32.0
-            },
-            {
                 "Team": "Vit\u00f3ria S.C.",
                 "Winning Chance (%)": 32.59
+            },
+            {
+                "Team": "Rio Ave",
+                "Winning Chance (%)": 29.33
+            },
+            {
+                "Team": "Nacional",
+                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Santa Clara",
                 "Winning Chance (%)": 32.59
             },
             {
-                "Team": "Nacional",
-                "Winning Chance (%)": 29.33
+                "Team": "Estoril",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Alverca",
@@ -892,10 +896,6 @@
             {
                 "Team": "Arouca",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Estoril",
-                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Estrela Amadora",
