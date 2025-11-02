@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 03:13 PM UTC",
-        "IST": "Sunday, 02 November 2025, 08:43 PM IST"
+        "UTC": "Sunday, 02 November 2025, 03:36 PM UTC",
+        "IST": "Sunday, 02 November 2025, 09:06 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Espanyol",
-                "Winning Chance (%)": 49.2
+                "Winning Chance (%)": 44.44
             },
             {
                 "Team": "Getafe",
@@ -114,6 +114,10 @@
             {
                 "Team": "Real Betis",
                 "Winning Chance (%)": 43.87
+            },
+            {
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 36.76
             },
             {
                 "Team": "Elche",
@@ -134,10 +138,6 @@
             {
                 "Team": "Sevilla",
                 "Winning Chance (%)": 31.52
-            },
-            {
-                "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Real Sociedad",
@@ -903,11 +903,11 @@
             },
             {
                 "Team": "Tondela",
-                "Winning Chance (%)": 14.81
+                "Winning Chance (%)": 16.0
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 2.96
+                "Winning Chance (%)": 5.33
             }
         ],
         "EFL Championship": [
