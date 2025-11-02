@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 08:14 PM UTC",
-        "IST": "Monday, 03 November 2025, 01:44 AM IST"
+        "UTC": "Sunday, 02 November 2025, 08:36 PM UTC",
+        "IST": "Monday, 03 November 2025, 02:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -104,12 +104,12 @@
                 "Winning Chance (%)": 57.73
             },
             {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 44.44
+                "Team": "Real Betis",
+                "Winning Chance (%)": 47.66
             },
             {
-                "Team": "Real Betis",
-                "Winning Chance (%)": 42.41
+                "Team": "Espanyol",
+                "Winning Chance (%)": 44.44
             },
             {
                 "Team": "Getafe",
@@ -148,11 +148,11 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Mallorca",
-                "Winning Chance (%)": 24.24
+                "Team": "Levante",
+                "Winning Chance (%)": 21.82
             },
             {
-                "Team": "Levante",
+                "Team": "Mallorca",
                 "Winning Chance (%)": 21.82
             },
             {
@@ -248,16 +248,16 @@
                 "Winning Chance (%)": 61.87
             },
             {
-                "Team": "Roma",
-                "Winning Chance (%)": 61.07
-            },
-            {
                 "Team": "Inter",
                 "Winning Chance (%)": 60.8
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 53.47
+                "Winning Chance (%)": 59.2
+            },
+            {
+                "Team": "Roma",
+                "Winning Chance (%)": 58.0
             },
             {
                 "Team": "Bologna",
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 81.67
+                "Winning Chance (%)": 76.93
             },
             {
                 "Team": "Sporting CP",
@@ -863,7 +863,7 @@
             },
             {
                 "Team": "Braga",
-                "Winning Chance (%)": 41.72
+                "Winning Chance (%)": 40.53
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
@@ -1089,7 +1089,7 @@
             },
             {
                 "Team": "Fluminense",
-                "Winning Chance (%)": 40.83
+                "Winning Chance (%)": 40.43
             },
             {
                 "Team": "Vasco da Gama",
