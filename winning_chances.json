@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 05:36 PM UTC",
-        "IST": "Sunday, 02 November 2025, 11:06 PM IST"
+        "UTC": "Sunday, 02 November 2025, 06:18 PM UTC",
+        "IST": "Sunday, 02 November 2025, 11:48 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -11,7 +11,7 @@
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 55.07
+                "Winning Chance (%)": 55.47
             },
             {
                 "Team": "Liverpool FC",
@@ -19,7 +19,7 @@
             },
             {
                 "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 49.6
+                "Winning Chance (%)": 49.2
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -93,7 +93,7 @@
             },
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 60.96
+                "Winning Chance (%)": 66.21
             },
             {
                 "Team": "Villarreal",
@@ -116,12 +116,12 @@
                 "Winning Chance (%)": 43.87
             },
             {
-                "Team": "Elche",
+                "Team": "Alav\u00e9s",
                 "Winning Chance (%)": 36.76
             },
             {
-                "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 36.76
+                "Team": "Elche",
+                "Winning Chance (%)": 33.94
             },
             {
                 "Team": "Rayo Vallecano",
@@ -190,16 +190,16 @@
                 "Winning Chance (%)": 51.97
             },
             {
+                "Team": "Hoffenheim",
+                "Winning Chance (%)": 48.61
+            },
+            {
                 "Team": "K\u00f6ln",
                 "Winning Chance (%)": 43.08
             },
             {
                 "Team": "Eintracht Frankfurt",
                 "Winning Chance (%)": 42.68
-            },
-            {
-                "Team": "Hoffenheim",
-                "Winning Chance (%)": 42.28
             },
             {
                 "Team": "Werder Bremen",
@@ -215,7 +215,7 @@
             },
             {
                 "Team": "VfL Wolfsburg",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 23.7
             },
             {
                 "Team": "Hamburg",
@@ -335,7 +335,7 @@
             },
             {
                 "Team": "Lens",
-                "Winning Chance (%)": 55.33
+                "Winning Chance (%)": 56.13
             },
             {
                 "Team": "Lille",
@@ -374,10 +374,6 @@
                 "Winning Chance (%)": 31.52
             },
             {
-                "Team": "Nantes",
-                "Winning Chance (%)": 24.24
-            },
-            {
                 "Team": "Angers",
                 "Winning Chance (%)": 24.24
             },
@@ -386,16 +382,20 @@
                 "Winning Chance (%)": 24.0
             },
             {
+                "Team": "Nantes",
+                "Winning Chance (%)": 21.82
+            },
+            {
                 "Team": "Lorient",
                 "Winning Chance (%)": 21.82
             },
             {
-                "Team": "Auxerre",
-                "Winning Chance (%)": 16.97
+                "Team": "Metz",
+                "Winning Chance (%)": 19.39
             },
             {
-                "Team": "Metz",
-                "Winning Chance (%)": 14.55
+                "Team": "Auxerre",
+                "Winning Chance (%)": 16.97
             }
         ],
         "Champions League": [
@@ -859,7 +859,7 @@
             },
             {
                 "Team": "Moreirense",
-                "Winning Chance (%)": 44.44
+                "Winning Chance (%)": 48.4
             },
             {
                 "Team": "Braga",
@@ -895,7 +895,7 @@
             },
             {
                 "Team": "Arouca",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 24.0
             },
             {
                 "Team": "Casa Pia",
