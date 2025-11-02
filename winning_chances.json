@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 06:42 PM UTC",
-        "IST": "Monday, 03 November 2025, 12:12 AM IST"
+        "UTC": "Sunday, 02 November 2025, 07:10 PM UTC",
+        "IST": "Monday, 03 November 2025, 12:40 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -93,7 +93,7 @@
             },
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 66.21
+                "Winning Chance (%)": 66.61
             },
             {
                 "Team": "Villarreal",
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 50.8
+                "Winning Chance (%)": 51.2
             },
             {
                 "Team": "Juventus",
@@ -1081,15 +1081,15 @@
             },
             {
                 "Team": "Bahia",
-                "Winning Chance (%)": 45.96
+                "Winning Chance (%)": 45.41
+            },
+            {
+                "Team": "Fluminense",
+                "Winning Chance (%)": 42.09
             },
             {
                 "Team": "Botafogo",
                 "Winning Chance (%)": 46.49
-            },
-            {
-                "Team": "Fluminense",
-                "Winning Chance (%)": 42.58
             },
             {
                 "Team": "Vasco da Gama",
@@ -1101,23 +1101,23 @@
             },
             {
                 "Team": "Corinthians",
-                "Winning Chance (%)": 34.67
+                "Winning Chance (%)": 34.41
             },
             {
                 "Team": "Gr\u00eamio",
-                "Winning Chance (%)": 34.67
+                "Winning Chance (%)": 34.41
             },
             {
                 "Team": "RB Bragantino",
-                "Winning Chance (%)": 32.0
+                "Winning Chance (%)": 31.83
+            },
+            {
+                "Team": "Cear\u00e1",
+                "Winning Chance (%)": 30.97
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
                 "Winning Chance (%)": 33.1
-            },
-            {
-                "Team": "Cear\u00e1",
-                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Internacional",
