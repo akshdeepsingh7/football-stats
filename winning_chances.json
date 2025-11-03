@@ -1,10 +1,91 @@
 {
     "last_updated": {
-        "UTC": "Monday, 03 November 2025, 11:15 AM UTC",
-        "IST": "Monday, 03 November 2025, 04:45 PM IST"
+        "UTC": "Monday, 03 November 2025, 11:36 AM UTC",
+        "IST": "Monday, 03 November 2025, 05:06 PM IST"
     },
     "winning_chances": {
-        "Premier League": [],
+        "Premier League": [
+            {
+                "Team": "Arsenal",
+                "Winning Chance (%)": 72.67
+            },
+            {
+                "Team": "Manchester City",
+                "Winning Chance (%)": 55.47
+            },
+            {
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 49.6
+            },
+            {
+                "Team": "AFC Bournemouth",
+                "Winning Chance (%)": 49.2
+            },
+            {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 48.93
+            },
+            {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 48.13
+            },
+            {
+                "Team": "Sunderland",
+                "Winning Chance (%)": 51.97
+            },
+            {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 45.73
+            },
+            {
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 44.67
+            },
+            {
+                "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 40.8
+            },
+            {
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 40.0
+            },
+            {
+                "Team": "Brentford",
+                "Winning Chance (%)": 34.67
+            },
+            {
+                "Team": "Newcastle United",
+                "Winning Chance (%)": 32.0
+            },
+            {
+                "Team": "Fulham",
+                "Winning Chance (%)": 29.33
+            },
+            {
+                "Team": "Everton",
+                "Winning Chance (%)": 32.59
+            },
+            {
+                "Team": "Leeds United",
+                "Winning Chance (%)": 29.33
+            },
+            {
+                "Team": "Burnley",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "West Ham United",
+                "Winning Chance (%)": 18.67
+            },
+            {
+                "Team": "Nottingham Forest",
+                "Winning Chance (%)": 16.0
+            },
+            {
+                "Team": "Wolverhampton Wanderers",
+                "Winning Chance (%)": 5.33
+            }
+        ],
         "La Liga": [
             {
                 "Team": "Real Madrid",
