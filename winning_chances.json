@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 03 November 2025, 07:36 PM UTC",
-        "IST": "Tuesday, 04 November 2025, 01:06 AM IST"
+        "UTC": "Monday, 03 November 2025, 08:18 PM UTC",
+        "IST": "Tuesday, 04 November 2025, 01:48 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -31,7 +31,7 @@
             },
             {
                 "Team": "Sunderland",
-                "Winning Chance (%)": 51.97
+                "Winning Chance (%)": 46.53
             },
             {
                 "Team": "Manchester United",
@@ -50,6 +50,10 @@
                 "Winning Chance (%)": 40.0
             },
             {
+                "Team": "Everton",
+                "Winning Chance (%)": 37.33
+            },
+            {
                 "Team": "Brentford",
                 "Winning Chance (%)": 34.67
             },
@@ -60,10 +64,6 @@
             {
                 "Team": "Fulham",
                 "Winning Chance (%)": 29.33
-            },
-            {
-                "Team": "Everton",
-                "Winning Chance (%)": 32.59
             },
             {
                 "Team": "Leeds United",
@@ -161,7 +161,7 @@
             },
             {
                 "Team": "Real Oviedo",
-                "Winning Chance (%)": 18.67
+                "Winning Chance (%)": 19.39
             },
             {
                 "Team": "Girona",
@@ -284,16 +284,16 @@
                 "Winning Chance (%)": 36.67
             },
             {
+                "Team": "Lazio",
+                "Winning Chance (%)": 36.27
+            },
+            {
                 "Team": "Sassuolo",
                 "Winning Chance (%)": 34.67
             },
             {
                 "Team": "Torino",
                 "Winning Chance (%)": 34.67
-            },
-            {
-                "Team": "Lazio",
-                "Winning Chance (%)": 37.16
             },
             {
                 "Team": "Cagliari",
