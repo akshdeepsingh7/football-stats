@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 04 November 2025, 05:39 PM UTC",
-        "IST": "Tuesday, 04 November 2025, 11:09 PM IST"
+        "UTC": "Tuesday, 04 November 2025, 06:22 PM UTC",
+        "IST": "Tuesday, 04 November 2025, 11:52 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -400,6 +400,10 @@
         ],
         "Champions League": [
             {
+                "Team": "Arsenal",
+                "Winning Chance (%)": 83.6
+            },
+            {
                 "Team": "PSG",
                 "Winning Chance (%)": 84.0
             },
@@ -410,10 +414,6 @@
             {
                 "Team": "Inter",
                 "Winning Chance (%)": 83.6
-            },
-            {
-                "Team": "Arsenal",
-                "Winning Chance (%)": 83.2
             },
             {
                 "Team": "Real Madrid",
@@ -468,6 +468,14 @@
                 "Winning Chance (%)": 35.56
             },
             {
+                "Team": "Eintracht Frankfurt",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Napoli",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Marseille",
                 "Winning Chance (%)": 27.47
             },
@@ -481,14 +489,6 @@
             },
             {
                 "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Napoli",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -509,7 +509,7 @@
             },
             {
                 "Team": "Slavia Prague",
-                "Winning Chance (%)": 17.78
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Pafos",
