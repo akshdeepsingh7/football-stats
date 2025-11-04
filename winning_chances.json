@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 04 November 2025, 06:48 PM UTC",
-        "IST": "Wednesday, 05 November 2025, 12:18 AM IST"
+        "UTC": "Tuesday, 04 November 2025, 07:12 PM UTC",
+        "IST": "Wednesday, 05 November 2025, 12:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -401,7 +401,7 @@
         "Champions League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 83.6
+                "Winning Chance (%)": 84.0
             },
             {
                 "Team": "PSG",
@@ -508,16 +508,16 @@
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Slavia Prague",
-                "Winning Chance (%)": 13.33
-            },
-            {
                 "Team": "Pafos",
                 "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 17.78
+            },
+            {
+                "Team": "Slavia Prague",
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Villarreal",
