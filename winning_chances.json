@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 04 November 2025, 09:37 PM UTC",
-        "IST": "Wednesday, 05 November 2025, 03:07 AM IST"
+        "UTC": "Tuesday, 04 November 2025, 10:14 PM UTC",
+        "IST": "Wednesday, 05 November 2025, 03:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -401,19 +401,19 @@
         "Champions League": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 84.8
+                "Winning Chance (%)": 84.4
             },
             {
                 "Team": "Arsenal",
                 "Winning Chance (%)": 84.4
             },
             {
-                "Team": "Inter",
-                "Winning Chance (%)": 83.6
+                "Team": "PSG",
+                "Winning Chance (%)": 63.6
             },
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 63.2
+                "Team": "Inter",
+                "Winning Chance (%)": 83.6
             },
             {
                 "Team": "Real Madrid",
@@ -464,12 +464,12 @@
                 "Winning Chance (%)": 53.33
             },
             {
-                "Team": "Monaco",
-                "Winning Chance (%)": 33.33
+                "Team": "PSV",
+                "Winning Chance (%)": 34.13
             },
             {
-                "Team": "PSV",
-                "Winning Chance (%)": 27.07
+                "Team": "Monaco",
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Atalanta",
@@ -481,10 +481,6 @@
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Olympiacos",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -521,6 +517,10 @@
             },
             {
                 "Team": "Slavia Prague",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Olympiacos",
                 "Winning Chance (%)": 13.33
             },
             {
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 69.05
+                "Winning Chance (%)": 69.45
             },
             {
                 "Team": "Stoke City",
@@ -921,11 +921,15 @@
             },
             {
                 "Team": "Middlesbrough",
-                "Winning Chance (%)": 49.22
+                "Winning Chance (%)": 51.52
             },
             {
                 "Team": "Millwall",
                 "Winning Chance (%)": 45.71
+            },
+            {
+                "Team": "Charlton Athletic",
+                "Winning Chance (%)": 45.81
             },
             {
                 "Team": "Preston North End",
@@ -944,16 +948,8 @@
                 "Winning Chance (%)": 41.6
             },
             {
-                "Team": "Charlton Athletic",
-                "Winning Chance (%)": 41.6
-            },
-            {
                 "Team": "Ipswich Town",
                 "Winning Chance (%)": 43.83
-            },
-            {
-                "Team": "Leicester City",
-                "Winning Chance (%)": 38.9
             },
             {
                 "Team": "Derby County",
@@ -964,8 +960,12 @@
                 "Winning Chance (%)": 36.59
             },
             {
+                "Team": "Leicester City",
+                "Winning Chance (%)": 34.69
+            },
+            {
                 "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 36.19
+                "Winning Chance (%)": 34.29
             },
             {
                 "Team": "Queens Park Rangers",
