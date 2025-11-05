@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 05 November 2025, 05:39 PM UTC",
-        "IST": "Wednesday, 05 November 2025, 11:09 PM IST"
+        "UTC": "Wednesday, 05 November 2025, 06:21 PM UTC",
+        "IST": "Wednesday, 05 November 2025, 11:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -436,8 +436,16 @@
                 "Winning Chance (%)": 63.82
             },
             {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 47.87
+            },
+            {
                 "Team": "Sporting CP",
                 "Winning Chance (%)": 47.87
+            },
+            {
+                "Team": "Qaraba\u011f",
+                "Winning Chance (%)": 47.07
             },
             {
                 "Team": "Newcastle United",
@@ -448,16 +456,8 @@
                 "Winning Chance (%)": 55.33
             },
             {
-                "Team": "Chelsea",
-                "Winning Chance (%)": 54.53
-            },
-            {
                 "Team": "Atl\u00e9tico de Madrid",
                 "Winning Chance (%)": 40.4
-            },
-            {
-                "Team": "Qaraba\u011f",
-                "Winning Chance (%)": 53.73
             },
             {
                 "Team": "Galatasaray",
@@ -500,6 +500,10 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Pafos",
+                "Winning Chance (%)": 20.0
+            },
+            {
                 "Team": "Union Saint-Gilloise",
                 "Winning Chance (%)": 20.0
             },
@@ -508,8 +512,8 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Pafos",
-                "Winning Chance (%)": 17.78
+                "Team": "Villarreal",
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -522,10 +526,6 @@
             {
                 "Team": "Olympiacos",
                 "Winning Chance (%)": 13.33
-            },
-            {
-                "Team": "Villarreal",
-                "Winning Chance (%)": 8.89
             },
             {
                 "Team": "FC Copenhagen",
