@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 05 November 2025, 09:36 PM UTC",
-        "IST": "Thursday, 06 November 2025, 03:06 AM IST"
+        "UTC": "Wednesday, 05 November 2025, 10:14 PM UTC",
+        "IST": "Thursday, 06 November 2025, 03:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -413,7 +413,7 @@
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 69.07
+                "Winning Chance (%)": 69.47
             },
             {
                 "Team": "PSG",
@@ -433,7 +433,7 @@
             },
             {
                 "Team": "Galatasaray",
-                "Winning Chance (%)": 60.4
+                "Winning Chance (%)": 60.8
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -444,10 +444,6 @@
                 "Winning Chance (%)": 48.67
             },
             {
-                "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 47.87
-            },
-            {
                 "Team": "Chelsea",
                 "Winning Chance (%)": 47.87
             },
@@ -456,8 +452,16 @@
                 "Winning Chance (%)": 47.87
             },
             {
+                "Team": "Borussia Dortmund",
+                "Winning Chance (%)": 47.47
+            },
+            {
                 "Team": "Qaraba\u011f",
                 "Winning Chance (%)": 47.07
+            },
+            {
+                "Team": "Atalanta",
+                "Winning Chance (%)": 46.67
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
@@ -472,20 +476,12 @@
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Atalanta",
-                "Winning Chance (%)": 33.33
-            },
-            {
                 "Team": "Pafos",
                 "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 33.33
-            },
-            {
-                "Team": "Marseille",
-                "Winning Chance (%)": 27.47
             },
             {
                 "Team": "Club Brugge",
@@ -498,6 +494,10 @@
             {
                 "Team": "Napoli",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Marseille",
+                "Winning Chance (%)": 20.4
             },
             {
                 "Team": "Juventus",
@@ -1096,12 +1096,12 @@
                 "Winning Chance (%)": 38.65
             },
             {
-                "Team": "Vasco da Gama",
-                "Winning Chance (%)": 38.53
+                "Team": "Corinthians",
+                "Winning Chance (%)": 35.83
             },
             {
-                "Team": "Corinthians",
-                "Winning Chance (%)": 36.13
+                "Team": "Vasco da Gama",
+                "Winning Chance (%)": 38.53
             },
             {
                 "Team": "Gr\u00eamio",
@@ -1112,16 +1112,16 @@
                 "Winning Chance (%)": 32.69
             },
             {
+                "Team": "RB Bragantino",
+                "Winning Chance (%)": 30.83
+            },
+            {
                 "Team": "Atl\u00e9tico Mineiro",
                 "Winning Chance (%)": 32.89
             },
             {
-                "Team": "RB Bragantino",
-                "Winning Chance (%)": 30.97
-            },
-            {
                 "Team": "Internacional",
-                "Winning Chance (%)": 30.97
+                "Winning Chance (%)": 30.83
             },
             {
                 "Team": "Santos",
@@ -1137,11 +1137,11 @@
             },
             {
                 "Team": "Juventude",
-                "Winning Chance (%)": 22.37
+                "Winning Chance (%)": 22.5
             },
             {
                 "Team": "Sport",
-                "Winning Chance (%)": 15.11
+                "Winning Chance (%)": 15.48
             }
         ]
     }
