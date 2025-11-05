@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 05 November 2025, 06:48 PM UTC",
-        "IST": "Thursday, 06 November 2025, 12:18 AM IST"
+        "UTC": "Wednesday, 05 November 2025, 07:13 PM UTC",
+        "IST": "Thursday, 06 November 2025, 12:43 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -424,10 +424,6 @@
                 "Winning Chance (%)": 62.0
             },
             {
-                "Team": "Qaraba\u011f",
-                "Winning Chance (%)": 60.8
-            },
-            {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 55.33
             },
@@ -440,8 +436,16 @@
                 "Winning Chance (%)": 63.82
             },
             {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 47.87
+            },
+            {
                 "Team": "Sporting CP",
                 "Winning Chance (%)": 47.87
+            },
+            {
+                "Team": "Qaraba\u011f",
+                "Winning Chance (%)": 47.07
             },
             {
                 "Team": "Newcastle United",
@@ -450,10 +454,6 @@
             {
                 "Team": "Barcelona",
                 "Winning Chance (%)": 55.33
-            },
-            {
-                "Team": "Chelsea",
-                "Winning Chance (%)": 40.8
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
