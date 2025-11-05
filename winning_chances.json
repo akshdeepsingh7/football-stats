@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 05 November 2025, 09:14 PM UTC",
-        "IST": "Thursday, 06 November 2025, 02:44 AM IST"
+        "UTC": "Wednesday, 05 November 2025, 09:36 PM UTC",
+        "IST": "Thursday, 06 November 2025, 03:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -432,8 +432,16 @@
                 "Winning Chance (%)": 62.0
             },
             {
+                "Team": "Galatasaray",
+                "Winning Chance (%)": 60.4
+            },
+            {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 55.33
+            },
+            {
+                "Team": "Barcelona",
+                "Winning Chance (%)": 48.67
             },
             {
                 "Team": "Borussia Dortmund",
@@ -452,20 +460,8 @@
                 "Winning Chance (%)": 47.07
             },
             {
-                "Team": "Galatasaray",
-                "Winning Chance (%)": 46.67
-            },
-            {
-                "Team": "Barcelona",
-                "Winning Chance (%)": 41.6
-            },
-            {
                 "Team": "Atl\u00e9tico de Madrid",
                 "Winning Chance (%)": 40.4
-            },
-            {
-                "Team": "Club Brugge",
-                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "PSV",
@@ -484,8 +480,16 @@
                 "Winning Chance (%)": 33.33
             },
             {
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 33.33
+            },
+            {
                 "Team": "Marseille",
                 "Winning Chance (%)": 27.47
+            },
+            {
+                "Team": "Club Brugge",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -497,10 +501,6 @@
             },
             {
                 "Team": "Juventus",
-                "Winning Chance (%)": 20.0
-            },
-            {
-                "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 20.0
             },
             {
@@ -528,10 +528,6 @@
                 "Winning Chance (%)": 6.67
             },
             {
-                "Team": "Benfica",
-                "Winning Chance (%)": 6.67
-            },
-            {
                 "Team": "FC Copenhagen",
                 "Winning Chance (%)": 6.67
             },
@@ -540,8 +536,12 @@
                 "Winning Chance (%)": 6.67
             },
             {
+                "Team": "Benfica",
+                "Winning Chance (%)": 0.0
+            },
+            {
                 "Team": "Ajax",
-                "Winning Chance (%)": 6.67
+                "Winning Chance (%)": 0.0
             }
         ],
         "Europa League": [
@@ -925,7 +925,7 @@
             },
             {
                 "Team": "Preston North End",
-                "Winning Chance (%)": 50.42
+                "Winning Chance (%)": 50.02
             },
             {
                 "Team": "Millwall",
