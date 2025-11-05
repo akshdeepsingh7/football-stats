@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 05 November 2025, 08:17 PM UTC",
-        "IST": "Thursday, 06 November 2025, 01:47 AM IST"
+        "UTC": "Wednesday, 05 November 2025, 08:42 PM UTC",
+        "IST": "Thursday, 06 November 2025, 02:12 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -412,6 +412,10 @@
                 "Winning Chance (%)": 70.27
             },
             {
+                "Team": "Manchester City",
+                "Winning Chance (%)": 69.07
+            },
+            {
                 "Team": "PSG",
                 "Winning Chance (%)": 63.6
             },
@@ -428,16 +432,12 @@
                 "Winning Chance (%)": 62.0
             },
             {
-                "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 55.33
-            },
-            {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 55.33
             },
             {
-                "Team": "Manchester City",
-                "Winning Chance (%)": 54.93
+                "Team": "Borussia Dortmund",
+                "Winning Chance (%)": 47.87
             },
             {
                 "Team": "Chelsea",
