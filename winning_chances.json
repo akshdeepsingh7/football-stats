@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 05 November 2025, 11:14 PM UTC",
-        "IST": "Thursday, 06 November 2025, 04:44 AM IST"
+        "UTC": "Wednesday, 05 November 2025, 11:37 PM UTC",
+        "IST": "Thursday, 06 November 2025, 05:07 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1085,7 +1085,7 @@
             },
             {
                 "Team": "Botafogo",
-                "Winning Chance (%)": 46.03
+                "Winning Chance (%)": 48.1
             },
             {
                 "Team": "Fluminense",
@@ -1096,20 +1096,16 @@
                 "Winning Chance (%)": 38.65
             },
             {
-                "Team": "Vasco da Gama",
-                "Winning Chance (%)": 38.23
+                "Team": "Corinthians",
+                "Winning Chance (%)": 35.83
             },
             {
-                "Team": "Corinthians",
-                "Winning Chance (%)": 35.0
+                "Team": "Vasco da Gama",
+                "Winning Chance (%)": 37.0
             },
             {
                 "Team": "Gr\u00eamio",
                 "Winning Chance (%)": 33.33
-            },
-            {
-                "Team": "RB Bragantino",
-                "Winning Chance (%)": 32.5
             },
             {
                 "Team": "Cear\u00e1",
@@ -1120,16 +1116,20 @@
                 "Winning Chance (%)": 32.69
             },
             {
-                "Team": "Internacional",
+                "Team": "RB Bragantino",
                 "Winning Chance (%)": 30.83
+            },
+            {
+                "Team": "Internacional",
+                "Winning Chance (%)": 30.0
+            },
+            {
+                "Team": "Vit\u00f3ria",
+                "Winning Chance (%)": 28.33
             },
             {
                 "Team": "Santos",
                 "Winning Chance (%)": 29.33
-            },
-            {
-                "Team": "Vit\u00f3ria",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Juventude",
