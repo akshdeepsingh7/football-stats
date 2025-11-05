@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 05 November 2025, 10:40 PM UTC",
-        "IST": "Thursday, 06 November 2025, 04:10 AM IST"
+        "UTC": "Wednesday, 05 November 2025, 11:14 PM UTC",
+        "IST": "Thursday, 06 November 2025, 04:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1073,7 +1073,7 @@
             },
             {
                 "Team": "Cruzeiro",
-                "Winning Chance (%)": 60.81
+                "Winning Chance (%)": 60.03
             },
             {
                 "Team": "Mirassol",
@@ -1081,7 +1081,7 @@
             },
             {
                 "Team": "Bahia",
-                "Winning Chance (%)": 47.53
+                "Winning Chance (%)": 46.97
             },
             {
                 "Team": "Botafogo",
@@ -1101,23 +1101,23 @@
             },
             {
                 "Team": "Corinthians",
-                "Winning Chance (%)": 35.83
+                "Winning Chance (%)": 35.0
             },
             {
                 "Team": "Gr\u00eamio",
-                "Winning Chance (%)": 33.55
+                "Winning Chance (%)": 33.33
+            },
+            {
+                "Team": "RB Bragantino",
+                "Winning Chance (%)": 32.5
             },
             {
                 "Team": "Cear\u00e1",
                 "Winning Chance (%)": 32.69
             },
             {
-                "Team": "RB Bragantino",
-                "Winning Chance (%)": 30.83
-            },
-            {
                 "Team": "Atl\u00e9tico Mineiro",
-                "Winning Chance (%)": 32.89
+                "Winning Chance (%)": 32.69
             },
             {
                 "Team": "Internacional",
@@ -1132,16 +1132,16 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Juventude",
+                "Winning Chance (%)": 24.17
+            },
+            {
                 "Team": "Fortaleza",
                 "Winning Chance (%)": 24.89
             },
             {
-                "Team": "Juventude",
-                "Winning Chance (%)": 22.5
-            },
-            {
                 "Team": "Sport",
-                "Winning Chance (%)": 15.48
+                "Winning Chance (%)": 14.62
             }
         ]
     }
