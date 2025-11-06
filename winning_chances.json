@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 06 November 2025, 06:23 PM UTC",
-        "IST": "Thursday, 06 November 2025, 11:53 PM IST"
+        "UTC": "Thursday, 06 November 2025, 06:50 PM UTC",
+        "IST": "Friday, 07 November 2025, 12:20 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -547,7 +547,15 @@
         "Europa League": [
             {
                 "Team": "Midtjylland",
-                "Winning Chance (%)": 83.2
+                "Winning Chance (%)": 83.6
+            },
+            {
+                "Team": "SC Freiburg",
+                "Winning Chance (%)": 68.67
+            },
+            {
+                "Team": "Celta de Vigo",
+                "Winning Chance (%)": 62.0
             },
             {
                 "Team": "Braga",
@@ -558,24 +566,16 @@
                 "Winning Chance (%)": 82.0
             },
             {
-                "Team": "Celta de Vigo",
-                "Winning Chance (%)": 61.6
-            },
-            {
-                "Team": "SC Freiburg",
-                "Winning Chance (%)": 54.53
-            },
-            {
                 "Team": "Plze\u0148",
                 "Winning Chance (%)": 63.82
             },
             {
-                "Team": "Dinamo Zagreb",
-                "Winning Chance (%)": 47.47
-            },
-            {
                 "Team": "Ferencv\u00e1ros",
                 "Winning Chance (%)": 63.02
+            },
+            {
+                "Team": "Dinamo Zagreb",
+                "Winning Chance (%)": 47.07
             },
             {
                 "Team": "Lille",
@@ -670,10 +670,6 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Nice",
-                "Winning Chance (%)": 6.67
-            },
-            {
                 "Team": "RB Salzburg",
                 "Winning Chance (%)": 6.67
             },
@@ -684,6 +680,10 @@
             {
                 "Team": "Maccabi Tel Aviv",
                 "Winning Chance (%)": 8.89
+            },
+            {
+                "Team": "Nice",
+                "Winning Chance (%)": 0.0
             },
             {
                 "Team": "Rangers",
@@ -768,12 +768,12 @@
                 "Winning Chance (%)": 40.4
             },
             {
-                "Team": "Rijeka",
-                "Winning Chance (%)": 40.0
+                "Team": "KuPS",
+                "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Slovan Bratislava",
-                "Winning Chance (%)": 26.67
+                "Team": "Rijeka",
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Shk\u00ebndija",
@@ -800,16 +800,16 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "KuPS",
-                "Winning Chance (%)": 17.78
-            },
-            {
                 "Team": "Omonia",
                 "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Shelbourne",
                 "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Slovan Bratislava",
+                "Winning Chance (%)": 8.89
             },
             {
                 "Team": "Universitatea Craiova",
