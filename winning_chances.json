@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 06 November 2025, 09:14 PM UTC",
-        "IST": "Friday, 07 November 2025, 02:44 AM IST"
+        "UTC": "Thursday, 06 November 2025, 09:37 PM UTC",
+        "IST": "Friday, 07 November 2025, 03:07 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -562,11 +562,11 @@
                 "Winning Chance (%)": 62.0
             },
             {
-                "Team": "Braga",
+                "Team": "Aston Villa",
                 "Winning Chance (%)": 61.6
             },
             {
-                "Team": "Aston Villa",
+                "Team": "Braga",
                 "Winning Chance (%)": 61.2
             },
             {
@@ -582,20 +582,20 @@
                 "Winning Chance (%)": 54.93
             },
             {
+                "Team": "PAOK",
+                "Winning Chance (%)": 47.87
+            },
+            {
                 "Team": "Brann",
                 "Winning Chance (%)": 47.87
             },
             {
+                "Team": "KRC Genk",
+                "Winning Chance (%)": 47.47
+            },
+            {
                 "Team": "Dinamo Zagreb",
                 "Winning Chance (%)": 47.07
-            },
-            {
-                "Team": "KRC Genk",
-                "Winning Chance (%)": 47.07
-            },
-            {
-                "Team": "PAOK",
-                "Winning Chance (%)": 46.67
             },
             {
                 "Team": "Porto",
@@ -622,11 +622,11 @@
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "BSC Young Boys",
+                "Team": "Go Ahead Eagles",
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Go Ahead Eagles",
+                "Team": "BSC Young Boys",
                 "Winning Chance (%)": 40.0
             },
             {
@@ -716,12 +716,12 @@
                 "Winning Chance (%)": 63.02
             },
             {
-                "Team": "Lech",
+                "Team": "Fiorentina",
                 "Winning Chance (%)": 54.93
             },
             {
-                "Team": "Fiorentina",
-                "Winning Chance (%)": 54.93
+                "Team": "Lech",
+                "Winning Chance (%)": 54.53
             },
             {
                 "Team": "Crystal Palace",
@@ -748,6 +748,10 @@
                 "Winning Chance (%)": 45.24
             },
             {
+                "Team": "Drita",
+                "Winning Chance (%)": 44.84
+            },
+            {
                 "Team": "AEK Athens",
                 "Winning Chance (%)": 37.16
             },
@@ -757,7 +761,7 @@
             },
             {
                 "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 35.56
+                "Winning Chance (%)": 35.96
             },
             {
                 "Team": "Noah",
@@ -777,14 +781,6 @@
             },
             {
                 "Team": "Zrinjski Mostar",
-                "Winning Chance (%)": 27.87
-            },
-            {
-                "Team": "Drita",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Legia",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -792,7 +788,7 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Lincoln Red Imps",
+                "Team": "Legia",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -800,16 +796,20 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Omonia",
-                "Winning Chance (%)": 17.78
+                "Team": "Lincoln Red Imps",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "H\u00e4cken",
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Shelbourne",
+                "Team": "Omonia",
                 "Winning Chance (%)": 17.78
+            },
+            {
+                "Team": "Shelbourne",
+                "Winning Chance (%)": 8.89
             },
             {
                 "Team": "Shamrock Rovers",
