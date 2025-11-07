@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 07 November 2025, 08:15 PM UTC",
-        "IST": "Saturday, 08 November 2025, 01:45 AM IST"
+        "UTC": "Friday, 07 November 2025, 08:37 PM UTC",
+        "IST": "Saturday, 08 November 2025, 02:07 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -870,6 +870,14 @@
                 "Winning Chance (%)": 29.33
             },
             {
+                "Team": "Estoril",
+                "Winning Chance (%)": 27.07
+            },
+            {
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 29.33
+            },
+            {
                 "Team": "Nacional",
                 "Winning Chance (%)": 29.33
             },
@@ -878,16 +886,8 @@
                 "Winning Chance (%)": 29.33
             },
             {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 29.33
-            },
-            {
                 "Team": "Estrela Amadora",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Estoril",
-                "Winning Chance (%)": 27.07
             },
             {
                 "Team": "Alverca",
@@ -895,7 +895,7 @@
             },
             {
                 "Team": "Arouca",
-                "Winning Chance (%)": 24.0
+                "Winning Chance (%)": 24.24
             },
             {
                 "Team": "Casa Pia",
@@ -937,11 +937,7 @@
             },
             {
                 "Team": "Bristol City",
-                "Winning Chance (%)": 40.31
-            },
-            {
-                "Team": "Watford",
-                "Winning Chance (%)": 39.91
+                "Winning Chance (%)": 42.49
             },
             {
                 "Team": "Hull City",
@@ -954,6 +950,10 @@
             {
                 "Team": "Ipswich Town",
                 "Winning Chance (%)": 43.83
+            },
+            {
+                "Team": "Watford",
+                "Winning Chance (%)": 35.96
             },
             {
                 "Team": "Derby County",
