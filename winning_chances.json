@@ -1,21 +1,21 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 08 November 2025, 05:36 PM UTC",
-        "IST": "Saturday, 08 November 2025, 11:06 PM IST"
+        "UTC": "Saturday, 08 November 2025, 06:19 PM UTC",
+        "IST": "Saturday, 08 November 2025, 11:49 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 69.03
+                "Winning Chance (%)": 66.21
+            },
+            {
+                "Team": "Sunderland",
+                "Winning Chance (%)": 52.91
             },
             {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 55.47
-            },
-            {
-                "Team": "Sunderland",
-                "Winning Chance (%)": 47.66
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -194,16 +194,16 @@
                 "Winning Chance (%)": 54.93
             },
             {
-                "Team": "K\u00f6ln",
-                "Winning Chance (%)": 41.6
-            },
-            {
                 "Team": "Werder Bremen",
                 "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Eintracht Frankfurt",
                 "Winning Chance (%)": 42.68
+            },
+            {
+                "Team": "K\u00f6ln",
+                "Winning Chance (%)": 38.53
             },
             {
                 "Team": "Union Berlin",
@@ -214,16 +214,16 @@
                 "Winning Chance (%)": 29.63
             },
             {
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Winning Chance (%)": 24.0
+            },
+            {
                 "Team": "Hamburg",
                 "Winning Chance (%)": 24.0
             },
             {
                 "Team": "VfL Wolfsburg",
                 "Winning Chance (%)": 21.33
-            },
-            {
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 18.67
             },
             {
                 "Team": "Augsburg",
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 61.96
+                "Winning Chance (%)": 62.36
             },
             {
                 "Team": "PSG",
@@ -371,7 +371,11 @@
             },
             {
                 "Team": "Le Havre",
-                "Winning Chance (%)": 31.52
+                "Winning Chance (%)": 28.89
+            },
+            {
+                "Team": "Nantes",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Brest",
@@ -380,10 +384,6 @@
             {
                 "Team": "Angers",
                 "Winning Chance (%)": 24.24
-            },
-            {
-                "Team": "Nantes",
-                "Winning Chance (%)": 21.82
             },
             {
                 "Team": "Lorient",
@@ -874,20 +874,20 @@
                 "Winning Chance (%)": 29.09
             },
             {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 29.33
-            },
-            {
-                "Team": "Alverca",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Vit\u00f3ria S.C.",
+                "Winning Chance (%)": 29.09
+            },
+            {
+                "Team": "Santa Clara",
                 "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Nacional",
                 "Winning Chance (%)": 29.33
+            },
+            {
+                "Team": "Alverca",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Estrela Amadora",
@@ -903,7 +903,7 @@
             },
             {
                 "Team": "Tondela",
-                "Winning Chance (%)": 16.0
+                "Winning Chance (%)": 16.97
             },
             {
                 "Team": "AVS",
