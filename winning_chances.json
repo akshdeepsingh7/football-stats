@@ -1,13 +1,17 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 08 November 2025, 09:12 PM UTC",
-        "IST": "Sunday, 09 November 2025, 02:42 AM IST"
+        "UTC": "Saturday, 08 November 2025, 09:35 PM UTC",
+        "IST": "Sunday, 09 November 2025, 03:05 AM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
                 "Winning Chance (%)": 69.03
+            },
+            {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 52.48
             },
             {
                 "Team": "Manchester City",
@@ -20,10 +24,6 @@
             {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 47.24
-            },
-            {
-                "Team": "Chelsea",
-                "Winning Chance (%)": 46.44
             },
             {
                 "Team": "Liverpool FC",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 7.27
+                "Winning Chance (%)": 4.85
             }
         ],
         "La Liga": [
@@ -93,7 +93,7 @@
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 62.98
+                "Winning Chance (%)": 63.38
             },
             {
                 "Team": "Barcelona",
@@ -109,7 +109,7 @@
             },
             {
                 "Team": "Espanyol",
-                "Winning Chance (%)": 40.4
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Getafe",
@@ -331,7 +331,7 @@
             },
             {
                 "Team": "Lens",
-                "Winning Chance (%)": 59.16
+                "Winning Chance (%)": 59.56
             },
             {
                 "Team": "PSG",
@@ -342,12 +342,12 @@
                 "Winning Chance (%)": 52.48
             },
             {
-                "Team": "Monaco",
-                "Winning Chance (%)": 46.04
-            },
-            {
                 "Team": "Lyon",
                 "Winning Chance (%)": 50.08
+            },
+            {
+                "Team": "Monaco",
+                "Winning Chance (%)": 45.64
             },
             {
                 "Team": "Strasbourg",
@@ -1081,7 +1081,7 @@
             },
             {
                 "Team": "Bahia",
-                "Winning Chance (%)": 44.93
+                "Winning Chance (%)": 44.43
             },
             {
                 "Team": "Botafogo",
@@ -1092,12 +1092,12 @@
                 "Winning Chance (%)": 42.07
             },
             {
-                "Team": "S\u00e3o Paulo",
-                "Winning Chance (%)": 38.3
+                "Team": "Vasco da Gama",
+                "Winning Chance (%)": 37.96
             },
             {
-                "Team": "Vasco da Gama",
-                "Winning Chance (%)": 35.95
+                "Team": "S\u00e3o Paulo",
+                "Winning Chance (%)": 38.3
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
@@ -1121,7 +1121,7 @@
             },
             {
                 "Team": "Internacional",
-                "Winning Chance (%)": 30.0
+                "Winning Chance (%)": 29.9
             },
             {
                 "Team": "Vit\u00f3ria",
@@ -1133,7 +1133,7 @@
             },
             {
                 "Team": "Juventude",
-                "Winning Chance (%)": 24.24
+                "Winning Chance (%)": 23.43
             },
             {
                 "Team": "Fortaleza",
