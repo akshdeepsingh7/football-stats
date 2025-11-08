@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 08 November 2025, 08:14 PM UTC",
-        "IST": "Sunday, 09 November 2025, 01:44 AM IST"
+        "UTC": "Saturday, 08 November 2025, 08:36 PM UTC",
+        "IST": "Sunday, 09 November 2025, 02:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 62.18
+                "Winning Chance (%)": 61.78
             },
             {
                 "Team": "Napoli",
@@ -330,20 +330,20 @@
                 "Winning Chance (%)": 62.36
             },
             {
+                "Team": "Lens",
+                "Winning Chance (%)": 58.76
+            },
+            {
                 "Team": "PSG",
                 "Winning Chance (%)": 62.98
             },
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 53.91
+                "Team": "Lille",
+                "Winning Chance (%)": 52.48
             },
             {
                 "Team": "Monaco",
-                "Winning Chance (%)": 49.07
-            },
-            {
-                "Team": "Lille",
-                "Winning Chance (%)": 52.48
+                "Winning Chance (%)": 46.44
             },
             {
                 "Team": "Lyon",
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 74.67
+                "Winning Chance (%)": 68.21
             },
             {
                 "Team": "Benfica",
@@ -866,6 +866,10 @@
                 "Winning Chance (%)": 33.94
             },
             {
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 33.94
+            },
+            {
                 "Team": "Braga",
                 "Winning Chance (%)": 37.47
             },
@@ -876,10 +880,6 @@
             {
                 "Team": "Rio Ave",
                 "Winning Chance (%)": 29.09
-            },
-            {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Nacional",
@@ -1105,7 +1105,7 @@
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
-                "Winning Chance (%)": 33.33
+                "Winning Chance (%)": 34.17
             },
             {
                 "Team": "RB Bragantino",
@@ -1141,7 +1141,7 @@
             },
             {
                 "Team": "Sport",
-                "Winning Chance (%)": 16.67
+                "Winning Chance (%)": 15.0
             }
         ]
     }
