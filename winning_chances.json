@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 08 November 2025, 01:40 PM UTC",
-        "IST": "Saturday, 08 November 2025, 07:10 PM IST"
+        "UTC": "Saturday, 08 November 2025, 02:12 PM UTC",
+        "IST": "Saturday, 08 November 2025, 07:42 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -10,12 +10,12 @@
                 "Winning Chance (%)": 72.67
             },
             {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 49.28
-            },
-            {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 55.47
+            },
+            {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 47.24
             },
             {
                 "Team": "Liverpool FC",
@@ -30,8 +30,8 @@
                 "Winning Chance (%)": 49.2
             },
             {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 44.41
+                "Team": "Manchester United",
+                "Winning Chance (%)": 44.04
             },
             {
                 "Team": "Chelsea",
@@ -117,7 +117,7 @@
             },
             {
                 "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 33.33
+                "Winning Chance (%)": 35.96
             },
             {
                 "Team": "Elche",
@@ -148,10 +148,6 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Girona",
-                "Winning Chance (%)": 22.22
-            },
-            {
                 "Team": "Levante",
                 "Winning Chance (%)": 21.82
             },
@@ -166,6 +162,10 @@
             {
                 "Team": "Real Oviedo",
                 "Winning Chance (%)": 19.39
+            },
+            {
+                "Team": "Girona",
+                "Winning Chance (%)": 17.78
             }
         ],
         "Bundesliga": [
@@ -269,7 +269,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 47.73
+                "Winning Chance (%)": 46.04
             },
             {
                 "Team": "Lazio",
@@ -297,11 +297,11 @@
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 24.0
+                "Winning Chance (%)": 24.24
             },
             {
                 "Team": "Lecce",
-                "Winning Chance (%)": 24.0
+                "Winning Chance (%)": 24.24
             },
             {
                 "Team": "Pisa",
@@ -317,7 +317,7 @@
             },
             {
                 "Team": "Hellas Verona",
-                "Winning Chance (%)": 13.33
+                "Winning Chance (%)": 14.55
             },
             {
                 "Team": "Fiorentina",
@@ -928,6 +928,10 @@
                 "Winning Chance (%)": 51.52
             },
             {
+                "Team": "Hull City",
+                "Winning Chance (%)": 45.24
+            },
+            {
                 "Team": "Millwall",
                 "Winning Chance (%)": 44.44
             },
@@ -941,10 +945,6 @@
             },
             {
                 "Team": "Derby County",
-                "Winning Chance (%)": 41.69
-            },
-            {
-                "Team": "Hull City",
                 "Winning Chance (%)": 41.29
             },
             {
@@ -989,7 +989,7 @@
             },
             {
                 "Team": "Portsmouth",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 24.89
             },
             {
                 "Team": "Oxford United",
