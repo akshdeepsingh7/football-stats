@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 08 November 2025, 07:36 PM UTC",
-        "IST": "Sunday, 09 November 2025, 01:06 AM IST"
+        "UTC": "Saturday, 08 November 2025, 08:14 PM UTC",
+        "IST": "Sunday, 09 November 2025, 01:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -22,6 +22,10 @@
                 "Winning Chance (%)": 47.24
             },
             {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 46.44
+            },
+            {
                 "Team": "Liverpool FC",
                 "Winning Chance (%)": 49.6
             },
@@ -32,10 +36,6 @@
             {
                 "Team": "Manchester United",
                 "Winning Chance (%)": 44.04
-            },
-            {
-                "Team": "Chelsea",
-                "Winning Chance (%)": 48.13
             },
             {
                 "Team": "Crystal Palace",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 5.33
+                "Winning Chance (%)": 7.27
             }
         ],
         "La Liga": [
@@ -101,7 +101,7 @@
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 60.56
+                "Winning Chance (%)": 58.13
             },
             {
                 "Team": "Real Betis",
@@ -109,7 +109,7 @@
             },
             {
                 "Team": "Espanyol",
-                "Winning Chance (%)": 44.44
+                "Winning Chance (%)": 43.02
             },
             {
                 "Team": "Getafe",
@@ -244,16 +244,16 @@
         ],
         "Serie A": [
             {
+                "Team": "Milan",
+                "Winning Chance (%)": 62.18
+            },
+            {
                 "Team": "Napoli",
                 "Winning Chance (%)": 61.87
             },
             {
                 "Team": "Inter",
                 "Winning Chance (%)": 60.8
-            },
-            {
-                "Team": "Milan",
-                "Winning Chance (%)": 59.2
             },
             {
                 "Team": "Roma",
@@ -309,7 +309,7 @@
             },
             {
                 "Team": "Parma",
-                "Winning Chance (%)": 18.67
+                "Winning Chance (%)": 16.97
             },
             {
                 "Team": "Genoa",
@@ -335,15 +335,15 @@
             },
             {
                 "Team": "Lens",
-                "Winning Chance (%)": 56.13
+                "Winning Chance (%)": 53.91
+            },
+            {
+                "Team": "Monaco",
+                "Winning Chance (%)": 49.07
             },
             {
                 "Team": "Lille",
                 "Winning Chance (%)": 52.48
-            },
-            {
-                "Team": "Monaco",
-                "Winning Chance (%)": 50.88
             },
             {
                 "Team": "Lyon",
@@ -371,14 +371,14 @@
             },
             {
                 "Team": "Le Havre",
-                "Winning Chance (%)": 28.89
-            },
-            {
-                "Team": "Nantes",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Brest",
+                "Winning Chance (%)": 22.22
+            },
+            {
+                "Team": "Nantes",
                 "Winning Chance (%)": 22.22
             },
             {
@@ -862,6 +862,10 @@
                 "Winning Chance (%)": 48.8
             },
             {
+                "Team": "Vit\u00f3ria S.C.",
+                "Winning Chance (%)": 33.94
+            },
+            {
                 "Team": "Braga",
                 "Winning Chance (%)": 37.47
             },
@@ -871,10 +875,6 @@
             },
             {
                 "Team": "Rio Ave",
-                "Winning Chance (%)": 29.09
-            },
-            {
-                "Team": "Vit\u00f3ria S.C.",
                 "Winning Chance (%)": 29.09
             },
             {
@@ -903,7 +903,7 @@
             },
             {
                 "Team": "Tondela",
-                "Winning Chance (%)": 16.97
+                "Winning Chance (%)": 14.55
             },
             {
                 "Team": "AVS",
