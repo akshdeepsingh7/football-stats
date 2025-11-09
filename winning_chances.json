@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 04:16 PM UTC",
-        "IST": "Sunday, 09 November 2025, 09:46 PM IST"
+        "UTC": "Sunday, 09 November 2025, 04:41 PM UTC",
+        "IST": "Sunday, 09 November 2025, 10:11 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -10,12 +10,16 @@
                 "Winning Chance (%)": 69.03
             },
             {
+                "Team": "Manchester City",
+                "Winning Chance (%)": 53.28
+            },
+            {
                 "Team": "Chelsea",
                 "Winning Chance (%)": 52.48
             },
             {
-                "Team": "Manchester City",
-                "Winning Chance (%)": 55.47
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 47.66
             },
             {
                 "Team": "Sunderland",
@@ -24,10 +28,6 @@
             {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 47.24
-            },
-            {
-                "Team": "Liverpool FC",
-                "Winning Chance (%)": 49.6
             },
             {
                 "Team": "Aston Villa",
@@ -191,7 +191,7 @@
             },
             {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 54.93
+                "Winning Chance (%)": 49.2
             },
             {
                 "Team": "Werder Bremen",
@@ -214,6 +214,10 @@
                 "Winning Chance (%)": 32.0
             },
             {
+                "Team": "Augsburg",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Winning Chance (%)": 24.0
             },
@@ -224,10 +228,6 @@
             {
                 "Team": "VfL Wolfsburg",
                 "Winning Chance (%)": 21.33
-            },
-            {
-                "Team": "Augsburg",
-                "Winning Chance (%)": 20.74
             },
             {
                 "Team": "St. Pauli",
