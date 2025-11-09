@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 02:12 PM UTC",
-        "IST": "Sunday, 09 November 2025, 07:42 PM IST"
+        "UTC": "Sunday, 09 November 2025, 02:36 PM UTC",
+        "IST": "Sunday, 09 November 2025, 08:06 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -22,10 +22,6 @@
                 "Winning Chance (%)": 47.66
             },
             {
-                "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 47.26
-            },
-            {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 47.24
             },
@@ -34,8 +30,16 @@
                 "Winning Chance (%)": 49.6
             },
             {
+                "Team": "AFC Bournemouth",
+                "Winning Chance (%)": 44.44
+            },
+            {
                 "Team": "Manchester United",
                 "Winning Chance (%)": 44.04
+            },
+            {
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 43.64
             },
             {
                 "Team": "Crystal Palace",
@@ -46,8 +50,8 @@
                 "Winning Chance (%)": 39.59
             },
             {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 38.79
+                "Team": "Newcastle United",
+                "Winning Chance (%)": 36.36
             },
             {
                 "Team": "Everton",
@@ -55,10 +59,6 @@
             },
             {
                 "Team": "Brentford",
-                "Winning Chance (%)": 33.94
-            },
-            {
-                "Team": "Newcastle United",
                 "Winning Chance (%)": 31.52
             },
             {
@@ -211,7 +211,7 @@
             },
             {
                 "Team": "SC Freiburg",
-                "Winning Chance (%)": 29.63
+                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
@@ -226,11 +226,11 @@
                 "Winning Chance (%)": 21.33
             },
             {
-                "Team": "Augsburg",
-                "Winning Chance (%)": 20.74
+                "Team": "St. Pauli",
+                "Winning Chance (%)": 21.33
             },
             {
-                "Team": "St. Pauli",
+                "Team": "Augsburg",
                 "Winning Chance (%)": 20.74
             },
             {
