@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 01:00 PM UTC",
-        "IST": "Sunday, 09 November 2025, 06:30 PM IST"
+        "UTC": "Sunday, 09 November 2025, 01:29 PM UTC",
+        "IST": "Sunday, 09 November 2025, 06:59 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -112,6 +112,10 @@
                 "Winning Chance (%)": 40.0
             },
             {
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 37.78
+            },
+            {
                 "Team": "Getafe",
                 "Winning Chance (%)": 41.21
             },
@@ -129,10 +133,6 @@
             },
             {
                 "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 33.94
-            },
-            {
-                "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 33.94
             },
             {
@@ -165,7 +165,7 @@
             },
             {
                 "Team": "Real Oviedo",
-                "Winning Chance (%)": 19.39
+                "Winning Chance (%)": 17.78
             }
         ],
         "Bundesliga": [
