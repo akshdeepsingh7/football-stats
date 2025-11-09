@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 02:36 PM UTC",
-        "IST": "Sunday, 09 November 2025, 08:06 PM IST"
+        "UTC": "Sunday, 09 November 2025, 03:13 PM UTC",
+        "IST": "Sunday, 09 November 2025, 08:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -30,16 +30,16 @@
                 "Winning Chance (%)": 49.6
             },
             {
-                "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 44.44
-            },
-            {
                 "Team": "Manchester United",
                 "Winning Chance (%)": 44.04
             },
             {
+                "Team": "AFC Bournemouth",
+                "Winning Chance (%)": 44.04
+            },
+            {
                 "Team": "Aston Villa",
-                "Winning Chance (%)": 43.64
+                "Winning Chance (%)": 44.04
             },
             {
                 "Team": "Crystal Palace",
@@ -206,12 +206,12 @@
                 "Winning Chance (%)": 38.13
             },
             {
-                "Team": "Union Berlin",
-                "Winning Chance (%)": 32.0
+                "Team": "SC Freiburg",
+                "Winning Chance (%)": 34.67
             },
             {
-                "Team": "SC Freiburg",
-                "Winning Chance (%)": 29.33
+                "Team": "Union Berlin",
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
@@ -226,12 +226,12 @@
                 "Winning Chance (%)": 21.33
             },
             {
-                "Team": "St. Pauli",
-                "Winning Chance (%)": 21.33
-            },
-            {
                 "Team": "Augsburg",
                 "Winning Chance (%)": 20.74
+            },
+            {
+                "Team": "St. Pauli",
+                "Winning Chance (%)": 18.67
             },
             {
                 "Team": "Mainz 05",
@@ -244,12 +244,12 @@
         ],
         "Serie A": [
             {
-                "Team": "Napoli",
-                "Winning Chance (%)": 58.96
-            },
-            {
                 "Team": "Milan",
                 "Winning Chance (%)": 56.53
+            },
+            {
+                "Team": "Napoli",
+                "Winning Chance (%)": 56.13
             },
             {
                 "Team": "Inter",
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 49.26
+                "Winning Chance (%)": 54.51
             },
             {
                 "Team": "Juventus",
@@ -363,7 +363,7 @@
             },
             {
                 "Team": "Toulouse",
-                "Winning Chance (%)": 36.36
+                "Winning Chance (%)": 33.73
             },
             {
                 "Team": "Paris FC",
@@ -372,6 +372,10 @@
             {
                 "Team": "Le Havre",
                 "Winning Chance (%)": 31.11
+            },
+            {
+                "Team": "Lorient",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Brest",
@@ -384,10 +388,6 @@
             {
                 "Team": "Angers",
                 "Winning Chance (%)": 24.24
-            },
-            {
-                "Team": "Lorient",
-                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Metz",
