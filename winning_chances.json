@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 07:11 PM UTC",
-        "IST": "Monday, 10 November 2025, 12:41 AM IST"
+        "UTC": "Sunday, 09 November 2025, 07:36 PM UTC",
+        "IST": "Monday, 10 November 2025, 01:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 51.69
+                "Winning Chance (%)": 46.84
             },
             {
                 "Team": "Espanyol",
@@ -152,15 +152,15 @@
                 "Winning Chance (%)": 24.44
             },
             {
+                "Team": "Valencia",
+                "Winning Chance (%)": 22.22
+            },
+            {
                 "Team": "Girona",
                 "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 20.0
-            },
-            {
-                "Team": "Valencia",
                 "Winning Chance (%)": 20.0
             },
             {
@@ -1100,10 +1100,6 @@
                 "Winning Chance (%)": 35.83
             },
             {
-                "Team": "Corinthians",
-                "Winning Chance (%)": 34.75
-            },
-            {
                 "Team": "Vasco da Gama",
                 "Winning Chance (%)": 34.34
             },
@@ -1113,7 +1109,11 @@
             },
             {
                 "Team": "Cear\u00e1",
-                "Winning Chance (%)": 32.32
+                "Winning Chance (%)": 34.34
+            },
+            {
+                "Team": "Corinthians",
+                "Winning Chance (%)": 33.94
             },
             {
                 "Team": "Gr\u00eamio",
