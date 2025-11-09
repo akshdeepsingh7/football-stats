@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 11:11 AM UTC",
-        "IST": "Sunday, 09 November 2025, 04:41 PM IST"
+        "UTC": "Sunday, 09 November 2025, 11:35 AM UTC",
+        "IST": "Sunday, 09 November 2025, 05:05 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -280,20 +280,20 @@
                 "Winning Chance (%)": 40.0
             },
             {
+                "Team": "Atalanta",
+                "Winning Chance (%)": 35.94
+            },
+            {
                 "Team": "Cremonese",
+                "Winning Chance (%)": 33.94
+            },
+            {
+                "Team": "Sassuolo",
                 "Winning Chance (%)": 33.94
             },
             {
                 "Team": "Torino",
                 "Winning Chance (%)": 33.94
-            },
-            {
-                "Team": "Atalanta",
-                "Winning Chance (%)": 36.67
-            },
-            {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 34.67
             },
             {
                 "Team": "Cagliari",
