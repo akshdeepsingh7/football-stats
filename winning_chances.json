@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 05:12 PM UTC",
-        "IST": "Sunday, 09 November 2025, 10:42 PM IST"
+        "UTC": "Sunday, 09 November 2025, 05:36 PM UTC",
+        "IST": "Sunday, 09 November 2025, 11:06 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -11,7 +11,7 @@
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 58.53
+                "Winning Chance (%)": 58.93
             },
             {
                 "Team": "Chelsea",
@@ -26,12 +26,12 @@
                 "Winning Chance (%)": 47.24
             },
             {
-                "Team": "Liverpool FC",
+                "Team": "Aston Villa",
                 "Winning Chance (%)": 44.84
             },
             {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 44.84
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 44.44
             },
             {
                 "Team": "Manchester United",
@@ -105,19 +105,19 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 48.46
+                "Winning Chance (%)": 46.84
             },
             {
                 "Team": "Espanyol",
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 37.78
+                "Team": "Getafe",
+                "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Getafe",
-                "Winning Chance (%)": 41.21
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 37.78
             },
             {
                 "Team": "Sevilla",
@@ -148,20 +148,20 @@
                 "Winning Chance (%)": 24.44
             },
             {
+                "Team": "Mallorca",
+                "Winning Chance (%)": 22.22
+            },
+            {
+                "Team": "Valencia",
+                "Winning Chance (%)": 22.22
+            },
+            {
                 "Team": "Girona",
                 "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Levante",
                 "Winning Chance (%)": 20.0
-            },
-            {
-                "Team": "Mallorca",
-                "Winning Chance (%)": 21.82
-            },
-            {
-                "Team": "Valencia",
-                "Winning Chance (%)": 21.82
             },
             {
                 "Team": "Real Oviedo",
@@ -339,11 +339,11 @@
             },
             {
                 "Team": "Strasbourg",
-                "Winning Chance (%)": 51.69
+                "Winning Chance (%)": 52.09
             },
             {
                 "Team": "Lille",
-                "Winning Chance (%)": 48.04
+                "Winning Chance (%)": 47.64
             },
             {
                 "Team": "Lyon",
@@ -354,12 +354,12 @@
                 "Winning Chance (%)": 45.64
             },
             {
-                "Team": "Nice",
-                "Winning Chance (%)": 44.84
-            },
-            {
                 "Team": "Rennes",
                 "Winning Chance (%)": 40.8
+            },
+            {
+                "Team": "Nice",
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Toulouse",
@@ -390,11 +390,11 @@
                 "Winning Chance (%)": 22.22
             },
             {
-                "Team": "Auxerre",
-                "Winning Chance (%)": 17.78
+                "Team": "Metz",
+                "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Metz",
+                "Team": "Auxerre",
                 "Winning Chance (%)": 17.78
             }
         ],
@@ -846,12 +846,12 @@
                 "Winning Chance (%)": 76.28
             },
             {
-                "Team": "Gil Vicente",
-                "Winning Chance (%)": 65.41
-            },
-            {
                 "Team": "Benfica",
                 "Winning Chance (%)": 70.8
+            },
+            {
+                "Team": "Gil Vicente",
+                "Winning Chance (%)": 60.16
             },
             {
                 "Team": "Famalic\u00e3o",
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 4.85
+                "Winning Chance (%)": 7.27
             }
         ],
         "EFL Championship": [
