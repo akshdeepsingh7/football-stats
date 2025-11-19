@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 19 November 2025, 01:11 AM UTC",
-        "IST": "Wednesday, 19 November 2025, 06:41 AM IST"
+        "UTC": "Wednesday, 19 November 2025, 02:54 AM UTC",
+        "IST": "Wednesday, 19 November 2025, 08:24 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1080,12 +1080,12 @@
                 "Winning Chance (%)": 56.08
             },
             {
-                "Team": "Bahia",
-                "Winning Chance (%)": 44.43
+                "Team": "Botafogo",
+                "Winning Chance (%)": 49.94
             },
             {
-                "Team": "Botafogo",
-                "Winning Chance (%)": 47.97
+                "Team": "Bahia",
+                "Winning Chance (%)": 44.43
             },
             {
                 "Team": "Fluminense",
@@ -1141,7 +1141,7 @@
             },
             {
                 "Team": "Sport",
-                "Winning Chance (%)": 14.12
+                "Winning Chance (%)": 13.33
             }
         ]
     }
