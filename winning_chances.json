@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 20 November 2025, 10:14 PM UTC",
-        "IST": "Friday, 21 November 2025, 03:44 AM IST"
+        "UTC": "Thursday, 20 November 2025, 10:38 PM UTC",
+        "IST": "Friday, 21 November 2025, 04:08 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1089,19 +1089,23 @@
             },
             {
                 "Team": "Bahia",
-                "Winning Chance (%)": 42.37
+                "Winning Chance (%)": 42.77
+            },
+            {
+                "Team": "S\u00e3o Paulo",
+                "Winning Chance (%)": 36.48
             },
             {
                 "Team": "RB Bragantino",
                 "Winning Chance (%)": 35.29
             },
             {
-                "Team": "S\u00e3o Paulo",
-                "Winning Chance (%)": 36.76
-            },
-            {
                 "Team": "Atl\u00e9tico Mineiro",
                 "Winning Chance (%)": 34.51
+            },
+            {
+                "Team": "Corinthians",
+                "Winning Chance (%)": 33.73
             },
             {
                 "Team": "Gr\u00eamio",
@@ -1114,10 +1118,6 @@
             {
                 "Team": "Cear\u00e1",
                 "Winning Chance (%)": 34.34
-            },
-            {
-                "Team": "Corinthians",
-                "Winning Chance (%)": 33.94
             },
             {
                 "Team": "Internacional",
