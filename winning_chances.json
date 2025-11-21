@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 21 November 2025, 07:35 PM UTC",
-        "IST": "Saturday, 22 November 2025, 01:05 AM IST"
+        "UTC": "Friday, 21 November 2025, 08:17 PM UTC",
+        "IST": "Saturday, 22 November 2025, 01:47 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -153,15 +153,15 @@
             },
             {
                 "Team": "Valencia",
-                "Winning Chance (%)": 22.22
+                "Winning Chance (%)": 22.56
+            },
+            {
+                "Team": "Levante",
+                "Winning Chance (%)": 20.51
             },
             {
                 "Team": "Girona",
                 "Winning Chance (%)": 22.22
-            },
-            {
-                "Team": "Levante",
-                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Real Oviedo",
@@ -178,6 +178,10 @@
                 "Winning Chance (%)": 61.47
             },
             {
+                "Team": "Hoffenheim",
+                "Winning Chance (%)": 55.73
+            },
+            {
                 "Team": "Borussia Dortmund",
                 "Winning Chance (%)": 59.6
             },
@@ -188,10 +192,6 @@
             {
                 "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 57.33
-            },
-            {
-                "Team": "Hoffenheim",
-                "Winning Chance (%)": 50.48
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -235,7 +235,7 @@
             },
             {
                 "Team": "Mainz 05",
-                "Winning Chance (%)": 14.55
+                "Winning Chance (%)": 12.12
             },
             {
                 "Team": "Heidenheim",
@@ -326,12 +326,12 @@
         ],
         "Ligue 1": [
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 65.2
+                "Team": "Marseille",
+                "Winning Chance (%)": 64.64
             },
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 62.36
+                "Team": "PSG",
+                "Winning Chance (%)": 65.2
             },
             {
                 "Team": "Lens",
@@ -359,7 +359,7 @@
             },
             {
                 "Team": "Nice",
-                "Winning Chance (%)": 37.78
+                "Winning Chance (%)": 34.87
             },
             {
                 "Team": "Toulouse",
@@ -925,7 +925,7 @@
             },
             {
                 "Team": "Preston North End",
-                "Winning Chance (%)": 48.62
+                "Winning Chance (%)": 47.4
             },
             {
                 "Team": "Hull City",
@@ -985,7 +985,7 @@
             },
             {
                 "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 30.22
             },
             {
                 "Team": "Portsmouth",
