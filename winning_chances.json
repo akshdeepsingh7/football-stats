@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 21 November 2025, 09:14 PM UTC",
-        "IST": "Saturday, 22 November 2025, 02:44 AM IST"
+        "UTC": "Friday, 21 November 2025, 09:36 PM UTC",
+        "IST": "Saturday, 22 November 2025, 03:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 65.44
+                "Winning Chance (%)": 65.84
             },
             {
                 "Team": "PSG",
@@ -925,7 +925,7 @@
             },
             {
                 "Team": "Preston North End",
-                "Winning Chance (%)": 47.4
+                "Winning Chance (%)": 45.33
             },
             {
                 "Team": "Hull City",
@@ -972,6 +972,10 @@
                 "Winning Chance (%)": 35.96
             },
             {
+                "Team": "Blackburn Rovers",
+                "Winning Chance (%)": 33.78
+            },
+            {
                 "Team": "Queens Park Rangers",
                 "Winning Chance (%)": 33.78
             },
@@ -981,10 +985,6 @@
             },
             {
                 "Team": "Swansea City",
-                "Winning Chance (%)": 30.22
-            },
-            {
-                "Team": "Blackburn Rovers",
                 "Winning Chance (%)": 30.22
             },
             {
