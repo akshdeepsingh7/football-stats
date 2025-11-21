@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 21 November 2025, 08:41 PM UTC",
-        "IST": "Saturday, 22 November 2025, 02:11 AM IST"
+        "UTC": "Friday, 21 November 2025, 09:14 PM UTC",
+        "IST": "Saturday, 22 November 2025, 02:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -178,10 +178,6 @@
                 "Winning Chance (%)": 61.47
             },
             {
-                "Team": "Hoffenheim",
-                "Winning Chance (%)": 55.73
-            },
-            {
                 "Team": "Borussia Dortmund",
                 "Winning Chance (%)": 59.6
             },
@@ -192,6 +188,10 @@
             {
                 "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 57.33
+            },
+            {
+                "Team": "Hoffenheim",
+                "Winning Chance (%)": 50.48
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -235,7 +235,7 @@
             },
             {
                 "Team": "Mainz 05",
-                "Winning Chance (%)": 12.12
+                "Winning Chance (%)": 14.55
             },
             {
                 "Team": "Heidenheim",
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 65.04
+                "Winning Chance (%)": 65.44
             },
             {
                 "Team": "PSG",
