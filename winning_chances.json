@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 21 November 2025, 09:36 PM UTC",
-        "IST": "Saturday, 22 November 2025, 03:06 AM IST"
+        "UTC": "Friday, 21 November 2025, 10:15 PM UTC",
+        "IST": "Saturday, 22 November 2025, 03:45 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -144,6 +144,10 @@
                 "Winning Chance (%)": 28.89
             },
             {
+                "Team": "Valencia",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Mallorca",
                 "Winning Chance (%)": 26.67
             },
@@ -152,16 +156,12 @@
                 "Winning Chance (%)": 24.44
             },
             {
-                "Team": "Valencia",
-                "Winning Chance (%)": 22.56
+                "Team": "Girona",
+                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 20.51
-            },
-            {
-                "Team": "Girona",
-                "Winning Chance (%)": 22.22
+                "Winning Chance (%)": 18.46
             },
             {
                 "Team": "Real Oviedo",
