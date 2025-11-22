@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 22 November 2025, 08:16 PM UTC",
-        "IST": "Sunday, 23 November 2025, 01:46 AM IST"
+        "UTC": "Saturday, 22 November 2025, 08:38 PM UTC",
+        "IST": "Sunday, 23 November 2025, 02:08 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 58.36
+                "Winning Chance (%)": 59.16
             },
             {
                 "Team": "Inter",
@@ -293,7 +293,7 @@
             },
             {
                 "Team": "Atalanta",
-                "Winning Chance (%)": 29.29
+                "Winning Chance (%)": 28.89
             },
             {
                 "Team": "Cagliari",
@@ -326,12 +326,12 @@
         ],
         "Ligue 1": [
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 65.84
+                "Team": "PSG",
+                "Winning Chance (%)": 67.14
             },
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 62.64
+                "Team": "Marseille",
+                "Winning Chance (%)": 65.84
             },
             {
                 "Team": "Lens",
@@ -366,12 +366,12 @@
                 "Winning Chance (%)": 36.36
             },
             {
-                "Team": "Le Havre",
-                "Winning Chance (%)": 30.77
-            },
-            {
                 "Team": "Paris FC",
                 "Winning Chance (%)": 31.11
+            },
+            {
+                "Team": "Le Havre",
+                "Winning Chance (%)": 28.72
             },
             {
                 "Team": "Angers",
