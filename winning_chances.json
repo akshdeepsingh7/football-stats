@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 22 November 2025, 01:39 PM UTC",
-        "IST": "Saturday, 22 November 2025, 07:09 PM IST"
+        "UTC": "Saturday, 22 November 2025, 02:13 PM UTC",
+        "IST": "Saturday, 22 November 2025, 07:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 54.91
+                "Winning Chance (%)": 52.89
             },
             {
                 "Team": "Juventus",
@@ -276,12 +276,12 @@
                 "Winning Chance (%)": 39.59
             },
             {
-                "Team": "Lazio",
-                "Winning Chance (%)": 37.96
+                "Team": "Udinese",
+                "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Udinese",
-                "Winning Chance (%)": 36.36
+                "Team": "Lazio",
+                "Winning Chance (%)": 37.96
             },
             {
                 "Team": "Cremonese",
@@ -297,7 +297,7 @@
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 24.24
+                "Winning Chance (%)": 24.44
             },
             {
                 "Team": "Lecce",
@@ -313,7 +313,7 @@
             },
             {
                 "Team": "Genoa",
-                "Winning Chance (%)": 16.97
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Hellas Verona",
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 67.07
+                "Winning Chance (%)": 72.87
             },
             {
                 "Team": "Middlesbrough",
@@ -925,7 +925,7 @@
             },
             {
                 "Team": "Bristol City",
-                "Winning Chance (%)": 45.73
+                "Winning Chance (%)": 46.13
             },
             {
                 "Team": "Preston North End",
@@ -938,10 +938,6 @@
             {
                 "Team": "Millwall",
                 "Winning Chance (%)": 44.44
-            },
-            {
-                "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Ipswich Town",
@@ -970,6 +966,10 @@
             {
                 "Team": "Wrexham",
                 "Winning Chance (%)": 37.73
+            },
+            {
+                "Team": "West Bromwich Albion",
+                "Winning Chance (%)": 35.0
             },
             {
                 "Team": "Watford",
