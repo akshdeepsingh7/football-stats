@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 23 November 2025, 02:13 PM UTC",
-        "IST": "Sunday, 23 November 2025, 07:43 PM IST"
+        "UTC": "Sunday, 23 November 2025, 02:37 PM UTC",
+        "IST": "Sunday, 23 November 2025, 08:07 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -178,12 +178,12 @@
                 "Winning Chance (%)": 60.56
             },
             {
-                "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 56.93
+                "Team": "RB Leipzig",
+                "Winning Chance (%)": 58.56
             },
             {
-                "Team": "RB Leipzig",
-                "Winning Chance (%)": 61.47
+                "Team": "Borussia Dortmund",
+                "Winning Chance (%)": 56.93
             },
             {
                 "Team": "VfB Stuttgart",
@@ -199,7 +199,7 @@
             },
             {
                 "Team": "Werder Bremen",
-                "Winning Chance (%)": 40.0
+                "Winning Chance (%)": 38.79
             },
             {
                 "Team": "K\u00f6ln",
@@ -244,12 +244,12 @@
         ],
         "Serie A": [
             {
-                "Team": "Napoli",
-                "Winning Chance (%)": 58.76
+                "Team": "Roma",
+                "Winning Chance (%)": 63.2
             },
             {
-                "Team": "Roma",
-                "Winning Chance (%)": 58.36
+                "Team": "Napoli",
+                "Winning Chance (%)": 58.76
             },
             {
                 "Team": "Inter",
@@ -280,16 +280,16 @@
                 "Winning Chance (%)": 37.96
             },
             {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 33.33
-            },
-            {
                 "Team": "Udinese",
                 "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Torino",
                 "Winning Chance (%)": 33.94
+            },
+            {
+                "Team": "Cremonese",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Atalanta",
