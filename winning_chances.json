@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 23 November 2025, 02:37 PM UTC",
-        "IST": "Sunday, 23 November 2025, 08:07 PM IST"
+        "UTC": "Sunday, 23 November 2025, 03:13 PM UTC",
+        "IST": "Sunday, 23 November 2025, 08:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -26,6 +26,10 @@
                 "Winning Chance (%)": 43.42
             },
             {
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 43.42
+            },
+            {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 43.42
             },
@@ -36,10 +40,6 @@
             {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 47.24
-            },
-            {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 40.8
             },
             {
                 "Team": "Manchester United",
@@ -66,11 +66,11 @@
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "Leeds United",
-                "Winning Chance (%)": 31.11
+                "Team": "Nottingham Forest",
+                "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Nottingham Forest",
+                "Team": "Leeds United",
                 "Winning Chance (%)": 26.67
             },
             {
