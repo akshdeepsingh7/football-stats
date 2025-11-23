@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 23 November 2025, 09:13 PM UTC",
-        "IST": "Monday, 24 November 2025, 02:43 AM IST"
+        "UTC": "Sunday, 23 November 2025, 09:36 PM UTC",
+        "IST": "Monday, 24 November 2025, 03:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -338,12 +338,12 @@
                 "Winning Chance (%)": 61.84
             },
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 47.93
+                "Team": "Lille",
+                "Winning Chance (%)": 50.78
             },
             {
-                "Team": "Lille",
-                "Winning Chance (%)": 46.28
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 47.93
             },
             {
                 "Team": "Rennes",
@@ -371,7 +371,7 @@
             },
             {
                 "Team": "Paris FC",
-                "Winning Chance (%)": 30.77
+                "Winning Chance (%)": 28.72
             },
             {
                 "Team": "Le Havre",
@@ -1129,7 +1129,7 @@
             },
             {
                 "Team": "Vit\u00f3ria",
-                "Winning Chance (%)": 28.24
+                "Winning Chance (%)": 28.19
             },
             {
                 "Team": "Fortaleza",
@@ -1141,7 +1141,7 @@
             },
             {
                 "Team": "Sport",
-                "Winning Chance (%)": 13.33
+                "Winning Chance (%)": 13.71
             }
         ]
     }
