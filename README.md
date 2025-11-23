@@ -10,21 +10,9 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Sunday, 23 November 2025, 08:17 PM UTC (Monday, 24 November 2025, 01:47 AM IST)
+**Last Updated:** Sunday, 23 November 2025, 08:40 PM UTC (Monday, 24 November 2025, 02:10 AM IST)
 
 _Charts are sorted by Winning Chance (%)_
-
-### Premier League
-
-![Premier League Winning Chances](images/Premier_League_winning_chances.png)
-
-### La Liga
-
-![La Liga Winning Chances](images/La_Liga_winning_chances.png)
-
-### Bundesliga
-
-![Bundesliga Winning Chances](images/Bundesliga_winning_chances.png)
 
 ### Serie A
 
@@ -37,22 +25,6 @@ _Charts are sorted by Winning Chance (%)_
 ### Champions League
 
 ![Champions League Winning Chances](images/Champions_League_winning_chances.png)
-
-### Europa League
-
-![Europa League Winning Chances](images/Europa_League_winning_chances.png)
-
-### Europa Conference League
-
-![Europa Conference League Winning Chances](images/Europa_Conference_League_winning_chances.png)
-
-### Liga Portugal
-
-![Liga Portugal Winning Chances](images/Liga_Portugal_winning_chances.png)
-
-### EFL Championship
-
-![EFL Championship Winning Chances](images/EFL_Championship_winning_chances.png)
 
 ### Indian Super League
 
