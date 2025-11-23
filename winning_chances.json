@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 23 November 2025, 09:36 PM UTC",
-        "IST": "Monday, 24 November 2025, 03:06 AM IST"
+        "UTC": "Sunday, 23 November 2025, 10:14 PM UTC",
+        "IST": "Monday, 24 November 2025, 03:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -88,12 +88,12 @@
         ],
         "La Liga": [
             {
-                "Team": "Barcelona",
-                "Winning Chance (%)": 71.99
+                "Team": "Real Madrid",
+                "Winning Chance (%)": 72.04
             },
             {
-                "Team": "Real Madrid",
-                "Winning Chance (%)": 69.59
+                "Team": "Barcelona",
+                "Winning Chance (%)": 71.99
             },
             {
                 "Team": "Villarreal",
@@ -112,10 +112,6 @@
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Elche",
-                "Winning Chance (%)": 36.92
-            },
-            {
                 "Team": "Getafe",
                 "Winning Chance (%)": 34.87
             },
@@ -129,6 +125,10 @@
             },
             {
                 "Team": "Real Sociedad",
+                "Winning Chance (%)": 32.82
+            },
+            {
+                "Team": "Elche",
                 "Winning Chance (%)": 32.82
             },
             {
@@ -339,7 +339,7 @@
             },
             {
                 "Team": "Lille",
-                "Winning Chance (%)": 50.78
+                "Winning Chance (%)": 51.18
             },
             {
                 "Team": "Strasbourg",
@@ -1124,12 +1124,12 @@
                 "Winning Chance (%)": 31.37
             },
             {
-                "Team": "Santos",
-                "Winning Chance (%)": 29.02
+                "Team": "Vit\u00f3ria",
+                "Winning Chance (%)": 29.71
             },
             {
-                "Team": "Vit\u00f3ria",
-                "Winning Chance (%)": 28.19
+                "Team": "Santos",
+                "Winning Chance (%)": 29.02
             },
             {
                 "Team": "Fortaleza",
@@ -1141,7 +1141,7 @@
             },
             {
                 "Team": "Sport",
-                "Winning Chance (%)": 13.71
+                "Winning Chance (%)": 12.95
             }
         ]
     }
