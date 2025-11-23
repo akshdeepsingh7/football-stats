@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 23 November 2025, 12:27 PM UTC",
-        "IST": "Sunday, 23 November 2025, 05:57 PM IST"
+        "UTC": "Sunday, 23 November 2025, 12:59 PM UTC",
+        "IST": "Sunday, 23 November 2025, 06:29 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -300,10 +300,6 @@
                 "Winning Chance (%)": 24.44
             },
             {
-                "Team": "Parma",
-                "Winning Chance (%)": 24.44
-            },
-            {
                 "Team": "Lecce",
                 "Winning Chance (%)": 24.24
             },
@@ -312,15 +308,19 @@
                 "Winning Chance (%)": 21.82
             },
             {
+                "Team": "Parma",
+                "Winning Chance (%)": 20.0
+            },
+            {
                 "Team": "Genoa",
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Fiorentina",
-                "Winning Chance (%)": 13.33
+                "Team": "Hellas Verona",
+                "Winning Chance (%)": 15.56
             },
             {
-                "Team": "Hellas Verona",
+                "Team": "Fiorentina",
                 "Winning Chance (%)": 13.33
             }
         ],
