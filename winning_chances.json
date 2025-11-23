@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 23 November 2025, 12:59 PM UTC",
-        "IST": "Sunday, 23 November 2025, 06:29 PM IST"
+        "UTC": "Sunday, 23 November 2025, 01:26 PM UTC",
+        "IST": "Sunday, 23 November 2025, 06:56 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -132,16 +132,16 @@
                 "Winning Chance (%)": 32.82
             },
             {
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 32.82
+            },
+            {
                 "Team": "Elche",
                 "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Alav\u00e9s",
                 "Winning Chance (%)": 30.77
-            },
-            {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Valencia",
@@ -165,7 +165,7 @@
             },
             {
                 "Team": "Real Oviedo",
-                "Winning Chance (%)": 17.78
+                "Winning Chance (%)": 18.46
             }
         ],
         "Bundesliga": [
@@ -300,6 +300,10 @@
                 "Winning Chance (%)": 24.44
             },
             {
+                "Team": "Parma",
+                "Winning Chance (%)": 24.44
+            },
+            {
                 "Team": "Lecce",
                 "Winning Chance (%)": 24.24
             },
@@ -308,19 +312,15 @@
                 "Winning Chance (%)": 21.82
             },
             {
-                "Team": "Parma",
-                "Winning Chance (%)": 20.0
-            },
-            {
                 "Team": "Genoa",
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 15.56
+                "Team": "Fiorentina",
+                "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Fiorentina",
+                "Team": "Hellas Verona",
                 "Winning Chance (%)": 13.33
             }
         ],
