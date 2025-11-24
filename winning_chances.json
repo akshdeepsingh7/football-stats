@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 24 November 2025, 06:24 PM UTC",
-        "IST": "Monday, 24 November 2025, 11:54 PM IST"
+        "UTC": "Monday, 24 November 2025, 06:51 PM UTC",
+        "IST": "Tuesday, 25 November 2025, 12:21 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -264,12 +264,12 @@
                 "Winning Chance (%)": 58.53
             },
             {
-                "Team": "Juventus",
-                "Winning Chance (%)": 46.04
+                "Team": "Como",
+                "Winning Chance (%)": 49.47
             },
             {
-                "Team": "Como",
-                "Winning Chance (%)": 44.62
+                "Team": "Juventus",
+                "Winning Chance (%)": 46.04
             },
             {
                 "Team": "Lazio",
@@ -280,15 +280,15 @@
                 "Winning Chance (%)": 39.59
             },
             {
-                "Team": "Torino",
-                "Winning Chance (%)": 33.33
-            },
-            {
                 "Team": "Udinese",
                 "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Cremonese",
+                "Winning Chance (%)": 31.11
+            },
+            {
+                "Team": "Torino",
                 "Winning Chance (%)": 31.11
             },
             {
