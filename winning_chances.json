@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 24 November 2025, 07:36 PM UTC",
-        "IST": "Tuesday, 25 November 2025, 01:06 AM IST"
+        "UTC": "Monday, 24 November 2025, 08:18 PM UTC",
+        "IST": "Tuesday, 25 November 2025, 01:48 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -34,16 +34,16 @@
                 "Winning Chance (%)": 43.42
             },
             {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 42.62
+            },
+            {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 42.22
             },
             {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 42.4
-            },
-            {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 44.04
             },
             {
                 "Team": "Liverpool FC",
@@ -55,7 +55,7 @@
             },
             {
                 "Team": "Everton",
-                "Winning Chance (%)": 36.36
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Newcastle United",
@@ -109,7 +109,11 @@
             },
             {
                 "Team": "Espanyol",
-                "Winning Chance (%)": 40.0
+                "Winning Chance (%)": 38.97
+            },
+            {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 34.87
             },
             {
                 "Team": "Getafe",
@@ -118,10 +122,6 @@
             {
                 "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 34.87
-            },
-            {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Real Sociedad",
@@ -277,7 +277,7 @@
             },
             {
                 "Team": "Sassuolo",
-                "Winning Chance (%)": 39.59
+                "Winning Chance (%)": 38.58
             },
             {
                 "Team": "Udinese",
@@ -304,12 +304,12 @@
                 "Winning Chance (%)": 24.44
             },
             {
-                "Team": "Lecce",
+                "Team": "Pisa",
                 "Winning Chance (%)": 22.22
             },
             {
-                "Team": "Pisa",
-                "Winning Chance (%)": 21.82
+                "Team": "Lecce",
+                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Genoa",
