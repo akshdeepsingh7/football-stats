@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 24 November 2025, 08:18 PM UTC",
-        "IST": "Tuesday, 25 November 2025, 01:48 AM IST"
+        "UTC": "Monday, 24 November 2025, 08:40 PM UTC",
+        "IST": "Tuesday, 25 November 2025, 02:10 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -34,10 +34,6 @@
                 "Winning Chance (%)": 43.42
             },
             {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 42.62
-            },
-            {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 42.22
             },
@@ -46,15 +42,19 @@
                 "Winning Chance (%)": 42.4
             },
             {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 40.0
+            },
+            {
+                "Team": "Everton",
+                "Winning Chance (%)": 40.0
+            },
+            {
                 "Team": "Liverpool FC",
                 "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Brentford",
-                "Winning Chance (%)": 35.56
-            },
-            {
-                "Team": "Everton",
                 "Winning Chance (%)": 35.56
             },
             {
