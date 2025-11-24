@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 24 November 2025, 08:40 PM UTC",
-        "IST": "Tuesday, 25 November 2025, 02:10 AM IST"
+        "UTC": "Monday, 24 November 2025, 09:15 PM UTC",
+        "IST": "Tuesday, 25 November 2025, 02:45 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -109,11 +109,7 @@
             },
             {
                 "Team": "Espanyol",
-                "Winning Chance (%)": 38.97
-            },
-            {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 34.87
+                "Winning Chance (%)": 43.48
             },
             {
                 "Team": "Getafe",
@@ -129,6 +125,10 @@
             },
             {
                 "Team": "Elche",
+                "Winning Chance (%)": 32.82
+            },
+            {
+                "Team": "Sevilla",
                 "Winning Chance (%)": 32.82
             },
             {
