@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 25 November 2025, 01:11 AM UTC",
-        "IST": "Tuesday, 25 November 2025, 06:41 AM IST"
+        "UTC": "Tuesday, 25 November 2025, 02:56 AM UTC",
+        "IST": "Tuesday, 25 November 2025, 08:26 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1108,10 +1108,6 @@
                 "Winning Chance (%)": 34.51
             },
             {
-                "Team": "Internacional",
-                "Winning Chance (%)": 32.76
-            },
-            {
                 "Team": "Gr\u00eamio",
                 "Winning Chance (%)": 32.76
             },
@@ -1124,12 +1120,16 @@
                 "Winning Chance (%)": 32.0
             },
             {
+                "Team": "Internacional",
+                "Winning Chance (%)": 31.24
+            },
+            {
                 "Team": "Vit\u00f3ria",
                 "Winning Chance (%)": 29.71
             },
             {
                 "Team": "Santos",
-                "Winning Chance (%)": 28.19
+                "Winning Chance (%)": 28.95
             },
             {
                 "Team": "Fortaleza",
