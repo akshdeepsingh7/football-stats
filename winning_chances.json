@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 25 November 2025, 05:41 PM UTC",
-        "IST": "Tuesday, 25 November 2025, 11:11 PM IST"
+        "UTC": "Tuesday, 25 November 2025, 06:23 PM UTC",
+        "IST": "Tuesday, 25 November 2025, 11:53 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -416,6 +416,10 @@
                 "Winning Chance (%)": 69.47
             },
             {
+                "Team": "Galatasaray",
+                "Winning Chance (%)": 54.13
+            },
+            {
                 "Team": "PSG",
                 "Winning Chance (%)": 63.6
             },
@@ -430,10 +434,6 @@
             {
                 "Team": "Liverpool FC",
                 "Winning Chance (%)": 62.0
-            },
-            {
-                "Team": "Galatasaray",
-                "Winning Chance (%)": 60.8
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -496,6 +496,10 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Union Saint-Gilloise",
+                "Winning Chance (%)": 21.33
+            },
+            {
                 "Team": "Marseille",
                 "Winning Chance (%)": 20.4
             },
@@ -508,8 +512,8 @@
                 "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Union Saint-Gilloise",
-                "Winning Chance (%)": 20.0
+                "Team": "Benfica",
+                "Winning Chance (%)": 16.0
             },
             {
                 "Team": "Bod\u00f8/Glimt",
@@ -534,10 +538,6 @@
             {
                 "Team": "Kairat",
                 "Winning Chance (%)": 6.67
-            },
-            {
-                "Team": "Benfica",
-                "Winning Chance (%)": 0.0
             },
             {
                 "Team": "Ajax",
