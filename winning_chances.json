@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 26 November 2025, 09:36 PM UTC",
-        "IST": "Thursday, 27 November 2025, 03:06 AM IST"
+        "UTC": "Wednesday, 26 November 2025, 10:15 PM UTC",
+        "IST": "Thursday, 27 November 2025, 03:45 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -401,23 +401,23 @@
         "Champions League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 84.8
-            },
-            {
-                "Team": "Inter",
-                "Winning Chance (%)": 73.33
+                "Winning Chance (%)": 85.2
             },
             {
                 "Team": "PSG",
-                "Winning Chance (%)": 68.0
+                "Winning Chance (%)": 68.4
             },
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 68.0
+                "Winning Chance (%)": 67.6
+            },
+            {
+                "Team": "Inter",
+                "Winning Chance (%)": 67.6
             },
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 67.2
+                "Winning Chance (%)": 66.8
             },
             {
                 "Team": "Borussia Dortmund",
@@ -444,8 +444,12 @@
                 "Winning Chance (%)": 50.8
             },
             {
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 48.8
+            },
+            {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 49.2
+                "Winning Chance (%)": 48.8
             },
             {
                 "Team": "Galatasaray",
@@ -453,11 +457,11 @@
             },
             {
                 "Team": "PSV",
-                "Winning Chance (%)": 44.27
+                "Winning Chance (%)": 44.67
             },
             {
                 "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 44.27
+                "Winning Chance (%)": 43.87
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -466,10 +470,6 @@
             {
                 "Team": "Barcelona",
                 "Winning Chance (%)": 38.13
-            },
-            {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 37.73
             },
             {
                 "Team": "Qaraba\u011f",
@@ -944,6 +944,10 @@
                 "Winning Chance (%)": 41.18
             },
             {
+                "Team": "Birmingham City",
+                "Winning Chance (%)": 41.62
+            },
+            {
                 "Team": "Wrexham",
                 "Winning Chance (%)": 40.42
             },
@@ -954,10 +958,6 @@
             {
                 "Team": "Queens Park Rangers",
                 "Winning Chance (%)": 39.22
-            },
-            {
-                "Team": "Birmingham City",
-                "Winning Chance (%)": 39.65
             },
             {
                 "Team": "Southampton",
@@ -972,12 +972,12 @@
                 "Winning Chance (%)": 37.65
             },
             {
-                "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 37.65
-            },
-            {
                 "Team": "Charlton Athletic",
                 "Winning Chance (%)": 36.08
+            },
+            {
+                "Team": "West Bromwich Albion",
+                "Winning Chance (%)": 34.51
             },
             {
                 "Team": "Blackburn Rovers",
@@ -1096,12 +1096,12 @@
                 "Winning Chance (%)": 36.57
             },
             {
-                "Team": "Gr\u00eamio",
+                "Team": "RB Bragantino",
                 "Winning Chance (%)": 34.07
             },
             {
-                "Team": "RB Bragantino",
-                "Winning Chance (%)": 34.29
+                "Team": "Gr\u00eamio",
+                "Winning Chance (%)": 34.07
             },
             {
                 "Team": "Corinthians",
