@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 26 November 2025, 05:40 PM UTC",
-        "IST": "Wednesday, 26 November 2025, 11:10 PM IST"
+        "UTC": "Wednesday, 26 November 2025, 06:20 PM UTC",
+        "IST": "Wednesday, 26 November 2025, 11:50 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -448,6 +448,10 @@
                 "Winning Chance (%)": 55.33
             },
             {
+                "Team": "Monaco",
+                "Winning Chance (%)": 42.67
+            },
+            {
                 "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 42.67
             },
@@ -492,12 +496,8 @@
                 "Winning Chance (%)": 34.13
             },
             {
-                "Team": "Monaco",
-                "Winning Chance (%)": 33.33
-            },
-            {
                 "Team": "Pafos",
-                "Winning Chance (%)": 33.33
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Club Brugge",
@@ -509,6 +509,10 @@
             },
             {
                 "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 21.33
+            },
+            {
+                "Team": "FC Copenhagen",
                 "Winning Chance (%)": 21.33
             },
             {
@@ -528,16 +532,12 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "FC Copenhagen",
-                "Winning Chance (%)": 6.67
-            },
-            {
                 "Team": "Villarreal",
                 "Winning Chance (%)": 5.33
             },
             {
                 "Team": "Kairat",
-                "Winning Chance (%)": 6.67
+                "Winning Chance (%)": 5.33
             },
             {
                 "Team": "Ajax",
