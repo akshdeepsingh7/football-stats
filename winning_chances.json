@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 27 November 2025, 09:36 PM UTC",
-        "IST": "Friday, 28 November 2025, 03:06 AM IST"
+        "UTC": "Thursday, 27 November 2025, 10:14 PM UTC",
+        "IST": "Friday, 28 November 2025, 03:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -590,12 +590,12 @@
                 "Winning Chance (%)": 49.6
             },
             {
-                "Team": "Plze\u0148",
+                "Team": "VfB Stuttgart",
                 "Winning Chance (%)": 49.6
             },
             {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 49.2
+                "Team": "Plze\u0148",
+                "Winning Chance (%)": 49.6
             },
             {
                 "Team": "Panathinaikos",
@@ -614,12 +614,12 @@
                 "Winning Chance (%)": 43.87
             },
             {
-                "Team": "Brann",
+                "Team": "Bologna",
                 "Winning Chance (%)": 43.87
             },
             {
-                "Team": "Bologna",
-                "Winning Chance (%)": 43.47
+                "Team": "Brann",
+                "Winning Chance (%)": 43.87
             },
             {
                 "Team": "Fenerbah\u00e7e",
@@ -646,11 +646,11 @@
                 "Winning Chance (%)": 32.0
             },
             {
-                "Team": "Go Ahead Eagles",
+                "Team": "BSC Young Boys",
                 "Winning Chance (%)": 32.0
             },
             {
-                "Team": "BSC Young Boys",
+                "Team": "Go Ahead Eagles",
                 "Winning Chance (%)": 32.0
             },
             {
@@ -696,12 +696,16 @@
                 "Winning Chance (%)": 69.47
             },
             {
-                "Team": "Shakhtar Donetsk",
-                "Winning Chance (%)": 61.6
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 67.87
             },
             {
                 "Team": "Celje",
                 "Winning Chance (%)": 61.6
+            },
+            {
+                "Team": "Shakhtar Donetsk",
+                "Winning Chance (%)": 61.2
             },
             {
                 "Team": "Mainz 05",
@@ -716,10 +720,6 @@
                 "Winning Chance (%)": 55.33
             },
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 54.13
-            },
-            {
                 "Team": "Drita",
                 "Winning Chance (%)": 54.13
             },
@@ -730,10 +730,6 @@
             {
                 "Team": "AEK Athens",
                 "Winning Chance (%)": 48.67
-            },
-            {
-                "Team": "Crystal Palace",
-                "Winning Chance (%)": 47.87
             },
             {
                 "Team": "Sparta Prague",
@@ -762,6 +758,10 @@
             {
                 "Team": "Fiorentina",
                 "Winning Chance (%)": 41.2
+            },
+            {
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 40.8
             },
             {
                 "Team": "Zrinjski Mostar",
