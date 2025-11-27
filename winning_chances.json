@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 27 November 2025, 09:14 PM UTC",
-        "IST": "Friday, 28 November 2025, 02:44 AM IST"
+        "UTC": "Thursday, 27 November 2025, 09:36 PM UTC",
+        "IST": "Friday, 28 November 2025, 03:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -547,7 +547,7 @@
         "Europa League": [
             {
                 "Team": "Lyon",
-                "Winning Chance (%)": 67.2
+                "Winning Chance (%)": 67.6
             },
             {
                 "Team": "Midtjylland",
@@ -570,12 +570,16 @@
                 "Winning Chance (%)": 60.27
             },
             {
-                "Team": "KRC Genk",
-                "Winning Chance (%)": 54.53
+                "Team": "Braga",
+                "Winning Chance (%)": 54.93
             },
             {
                 "Team": "Porto",
                 "Winning Chance (%)": 54.53
+            },
+            {
+                "Team": "KRC Genk",
+                "Winning Chance (%)": 54.13
             },
             {
                 "Team": "Celta de Vigo",
@@ -590,23 +594,23 @@
                 "Winning Chance (%)": 49.6
             },
             {
-                "Team": "Braga",
+                "Team": "VfB Stuttgart",
                 "Winning Chance (%)": 49.2
+            },
+            {
+                "Team": "Panathinaikos",
+                "Winning Chance (%)": 48.8
             },
             {
                 "Team": "Roma",
                 "Winning Chance (%)": 48.8
             },
             {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 48.8
+                "Team": "Nottingham Forest",
+                "Winning Chance (%)": 44.27
             },
             {
                 "Team": "PAOK",
-                "Winning Chance (%)": 43.87
-            },
-            {
-                "Team": "Nottingham Forest",
                 "Winning Chance (%)": 43.87
             },
             {
@@ -620,10 +624,6 @@
             {
                 "Team": "Fenerbah\u00e7e",
                 "Winning Chance (%)": 42.67
-            },
-            {
-                "Team": "Panathinaikos",
-                "Winning Chance (%)": 37.73
             },
             {
                 "Team": "Celtic",
@@ -655,7 +655,7 @@
             },
             {
                 "Team": "Sturm Graz",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "RB Salzburg",
@@ -670,11 +670,11 @@
                 "Winning Chance (%)": 16.0
             },
             {
-                "Team": "Rangers",
-                "Winning Chance (%)": 16.0
+                "Team": "Utrecht",
+                "Winning Chance (%)": 5.33
             },
             {
-                "Team": "Utrecht",
+                "Team": "Rangers",
                 "Winning Chance (%)": 5.33
             },
             {
@@ -693,15 +693,15 @@
         "Europa Conference League": [
             {
                 "Team": "Samsunspor",
-                "Winning Chance (%)": 83.2
+                "Winning Chance (%)": 69.47
+            },
+            {
+                "Team": "Shakhtar Donetsk",
+                "Winning Chance (%)": 61.6
             },
             {
                 "Team": "Celje",
                 "Winning Chance (%)": 61.6
-            },
-            {
-                "Team": "Shakhtar Donetsk",
-                "Winning Chance (%)": 61.2
             },
             {
                 "Team": "Mainz 05",
@@ -780,12 +780,12 @@
                 "Winning Chance (%)": 33.73
             },
             {
-                "Team": "Rijeka",
+                "Team": "Noah",
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Noah",
-                "Winning Chance (%)": 26.67
+                "Team": "Rijeka",
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Shk\u00ebndija",
@@ -793,10 +793,6 @@
             },
             {
                 "Team": "Lincoln Red Imps",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Aberdeen",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -820,15 +816,19 @@
                 "Winning Chance (%)": 13.33
             },
             {
+                "Team": "Brei\u00f0ablik",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Aberdeen",
+                "Winning Chance (%)": 13.33
+            },
+            {
                 "Team": "Shelbourne",
                 "Winning Chance (%)": 6.67
             },
             {
                 "Team": "Shamrock Rovers",
-                "Winning Chance (%)": 6.67
-            },
-            {
-                "Team": "Brei\u00f0ablik",
                 "Winning Chance (%)": 6.67
             },
             {
