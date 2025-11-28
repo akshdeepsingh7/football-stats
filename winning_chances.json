@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 28 November 2025, 08:39 PM UTC",
-        "IST": "Saturday, 29 November 2025, 02:09 AM IST"
+        "UTC": "Friday, 28 November 2025, 09:13 PM UTC",
+        "IST": "Saturday, 29 November 2025, 02:43 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 53.63
+                "Winning Chance (%)": 54.03
             },
             {
                 "Team": "Juventus",
@@ -277,7 +277,7 @@
             },
             {
                 "Team": "Sassuolo",
-                "Winning Chance (%)": 35.27
+                "Winning Chance (%)": 34.87
             },
             {
                 "Team": "Udinese",
@@ -924,12 +924,12 @@
                 "Winning Chance (%)": 48.66
             },
             {
-                "Team": "Millwall",
-                "Winning Chance (%)": 43.92
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 48.72
             },
             {
-                "Team": "Ipswich Town",
-                "Winning Chance (%)": 46.75
+                "Team": "Millwall",
+                "Winning Chance (%)": 43.92
             },
             {
                 "Team": "Preston North End",
@@ -984,16 +984,16 @@
                 "Winning Chance (%)": 31.67
             },
             {
-                "Team": "Oxford United",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Swansea City",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Portsmouth",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Oxford United",
+                "Winning Chance (%)": 23.7
             },
             {
                 "Team": "Sheffield United",
