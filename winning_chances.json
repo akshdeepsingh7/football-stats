@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 28 November 2025, 07:35 PM UTC",
-        "IST": "Saturday, 29 November 2025, 01:05 AM IST"
+        "UTC": "Friday, 28 November 2025, 08:16 PM UTC",
+        "IST": "Saturday, 29 November 2025, 01:46 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -113,7 +113,11 @@
             },
             {
                 "Team": "Getafe",
-                "Winning Chance (%)": 34.87
+                "Winning Chance (%)": 34.29
+            },
+            {
+                "Team": "Elche",
+                "Winning Chance (%)": 32.38
             },
             {
                 "Team": "Athletic Bilbao",
@@ -121,10 +125,6 @@
             },
             {
                 "Team": "Real Sociedad",
-                "Winning Chance (%)": 32.82
-            },
-            {
-                "Team": "Elche",
                 "Winning Chance (%)": 32.82
             },
             {
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 50.67
+                "Winning Chance (%)": 53.63
             },
             {
                 "Team": "Juventus",
@@ -277,7 +277,7 @@
             },
             {
                 "Team": "Sassuolo",
-                "Winning Chance (%)": 38.58
+                "Winning Chance (%)": 35.27
             },
             {
                 "Team": "Udinese",
@@ -338,16 +338,16 @@
                 "Winning Chance (%)": 61.84
             },
             {
+                "Team": "Rennes",
+                "Winning Chance (%)": 48.11
+            },
+            {
                 "Team": "Lille",
                 "Winning Chance (%)": 51.18
             },
             {
                 "Team": "Strasbourg",
                 "Winning Chance (%)": 47.93
-            },
-            {
-                "Team": "Rennes",
-                "Winning Chance (%)": 45.08
             },
             {
                 "Team": "Lyon",
@@ -391,7 +391,7 @@
             },
             {
                 "Team": "Metz",
-                "Winning Chance (%)": 22.56
+                "Winning Chance (%)": 20.95
             },
             {
                 "Team": "Auxerre",
@@ -924,12 +924,12 @@
                 "Winning Chance (%)": 48.66
             },
             {
-                "Team": "Millwall",
-                "Winning Chance (%)": 43.92
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 48.72
             },
             {
-                "Team": "Ipswich Town",
-                "Winning Chance (%)": 49.8
+                "Team": "Millwall",
+                "Winning Chance (%)": 43.92
             },
             {
                 "Team": "Preston North End",
@@ -992,12 +992,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Sheffield United",
-                "Winning Chance (%)": 25.1
+                "Team": "Oxford United",
+                "Winning Chance (%)": 23.7
             },
             {
-                "Team": "Oxford United",
-                "Winning Chance (%)": 23.53
+                "Team": "Sheffield United",
+                "Winning Chance (%)": 25.1
             },
             {
                 "Team": "Norwich City",
