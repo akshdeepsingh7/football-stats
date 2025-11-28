@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 28 November 2025, 08:16 PM UTC",
-        "IST": "Saturday, 29 November 2025, 01:46 AM IST"
+        "UTC": "Friday, 28 November 2025, 08:39 PM UTC",
+        "IST": "Saturday, 29 November 2025, 02:09 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -862,12 +862,12 @@
                 "Winning Chance (%)": 44.04
             },
             {
-                "Team": "Braga",
-                "Winning Chance (%)": 41.99
+                "Team": "Vit\u00f3ria S.C.",
+                "Winning Chance (%)": 37.78
             },
             {
-                "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 33.94
+                "Team": "Braga",
+                "Winning Chance (%)": 41.99
             },
             {
                 "Team": "Estoril",
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 7.27
+                "Winning Chance (%)": 6.67
             }
         ],
         "EFL Championship": [
@@ -924,12 +924,12 @@
                 "Winning Chance (%)": 48.66
             },
             {
-                "Team": "Ipswich Town",
-                "Winning Chance (%)": 48.72
-            },
-            {
                 "Team": "Millwall",
                 "Winning Chance (%)": 43.92
+            },
+            {
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 46.75
             },
             {
                 "Team": "Preston North End",
@@ -984,16 +984,16 @@
                 "Winning Chance (%)": 31.67
             },
             {
+                "Team": "Oxford United",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Swansea City",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Portsmouth",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Oxford United",
-                "Winning Chance (%)": 23.7
             },
             {
                 "Team": "Sheffield United",
