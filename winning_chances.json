@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 29 November 2025, 07:36 PM UTC",
-        "IST": "Sunday, 30 November 2025, 01:06 AM IST"
+        "UTC": "Saturday, 29 November 2025, 08:16 PM UTC",
+        "IST": "Sunday, 30 November 2025, 01:46 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -43,7 +43,7 @@
             },
             {
                 "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 42.4
+                "Winning Chance (%)": 38.52
             },
             {
                 "Team": "Newcastle United",
@@ -63,7 +63,7 @@
             },
             {
                 "Team": "Fulham",
-                "Winning Chance (%)": 31.11
+                "Winning Chance (%)": 34.87
             },
             {
                 "Team": "Nottingham Forest",
@@ -101,7 +101,7 @@
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 63.04
+                "Winning Chance (%)": 60.84
             },
             {
                 "Team": "Real Betis",
@@ -160,12 +160,12 @@
                 "Winning Chance (%)": 22.56
             },
             {
-                "Team": "Levante",
-                "Winning Chance (%)": 17.14
+                "Team": "Real Oviedo",
+                "Winning Chance (%)": 19.05
             },
             {
-                "Team": "Real Oviedo",
-                "Winning Chance (%)": 18.46
+                "Team": "Levante",
+                "Winning Chance (%)": 17.14
             }
         ],
         "Bundesliga": [
@@ -249,7 +249,7 @@
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 59.16
+                "Winning Chance (%)": 56.93
             },
             {
                 "Team": "Napoli",
@@ -273,7 +273,7 @@
             },
             {
                 "Team": "Lazio",
-                "Winning Chance (%)": 42.4
+                "Winning Chance (%)": 41.37
             },
             {
                 "Team": "Udinese",
@@ -331,7 +331,7 @@
             },
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 65.84
+                "Winning Chance (%)": 63.64
             },
             {
                 "Team": "Lens",
@@ -358,12 +358,12 @@
                 "Winning Chance (%)": 44.28
             },
             {
-                "Team": "Nice",
-                "Winning Chance (%)": 34.87
+                "Team": "Toulouse",
+                "Winning Chance (%)": 32.78
             },
             {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 33.22
+                "Team": "Nice",
+                "Winning Chance (%)": 34.87
             },
             {
                 "Team": "Angers",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 61.96
+                "Winning Chance (%)": 69.42
             },
             {
                 "Team": "Gil Vicente",
@@ -870,16 +870,16 @@
                 "Winning Chance (%)": 41.99
             },
             {
-                "Team": "Nacional",
-                "Winning Chance (%)": 33.33
-            },
-            {
                 "Team": "Alverca",
                 "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Estoril",
                 "Winning Chance (%)": 32.32
+            },
+            {
+                "Team": "Nacional",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Rio Ave",
