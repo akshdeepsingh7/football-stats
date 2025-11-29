@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 29 November 2025, 02:13 PM UTC",
-        "IST": "Saturday, 29 November 2025, 07:43 PM IST"
+        "UTC": "Saturday, 29 November 2025, 02:39 PM UTC",
+        "IST": "Saturday, 29 November 2025, 08:09 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -145,7 +145,7 @@
             },
             {
                 "Team": "Mallorca",
-                "Winning Chance (%)": 24.76
+                "Winning Chance (%)": 28.57
             },
             {
                 "Team": "Valencia",
@@ -153,7 +153,7 @@
             },
             {
                 "Team": "Osasuna",
-                "Winning Chance (%)": 22.86
+                "Winning Chance (%)": 20.95
             },
             {
                 "Team": "Girona",
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 88.35
+                "Winning Chance (%)": 81.69
             },
             {
                 "Team": "RB Leipzig",
@@ -190,24 +190,24 @@
                 "Winning Chance (%)": 55.33
             },
             {
+                "Team": "Hoffenheim",
+                "Winning Chance (%)": 48.67
+            },
+            {
                 "Team": "Eintracht Frankfurt",
                 "Winning Chance (%)": 50.48
             },
             {
-                "Team": "Hoffenheim",
-                "Winning Chance (%)": 50.48
-            },
-            {
                 "Team": "Union Berlin",
-                "Winning Chance (%)": 36.36
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Werder Bremen",
-                "Winning Chance (%)": 36.36
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "K\u00f6ln",
-                "Winning Chance (%)": 34.34
+                "Winning Chance (%)": 33.73
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
@@ -219,7 +219,11 @@
             },
             {
                 "Team": "Augsburg",
-                "Winning Chance (%)": 24.24
+                "Winning Chance (%)": 24.44
+            },
+            {
+                "Team": "St. Pauli",
+                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Hamburg",
@@ -230,16 +234,12 @@
                 "Winning Chance (%)": 19.39
             },
             {
-                "Team": "St. Pauli",
-                "Winning Chance (%)": 16.97
-            },
-            {
                 "Team": "Mainz 05",
                 "Winning Chance (%)": 14.55
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 12.12
+                "Winning Chance (%)": 13.33
             }
         ],
         "Serie A": [
@@ -312,12 +312,12 @@
                 "Winning Chance (%)": 22.22
             },
             {
-                "Team": "Genoa",
+                "Team": "Hellas Verona",
                 "Winning Chance (%)": 18.46
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 14.36
+                "Team": "Genoa",
+                "Winning Chance (%)": 16.41
             },
             {
                 "Team": "Fiorentina",
@@ -917,7 +917,7 @@
             },
             {
                 "Team": "Stoke City",
-                "Winning Chance (%)": 51.13
+                "Winning Chance (%)": 49.24
             },
             {
                 "Team": "Middlesbrough",
@@ -926,6 +926,10 @@
             {
                 "Team": "Bristol City",
                 "Winning Chance (%)": 45.36
+            },
+            {
+                "Team": "Hull City",
+                "Winning Chance (%)": 41.48
             },
             {
                 "Team": "Millwall",
@@ -942,10 +946,6 @@
             {
                 "Team": "Derby County",
                 "Winning Chance (%)": 41.18
-            },
-            {
-                "Team": "Hull City",
-                "Winning Chance (%)": 38.52
             },
             {
                 "Team": "Birmingham City",
