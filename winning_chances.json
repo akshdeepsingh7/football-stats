@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 29 November 2025, 08:39 PM UTC",
-        "IST": "Sunday, 30 November 2025, 02:09 AM IST"
+        "UTC": "Saturday, 29 November 2025, 09:13 PM UTC",
+        "IST": "Sunday, 30 November 2025, 02:43 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -244,12 +244,12 @@
         ],
         "Serie A": [
             {
-                "Team": "Roma",
-                "Winning Chance (%)": 63.6
+                "Team": "Milan",
+                "Winning Chance (%)": 61.44
             },
             {
-                "Team": "Milan",
-                "Winning Chance (%)": 56.93
+                "Team": "Roma",
+                "Winning Chance (%)": 63.6
             },
             {
                 "Team": "Napoli",
@@ -273,7 +273,7 @@
             },
             {
                 "Team": "Lazio",
-                "Winning Chance (%)": 41.37
+                "Winning Chance (%)": 38.92
             },
             {
                 "Team": "Udinese",
@@ -851,7 +851,7 @@
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 57.73
+                "Winning Chance (%)": 55.11
             },
             {
                 "Team": "Famalic\u00e3o",
@@ -898,12 +898,12 @@
                 "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Arouca",
-                "Winning Chance (%)": 21.82
+                "Team": "Tondela",
+                "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Tondela",
-                "Winning Chance (%)": 15.56
+                "Team": "Arouca",
+                "Winning Chance (%)": 21.82
             },
             {
                 "Team": "AVS",
@@ -1077,7 +1077,7 @@
             },
             {
                 "Team": "Mirassol",
-                "Winning Chance (%)": 55.87
+                "Winning Chance (%)": 55.47
             },
             {
                 "Team": "Fluminense",
