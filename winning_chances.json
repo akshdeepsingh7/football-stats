@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 29 November 2025, 01:41 PM UTC",
-        "IST": "Saturday, 29 November 2025, 07:11 PM IST"
+        "UTC": "Saturday, 29 November 2025, 02:13 PM UTC",
+        "IST": "Saturday, 29 November 2025, 07:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -276,12 +276,12 @@
                 "Winning Chance (%)": 42.4
             },
             {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 34.87
+                "Team": "Udinese",
+                "Winning Chance (%)": 36.92
             },
             {
-                "Team": "Udinese",
-                "Winning Chance (%)": 33.33
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 34.87
             },
             {
                 "Team": "Cremonese",
@@ -301,7 +301,7 @@
             },
             {
                 "Team": "Parma",
-                "Winning Chance (%)": 24.44
+                "Winning Chance (%)": 22.56
             },
             {
                 "Team": "Pisa",
@@ -313,14 +313,14 @@
             },
             {
                 "Team": "Genoa",
-                "Winning Chance (%)": 17.78
-            },
-            {
-                "Team": "Fiorentina",
-                "Winning Chance (%)": 13.33
+                "Winning Chance (%)": 18.46
             },
             {
                 "Team": "Hellas Verona",
+                "Winning Chance (%)": 14.36
+            },
+            {
+                "Team": "Fiorentina",
                 "Winning Chance (%)": 13.33
             }
         ],
