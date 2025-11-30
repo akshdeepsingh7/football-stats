@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 30 November 2025, 06:20 PM UTC",
-        "IST": "Sunday, 30 November 2025, 11:50 PM IST"
+        "UTC": "Sunday, 30 November 2025, 06:46 PM UTC",
+        "IST": "Monday, 01 December 2025, 12:16 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -195,7 +195,11 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 46.04
+                "Winning Chance (%)": 48.67
+            },
+            {
+                "Team": "SC Freiburg",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Werder Bremen",
@@ -214,20 +218,16 @@
                 "Winning Chance (%)": 28.89
             },
             {
-                "Team": "SC Freiburg",
-                "Winning Chance (%)": 31.52
-            },
-            {
                 "Team": "Hamburg",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "VfL Wolfsburg",
-                "Winning Chance (%)": 24.44
-            },
-            {
                 "Team": "Augsburg",
                 "Winning Chance (%)": 22.22
+            },
+            {
+                "Team": "VfL Wolfsburg",
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Heidenheim",
@@ -239,7 +239,7 @@
             },
             {
                 "Team": "Mainz 05",
-                "Winning Chance (%)": 14.55
+                "Winning Chance (%)": 13.33
             }
         ],
         "Serie A": [
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 78.09
+                "Winning Chance (%)": 78.49
             },
             {
                 "Team": "Benfica",
