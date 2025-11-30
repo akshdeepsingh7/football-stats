@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 30 November 2025, 11:35 AM UTC",
-        "IST": "Sunday, 30 November 2025, 05:05 PM IST"
+        "UTC": "Sunday, 30 November 2025, 12:29 PM UTC",
+        "IST": "Sunday, 30 November 2025, 05:59 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -22,12 +22,12 @@
                 "Winning Chance (%)": 46.73
             },
             {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 48.27
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 45.88
             },
             {
-                "Team": "Crystal Palace",
-                "Winning Chance (%)": 47.24
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 48.27
             },
             {
                 "Team": "Brighton & Hove Albion",
@@ -36,6 +36,10 @@
             {
                 "Team": "Brentford",
                 "Winning Chance (%)": 39.37
+            },
+            {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 38.97
             },
             {
                 "Team": "AFC Bournemouth",
@@ -48,10 +52,6 @@
             {
                 "Team": "Newcastle United",
                 "Winning Chance (%)": 37.32
-            },
-            {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Liverpool FC",
@@ -284,16 +284,20 @@
                 "Winning Chance (%)": 34.87
             },
             {
-                "Team": "Torino",
-                "Winning Chance (%)": 30.77
-            },
-            {
                 "Team": "Cremonese",
                 "Winning Chance (%)": 31.11
             },
             {
+                "Team": "Torino",
+                "Winning Chance (%)": 28.72
+            },
+            {
                 "Team": "Atalanta",
                 "Winning Chance (%)": 28.89
+            },
+            {
+                "Team": "Lecce",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Cagliari",
@@ -305,10 +309,6 @@
             },
             {
                 "Team": "Parma",
-                "Winning Chance (%)": 22.56
-            },
-            {
-                "Team": "Lecce",
                 "Winning Chance (%)": 22.56
             },
             {
