@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 30 November 2025, 12:29 PM UTC",
-        "IST": "Sunday, 30 November 2025, 05:59 PM IST"
+        "UTC": "Sunday, 30 November 2025, 01:03 PM UTC",
+        "IST": "Sunday, 30 November 2025, 06:33 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -18,12 +18,12 @@
                 "Winning Chance (%)": 55.91
             },
             {
-                "Team": "Sunderland",
-                "Winning Chance (%)": 46.73
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 50.38
             },
             {
-                "Team": "Crystal Palace",
-                "Winning Chance (%)": 45.88
+                "Team": "Sunderland",
+                "Winning Chance (%)": 46.73
             },
             {
                 "Team": "Aston Villa",
@@ -38,10 +38,6 @@
                 "Winning Chance (%)": 39.37
             },
             {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 38.97
-            },
-            {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 38.97
             },
@@ -52,6 +48,10 @@
             {
                 "Team": "Newcastle United",
                 "Winning Chance (%)": 37.32
+            },
+            {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 36.92
             },
             {
                 "Team": "Liverpool FC",
@@ -101,7 +101,7 @@
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 65.49
+                "Winning Chance (%)": 63.14
             },
             {
                 "Team": "Real Betis",
@@ -121,7 +121,7 @@
             },
             {
                 "Team": "Real Sociedad",
-                "Winning Chance (%)": 32.82
+                "Winning Chance (%)": 32.38
             },
             {
                 "Team": "Sevilla",
