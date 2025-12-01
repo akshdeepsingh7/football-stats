@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 01 December 2025, 08:16 PM UTC",
-        "IST": "Tuesday, 02 December 2025, 01:46 AM IST"
+        "UTC": "Monday, 01 December 2025, 08:38 PM UTC",
+        "IST": "Tuesday, 02 December 2025, 02:08 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 56.48
+                "Winning Chance (%)": 54.03
             },
             {
                 "Team": "Como",
@@ -284,12 +284,12 @@
                 "Winning Chance (%)": 34.87
             },
             {
-                "Team": "Atalanta",
-                "Winning Chance (%)": 33.62
+                "Team": "Cremonese",
+                "Winning Chance (%)": 34.87
             },
             {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 30.77
+                "Team": "Atalanta",
+                "Winning Chance (%)": 33.62
             },
             {
                 "Team": "Torino",
@@ -936,6 +936,10 @@
                 "Winning Chance (%)": 45.36
             },
             {
+                "Team": "Birmingham City",
+                "Winning Chance (%)": 44.28
+            },
+            {
                 "Team": "Hull City",
                 "Winning Chance (%)": 41.48
             },
@@ -944,20 +948,12 @@
                 "Winning Chance (%)": 46.75
             },
             {
-                "Team": "Birmingham City",
-                "Winning Chance (%)": 40.92
-            },
-            {
                 "Team": "Wrexham",
                 "Winning Chance (%)": 39.72
             },
             {
                 "Team": "Derby County",
                 "Winning Chance (%)": 38.52
-            },
-            {
-                "Team": "Watford",
-                "Winning Chance (%)": 37.84
             },
             {
                 "Team": "West Bromwich Albion",
@@ -970,6 +966,10 @@
             {
                 "Team": "Southampton",
                 "Winning Chance (%)": 36.76
+            },
+            {
+                "Team": "Watford",
+                "Winning Chance (%)": 35.96
             },
             {
                 "Team": "Leicester City",
