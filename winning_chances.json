@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 02 December 2025, 09:36 PM UTC",
-        "IST": "Wednesday, 03 December 2025, 03:06 AM IST"
+        "UTC": "Tuesday, 02 December 2025, 10:14 PM UTC",
+        "IST": "Wednesday, 03 December 2025, 03:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 75.38
+                "Winning Chance (%)": 75.78
             },
             {
                 "Team": "Real Madrid",
@@ -101,7 +101,7 @@
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 61.11
+                "Winning Chance (%)": 60.71
             },
             {
                 "Team": "Real Betis",
@@ -936,16 +936,16 @@
                 "Winning Chance (%)": 45.36
             },
             {
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 45.88
+            },
+            {
                 "Team": "Birmingham City",
                 "Winning Chance (%)": 44.28
             },
             {
                 "Team": "Hull City",
                 "Winning Chance (%)": 41.48
-            },
-            {
-                "Team": "Ipswich Town",
-                "Winning Chance (%)": 44.0
             },
             {
                 "Team": "Wrexham",
@@ -976,12 +976,12 @@
                 "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Blackburn Rovers",
+                "Team": "Charlton Athletic",
                 "Winning Chance (%)": 34.07
             },
             {
-                "Team": "Charlton Athletic",
-                "Winning Chance (%)": 34.07
+                "Team": "Blackburn Rovers",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Sheffield United",
@@ -1077,7 +1077,7 @@
             },
             {
                 "Team": "Mirassol",
-                "Winning Chance (%)": 55.47
+                "Winning Chance (%)": 54.93
             },
             {
                 "Team": "Botafogo",
@@ -1096,16 +1096,16 @@
                 "Winning Chance (%)": 35.56
             },
             {
+                "Team": "Vasco da Gama",
+                "Winning Chance (%)": 33.95
+            },
+            {
                 "Team": "Corinthians",
                 "Winning Chance (%)": 34.07
             },
             {
                 "Team": "Gr\u00eamio",
                 "Winning Chance (%)": 34.07
-            },
-            {
-                "Team": "Vasco da Gama",
-                "Winning Chance (%)": 34.13
             },
             {
                 "Team": "RB Bragantino",
