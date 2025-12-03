@@ -1,53 +1,49 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 03 December 2025, 07:37 PM UTC",
-        "IST": "Thursday, 04 December 2025, 01:07 AM IST"
+        "UTC": "Wednesday, 03 December 2025, 08:19 PM UTC",
+        "IST": "Thursday, 04 December 2025, 01:49 AM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 66.25
+                "Winning Chance (%)": 70.46
             },
             {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 59.73
             },
             {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 49.62
-            },
-            {
                 "Team": "Chelsea",
-                "Winning Chance (%)": 54.03
+                "Winning Chance (%)": 52.42
             },
             {
                 "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 45.81
+                "Winning Chance (%)": 50.02
             },
             {
-                "Team": "Sunderland",
-                "Winning Chance (%)": 46.73
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 47.31
             },
             {
                 "Team": "Crystal Palace",
-                "Winning Chance (%)": 42.4
+                "Winning Chance (%)": 46.61
+            },
+            {
+                "Team": "Sunderland",
+                "Winning Chance (%)": 45.41
+            },
+            {
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 41.9
             },
             {
                 "Team": "Manchester United",
                 "Winning Chance (%)": 43.48
             },
             {
-                "Team": "Liverpool FC",
-                "Winning Chance (%)": 43.08
-            },
-            {
                 "Team": "Everton",
                 "Winning Chance (%)": 40.0
-            },
-            {
-                "Team": "Brentford",
-                "Winning Chance (%)": 38.5
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -56,6 +52,10 @@
             {
                 "Team": "Newcastle United",
                 "Winning Chance (%)": 36.59
+            },
+            {
+                "Team": "Brentford",
+                "Winning Chance (%)": 36.19
             },
             {
                 "Team": "AFC Bournemouth",
@@ -70,16 +70,16 @@
                 "Winning Chance (%)": 24.76
             },
             {
-                "Team": "Burnley",
-                "Winning Chance (%)": 20.95
+                "Team": "Leeds United",
+                "Winning Chance (%)": 22.86
             },
             {
                 "Team": "West Ham United",
                 "Winning Chance (%)": 22.56
             },
             {
-                "Team": "Leeds United",
-                "Winning Chance (%)": 22.56
+                "Team": "Burnley",
+                "Winning Chance (%)": 19.05
             },
             {
                 "Team": "Wolverhampton Wanderers",
