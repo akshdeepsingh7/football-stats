@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 05 December 2025, 08:17 PM UTC",
-        "IST": "Saturday, 06 December 2025, 01:47 AM IST"
+        "UTC": "Friday, 05 December 2025, 08:42 PM UTC",
+        "IST": "Saturday, 06 December 2025, 02:12 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -843,11 +843,11 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 78.89
+                "Winning Chance (%)": 80.14
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 69.42
+                "Winning Chance (%)": 64.24
             },
             {
                 "Team": "Gil Vicente",
@@ -917,7 +917,7 @@
             },
             {
                 "Team": "Middlesbrough",
-                "Winning Chance (%)": 49.72
+                "Winning Chance (%)": 52.93
             },
             {
                 "Team": "Millwall",
@@ -936,16 +936,16 @@
                 "Winning Chance (%)": 45.36
             },
             {
-                "Team": "Hull City",
-                "Winning Chance (%)": 40.7
-            },
-            {
                 "Team": "Ipswich Town",
                 "Winning Chance (%)": 45.88
             },
             {
                 "Team": "Birmingham City",
                 "Winning Chance (%)": 44.28
+            },
+            {
+                "Team": "Hull City",
+                "Winning Chance (%)": 39.3
             },
             {
                 "Team": "Wrexham",
