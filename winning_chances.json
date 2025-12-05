@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 05 December 2025, 08:42 PM UTC",
-        "IST": "Saturday, 06 December 2025, 02:12 AM IST"
+        "UTC": "Friday, 05 December 2025, 09:14 PM UTC",
+        "IST": "Saturday, 06 December 2025, 02:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -202,6 +202,10 @@
                 "Winning Chance (%)": 35.56
             },
             {
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Winning Chance (%)": 32.82
+            },
+            {
                 "Team": "Werder Bremen",
                 "Winning Chance (%)": 35.56
             },
@@ -212,10 +216,6 @@
             {
                 "Team": "Union Berlin",
                 "Winning Chance (%)": 33.33
-            },
-            {
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 28.72
             },
             {
                 "Team": "Hamburg",
@@ -234,12 +234,12 @@
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Mainz 05",
-                "Winning Chance (%)": 14.36
-            },
-            {
                 "Team": "St. Pauli",
                 "Winning Chance (%)": 15.56
+            },
+            {
+                "Team": "Mainz 05",
+                "Winning Chance (%)": 12.31
             }
         ],
         "Serie A": [
@@ -843,11 +843,11 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 80.14
+                "Winning Chance (%)": 75.64
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 64.24
+                "Winning Chance (%)": 66.69
             },
             {
                 "Team": "Gil Vicente",
@@ -917,7 +917,7 @@
             },
             {
                 "Team": "Middlesbrough",
-                "Winning Chance (%)": 52.93
+                "Winning Chance (%)": 54.13
             },
             {
                 "Team": "Millwall",
