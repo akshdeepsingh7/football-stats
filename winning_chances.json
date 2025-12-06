@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 06 December 2025, 04:44 PM UTC",
-        "IST": "Saturday, 06 December 2025, 10:14 PM IST"
+        "UTC": "Saturday, 06 December 2025, 05:13 PM UTC",
+        "IST": "Saturday, 06 December 2025, 10:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -43,7 +43,7 @@
             },
             {
                 "Team": "Newcastle United",
-                "Winning Chance (%)": 40.31
+                "Winning Chance (%)": 39.91
             },
             {
                 "Team": "Manchester United",
@@ -244,6 +244,10 @@
         ],
         "Serie A": [
             {
+                "Team": "Inter",
+                "Winning Chance (%)": 63.54
+            },
+            {
                 "Team": "Milan",
                 "Winning Chance (%)": 61.44
             },
@@ -252,20 +256,16 @@
                 "Winning Chance (%)": 61.04
             },
             {
-                "Team": "Inter",
-                "Winning Chance (%)": 61.38
-            },
-            {
                 "Team": "Roma",
                 "Winning Chance (%)": 58.58
             },
             {
-                "Team": "Como",
-                "Winning Chance (%)": 54.03
-            },
-            {
                 "Team": "Bologna",
                 "Winning Chance (%)": 53.63
+            },
+            {
+                "Team": "Como",
+                "Winning Chance (%)": 50.11
             },
             {
                 "Team": "Juventus",
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 72.35
+                "Winning Chance (%)": 71.95
             },
             {
                 "Team": "Middlesbrough",
@@ -925,7 +925,7 @@
             },
             {
                 "Team": "Ipswich Town",
-                "Winning Chance (%)": 48.71
+                "Winning Chance (%)": 49.11
             },
             {
                 "Team": "Preston North End",
