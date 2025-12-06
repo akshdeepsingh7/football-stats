@@ -1,21 +1,21 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 06 December 2025, 01:04 PM UTC",
-        "IST": "Saturday, 06 December 2025, 06:34 PM IST"
+        "UTC": "Saturday, 06 December 2025, 01:41 PM UTC",
+        "IST": "Saturday, 06 December 2025, 07:11 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 68.44
+                "Winning Chance (%)": 66.27
+            },
+            {
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 56.13
             },
             {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 59.73
-            },
-            {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 52.18
             },
             {
                 "Team": "Chelsea",
