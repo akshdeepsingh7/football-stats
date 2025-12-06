@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 06 December 2025, 04:18 PM UTC",
-        "IST": "Saturday, 06 December 2025, 09:48 PM IST"
+        "UTC": "Saturday, 06 December 2025, 04:44 PM UTC",
+        "IST": "Saturday, 06 December 2025, 10:14 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -11,7 +11,7 @@
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 62.31
+                "Winning Chance (%)": 62.71
             },
             {
                 "Team": "Aston Villa",
@@ -23,7 +23,7 @@
             },
             {
                 "Team": "Everton",
-                "Winning Chance (%)": 42.67
+                "Winning Chance (%)": 43.07
             },
             {
                 "Team": "Crystal Palace",
@@ -31,7 +31,7 @@
             },
             {
                 "Team": "Sunderland",
-                "Winning Chance (%)": 41.69
+                "Winning Chance (%)": 41.29
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 91.1
+                "Winning Chance (%)": 91.9
             },
             {
                 "Team": "RB Leipzig",
@@ -191,7 +191,7 @@
             },
             {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 45.53
+                "Winning Chance (%)": 45.13
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -199,11 +199,11 @@
             },
             {
                 "Team": "K\u00f6ln",
-                "Winning Chance (%)": 37.72
+                "Winning Chance (%)": 33.22
             },
             {
                 "Team": "SC Freiburg",
-                "Winning Chance (%)": 34.87
+                "Winning Chance (%)": 32.82
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
@@ -231,11 +231,11 @@
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 18.46
+                "Winning Chance (%)": 22.56
             },
             {
                 "Team": "St. Pauli",
-                "Winning Chance (%)": 14.36
+                "Winning Chance (%)": 16.41
             },
             {
                 "Team": "Mainz 05",
@@ -928,20 +928,16 @@
                 "Winning Chance (%)": 48.71
             },
             {
-                "Team": "Stoke City",
-                "Winning Chance (%)": 45.71
+                "Team": "Preston North End",
+                "Winning Chance (%)": 45.91
             },
             {
-                "Team": "Preston North End",
-                "Winning Chance (%)": 44.11
+                "Team": "Stoke City",
+                "Winning Chance (%)": 45.31
             },
             {
                 "Team": "Bristol City",
                 "Winning Chance (%)": 42.7
-            },
-            {
-                "Team": "Wrexham",
-                "Winning Chance (%)": 42.3
             },
             {
                 "Team": "Birmingham City",
@@ -960,6 +956,10 @@
                 "Winning Chance (%)": 39.89
             },
             {
+                "Team": "Wrexham",
+                "Winning Chance (%)": 39.09
+            },
+            {
                 "Team": "Watford",
                 "Winning Chance (%)": 38.69
             },
@@ -976,16 +976,16 @@
                 "Winning Chance (%)": 35.09
             },
             {
-                "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 33.68
-            },
-            {
                 "Team": "Charlton Athletic",
                 "Winning Chance (%)": 34.07
             },
             {
                 "Team": "Sheffield United",
                 "Winning Chance (%)": 30.88
+            },
+            {
+                "Team": "Blackburn Rovers",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Swansea City",
