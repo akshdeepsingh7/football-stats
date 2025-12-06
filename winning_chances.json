@@ -1,21 +1,21 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 06 December 2025, 01:41 PM UTC",
-        "IST": "Saturday, 06 December 2025, 07:11 PM IST"
+        "UTC": "Saturday, 06 December 2025, 02:13 PM UTC",
+        "IST": "Saturday, 06 December 2025, 07:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 66.27
-            },
-            {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 56.13
+                "Winning Chance (%)": 68.44
             },
             {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 59.73
+            },
+            {
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 52.18
             },
             {
                 "Team": "Chelsea",
@@ -97,7 +97,7 @@
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 65.07
+                "Winning Chance (%)": 69.02
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
@@ -113,7 +113,7 @@
             },
             {
                 "Team": "Getafe",
-                "Winning Chance (%)": 37.33
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Athletic Bilbao",
@@ -280,12 +280,12 @@
                 "Winning Chance (%)": 36.92
             },
             {
-                "Team": "Sassuolo",
+                "Team": "Cremonese",
                 "Winning Chance (%)": 34.87
             },
             {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 34.87
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 32.38
             },
             {
                 "Team": "Atalanta",
@@ -317,7 +317,7 @@
             },
             {
                 "Team": "Fiorentina",
-                "Winning Chance (%)": 12.31
+                "Winning Chance (%)": 17.14
             },
             {
                 "Team": "Hellas Verona",
@@ -948,8 +948,12 @@
                 "Winning Chance (%)": 39.3
             },
             {
-                "Team": "Leicester City",
+                "Team": "Watford",
                 "Winning Chance (%)": 38.69
+            },
+            {
+                "Team": "Leicester City",
+                "Winning Chance (%)": 38.29
             },
             {
                 "Team": "Wrexham",
@@ -970,10 +974,6 @@
             {
                 "Team": "Southampton",
                 "Winning Chance (%)": 36.76
-            },
-            {
-                "Team": "Watford",
-                "Winning Chance (%)": 33.68
             },
             {
                 "Team": "Charlton Athletic",
@@ -1001,7 +1001,7 @@
             },
             {
                 "Team": "Norwich City",
-                "Winning Chance (%)": 22.46
+                "Winning Chance (%)": 18.25
             },
             {
                 "Team": "Sheffield Wednesday",
