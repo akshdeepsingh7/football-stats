@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 06 December 2025, 05:13 PM UTC",
-        "IST": "Saturday, 06 December 2025, 10:43 PM IST"
+        "UTC": "Saturday, 06 December 2025, 05:37 PM UTC",
+        "IST": "Saturday, 06 December 2025, 11:07 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -34,6 +34,10 @@
                 "Winning Chance (%)": 41.29
             },
             {
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 40.89
+            },
+            {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 41.91
             },
@@ -50,10 +54,6 @@
                 "Winning Chance (%)": 42.3
             },
             {
-                "Team": "Liverpool FC",
-                "Winning Chance (%)": 41.9
-            },
-            {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 35.56
             },
@@ -66,11 +66,11 @@
                 "Winning Chance (%)": 32.38
             },
             {
-                "Team": "Nottingham Forest",
+                "Team": "Leeds United",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Leeds United",
+                "Team": "Nottingham Forest",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 75.78
+                "Winning Chance (%)": 73.33
             },
             {
                 "Team": "Real Madrid",
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 48.91
+                "Winning Chance (%)": 47.64
             },
             {
                 "Team": "Espanyol",
@@ -175,7 +175,7 @@
             },
             {
                 "Team": "RB Leipzig",
-                "Winning Chance (%)": 61.38
+                "Winning Chance (%)": 63.49
             },
             {
                 "Team": "Borussia Dortmund",
@@ -195,7 +195,7 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 48.67
+                "Winning Chance (%)": 44.68
             },
             {
                 "Team": "K\u00f6ln",
