@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 06 December 2025, 05:37 PM UTC",
-        "IST": "Saturday, 06 December 2025, 11:07 PM IST"
+        "UTC": "Saturday, 06 December 2025, 06:20 PM UTC",
+        "IST": "Saturday, 06 December 2025, 11:50 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 73.33
+                "Winning Chance (%)": 77.87
             },
             {
                 "Team": "Real Madrid",
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 47.64
+                "Winning Chance (%)": 44.67
             },
             {
                 "Team": "Espanyol",
@@ -175,7 +175,7 @@
             },
             {
                 "Team": "RB Leipzig",
-                "Winning Chance (%)": 63.49
+                "Winning Chance (%)": 63.89
             },
             {
                 "Team": "Borussia Dortmund",
@@ -195,7 +195,7 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 44.68
+                "Winning Chance (%)": 44.28
             },
             {
                 "Team": "K\u00f6ln",
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "Lens",
-                "Winning Chance (%)": 61.69
+                "Winning Chance (%)": 65.64
             },
             {
                 "Team": "PSG",
@@ -355,15 +355,15 @@
             },
             {
                 "Team": "Strasbourg",
-                "Winning Chance (%)": 44.3
+                "Winning Chance (%)": 41.11
+            },
+            {
+                "Team": "Toulouse",
+                "Winning Chance (%)": 36.36
             },
             {
                 "Team": "Brest",
                 "Winning Chance (%)": 33.78
-            },
-            {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 32.78
             },
             {
                 "Team": "Nice",
@@ -387,7 +387,7 @@
             },
             {
                 "Team": "Nantes",
-                "Winning Chance (%)": 21.33
+                "Winning Chance (%)": 19.56
             },
             {
                 "Team": "Metz",
@@ -878,12 +878,12 @@
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "Estoril",
-                "Winning Chance (%)": 29.29
+                "Team": "Rio Ave",
+                "Winning Chance (%)": 28.72
             },
             {
-                "Team": "Rio Ave",
-                "Winning Chance (%)": 28.89
+                "Team": "Estoril",
+                "Winning Chance (%)": 29.29
             },
             {
                 "Team": "Nacional",
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 6.67
+                "Winning Chance (%)": 8.21
             }
         ],
         "EFL Championship": [
