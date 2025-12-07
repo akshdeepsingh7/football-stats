@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 07 December 2025, 08:16 PM UTC",
-        "IST": "Monday, 08 December 2025, 01:46 AM IST"
+        "UTC": "Sunday, 07 December 2025, 08:40 PM UTC",
+        "IST": "Monday, 08 December 2025, 02:10 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -343,7 +343,7 @@
             },
             {
                 "Team": "Lyon",
-                "Winning Chance (%)": 46.84
+                "Winning Chance (%)": 44.67
             },
             {
                 "Team": "Rennes",
@@ -374,15 +374,15 @@
                 "Winning Chance (%)": 30.22
             },
             {
+                "Team": "Lorient",
+                "Winning Chance (%)": 30.22
+            },
+            {
                 "Team": "Paris FC",
                 "Winning Chance (%)": 28.44
             },
             {
                 "Team": "Le Havre",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Lorient",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 84.36
+                "Winning Chance (%)": 80.59
             },
             {
                 "Team": "Sporting CP",
@@ -894,12 +894,12 @@
                 "Winning Chance (%)": 24.62
             },
             {
-                "Team": "Casa Pia",
-                "Winning Chance (%)": 18.46
+                "Team": "Tondela",
+                "Winning Chance (%)": 20.51
             },
             {
-                "Team": "Tondela",
-                "Winning Chance (%)": 20.0
+                "Team": "Casa Pia",
+                "Winning Chance (%)": 18.46
             },
             {
                 "Team": "Arouca",
@@ -1069,19 +1069,15 @@
             },
             {
                 "Team": "Palmeiras",
-                "Winning Chance (%)": 64.33
+                "Winning Chance (%)": 66.53
             },
             {
                 "Team": "Cruzeiro",
-                "Winning Chance (%)": 59.12
+                "Winning Chance (%)": 58.72
             },
             {
                 "Team": "Mirassol",
                 "Winning Chance (%)": 56.62
-            },
-            {
-                "Team": "Botafogo",
-                "Winning Chance (%)": 51.81
             },
             {
                 "Team": "Fluminense",
@@ -1092,12 +1088,12 @@
                 "Winning Chance (%)": 45.21
             },
             {
-                "Team": "S\u00e3o Paulo",
-                "Winning Chance (%)": 36.49
+                "Team": "Botafogo",
+                "Winning Chance (%)": 50.01
             },
             {
-                "Team": "RB Bragantino",
-                "Winning Chance (%)": 34.39
+                "Team": "S\u00e3o Paulo",
+                "Winning Chance (%)": 35.79
             },
             {
                 "Team": "Gr\u00eamio",
@@ -1106,6 +1102,10 @@
             {
                 "Team": "Corinthians",
                 "Winning Chance (%)": 34.39
+            },
+            {
+                "Team": "RB Bragantino",
+                "Winning Chance (%)": 33.68
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
@@ -1120,20 +1120,20 @@
                 "Winning Chance (%)": 31.58
             },
             {
-                "Team": "Cear\u00e1",
-                "Winning Chance (%)": 30.88
+                "Team": "Vit\u00f3ria",
+                "Winning Chance (%)": 31.58
             },
             {
                 "Team": "Fortaleza",
-                "Winning Chance (%)": 30.18
-            },
-            {
-                "Team": "Vit\u00f3ria",
-                "Winning Chance (%)": 30.18
+                "Winning Chance (%)": 30.88
             },
             {
                 "Team": "Internacional",
-                "Winning Chance (%)": 29.47
+                "Winning Chance (%)": 30.88
+            },
+            {
+                "Team": "Cear\u00e1",
+                "Winning Chance (%)": 30.18
             },
             {
                 "Team": "Juventude",
