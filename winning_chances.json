@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 07 December 2025, 12:28 PM UTC",
-        "IST": "Sunday, 07 December 2025, 05:58 PM IST"
+        "UTC": "Sunday, 07 December 2025, 01:03 PM UTC",
+        "IST": "Sunday, 07 December 2025, 06:33 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -124,12 +124,12 @@
                 "Winning Chance (%)": 32.0
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 32.38
+                "Team": "Elche",
+                "Winning Chance (%)": 30.22
             },
             {
-                "Team": "Elche",
-                "Winning Chance (%)": 30.48
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 32.38
             },
             {
                 "Team": "Real Sociedad",
@@ -152,11 +152,11 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Osasuna",
-                "Winning Chance (%)": 22.86
+                "Team": "Girona",
+                "Winning Chance (%)": 23.11
             },
             {
-                "Team": "Girona",
+                "Team": "Osasuna",
                 "Winning Chance (%)": 22.86
             },
             {
@@ -276,16 +276,16 @@
                 "Winning Chance (%)": 38.9
             },
             {
+                "Team": "Cremonese",
+                "Winning Chance (%)": 38.1
+            },
+            {
                 "Team": "Lazio",
                 "Winning Chance (%)": 38.92
             },
             {
                 "Team": "Udinese",
                 "Winning Chance (%)": 36.92
-            },
-            {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 34.29
             },
             {
                 "Team": "Atalanta",
@@ -297,7 +297,7 @@
             },
             {
                 "Team": "Lecce",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 24.76
             },
             {
                 "Team": "Cagliari",
