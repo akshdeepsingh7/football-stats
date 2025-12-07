@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 07 December 2025, 01:40 PM UTC",
-        "IST": "Sunday, 07 December 2025, 07:10 PM IST"
+        "UTC": "Sunday, 07 December 2025, 02:13 PM UTC",
+        "IST": "Sunday, 07 December 2025, 07:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -30,6 +30,10 @@
                 "Winning Chance (%)": 46.61
             },
             {
+                "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 42.49
+            },
+            {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 41.29
             },
@@ -40,10 +44,6 @@
             {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 41.91
-            },
-            {
-                "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 43.5
             },
             {
                 "Team": "Newcastle United",
@@ -75,7 +75,7 @@
             },
             {
                 "Team": "West Ham United",
-                "Winning Chance (%)": 22.86
+                "Winning Chance (%)": 23.11
             },
             {
                 "Team": "Burnley",
@@ -120,12 +120,12 @@
                 "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 32.0
+                "Team": "Elche",
+                "Winning Chance (%)": 33.78
             },
             {
-                "Team": "Elche",
-                "Winning Chance (%)": 30.22
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Rayo Vallecano",
@@ -152,12 +152,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Girona",
-                "Winning Chance (%)": 23.11
-            },
-            {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 22.86
+            },
+            {
+                "Team": "Girona",
+                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Real Oviedo",
@@ -257,7 +257,7 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 58.58
+                "Winning Chance (%)": 56.53
             },
             {
                 "Team": "Bologna",
@@ -301,7 +301,7 @@
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 22.56
+                "Winning Chance (%)": 22.86
             },
             {
                 "Team": "Genoa",
@@ -367,11 +367,11 @@
             },
             {
                 "Team": "Nice",
-                "Winning Chance (%)": 32.38
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Angers",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 30.22
             },
             {
                 "Team": "Paris FC",
