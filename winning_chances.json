@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 08 December 2025, 08:18 PM UTC",
-        "IST": "Tuesday, 09 December 2025, 01:48 AM IST"
+        "UTC": "Monday, 08 December 2025, 08:43 PM UTC",
+        "IST": "Tuesday, 09 December 2025, 02:13 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -26,16 +26,16 @@
                 "Winning Chance (%)": 48.44
             },
             {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 45.24
+            },
+            {
                 "Team": "Everton",
                 "Winning Chance (%)": 43.07
             },
             {
                 "Team": "Brighton & Hove Albion",
                 "Winning Chance (%)": 42.49
-            },
-            {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 41.29
             },
             {
                 "Team": "Sunderland",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 5.33
+                "Winning Chance (%)": 3.56
             }
         ],
         "La Liga": [
@@ -851,7 +851,7 @@
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 55.11
+                "Winning Chance (%)": 53.23
             },
             {
                 "Team": "Braga",
@@ -866,12 +866,12 @@
                 "Winning Chance (%)": 41.43
             },
             {
-                "Team": "Alverca",
-                "Winning Chance (%)": 34.87
+                "Team": "Vit\u00f3ria S.C.",
+                "Winning Chance (%)": 36.92
             },
             {
-                "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 37.78
+                "Team": "Alverca",
+                "Winning Chance (%)": 34.87
             },
             {
                 "Team": "Rio Ave",
