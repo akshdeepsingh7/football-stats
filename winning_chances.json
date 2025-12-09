@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 09 December 2025, 05:43 PM UTC",
-        "IST": "Tuesday, 09 December 2025, 11:13 PM IST"
+        "UTC": "Tuesday, 09 December 2025, 06:21 PM UTC",
+        "IST": "Tuesday, 09 December 2025, 11:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -404,12 +404,12 @@
                 "Winning Chance (%)": 85.2
             },
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 68.4
+                "Team": "Bayern Munich",
+                "Winning Chance (%)": 61.38
             },
             {
-                "Team": "Bayern Munich",
-                "Winning Chance (%)": 67.6
+                "Team": "PSG",
+                "Winning Chance (%)": 68.4
             },
             {
                 "Team": "Inter",
@@ -420,15 +420,15 @@
                 "Winning Chance (%)": 66.8
             },
             {
+                "Team": "Sporting CP",
+                "Winning Chance (%)": 51.29
+            },
+            {
                 "Team": "Borussia Dortmund",
                 "Winning Chance (%)": 55.73
             },
             {
                 "Team": "Chelsea",
-                "Winning Chance (%)": 55.73
-            },
-            {
-                "Team": "Sporting CP",
                 "Winning Chance (%)": 55.73
             },
             {
