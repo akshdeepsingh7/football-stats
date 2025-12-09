@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 09 December 2025, 04:49 PM UTC",
-        "IST": "Tuesday, 09 December 2025, 10:19 PM IST"
+        "UTC": "Tuesday, 09 December 2025, 05:16 PM UTC",
+        "IST": "Tuesday, 09 December 2025, 10:46 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -500,6 +500,10 @@
                 "Winning Chance (%)": 32.0
             },
             {
+                "Team": "Olympiacos",
+                "Winning Chance (%)": 22.22
+            },
+            {
                 "Team": "Club Brugge",
                 "Winning Chance (%)": 21.33
             },
@@ -524,20 +528,16 @@
                 "Winning Chance (%)": 16.0
             },
             {
-                "Team": "Olympiacos",
-                "Winning Chance (%)": 13.33
-            },
-            {
                 "Team": "Bod\u00f8/Glimt",
                 "Winning Chance (%)": 10.67
             },
             {
-                "Team": "Kairat",
-                "Winning Chance (%)": 8.89
-            },
-            {
                 "Team": "Villarreal",
                 "Winning Chance (%)": 5.33
+            },
+            {
+                "Team": "Kairat",
+                "Winning Chance (%)": 4.44
             },
             {
                 "Team": "Ajax",
