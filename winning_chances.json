@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 10 December 2025, 08:46 PM UTC",
-        "IST": "Thursday, 11 December 2025, 02:16 AM IST"
+        "UTC": "Wednesday, 10 December 2025, 09:17 PM UTC",
+        "IST": "Thursday, 11 December 2025, 02:47 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -401,7 +401,7 @@
         "Champions League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 85.6
+                "Winning Chance (%)": 86.4
             },
             {
                 "Team": "Bayern Munich",
@@ -410,6 +410,10 @@
             {
                 "Team": "PSG",
                 "Winning Chance (%)": 62.18
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Winning Chance (%)": 60.58
             },
             {
                 "Team": "Manchester City",
@@ -436,16 +440,12 @@
                 "Winning Chance (%)": 54.53
             },
             {
-                "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 51.29
-            },
-            {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 51.29
             },
             {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 48.89
+                "Team": "Newcastle United",
+                "Winning Chance (%)": 47.24
             },
             {
                 "Team": "Chelsea",
@@ -460,10 +460,6 @@
                 "Winning Chance (%)": 45.64
             },
             {
-                "Team": "Newcastle United",
-                "Winning Chance (%)": 42.4
-            },
-            {
                 "Team": "Marseille",
                 "Winning Chance (%)": 41.2
             },
@@ -473,6 +469,10 @@
             },
             {
                 "Team": "Monaco",
+                "Winning Chance (%)": 40.0
+            },
+            {
+                "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 40.0
             },
             {
@@ -516,16 +516,12 @@
                 "Winning Chance (%)": 22.22
             },
             {
-                "Team": "Club Brugge",
-                "Winning Chance (%)": 17.78
-            },
-            {
                 "Team": "Eintracht Frankfurt",
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Bod\u00f8/Glimt",
-                "Winning Chance (%)": 13.33
+                "Team": "Club Brugge",
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Slavia Prague",
@@ -534,6 +530,10 @@
             {
                 "Team": "Ajax",
                 "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Bod\u00f8/Glimt",
+                "Winning Chance (%)": 8.89
             },
             {
                 "Team": "Villarreal",
@@ -949,11 +949,11 @@
             },
             {
                 "Team": "Leicester City",
-                "Winning Chance (%)": 41.2
+                "Winning Chance (%)": 40.8
             },
             {
                 "Team": "Bristol City",
-                "Winning Chance (%)": 39.87
+                "Winning Chance (%)": 40.27
             },
             {
                 "Team": "Birmingham City",
