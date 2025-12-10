@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 10 December 2025, 06:51 PM UTC",
-        "IST": "Thursday, 11 December 2025, 12:21 AM IST"
+        "UTC": "Wednesday, 10 December 2025, 07:14 PM UTC",
+        "IST": "Thursday, 11 December 2025, 12:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -488,10 +488,6 @@
                 "Winning Chance (%)": 37.33
             },
             {
-                "Team": "FC Copenhagen",
-                "Winning Chance (%)": 31.11
-            },
-            {
                 "Team": "Juventus",
                 "Winning Chance (%)": 32.0
             },
@@ -502,6 +498,10 @@
             {
                 "Team": "Union Saint-Gilloise",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "FC Copenhagen",
+                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Olympiacos",
@@ -533,7 +533,7 @@
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 4.44
+                "Winning Chance (%)": 8.89
             },
             {
                 "Team": "Kairat",
