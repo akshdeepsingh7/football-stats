@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 11 December 2025, 06:54 PM UTC",
-        "IST": "Friday, 12 December 2025, 12:24 AM IST"
+        "UTC": "Thursday, 11 December 2025, 07:16 PM UTC",
+        "IST": "Friday, 12 December 2025, 12:46 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -574,16 +574,12 @@
                 "Winning Chance (%)": 54.93
             },
             {
+                "Team": "Nottingham Forest",
+                "Winning Chance (%)": 50.89
+            },
+            {
                 "Team": "SC Freiburg",
                 "Winning Chance (%)": 60.67
-            },
-            {
-                "Team": "PAOK",
-                "Winning Chance (%)": 50.49
-            },
-            {
-                "Team": "Lille",
-                "Winning Chance (%)": 46.04
             },
             {
                 "Team": "Porto",
@@ -594,16 +590,24 @@
                 "Winning Chance (%)": 44.84
             },
             {
+                "Team": "Red Star Belgrade",
+                "Winning Chance (%)": 44.44
+            },
+            {
                 "Team": "Celta de Vigo",
                 "Winning Chance (%)": 49.6
             },
             {
-                "Team": "Nottingham Forest",
-                "Winning Chance (%)": 41.6
-            },
-            {
                 "Team": "Plze\u0148",
                 "Winning Chance (%)": 49.6
+            },
+            {
+                "Team": "PAOK",
+                "Winning Chance (%)": 41.2
+            },
+            {
+                "Team": "Lille",
+                "Winning Chance (%)": 41.2
             },
             {
                 "Team": "Panathinaikos",
@@ -612,6 +616,10 @@
             {
                 "Team": "Roma",
                 "Winning Chance (%)": 48.8
+            },
+            {
+                "Team": "BSC Young Boys",
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Bologna",
@@ -626,15 +634,11 @@
                 "Winning Chance (%)": 42.67
             },
             {
-                "Team": "Red Star Belgrade",
-                "Winning Chance (%)": 35.56
-            },
-            {
                 "Team": "Celtic",
                 "Winning Chance (%)": 37.33
             },
             {
-                "Team": "BSC Young Boys",
+                "Team": "Ludogorets",
                 "Winning Chance (%)": 31.11
             },
             {
@@ -646,16 +650,12 @@
                 "Winning Chance (%)": 32.0
             },
             {
-                "Team": "Ludogorets",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Go Ahead Eagles",
                 "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Sturm Graz",
-                "Winning Chance (%)": 22.22
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "RB Salzburg",
@@ -670,12 +670,12 @@
                 "Winning Chance (%)": 16.0
             },
             {
-                "Team": "Utrecht",
+                "Team": "Rangers",
                 "Winning Chance (%)": 8.89
             },
             {
-                "Team": "Rangers",
-                "Winning Chance (%)": 8.89
+                "Team": "Utrecht",
+                "Winning Chance (%)": 4.44
             },
             {
                 "Team": "Malm\u00f6",
@@ -692,32 +692,36 @@
         ],
         "Europa Conference League": [
             {
+                "Team": "AEK Larnaca",
+                "Winning Chance (%)": 61.07
+            },
+            {
+                "Team": "AEK Athens",
+                "Winning Chance (%)": 55.73
+            },
+            {
                 "Team": "Samsunspor",
-                "Winning Chance (%)": 72.53
+                "Winning Chance (%)": 55.73
+            },
+            {
+                "Team": "Sparta Prague",
+                "Winning Chance (%)": 54.93
+            },
+            {
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 54.53
             },
             {
                 "Team": "Strasbourg",
                 "Winning Chance (%)": 67.87
             },
             {
-                "Team": "AEK Larnaca",
-                "Winning Chance (%)": 50.0
-            },
-            {
                 "Team": "Celje",
                 "Winning Chance (%)": 61.6
             },
             {
-                "Team": "Fiorentina",
-                "Winning Chance (%)": 49.6
-            },
-            {
                 "Team": "Shakhtar Donetsk",
                 "Winning Chance (%)": 61.2
-            },
-            {
-                "Team": "Jagiellonia",
-                "Winning Chance (%)": 48.8
             },
             {
                 "Team": "Mainz 05",
@@ -732,24 +736,16 @@
                 "Winning Chance (%)": 55.33
             },
             {
-                "Team": "Sparta Prague",
-                "Winning Chance (%)": 43.87
-            },
-            {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 43.47
-            },
-            {
-                "Team": "Drita",
+                "Team": "Jagiellonia",
                 "Winning Chance (%)": 43.07
             },
             {
-                "Team": "Universitatea Craiova",
+                "Team": "Drita",
                 "Winning Chance (%)": 42.67
             },
             {
-                "Team": "AEK Athens",
-                "Winning Chance (%)": 38.93
+                "Team": "Fiorentina",
+                "Winning Chance (%)": 38.53
             },
             {
                 "Team": "Lausanne-Sport",
@@ -764,6 +760,10 @@
                 "Winning Chance (%)": 37.33
             },
             {
+                "Team": "Universitatea Craiova",
+                "Winning Chance (%)": 37.33
+            },
+            {
                 "Team": "Lech",
                 "Winning Chance (%)": 41.2
             },
@@ -772,12 +772,12 @@
                 "Winning Chance (%)": 40.8
             },
             {
-                "Team": "Zrinjski Mostar",
-                "Winning Chance (%)": 40.0
+                "Team": "Noah",
+                "Winning Chance (%)": 32.0
             },
             {
-                "Team": "Legia",
-                "Winning Chance (%)": 32.0
+                "Team": "Zrinjski Mostar",
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Omonia",
@@ -792,20 +792,16 @@
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Noah",
-                "Winning Chance (%)": 26.67
+                "Team": "Dynamo Kyiv",
+                "Winning Chance (%)": 21.33
+            },
+            {
+                "Team": "Legia",
+                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Lincoln Red Imps",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Dynamo Kyiv",
-                "Winning Chance (%)": 16.0
-            },
-            {
-                "Team": "H\u00e4cken",
-                "Winning Chance (%)": 16.0
             },
             {
                 "Team": "Hamrun Spartans",
@@ -818,6 +814,10 @@
             {
                 "Team": "Brei\u00f0ablik",
                 "Winning Chance (%)": 16.0
+            },
+            {
+                "Team": "H\u00e4cken",
+                "Winning Chance (%)": 10.67
             },
             {
                 "Team": "Shamrock Rovers",
