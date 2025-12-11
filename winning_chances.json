@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 11 December 2025, 06:23 PM UTC",
-        "IST": "Thursday, 11 December 2025, 11:53 PM IST"
+        "UTC": "Thursday, 11 December 2025, 06:54 PM UTC",
+        "IST": "Friday, 12 December 2025, 12:24 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -551,7 +551,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 65.02
+                "Winning Chance (%)": 65.42
             },
             {
                 "Team": "Braga",
@@ -570,12 +570,16 @@
                 "Winning Chance (%)": 66.0
             },
             {
+                "Team": "Ferencv\u00e1ros",
+                "Winning Chance (%)": 54.93
+            },
+            {
                 "Team": "SC Freiburg",
                 "Winning Chance (%)": 60.67
             },
             {
-                "Team": "Ferencv\u00e1ros",
-                "Winning Chance (%)": 50.09
+                "Team": "PAOK",
+                "Winning Chance (%)": 50.49
             },
             {
                 "Team": "Lille",
@@ -610,20 +614,12 @@
                 "Winning Chance (%)": 48.8
             },
             {
-                "Team": "Ludogorets",
-                "Winning Chance (%)": 40.0
-            },
-            {
                 "Team": "Bologna",
                 "Winning Chance (%)": 43.87
             },
             {
                 "Team": "Brann",
                 "Winning Chance (%)": 43.87
-            },
-            {
-                "Team": "PAOK",
-                "Winning Chance (%)": 36.36
             },
             {
                 "Team": "Fenerbah\u00e7e",
@@ -638,16 +634,20 @@
                 "Winning Chance (%)": 37.33
             },
             {
-                "Team": "Dinamo Zagreb",
+                "Team": "BSC Young Boys",
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "BSC Young Boys",
+                "Team": "Dinamo Zagreb",
                 "Winning Chance (%)": 31.11
             },
             {
                 "Team": "FC Basel",
                 "Winning Chance (%)": 32.0
+            },
+            {
+                "Team": "Ludogorets",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Go Ahead Eagles",
@@ -656,10 +656,6 @@
             {
                 "Team": "Sturm Graz",
                 "Winning Chance (%)": 22.22
-            },
-            {
-                "Team": "Rangers",
-                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "RB Salzburg",
@@ -675,6 +671,10 @@
             },
             {
                 "Team": "Utrecht",
+                "Winning Chance (%)": 8.89
+            },
+            {
+                "Team": "Rangers",
                 "Winning Chance (%)": 8.89
             },
             {
@@ -694,10 +694,6 @@
             {
                 "Team": "Samsunspor",
                 "Winning Chance (%)": 72.53
-            },
-            {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 54.53
             },
             {
                 "Team": "Strasbourg",
@@ -720,6 +716,10 @@
                 "Winning Chance (%)": 61.2
             },
             {
+                "Team": "Jagiellonia",
+                "Winning Chance (%)": 48.8
+            },
+            {
                 "Team": "Mainz 05",
                 "Winning Chance (%)": 60.8
             },
@@ -736,11 +736,11 @@
                 "Winning Chance (%)": 43.87
             },
             {
-                "Team": "Drita",
-                "Winning Chance (%)": 43.07
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 43.47
             },
             {
-                "Team": "Jagiellonia",
+                "Team": "Drita",
                 "Winning Chance (%)": 43.07
             },
             {
