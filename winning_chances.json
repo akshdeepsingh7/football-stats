@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 11 December 2025, 08:41 PM UTC",
-        "IST": "Friday, 12 December 2025, 02:11 AM IST"
+        "UTC": "Thursday, 11 December 2025, 09:17 PM UTC",
+        "IST": "Friday, 12 December 2025, 02:47 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -554,8 +554,16 @@
                 "Winning Chance (%)": 69.87
             },
             {
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 69.07
+            },
+            {
                 "Team": "Real Betis",
                 "Winning Chance (%)": 65.02
+            },
+            {
+                "Team": "SC Freiburg",
+                "Winning Chance (%)": 64.62
             },
             {
                 "Team": "Ferencv\u00e1ros",
@@ -563,10 +571,6 @@
             },
             {
                 "Team": "Braga",
-                "Winning Chance (%)": 59.78
-            },
-            {
-                "Team": "Aston Villa",
                 "Winning Chance (%)": 59.78
             },
             {
@@ -578,16 +582,8 @@
                 "Winning Chance (%)": 56.13
             },
             {
-                "Team": "Celta de Vigo",
-                "Winning Chance (%)": 55.33
-            },
-            {
-                "Team": "SC Freiburg",
-                "Winning Chance (%)": 55.33
-            },
-            {
                 "Team": "Roma",
-                "Winning Chance (%)": 54.93
+                "Winning Chance (%)": 55.33
             },
             {
                 "Team": "Nottingham Forest",
@@ -595,7 +591,11 @@
             },
             {
                 "Team": "Fenerbah\u00e7e",
-                "Winning Chance (%)": 49.69
+                "Winning Chance (%)": 50.09
+            },
+            {
+                "Team": "Celta de Vigo",
+                "Winning Chance (%)": 46.04
             },
             {
                 "Team": "Plze\u0148",
@@ -622,20 +622,16 @@
                 "Winning Chance (%)": 41.2
             },
             {
+                "Team": "Bologna",
+                "Winning Chance (%)": 41.2
+            },
+            {
                 "Team": "BSC Young Boys",
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Bologna",
-                "Winning Chance (%)": 36.36
-            },
-            {
                 "Team": "Brann",
-                "Winning Chance (%)": 35.96
-            },
-            {
-                "Team": "FC Basel",
-                "Winning Chance (%)": 31.11
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Ludogorets",
@@ -650,7 +646,11 @@
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "FCSB",
+                "Team": "FC Basel",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Feyenoord",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -662,11 +662,11 @@
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "RB Salzburg",
-                "Winning Chance (%)": 17.78
+                "Team": "FCSB",
+                "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Feyenoord",
+                "Team": "RB Salzburg",
                 "Winning Chance (%)": 13.33
             },
             {
@@ -696,8 +696,8 @@
                 "Winning Chance (%)": 70.93
             },
             {
-                "Team": "Mainz 05",
-                "Winning Chance (%)": 65.2
+                "Team": "Rak\u00f3w",
+                "Winning Chance (%)": 61.07
             },
             {
                 "Team": "AEK Athens",
@@ -706,10 +706,6 @@
             {
                 "Team": "Samsunspor",
                 "Winning Chance (%)": 55.73
-            },
-            {
-                "Team": "Celje",
-                "Winning Chance (%)": 54.93
             },
             {
                 "Team": "Sparta Prague",
@@ -724,11 +720,11 @@
                 "Winning Chance (%)": 54.53
             },
             {
-                "Team": "Crystal Palace",
-                "Winning Chance (%)": 50.0
+                "Team": "Mainz 05",
+                "Winning Chance (%)": 54.13
             },
             {
-                "Team": "Rak\u00f3w",
+                "Team": "Crystal Palace",
                 "Winning Chance (%)": 50.0
             },
             {
@@ -738,6 +734,10 @@
             {
                 "Team": "Fiorentina",
                 "Winning Chance (%)": 49.6
+            },
+            {
+                "Team": "Celje",
+                "Winning Chance (%)": 49.2
             },
             {
                 "Team": "AZ",
@@ -760,6 +760,10 @@
                 "Winning Chance (%)": 43.07
             },
             {
+                "Team": "Rijeka",
+                "Winning Chance (%)": 43.07
+            },
+            {
                 "Team": "Sigma Olomouc",
                 "Winning Chance (%)": 42.67
             },
@@ -768,11 +772,11 @@
                 "Winning Chance (%)": 42.67
             },
             {
-                "Team": "Shk\u00ebndija",
-                "Winning Chance (%)": 37.33
+                "Team": "Lech",
+                "Winning Chance (%)": 38.53
             },
             {
-                "Team": "Zrinjski Mostar",
+                "Team": "Shk\u00ebndija",
                 "Winning Chance (%)": 37.33
             },
             {
@@ -780,15 +784,11 @@
                 "Winning Chance (%)": 37.33
             },
             {
-                "Team": "Lech",
-                "Winning Chance (%)": 32.8
-            },
-            {
                 "Team": "KuPS",
                 "Winning Chance (%)": 32.4
             },
             {
-                "Team": "Rijeka",
+                "Team": "Zrinjski Mostar",
                 "Winning Chance (%)": 32.0
             },
             {
