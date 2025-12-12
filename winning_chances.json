@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 12 December 2025, 07:37 PM UTC",
-        "IST": "Saturday, 13 December 2025, 01:07 AM IST"
+        "UTC": "Friday, 12 December 2025, 08:17 PM UTC",
+        "IST": "Saturday, 13 December 2025, 01:47 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -132,16 +132,16 @@
                 "Winning Chance (%)": 32.0
             },
             {
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 28.33
+            },
+            {
                 "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 30.22
             },
             {
                 "Team": "Sevilla",
                 "Winning Chance (%)": 30.22
-            },
-            {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 28.44
             },
             {
                 "Team": "Osasuna",
@@ -157,7 +157,7 @@
             },
             {
                 "Team": "Girona",
-                "Winning Chance (%)": 21.33
+                "Winning Chance (%)": 21.67
             },
             {
                 "Team": "Real Oviedo",
@@ -309,11 +309,11 @@
             },
             {
                 "Team": "Lecce",
-                "Winning Chance (%)": 24.76
+                "Winning Chance (%)": 24.89
             },
             {
                 "Team": "Pisa",
-                "Winning Chance (%)": 19.05
+                "Winning Chance (%)": 19.56
             },
             {
                 "Team": "Hellas Verona",
@@ -358,15 +358,15 @@
                 "Winning Chance (%)": 41.11
             },
             {
+                "Team": "Angers",
+                "Winning Chance (%)": 36.67
+            },
+            {
                 "Team": "Toulouse",
                 "Winning Chance (%)": 36.36
             },
             {
                 "Team": "Brest",
-                "Winning Chance (%)": 33.78
-            },
-            {
-                "Team": "Angers",
                 "Winning Chance (%)": 33.78
             },
             {
@@ -391,7 +391,7 @@
             },
             {
                 "Team": "Nantes",
-                "Winning Chance (%)": 19.56
+                "Winning Chance (%)": 18.33
             },
             {
                 "Team": "Metz",
@@ -973,11 +973,11 @@
             },
             {
                 "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 33.33
+                "Winning Chance (%)": 33.02
             },
             {
                 "Team": "Sheffield United",
-                "Winning Chance (%)": 30.67
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Swansea City",
