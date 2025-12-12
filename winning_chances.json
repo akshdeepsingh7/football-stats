@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 12 December 2025, 07:15 PM UTC",
-        "IST": "Saturday, 13 December 2025, 12:45 AM IST"
+        "UTC": "Friday, 12 December 2025, 07:37 PM UTC",
+        "IST": "Saturday, 13 December 2025, 01:07 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -175,7 +175,7 @@
             },
             {
                 "Team": "RB Leipzig",
-                "Winning Chance (%)": 65.49
+                "Winning Chance (%)": 63.14
             },
             {
                 "Team": "Borussia Dortmund",
@@ -215,7 +215,7 @@
             },
             {
                 "Team": "Union Berlin",
-                "Winning Chance (%)": 30.77
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Hamburg",
@@ -242,7 +242,88 @@
                 "Winning Chance (%)": 12.31
             }
         ],
-        "Serie A": [],
+        "Serie A": [
+            {
+                "Team": "Milan",
+                "Winning Chance (%)": 63.45
+            },
+            {
+                "Team": "Napoli",
+                "Winning Chance (%)": 63.05
+            },
+            {
+                "Team": "Inter",
+                "Winning Chance (%)": 64.74
+            },
+            {
+                "Team": "Roma",
+                "Winning Chance (%)": 54.23
+            },
+            {
+                "Team": "Bologna",
+                "Winning Chance (%)": 52.02
+            },
+            {
+                "Team": "Como",
+                "Winning Chance (%)": 48.91
+            },
+            {
+                "Team": "Juventus",
+                "Winning Chance (%)": 45.41
+            },
+            {
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 38.9
+            },
+            {
+                "Team": "Cremonese",
+                "Winning Chance (%)": 38.5
+            },
+            {
+                "Team": "Lazio",
+                "Winning Chance (%)": 38.19
+            },
+            {
+                "Team": "Udinese",
+                "Winning Chance (%)": 34.29
+            },
+            {
+                "Team": "Atalanta",
+                "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "Cagliari",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Genoa",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Parma",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Torino",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Lecce",
+                "Winning Chance (%)": 24.76
+            },
+            {
+                "Team": "Pisa",
+                "Winning Chance (%)": 19.05
+            },
+            {
+                "Team": "Hellas Verona",
+                "Winning Chance (%)": 17.14
+            },
+            {
+                "Team": "Fiorentina",
+                "Winning Chance (%)": 11.43
+            }
+        ],
         "Ligue 1": [
             {
                 "Team": "Lens",
