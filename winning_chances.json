@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 12 December 2025, 08:42 PM UTC",
-        "IST": "Saturday, 13 December 2025, 02:12 AM IST"
+        "UTC": "Friday, 12 December 2025, 09:14 PM UTC",
+        "IST": "Saturday, 13 December 2025, 02:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -175,7 +175,7 @@
             },
             {
                 "Team": "RB Leipzig",
-                "Winning Chance (%)": 63.14
+                "Winning Chance (%)": 60.84
             },
             {
                 "Team": "Borussia Dortmund",
@@ -198,6 +198,10 @@
                 "Winning Chance (%)": 43.08
             },
             {
+                "Team": "Union Berlin",
+                "Winning Chance (%)": 34.29
+            },
+            {
                 "Team": "K\u00f6ln",
                 "Winning Chance (%)": 33.22
             },
@@ -212,10 +216,6 @@
             {
                 "Team": "Werder Bremen",
                 "Winning Chance (%)": 32.82
-            },
-            {
-                "Team": "Union Berlin",
-                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Hamburg",
@@ -964,6 +964,10 @@
                 "Winning Chance (%)": 37.73
             },
             {
+                "Team": "West Bromwich Albion",
+                "Winning Chance (%)": 35.56
+            },
+            {
                 "Team": "Wrexham",
                 "Winning Chance (%)": 36.4
             },
@@ -972,12 +976,8 @@
                 "Winning Chance (%)": 36.0
             },
             {
-                "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 33.02
-            },
-            {
                 "Team": "Sheffield United",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 29.21
             },
             {
                 "Team": "Swansea City",
