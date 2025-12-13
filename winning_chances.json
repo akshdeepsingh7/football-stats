@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 December 2025, 05:37 PM UTC",
-        "IST": "Saturday, 13 December 2025, 11:07 PM IST"
+        "UTC": "Saturday, 13 December 2025, 06:20 PM UTC",
+        "IST": "Saturday, 13 December 2025, 11:50 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -54,16 +54,16 @@
                 "Winning Chance (%)": 39.91
             },
             {
+                "Team": "Fulham",
+                "Winning Chance (%)": 33.33
+            },
+            {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Brentford",
                 "Winning Chance (%)": 33.78
-            },
-            {
-                "Team": "Fulham",
-                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Leeds United",
@@ -79,7 +79,7 @@
             },
             {
                 "Team": "Burnley",
-                "Winning Chance (%)": 18.33
+                "Winning Chance (%)": 16.67
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -326,12 +326,12 @@
         ],
         "Ligue 1": [
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 65.64
+                "Team": "PSG",
+                "Winning Chance (%)": 64.67
             },
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 66.67
+                "Team": "Lens",
+                "Winning Chance (%)": 65.64
             },
             {
                 "Team": "Marseille",
@@ -343,7 +343,7 @@
             },
             {
                 "Team": "Rennes",
-                "Winning Chance (%)": 45.8
+                "Winning Chance (%)": 46.2
             },
             {
                 "Team": "Lyon",
@@ -390,12 +390,12 @@
                 "Winning Chance (%)": 21.33
             },
             {
-                "Team": "Nantes",
-                "Winning Chance (%)": 18.33
+                "Team": "Metz",
+                "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Metz",
-                "Winning Chance (%)": 19.56
+                "Team": "Nantes",
+                "Winning Chance (%)": 18.33
             }
         ],
         "Champions League": [
@@ -867,7 +867,7 @@
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 36.92
+                "Winning Chance (%)": 36.19
             },
             {
                 "Team": "Alverca",
@@ -875,7 +875,7 @@
             },
             {
                 "Team": "Rio Ave",
-                "Winning Chance (%)": 32.82
+                "Winning Chance (%)": 32.38
             },
             {
                 "Team": "Santa Clara",
