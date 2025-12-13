@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 December 2025, 05:14 PM UTC",
-        "IST": "Saturday, 13 December 2025, 10:44 PM IST"
+        "UTC": "Saturday, 13 December 2025, 05:37 PM UTC",
+        "IST": "Saturday, 13 December 2025, 11:07 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -63,7 +63,7 @@
             },
             {
                 "Team": "Fulham",
-                "Winning Chance (%)": 30.22
+                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Leeds United",
@@ -79,7 +79,7 @@
             },
             {
                 "Team": "Burnley",
-                "Winning Chance (%)": 17.78
+                "Winning Chance (%)": 18.33
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 77.47
+                "Winning Chance (%)": 75.11
             },
             {
                 "Team": "Real Madrid",
@@ -186,12 +186,12 @@
                 "Winning Chance (%)": 53.12
             },
             {
-                "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 45.71
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 49.31
             },
             {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 50.78
+                "Team": "Eintracht Frankfurt",
+                "Winning Chance (%)": 45.71
             },
             {
                 "Team": "VfB Stuttgart",
@@ -203,7 +203,7 @@
             },
             {
                 "Team": "K\u00f6ln",
-                "Winning Chance (%)": 33.22
+                "Winning Chance (%)": 32.78
             },
             {
                 "Team": "SC Freiburg",
