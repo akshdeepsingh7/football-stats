@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 December 2025, 01:42 PM UTC",
-        "IST": "Saturday, 13 December 2025, 07:12 PM IST"
+        "UTC": "Saturday, 13 December 2025, 02:14 PM UTC",
+        "IST": "Saturday, 13 December 2025, 07:44 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -272,12 +272,12 @@
                 "Winning Chance (%)": 45.41
             },
             {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 38.9
+                "Team": "Cremonese",
+                "Winning Chance (%)": 37.73
             },
             {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 38.5
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 38.9
             },
             {
                 "Team": "Lazio",
@@ -296,6 +296,10 @@
                 "Winning Chance (%)": 28.44
             },
             {
+                "Team": "Torino",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Cagliari",
                 "Winning Chance (%)": 26.67
             },
@@ -305,10 +309,6 @@
             },
             {
                 "Team": "Parma",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Torino",
                 "Winning Chance (%)": 26.67
             },
             {
