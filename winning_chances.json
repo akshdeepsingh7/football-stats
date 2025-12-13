@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 December 2025, 08:16 PM UTC",
-        "IST": "Sunday, 14 December 2025, 01:46 AM IST"
+        "UTC": "Saturday, 13 December 2025, 08:39 PM UTC",
+        "IST": "Sunday, 14 December 2025, 02:09 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -350,6 +350,10 @@
                 "Winning Chance (%)": 44.67
             },
             {
+                "Team": "Toulouse",
+                "Winning Chance (%)": 39.53
+            },
+            {
                 "Team": "Monaco",
                 "Winning Chance (%)": 40.89
             },
@@ -362,16 +366,8 @@
                 "Winning Chance (%)": 36.67
             },
             {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 35.8
-            },
-            {
                 "Team": "Brest",
                 "Winning Chance (%)": 31.67
-            },
-            {
-                "Team": "Paris FC",
-                "Winning Chance (%)": 28.33
             },
             {
                 "Team": "Nice",
@@ -380,6 +376,10 @@
             {
                 "Team": "Lorient",
                 "Winning Chance (%)": 30.22
+            },
+            {
+                "Team": "Paris FC",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Le Havre",
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 75.64
+                "Winning Chance (%)": 72.86
             },
             {
                 "Team": "Benfica",
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 6.15
+                "Winning Chance (%)": 7.62
             }
         ],
         "EFL Championship": [
