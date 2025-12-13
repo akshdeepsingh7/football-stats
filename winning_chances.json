@@ -1,13 +1,13 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 December 2025, 09:13 PM UTC",
-        "IST": "Sunday, 14 December 2025, 02:43 AM IST"
+        "UTC": "Saturday, 13 December 2025, 09:36 PM UTC",
+        "IST": "Sunday, 14 December 2025, 03:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 64.27
+                "Winning Chance (%)": 68.0
             },
             {
                 "Team": "Manchester City",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 5.0
+                "Winning Chance (%)": 3.33
             }
         ],
         "La Liga": [
@@ -351,7 +351,7 @@
             },
             {
                 "Team": "Toulouse",
-                "Winning Chance (%)": 39.93
+                "Winning Chance (%)": 40.33
             },
             {
                 "Team": "Monaco",
