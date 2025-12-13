@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 December 2025, 02:14 PM UTC",
-        "IST": "Saturday, 13 December 2025, 07:44 PM IST"
+        "UTC": "Saturday, 13 December 2025, 02:39 PM UTC",
+        "IST": "Saturday, 13 December 2025, 08:09 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -182,20 +182,20 @@
                 "Winning Chance (%)": 62.24
             },
             {
+                "Team": "Hoffenheim",
+                "Winning Chance (%)": 52.32
+            },
+            {
                 "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 50.78
             },
             {
-                "Team": "Hoffenheim",
-                "Winning Chance (%)": 49.58
+                "Team": "Eintracht Frankfurt",
+                "Winning Chance (%)": 41.9
             },
             {
                 "Team": "VfB Stuttgart",
                 "Winning Chance (%)": 45.13
-            },
-            {
-                "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 43.08
             },
             {
                 "Team": "Union Berlin",
@@ -211,31 +211,31 @@
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 32.82
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Werder Bremen",
                 "Winning Chance (%)": 32.82
             },
             {
+                "Team": "VfL Wolfsburg",
+                "Winning Chance (%)": 28.57
+            },
+            {
                 "Team": "Hamburg",
-                "Winning Chance (%)": 30.77
+                "Winning Chance (%)": 28.57
             },
             {
                 "Team": "Augsburg",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "VfL Wolfsburg",
-                "Winning Chance (%)": 24.62
-            },
-            {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 22.56
+                "Winning Chance (%)": 22.86
             },
             {
                 "Team": "St. Pauli",
-                "Winning Chance (%)": 16.41
+                "Winning Chance (%)": 17.14
             },
             {
                 "Team": "Mainz 05",
@@ -272,12 +272,12 @@
                 "Winning Chance (%)": 45.41
             },
             {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 37.73
-            },
-            {
                 "Team": "Sassuolo",
                 "Winning Chance (%)": 38.9
+            },
+            {
+                "Team": "Cremonese",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Lazio",
@@ -288,16 +288,16 @@
                 "Winning Chance (%)": 34.29
             },
             {
+                "Team": "Torino",
+                "Winning Chance (%)": 30.22
+            },
+            {
                 "Team": "Atalanta",
                 "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Lecce",
                 "Winning Chance (%)": 28.44
-            },
-            {
-                "Team": "Torino",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Cagliari",
