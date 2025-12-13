@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 December 2025, 04:44 PM UTC",
-        "IST": "Saturday, 13 December 2025, 10:14 PM IST"
+        "UTC": "Saturday, 13 December 2025, 05:14 PM UTC",
+        "IST": "Saturday, 13 December 2025, 10:44 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -116,12 +116,12 @@
                 "Winning Chance (%)": 38.33
             },
             {
-                "Team": "Elche",
-                "Winning Chance (%)": 33.73
-            },
-            {
                 "Team": "Getafe",
                 "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Elche",
+                "Winning Chance (%)": 31.67
             },
             {
                 "Team": "Celta de Vigo",
@@ -140,16 +140,16 @@
                 "Winning Chance (%)": 30.22
             },
             {
+                "Team": "Mallorca",
+                "Winning Chance (%)": 28.33
+            },
+            {
                 "Team": "Real Sociedad",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Mallorca",
-                "Winning Chance (%)": 25.0
             },
             {
                 "Team": "Valencia",
@@ -276,12 +276,12 @@
                 "Winning Chance (%)": 38.9
             },
             {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 35.56
+                "Team": "Lazio",
+                "Winning Chance (%)": 37.56
             },
             {
-                "Team": "Lazio",
-                "Winning Chance (%)": 38.19
+                "Team": "Cremonese",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Udinese",
@@ -300,15 +300,15 @@
                 "Winning Chance (%)": 28.44
             },
             {
+                "Team": "Parma",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Cagliari",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Genoa",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Parma",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -933,7 +933,7 @@
             },
             {
                 "Team": "Hull City",
-                "Winning Chance (%)": 43.17
+                "Winning Chance (%)": 43.57
             },
             {
                 "Team": "Stoke City",
@@ -941,10 +941,6 @@
             },
             {
                 "Team": "Leicester City",
-                "Winning Chance (%)": 40.57
-            },
-            {
-                "Team": "Watford",
                 "Winning Chance (%)": 40.57
             },
             {
@@ -964,12 +960,16 @@
                 "Winning Chance (%)": 38.43
             },
             {
-                "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 35.56
+                "Team": "Watford",
+                "Winning Chance (%)": 37.63
             },
             {
                 "Team": "Wrexham",
-                "Winning Chance (%)": 34.29
+                "Winning Chance (%)": 35.96
+            },
+            {
+                "Team": "West Bromwich Albion",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Derby County",
