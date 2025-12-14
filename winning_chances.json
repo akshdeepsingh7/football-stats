@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 December 2025, 06:22 PM UTC",
-        "IST": "Sunday, 14 December 2025, 11:52 PM IST"
+        "UTC": "Sunday, 14 December 2025, 06:48 PM UTC",
+        "IST": "Monday, 15 December 2025, 12:18 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -195,7 +195,7 @@
             },
             {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 45.13
+                "Winning Chance (%)": 43.81
             },
             {
                 "Team": "Union Berlin",
@@ -206,16 +206,16 @@
                 "Winning Chance (%)": 32.38
             },
             {
+                "Team": "Werder Bremen",
+                "Winning Chance (%)": 32.38
+            },
+            {
                 "Team": "K\u00f6ln",
                 "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Winning Chance (%)": 30.48
-            },
-            {
-                "Team": "Werder Bremen",
-                "Winning Chance (%)": 32.82
             },
             {
                 "Team": "VfL Wolfsburg",
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 67.07
+                "Winning Chance (%)": 66.67
             },
             {
                 "Team": "Milan",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 64.34
+                "Winning Chance (%)": 68.55
             },
             {
                 "Team": "Gil Vicente",
@@ -862,12 +862,12 @@
                 "Winning Chance (%)": 50.33
             },
             {
-                "Team": "Moreirense",
-                "Winning Chance (%)": 40.4
-            },
-            {
                 "Team": "Vit\u00f3ria S.C.",
                 "Winning Chance (%)": 40.0
+            },
+            {
+                "Team": "Moreirense",
+                "Winning Chance (%)": 38.1
             },
             {
                 "Team": "Alverca",
