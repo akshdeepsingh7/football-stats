@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 December 2025, 04:44 PM UTC",
-        "IST": "Sunday, 14 December 2025, 10:14 PM IST"
+        "UTC": "Sunday, 14 December 2025, 05:13 PM UTC",
+        "IST": "Sunday, 14 December 2025, 10:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 88.38
+                "Winning Chance (%)": 92.59
             },
             {
                 "Team": "RB Leipzig",
@@ -239,10 +239,14 @@
             },
             {
                 "Team": "Mainz 05",
-                "Winning Chance (%)": 13.33
+                "Winning Chance (%)": 11.43
             }
         ],
         "Serie A": [
+            {
+                "Team": "Inter",
+                "Winning Chance (%)": 66.67
+            },
             {
                 "Team": "Milan",
                 "Winning Chance (%)": 61.29
@@ -250,10 +254,6 @@
             {
                 "Team": "Napoli",
                 "Winning Chance (%)": 58.71
-            },
-            {
-                "Team": "Inter",
-                "Winning Chance (%)": 64.74
             },
             {
                 "Team": "Roma",
@@ -300,11 +300,11 @@
                 "Winning Chance (%)": 28.44
             },
             {
-                "Team": "Genoa",
-                "Winning Chance (%)": 26.67
+                "Team": "Cagliari",
+                "Winning Chance (%)": 24.89
             },
             {
-                "Team": "Cagliari",
+                "Team": "Genoa",
                 "Winning Chance (%)": 24.89
             },
             {
@@ -855,7 +855,7 @@
             },
             {
                 "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 47.01
+                "Winning Chance (%)": 47.41
             },
             {
                 "Team": "Braga",
