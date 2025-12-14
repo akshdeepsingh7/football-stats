@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 December 2025, 09:14 PM UTC",
-        "IST": "Monday, 15 December 2025, 02:44 AM IST"
+        "UTC": "Sunday, 14 December 2025, 09:39 PM UTC",
+        "IST": "Monday, 15 December 2025, 03:09 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -334,12 +334,12 @@
                 "Winning Chance (%)": 68.4
             },
             {
-                "Team": "Lille",
-                "Winning Chance (%)": 58.53
+                "Team": "Marseille",
+                "Winning Chance (%)": 61.73
             },
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 58.0
+                "Team": "Lille",
+                "Winning Chance (%)": 58.53
             },
             {
                 "Team": "Lyon",
@@ -350,16 +350,16 @@
                 "Winning Chance (%)": 46.2
             },
             {
-                "Team": "Monaco",
-                "Winning Chance (%)": 40.0
-            },
-            {
                 "Team": "Strasbourg",
                 "Winning Chance (%)": 40.33
             },
             {
                 "Team": "Toulouse",
                 "Winning Chance (%)": 40.33
+            },
+            {
+                "Team": "Monaco",
+                "Winning Chance (%)": 38.33
             },
             {
                 "Team": "Angers",
