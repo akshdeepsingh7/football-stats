@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 December 2025, 06:48 PM UTC",
-        "IST": "Monday, 15 December 2025, 12:18 AM IST"
+        "UTC": "Sunday, 14 December 2025, 07:12 PM UTC",
+        "IST": "Monday, 15 December 2025, 12:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -190,12 +190,12 @@
                 "Winning Chance (%)": 53.12
             },
             {
-                "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 45.71
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 47.62
             },
             {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 43.81
+                "Team": "Eintracht Frankfurt",
+                "Winning Chance (%)": 45.71
             },
             {
                 "Team": "Union Berlin",
@@ -206,15 +206,15 @@
                 "Winning Chance (%)": 32.38
             },
             {
-                "Team": "Werder Bremen",
-                "Winning Chance (%)": 32.38
-            },
-            {
                 "Team": "K\u00f6ln",
                 "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
+                "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "Werder Bremen",
                 "Winning Chance (%)": 30.48
             },
             {
