@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 December 2025, 01:05 PM UTC",
-        "IST": "Sunday, 14 December 2025, 06:35 PM IST"
+        "UTC": "Sunday, 14 December 2025, 01:43 PM UTC",
+        "IST": "Sunday, 14 December 2025, 07:13 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -116,6 +116,10 @@
                 "Winning Chance (%)": 38.33
             },
             {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 33.33
+            },
+            {
                 "Team": "Getafe",
                 "Winning Chance (%)": 33.33
             },
@@ -130,10 +134,6 @@
             {
                 "Team": "Alav\u00e9s",
                 "Winning Chance (%)": 32.0
-            },
-            {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Rayo Vallecano",
@@ -161,7 +161,7 @@
             },
             {
                 "Team": "Real Oviedo",
-                "Winning Chance (%)": 18.33
+                "Winning Chance (%)": 16.67
             },
             {
                 "Team": "Levante",
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 65.24
+                "Winning Chance (%)": 61.29
             },
             {
                 "Team": "Napoli",
@@ -277,7 +277,7 @@
             },
             {
                 "Team": "Sassuolo",
-                "Winning Chance (%)": 35.96
+                "Winning Chance (%)": 38.13
             },
             {
                 "Team": "Cremonese",
