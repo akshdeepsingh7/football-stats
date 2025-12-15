@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 15 December 2025, 08:44 PM UTC",
-        "IST": "Tuesday, 16 December 2025, 02:14 AM IST"
+        "UTC": "Monday, 15 December 2025, 09:15 PM UTC",
+        "IST": "Tuesday, 16 December 2025, 02:45 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -26,16 +26,16 @@
                 "Winning Chance (%)": 45.33
             },
             {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 44.93
-            },
-            {
                 "Team": "Liverpool FC",
                 "Winning Chance (%)": 44.13
             },
             {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 44.13
+            },
+            {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 42.87
             },
             {
                 "Team": "Everton",
@@ -46,16 +46,16 @@
                 "Winning Chance (%)": 39.13
             },
             {
+                "Team": "AFC Bournemouth",
+                "Winning Chance (%)": 38.33
+            },
+            {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 38.27
             },
             {
                 "Team": "Newcastle United",
                 "Winning Chance (%)": 37.07
-            },
-            {
-                "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 35.0
             },
             {
                 "Team": "Fulham",
@@ -257,7 +257,7 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 52.58
+                "Winning Chance (%)": 56.53
             },
             {
                 "Team": "Juventus",
@@ -269,7 +269,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 47.64
+                "Winning Chance (%)": 45.47
             },
             {
                 "Team": "Lazio",
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 85.5
+                "Winning Chance (%)": 86.19
             },
             {
                 "Team": "Sporting CP",
@@ -891,7 +891,7 @@
             },
             {
                 "Team": "Estrela Amadora",
-                "Winning Chance (%)": 28.72
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Arouca",
