@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 15 December 2025, 07:38 PM UTC",
-        "IST": "Tuesday, 16 December 2025, 01:08 AM IST"
+        "UTC": "Monday, 15 December 2025, 08:19 PM UTC",
+        "IST": "Tuesday, 16 December 2025, 01:49 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -22,6 +22,10 @@
                 "Winning Chance (%)": 51.47
             },
             {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 48.67
+            },
+            {
                 "Team": "Crystal Palace",
                 "Winning Chance (%)": 45.33
             },
@@ -32,10 +36,6 @@
             {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 44.13
-            },
-            {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 46.04
             },
             {
                 "Team": "Everton",
@@ -63,7 +63,7 @@
             },
             {
                 "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 35.56
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Nottingham Forest",
@@ -109,7 +109,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 45.07
+                "Winning Chance (%)": 44.07
             },
             {
                 "Team": "Athletic Bilbao",
@@ -137,7 +137,7 @@
             },
             {
                 "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 30.22
+                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Mallorca",
@@ -257,7 +257,7 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 54.23
+                "Winning Chance (%)": 52.58
             },
             {
                 "Team": "Juventus",
@@ -269,7 +269,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 48.91
+                "Winning Chance (%)": 47.64
             },
             {
                 "Team": "Lazio",
@@ -878,11 +878,11 @@
                 "Winning Chance (%)": 30.48
             },
             {
-                "Team": "Santa Clara",
+                "Team": "Nacional",
                 "Winning Chance (%)": 28.57
             },
             {
-                "Team": "Nacional",
+                "Team": "Santa Clara",
                 "Winning Chance (%)": 28.57
             },
             {
@@ -968,12 +968,12 @@
                 "Winning Chance (%)": 35.96
             },
             {
-                "Team": "West Bromwich Albion",
+                "Team": "Derby County",
                 "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Derby County",
-                "Winning Chance (%)": 36.0
+                "Team": "West Bromwich Albion",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Charlton Athletic",
