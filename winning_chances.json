@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 15 December 2025, 08:19 PM UTC",
-        "IST": "Tuesday, 16 December 2025, 01:49 AM IST"
+        "UTC": "Monday, 15 December 2025, 08:44 PM UTC",
+        "IST": "Tuesday, 16 December 2025, 02:14 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -22,12 +22,12 @@
                 "Winning Chance (%)": 51.47
             },
             {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 48.67
-            },
-            {
                 "Team": "Crystal Palace",
                 "Winning Chance (%)": 45.33
+            },
+            {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 44.93
             },
             {
                 "Team": "Liverpool FC",
@@ -54,15 +54,15 @@
                 "Winning Chance (%)": 37.07
             },
             {
+                "Team": "AFC Bournemouth",
+                "Winning Chance (%)": 35.0
+            },
+            {
                 "Team": "Fulham",
                 "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Brentford",
-                "Winning Chance (%)": 33.33
-            },
-            {
-                "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 33.33
             },
             {
@@ -956,6 +956,10 @@
                 "Winning Chance (%)": 39.7
             },
             {
+                "Team": "Derby County",
+                "Winning Chance (%)": 38.1
+            },
+            {
                 "Team": "Birmingham City",
                 "Winning Chance (%)": 38.43
             },
@@ -966,10 +970,6 @@
             {
                 "Team": "Wrexham",
                 "Winning Chance (%)": 35.96
-            },
-            {
-                "Team": "Derby County",
-                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "West Bromwich Albion",
