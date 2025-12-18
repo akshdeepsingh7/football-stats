@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 18 December 2025, 08:40 PM UTC",
-        "IST": "Friday, 19 December 2025, 02:10 AM IST"
+        "UTC": "Thursday, 18 December 2025, 09:14 PM UTC",
+        "IST": "Friday, 19 December 2025, 02:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -692,6 +692,10 @@
         ],
         "Europa Conference League": [
             {
+                "Team": "Rak\u00f3w",
+                "Winning Chance (%)": 65.02
+            },
+            {
                 "Team": "Strasbourg",
                 "Winning Chance (%)": 63.82
             },
@@ -708,20 +712,12 @@
                 "Winning Chance (%)": 59.38
             },
             {
-                "Team": "Crystal Palace",
-                "Winning Chance (%)": 55.73
-            },
-            {
-                "Team": "Rak\u00f3w",
-                "Winning Chance (%)": 55.73
-            },
-            {
-                "Team": "Samsunspor",
-                "Winning Chance (%)": 51.29
-            },
-            {
                 "Team": "Mainz 05",
-                "Winning Chance (%)": 49.69
+                "Winning Chance (%)": 59.38
+            },
+            {
+                "Team": "Lech",
+                "Winning Chance (%)": 46.44
             },
             {
                 "Team": "AEK Athens",
@@ -732,7 +728,7 @@
                 "Winning Chance (%)": 46.44
             },
             {
-                "Team": "Lech",
+                "Team": "Samsunspor",
                 "Winning Chance (%)": 46.04
             },
             {
@@ -752,11 +748,15 @@
                 "Winning Chance (%)": 44.44
             },
             {
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 41.6
+            },
+            {
                 "Team": "Rijeka",
                 "Winning Chance (%)": 41.2
             },
             {
-                "Team": "Omonia",
+                "Team": "KuPS",
                 "Winning Chance (%)": 40.8
             },
             {
@@ -768,11 +768,15 @@
                 "Winning Chance (%)": 40.4
             },
             {
-                "Team": "Noah",
-                "Winning Chance (%)": 35.56
+                "Team": "Omonia",
+                "Winning Chance (%)": 35.96
             },
             {
                 "Team": "Shk\u00ebndija",
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Noah",
                 "Winning Chance (%)": 35.56
             },
             {
@@ -786,10 +790,6 @@
             {
                 "Team": "Lincoln Red Imps",
                 "Winning Chance (%)": 31.11
-            },
-            {
-                "Team": "KuPS",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Dynamo Kyiv",
@@ -812,12 +812,16 @@
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Hamrun Spartans",
+                "Team": "Slovan Bratislava",
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Slovan Bratislava",
+                "Team": "Shamrock Rovers",
                 "Winning Chance (%)": 17.78
+            },
+            {
+                "Team": "Hamrun Spartans",
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Rapid Vienna",
@@ -825,10 +829,6 @@
             },
             {
                 "Team": "Shelbourne",
-                "Winning Chance (%)": 8.89
-            },
-            {
-                "Team": "Shamrock Rovers",
                 "Winning Chance (%)": 8.89
             },
             {
