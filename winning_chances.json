@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 18 December 2025, 09:14 PM UTC",
-        "IST": "Friday, 19 December 2025, 02:44 AM IST"
+        "UTC": "Thursday, 18 December 2025, 09:37 PM UTC",
+        "IST": "Friday, 19 December 2025, 03:07 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -701,19 +701,23 @@
             },
             {
                 "Team": "Sparta Prague",
-                "Winning Chance (%)": 60.18
+                "Winning Chance (%)": 60.58
+            },
+            {
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 59.78
             },
             {
                 "Team": "Shakhtar Donetsk",
                 "Winning Chance (%)": 59.78
             },
             {
-                "Team": "Rayo Vallecano",
+                "Team": "Mainz 05",
                 "Winning Chance (%)": 59.38
             },
             {
-                "Team": "Mainz 05",
-                "Winning Chance (%)": 59.38
+                "Team": "Lausanne-Sport",
+                "Winning Chance (%)": 50.09
             },
             {
                 "Team": "Lech",
@@ -724,15 +728,15 @@
                 "Winning Chance (%)": 46.44
             },
             {
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 46.44
+            },
+            {
                 "Team": "AEK Larnaca",
                 "Winning Chance (%)": 46.44
             },
             {
                 "Team": "Samsunspor",
-                "Winning Chance (%)": 46.04
-            },
-            {
-                "Team": "Fiorentina",
                 "Winning Chance (%)": 46.04
             },
             {
@@ -748,20 +752,12 @@
                 "Winning Chance (%)": 44.44
             },
             {
-                "Team": "Crystal Palace",
-                "Winning Chance (%)": 41.6
+                "Team": "Fiorentina",
+                "Winning Chance (%)": 41.2
             },
             {
                 "Team": "Rijeka",
                 "Winning Chance (%)": 41.2
-            },
-            {
-                "Team": "KuPS",
-                "Winning Chance (%)": 40.8
-            },
-            {
-                "Team": "Lausanne-Sport",
-                "Winning Chance (%)": 40.8
             },
             {
                 "Team": "Jagiellonia",
@@ -782,6 +778,10 @@
             {
                 "Team": "Drita",
                 "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "KuPS",
+                "Winning Chance (%)": 31.51
             },
             {
                 "Team": "Sigma Olomouc",
