@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 19 December 2025, 09:15 PM UTC",
-        "IST": "Saturday, 20 December 2025, 02:45 AM IST"
+        "UTC": "Friday, 19 December 2025, 09:38 PM UTC",
+        "IST": "Saturday, 20 December 2025, 03:08 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -175,7 +175,7 @@
             },
             {
                 "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 62.09
+                "Winning Chance (%)": 62.49
             },
             {
                 "Team": "RB Leipzig",
@@ -944,10 +944,6 @@
                 "Winning Chance (%)": 40.57
             },
             {
-                "Team": "Wrexham",
-                "Winning Chance (%)": 38.38
-            },
-            {
                 "Team": "Queens Park Rangers",
                 "Winning Chance (%)": 39.37
             },
@@ -972,6 +968,10 @@
                 "Winning Chance (%)": 37.63
             },
             {
+                "Team": "Wrexham",
+                "Winning Chance (%)": 35.55
+            },
+            {
                 "Team": "West Bromwich Albion",
                 "Winning Chance (%)": 35.56
             },
@@ -980,12 +980,12 @@
                 "Winning Chance (%)": 32.0
             },
             {
-                "Team": "Sheffield United",
-                "Winning Chance (%)": 29.21
+                "Team": "Swansea City",
+                "Winning Chance (%)": 29.09
             },
             {
-                "Team": "Swansea City",
-                "Winning Chance (%)": 27.88
+                "Team": "Sheffield United",
+                "Winning Chance (%)": 29.21
             },
             {
                 "Team": "Blackburn Rovers",
