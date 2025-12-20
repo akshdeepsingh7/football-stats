@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 December 2025, 01:05 PM UTC",
-        "IST": "Saturday, 20 December 2025, 06:35 PM IST"
+        "UTC": "Saturday, 20 December 2025, 01:42 PM UTC",
+        "IST": "Saturday, 20 December 2025, 07:12 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -19,7 +19,7 @@
             },
             {
                 "Team": "Chelsea",
-                "Winning Chance (%)": 47.92
+                "Winning Chance (%)": 48.32
             },
             {
                 "Team": "Crystal Palace",
@@ -39,7 +39,7 @@
             },
             {
                 "Team": "Newcastle United",
-                "Winning Chance (%)": 40.42
+                "Winning Chance (%)": 40.02
             },
             {
                 "Team": "Everton",
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 70.18
+                "Winning Chance (%)": 73.01
             },
             {
                 "Team": "Middlesbrough",
@@ -940,16 +940,16 @@
                 "Winning Chance (%)": 45.1
             },
             {
-                "Team": "Southampton",
-                "Winning Chance (%)": 39.58
-            },
-            {
                 "Team": "Leicester City",
                 "Winning Chance (%)": 40.57
             },
             {
                 "Team": "Queens Park Rangers",
                 "Winning Chance (%)": 39.37
+            },
+            {
+                "Team": "Southampton",
+                "Winning Chance (%)": 37.96
             },
             {
                 "Team": "Bristol City",
