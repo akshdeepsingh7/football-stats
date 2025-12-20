@@ -1,17 +1,17 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 December 2025, 08:16 PM UTC",
-        "IST": "Sunday, 21 December 2025, 01:46 AM IST"
+        "UTC": "Saturday, 20 December 2025, 08:39 PM UTC",
+        "IST": "Sunday, 21 December 2025, 02:09 AM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
-                "Team": "Manchester City",
-                "Winning Chance (%)": 68.04
+                "Team": "Arsenal",
+                "Winning Chance (%)": 69.58
             },
             {
-                "Team": "Arsenal",
-                "Winning Chance (%)": 66.04
+                "Team": "Manchester City",
+                "Winning Chance (%)": 68.04
             },
             {
                 "Team": "Aston Villa",
@@ -26,10 +26,6 @@
                 "Winning Chance (%)": 46.69
             },
             {
-                "Team": "Crystal Palace",
-                "Winning Chance (%)": 44.35
-            },
-            {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 43.15
             },
@@ -38,12 +34,16 @@
                 "Winning Chance (%)": 44.93
             },
             {
-                "Team": "Everton",
-                "Winning Chance (%)": 39.22
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 42.38
             },
             {
                 "Team": "Brighton & Hove Albion",
                 "Winning Chance (%)": 38.45
+            },
+            {
+                "Team": "Everton",
+                "Winning Chance (%)": 37.65
             },
             {
                 "Team": "Newcastle United",
@@ -66,12 +66,12 @@
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Nottingham Forest",
-                "Winning Chance (%)": 30.0
+                "Team": "Leeds United",
+                "Winning Chance (%)": 29.8
             },
             {
-                "Team": "Leeds United",
-                "Winning Chance (%)": 26.67
+                "Team": "Nottingham Forest",
+                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "West Ham United",
@@ -257,11 +257,11 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 54.87
+                "Winning Chance (%)": 52.8
             },
             {
                 "Team": "Juventus",
-                "Winning Chance (%)": 47.0
+                "Winning Chance (%)": 50.73
             },
             {
                 "Team": "Bologna",
@@ -862,12 +862,12 @@
                 "Winning Chance (%)": 47.41
             },
             {
-                "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 40.0
+                "Team": "Moreirense",
+                "Winning Chance (%)": 37.33
             },
             {
-                "Team": "Moreirense",
-                "Winning Chance (%)": 38.1
+                "Team": "Vit\u00f3ria S.C.",
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Estoril",
@@ -882,16 +882,16 @@
                 "Winning Chance (%)": 30.22
             },
             {
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Nacional",
                 "Winning Chance (%)": 28.57
             },
             {
                 "Team": "Santa Clara",
                 "Winning Chance (%)": 28.57
-            },
-            {
-                "Team": "Estrela Amadora",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Arouca",
