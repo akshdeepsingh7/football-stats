@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 December 2025, 06:45 PM UTC",
-        "IST": "Sunday, 21 December 2025, 12:15 AM IST"
+        "UTC": "Saturday, 20 December 2025, 07:12 PM UTC",
+        "IST": "Sunday, 21 December 2025, 12:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -23,7 +23,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 43.15
+                "Winning Chance (%)": 47.09
             },
             {
                 "Team": "Sunderland",
@@ -46,16 +46,16 @@
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 37.68
-            },
-            {
                 "Team": "Newcastle United",
                 "Winning Chance (%)": 36.48
             },
             {
                 "Team": "Brentford",
                 "Winning Chance (%)": 36.08
+            },
+            {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 35.31
             },
             {
                 "Team": "AFC Bournemouth",
@@ -132,24 +132,24 @@
                 "Winning Chance (%)": 31.67
             },
             {
-                "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 29.8
-            },
-            {
                 "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 30.0
+            },
+            {
+                "Team": "Osasuna",
+                "Winning Chance (%)": 28.24
             },
             {
                 "Team": "Mallorca",
                 "Winning Chance (%)": 28.24
             },
             {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 26.67
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 28.24
             },
             {
-                "Team": "Osasuna",
-                "Winning Chance (%)": 25.1
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Valencia",
