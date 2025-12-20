@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 December 2025, 03:14 PM UTC",
-        "IST": "Saturday, 20 December 2025, 08:44 PM IST"
+        "UTC": "Saturday, 20 December 2025, 03:38 PM UTC",
+        "IST": "Saturday, 20 December 2025, 09:08 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -165,7 +165,7 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 16.0
+                "Winning Chance (%)": 16.67
             }
         ],
         "Bundesliga": [
@@ -917,15 +917,15 @@
             },
             {
                 "Team": "Middlesbrough",
-                "Winning Chance (%)": 56.52
+                "Winning Chance (%)": 54.91
+            },
+            {
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 50.45
             },
             {
                 "Team": "Preston North End",
                 "Winning Chance (%)": 46.44
-            },
-            {
-                "Team": "Ipswich Town",
-                "Winning Chance (%)": 47.62
             },
             {
                 "Team": "Hull City",
@@ -944,16 +944,16 @@
                 "Winning Chance (%)": 41.21
             },
             {
+                "Team": "Bristol City",
+                "Winning Chance (%)": 42.0
+            },
+            {
                 "Team": "Southampton",
                 "Winning Chance (%)": 39.58
             },
             {
-                "Team": "Bristol City",
-                "Winning Chance (%)": 39.18
-            },
-            {
                 "Team": "Leicester City",
-                "Winning Chance (%)": 38.38
+                "Winning Chance (%)": 37.58
             },
             {
                 "Team": "Watford",
@@ -965,7 +965,7 @@
             },
             {
                 "Team": "Birmingham City",
-                "Winning Chance (%)": 36.35
+                "Winning Chance (%)": 35.95
             },
             {
                 "Team": "West Bromwich Albion",
