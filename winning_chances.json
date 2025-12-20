@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 December 2025, 02:14 PM UTC",
-        "IST": "Saturday, 20 December 2025, 07:44 PM IST"
+        "UTC": "Saturday, 20 December 2025, 02:39 PM UTC",
+        "IST": "Saturday, 20 December 2025, 08:09 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -182,52 +182,52 @@
                 "Winning Chance (%)": 60.44
             },
             {
+                "Team": "Hoffenheim",
+                "Winning Chance (%)": 51.6
+            },
+            {
                 "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 53.92
             },
             {
-                "Team": "Hoffenheim",
-                "Winning Chance (%)": 53.12
-            },
-            {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 48.82
+                "Winning Chance (%)": 47.42
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 45.71
-            },
-            {
-                "Team": "Union Berlin",
-                "Winning Chance (%)": 34.29
+                "Winning Chance (%)": 44.44
             },
             {
                 "Team": "SC Freiburg",
-                "Winning Chance (%)": 32.38
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Union Berlin",
+                "Winning Chance (%)": 33.78
             },
             {
                 "Team": "K\u00f6ln",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 30.22
+            },
+            {
+                "Team": "Werder Bremen",
+                "Winning Chance (%)": 30.22
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Winning Chance (%)": 28.44
             },
             {
-                "Team": "Werder Bremen",
-                "Winning Chance (%)": 30.48
+                "Team": "Hamburg",
+                "Winning Chance (%)": 28.44
             },
             {
                 "Team": "VfL Wolfsburg",
-                "Winning Chance (%)": 28.57
-            },
-            {
-                "Team": "Hamburg",
-                "Winning Chance (%)": 28.57
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Augsburg",
-                "Winning Chance (%)": 24.76
+                "Winning Chance (%)": 24.89
             },
             {
                 "Team": "St. Pauli",
