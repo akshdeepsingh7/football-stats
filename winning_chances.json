@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 December 2025, 04:44 PM UTC",
-        "IST": "Saturday, 20 December 2025, 10:14 PM IST"
+        "UTC": "Saturday, 20 December 2025, 05:13 PM UTC",
+        "IST": "Saturday, 20 December 2025, 10:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -46,10 +46,6 @@
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 37.65
-            },
-            {
                 "Team": "Newcastle United",
                 "Winning Chance (%)": 36.48
             },
@@ -60,6 +56,10 @@
             {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 38.27
+            },
+            {
+                "Team": "AFC Bournemouth",
+                "Winning Chance (%)": 34.51
             },
             {
                 "Team": "Fulham",
@@ -79,7 +79,7 @@
             },
             {
                 "Team": "Burnley",
-                "Winning Chance (%)": 15.69
+                "Winning Chance (%)": 17.25
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -132,10 +132,6 @@
                 "Winning Chance (%)": 31.67
             },
             {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 29.8
-            },
-            {
                 "Team": "Alav\u00e9s",
                 "Winning Chance (%)": 30.0
             },
@@ -146,6 +142,10 @@
             {
                 "Team": "Mallorca",
                 "Winning Chance (%)": 28.24
+            },
+            {
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Valencia",
@@ -165,7 +165,7 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 15.0
+                "Winning Chance (%)": 16.67
             }
         ],
         "Bundesliga": [
@@ -273,7 +273,7 @@
             },
             {
                 "Team": "Lazio",
-                "Winning Chance (%)": 41.51
+                "Winning Chance (%)": 40.73
             },
             {
                 "Team": "Sassuolo",
@@ -285,7 +285,7 @@
             },
             {
                 "Team": "Cremonese",
-                "Winning Chance (%)": 35.56
+                "Winning Chance (%)": 35.0
             },
             {
                 "Team": "Atalanta",
@@ -921,7 +921,7 @@
             },
             {
                 "Team": "Ipswich Town",
-                "Winning Chance (%)": 50.45
+                "Winning Chance (%)": 50.85
             },
             {
                 "Team": "Hull City",
