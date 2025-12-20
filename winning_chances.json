@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 December 2025, 05:13 PM UTC",
-        "IST": "Saturday, 20 December 2025, 10:43 PM IST"
+        "UTC": "Saturday, 20 December 2025, 05:37 PM UTC",
+        "IST": "Saturday, 20 December 2025, 11:07 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -22,6 +22,10 @@
                 "Winning Chance (%)": 50.29
             },
             {
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 43.15
+            },
+            {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 43.15
             },
@@ -34,10 +38,6 @@
                 "Winning Chance (%)": 44.93
             },
             {
-                "Team": "Liverpool FC",
-                "Winning Chance (%)": 44.13
-            },
-            {
                 "Team": "Brighton & Hove Albion",
                 "Winning Chance (%)": 38.45
             },
@@ -46,16 +46,16 @@
                 "Winning Chance (%)": 40.0
             },
             {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 37.68
+            },
+            {
                 "Team": "Newcastle United",
                 "Winning Chance (%)": 36.48
             },
             {
                 "Team": "Brentford",
                 "Winning Chance (%)": 36.08
-            },
-            {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 38.27
             },
             {
                 "Team": "AFC Bournemouth",
@@ -133,7 +133,7 @@
             },
             {
                 "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 30.0
+                "Winning Chance (%)": 29.8
             },
             {
                 "Team": "Rayo Vallecano",
@@ -148,12 +148,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Valencia",
+                "Team": "Osasuna",
                 "Winning Chance (%)": 25.1
             },
             {
-                "Team": "Osasuna",
-                "Winning Chance (%)": 25.0
+                "Team": "Valencia",
+                "Winning Chance (%)": 25.1
             },
             {
                 "Team": "Girona",
@@ -179,15 +179,15 @@
             },
             {
                 "Team": "RB Leipzig",
-                "Winning Chance (%)": 60.44
+                "Winning Chance (%)": 58.53
+            },
+            {
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 52.4
             },
             {
                 "Team": "Hoffenheim",
                 "Winning Chance (%)": 51.6
-            },
-            {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 53.92
             },
             {
                 "Team": "VfB Stuttgart",
