@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 December 2025, 07:12 PM UTC",
-        "IST": "Sunday, 21 December 2025, 12:42 AM IST"
+        "UTC": "Saturday, 20 December 2025, 07:35 PM UTC",
+        "IST": "Sunday, 21 December 2025, 01:05 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -23,7 +23,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 47.09
+                "Winning Chance (%)": 46.69
             },
             {
                 "Team": "Sunderland",
@@ -55,7 +55,7 @@
             },
             {
                 "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 35.31
+                "Winning Chance (%)": 35.71
             },
             {
                 "Team": "AFC Bournemouth",
@@ -132,12 +132,12 @@
                 "Winning Chance (%)": 31.67
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 30.0
-            },
-            {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 28.24
+            },
+            {
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Mallorca",
@@ -179,11 +179,11 @@
             },
             {
                 "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 56.36
+                "Winning Chance (%)": 56.76
             },
             {
                 "Team": "RB Leipzig",
-                "Winning Chance (%)": 56.36
+                "Winning Chance (%)": 55.96
             },
             {
                 "Team": "Hoffenheim",
@@ -851,7 +851,7 @@
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 50.22
+                "Winning Chance (%)": 48.04
             },
             {
                 "Team": "Braga",
@@ -870,16 +870,16 @@
                 "Winning Chance (%)": 38.1
             },
             {
+                "Team": "Rio Ave",
+                "Winning Chance (%)": 33.78
+            },
+            {
                 "Team": "Estoril",
                 "Winning Chance (%)": 30.22
             },
             {
                 "Team": "Alverca",
                 "Winning Chance (%)": 32.38
-            },
-            {
-                "Team": "Rio Ave",
-                "Winning Chance (%)": 30.22
             },
             {
                 "Team": "Nacional",
