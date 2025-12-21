@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 December 2025, 05:13 PM UTC",
-        "IST": "Sunday, 21 December 2025, 10:43 PM IST"
+        "UTC": "Sunday, 21 December 2025, 05:38 PM UTC",
+        "IST": "Sunday, 21 December 2025, 11:08 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -120,6 +120,10 @@
                 "Winning Chance (%)": 36.08
             },
             {
+                "Team": "Elche",
+                "Winning Chance (%)": 34.51
+            },
+            {
                 "Team": "Sevilla",
                 "Winning Chance (%)": 31.37
             },
@@ -128,16 +132,12 @@
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Elche",
-                "Winning Chance (%)": 31.67
-            },
-            {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 28.24
             },
             {
                 "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 30.0
+                "Winning Chance (%)": 28.24
             },
             {
                 "Team": "Mallorca",
@@ -276,15 +276,15 @@
                 "Winning Chance (%)": 40.73
             },
             {
-                "Team": "Udinese",
-                "Winning Chance (%)": 36.67
-            },
-            {
                 "Team": "Sassuolo",
                 "Winning Chance (%)": 35.4
             },
             {
                 "Team": "Cremonese",
+                "Winning Chance (%)": 35.0
+            },
+            {
+                "Team": "Udinese",
                 "Winning Chance (%)": 35.0
             },
             {
@@ -321,7 +321,7 @@
             },
             {
                 "Team": "Fiorentina",
-                "Winning Chance (%)": 11.67
+                "Winning Chance (%)": 15.0
             }
         ],
         "Ligue 1": [
