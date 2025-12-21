@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 December 2025, 03:14 PM UTC",
-        "IST": "Sunday, 21 December 2025, 08:44 PM IST"
+        "UTC": "Sunday, 21 December 2025, 03:38 PM UTC",
+        "IST": "Sunday, 21 December 2025, 09:08 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 79.05
+                "Winning Chance (%)": 80.15
             },
             {
                 "Team": "Real Madrid",
@@ -101,7 +101,7 @@
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 69.42
+                "Winning Chance (%)": 65.13
             },
             {
                 "Team": "Espanyol",
@@ -276,24 +276,24 @@
                 "Winning Chance (%)": 40.73
             },
             {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 37.47
-            },
-            {
                 "Team": "Udinese",
                 "Winning Chance (%)": 37.33
+            },
+            {
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 35.4
             },
             {
                 "Team": "Cremonese",
                 "Winning Chance (%)": 35.0
             },
             {
-                "Team": "Atalanta",
-                "Winning Chance (%)": 34.18
+                "Team": "Torino",
+                "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Torino",
-                "Winning Chance (%)": 30.0
+                "Team": "Atalanta",
+                "Winning Chance (%)": 34.18
             },
             {
                 "Team": "Lecce",
@@ -882,16 +882,16 @@
                 "Winning Chance (%)": 30.22
             },
             {
-                "Team": "Estrela Amadora",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Nacional",
-                "Winning Chance (%)": 28.57
+                "Winning Chance (%)": 28.44
             },
             {
                 "Team": "Santa Clara",
                 "Winning Chance (%)": 28.57
+            },
+            {
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Arouca",
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 5.71
+                "Winning Chance (%)": 7.11
             }
         ],
         "EFL Championship": [
