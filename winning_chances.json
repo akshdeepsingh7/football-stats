@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 December 2025, 12:30 PM UTC",
-        "IST": "Sunday, 21 December 2025, 06:00 PM IST"
+        "UTC": "Sunday, 21 December 2025, 01:06 PM UTC",
+        "IST": "Sunday, 21 December 2025, 06:36 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -101,7 +101,7 @@
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 58.93
+                "Winning Chance (%)": 57.45
             },
             {
                 "Team": "Espanyol",
@@ -157,7 +157,7 @@
             },
             {
                 "Team": "Girona",
-                "Winning Chance (%)": 25.0
+                "Winning Chance (%)": 25.1
             },
             {
                 "Team": "Real Oviedo",
@@ -296,6 +296,10 @@
                 "Winning Chance (%)": 30.22
             },
             {
+                "Team": "Cagliari",
+                "Winning Chance (%)": 28.33
+            },
+            {
                 "Team": "Lecce",
                 "Winning Chance (%)": 28.44
             },
@@ -308,16 +312,12 @@
                 "Winning Chance (%)": 24.89
             },
             {
-                "Team": "Cagliari",
-                "Winning Chance (%)": 23.33
+                "Team": "Hellas Verona",
+                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Pisa",
-                "Winning Chance (%)": 21.67
-            },
-            {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 21.33
+                "Winning Chance (%)": 16.67
             },
             {
                 "Team": "Fiorentina",
