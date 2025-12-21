@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 December 2025, 04:44 PM UTC",
-        "IST": "Sunday, 21 December 2025, 10:14 PM IST"
+        "UTC": "Sunday, 21 December 2025, 05:13 PM UTC",
+        "IST": "Sunday, 21 December 2025, 10:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 85.33
+                "Winning Chance (%)": 89.69
             },
             {
                 "Team": "Borussia Dortmund",
@@ -235,7 +235,7 @@
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 21.33
+                "Winning Chance (%)": 19.56
             },
             {
                 "Team": "Mainz 05",
@@ -277,7 +277,7 @@
             },
             {
                 "Team": "Udinese",
-                "Winning Chance (%)": 37.33
+                "Winning Chance (%)": 36.67
             },
             {
                 "Team": "Sassuolo",
@@ -321,7 +321,7 @@
             },
             {
                 "Team": "Fiorentina",
-                "Winning Chance (%)": 10.67
+                "Winning Chance (%)": 11.67
             }
         ],
         "Ligue 1": [
@@ -882,15 +882,15 @@
                 "Winning Chance (%)": 30.22
             },
             {
-                "Team": "Estrela Amadora",
-                "Winning Chance (%)": 26.67
+                "Team": "Nacional",
+                "Winning Chance (%)": 28.44
             },
             {
                 "Team": "Santa Clara",
                 "Winning Chance (%)": 28.57
             },
             {
-                "Team": "Nacional",
+                "Team": "Estrela Amadora",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 10.67
+                "Winning Chance (%)": 7.11
             }
         ],
         "EFL Championship": [
