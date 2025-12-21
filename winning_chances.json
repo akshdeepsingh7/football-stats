@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 December 2025, 05:38 PM UTC",
-        "IST": "Sunday, 21 December 2025, 11:08 PM IST"
+        "UTC": "Sunday, 21 December 2025, 06:22 PM UTC",
+        "IST": "Sunday, 21 December 2025, 11:52 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -15,7 +15,7 @@
             },
             {
                 "Team": "Aston Villa",
-                "Winning Chance (%)": 56.53
+                "Winning Chance (%)": 60.07
             },
             {
                 "Team": "Chelsea",
@@ -26,12 +26,12 @@
                 "Winning Chance (%)": 46.69
             },
             {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 43.95
-            },
-            {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 43.15
+            },
+            {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 41.98
             },
             {
                 "Team": "Crystal Palace",
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 89.69
+                "Winning Chance (%)": 90.49
             },
             {
                 "Team": "Borussia Dortmund",
@@ -899,11 +899,11 @@
             },
             {
                 "Team": "Casa Pia",
-                "Winning Chance (%)": 19.05
+                "Winning Chance (%)": 19.56
             },
             {
                 "Team": "Tondela",
-                "Winning Chance (%)": 17.14
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "AVS",
