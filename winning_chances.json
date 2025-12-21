@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 December 2025, 04:18 PM UTC",
-        "IST": "Sunday, 21 December 2025, 09:48 PM IST"
+        "UTC": "Sunday, 21 December 2025, 04:44 PM UTC",
+        "IST": "Sunday, 21 December 2025, 10:14 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -15,7 +15,7 @@
             },
             {
                 "Team": "Aston Villa",
-                "Winning Chance (%)": 58.2
+                "Winning Chance (%)": 56.53
             },
             {
                 "Team": "Chelsea",
@@ -26,12 +26,12 @@
                 "Winning Chance (%)": 46.69
             },
             {
-                "Team": "Sunderland",
-                "Winning Chance (%)": 43.15
+                "Team": "Manchester United",
+                "Winning Chance (%)": 43.95
             },
             {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 44.93
+                "Team": "Sunderland",
+                "Winning Chance (%)": 43.15
             },
             {
                 "Team": "Crystal Palace",
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 80.15
+                "Winning Chance (%)": 80.55
             },
             {
                 "Team": "Real Madrid",
@@ -101,7 +101,7 @@
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 65.13
+                "Winning Chance (%)": 64.73
             },
             {
                 "Team": "Espanyol",
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 88.38
+                "Winning Chance (%)": 85.33
             },
             {
                 "Team": "Borussia Dortmund",
@@ -235,7 +235,7 @@
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 20.95
+                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Mainz 05",
