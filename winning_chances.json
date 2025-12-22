@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 22 December 2025, 07:37 PM UTC",
-        "IST": "Tuesday, 23 December 2025, 01:07 AM IST"
+        "UTC": "Monday, 22 December 2025, 08:18 PM UTC",
+        "IST": "Tuesday, 23 December 2025, 01:48 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -63,7 +63,7 @@
             },
             {
                 "Team": "Fulham",
-                "Winning Chance (%)": 33.33
+                "Winning Chance (%)": 32.94
             },
             {
                 "Team": "Leeds United",
@@ -71,7 +71,7 @@
             },
             {
                 "Team": "Nottingham Forest",
-                "Winning Chance (%)": 30.0
+                "Winning Chance (%)": 29.8
             },
             {
                 "Team": "West Ham United",
@@ -105,19 +105,19 @@
             },
             {
                 "Team": "Espanyol",
-                "Winning Chance (%)": 51.6
+                "Winning Chance (%)": 50.23
             },
             {
                 "Team": "Real Betis",
                 "Winning Chance (%)": 47.92
             },
             {
-                "Team": "Celta de Vigo",
-                "Winning Chance (%)": 36.48
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 36.08
+                "Team": "Celta de Vigo",
+                "Winning Chance (%)": 36.48
             },
             {
                 "Team": "Elche",
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 87.24
+                "Winning Chance (%)": 88.04
             },
             {
                 "Team": "Sporting CP",
