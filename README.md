@@ -10,7 +10,7 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Tuesday, 23 December 2025, 07:14 PM UTC (Wednesday, 24 December 2025, 12:44 AM IST)
+**Last Updated:** Tuesday, 23 December 2025, 07:37 PM UTC (Wednesday, 24 December 2025, 01:07 AM IST)
 
 _Charts are sorted by Winning Chance (%)_
 
@@ -49,6 +49,10 @@ _Charts are sorted by Winning Chance (%)_
 ### Liga Portugal
 
 ![Liga Portugal Winning Chances](images/Liga_Portugal_winning_chances.png)
+
+### EFL Championship
+
+![EFL Championship Winning Chances](images/EFL_Championship_winning_chances.png)
 
 ### Indian Super League
 
