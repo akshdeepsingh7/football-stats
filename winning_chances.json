@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 December 2025, 05:13 PM UTC",
-        "IST": "Friday, 26 December 2025, 10:43 PM IST"
+        "UTC": "Friday, 26 December 2025, 05:39 PM UTC",
+        "IST": "Friday, 26 December 2025, 11:09 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -968,8 +968,12 @@
                 "Winning Chance (%)": 35.18
             },
             {
+                "Team": "Sheffield United",
+                "Winning Chance (%)": 33.62
+            },
+            {
                 "Team": "Wrexham",
-                "Winning Chance (%)": 33.94
+                "Winning Chance (%)": 32.46
             },
             {
                 "Team": "West Bromwich Albion",
@@ -978,10 +982,6 @@
             {
                 "Team": "Charlton Athletic",
                 "Winning Chance (%)": 32.73
-            },
-            {
-                "Team": "Sheffield United",
-                "Winning Chance (%)": 31.52
             },
             {
                 "Team": "Blackburn Rovers",
