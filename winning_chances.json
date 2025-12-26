@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 December 2025, 01:50 PM UTC",
-        "IST": "Friday, 26 December 2025, 07:20 PM IST"
+        "UTC": "Friday, 26 December 2025, 02:16 PM UTC",
+        "IST": "Friday, 26 December 2025, 07:46 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -936,10 +936,6 @@
                 "Winning Chance (%)": 41.74
             },
             {
-                "Team": "Derby County",
-                "Winning Chance (%)": 40.22
-            },
-            {
                 "Team": "Queens Park Rangers",
                 "Winning Chance (%)": 41.21
             },
@@ -956,6 +952,10 @@
                 "Winning Chance (%)": 39.99
             },
             {
+                "Team": "Derby County",
+                "Winning Chance (%)": 37.5
+            },
+            {
                 "Team": "Southampton",
                 "Winning Chance (%)": 39.58
             },
@@ -965,7 +965,7 @@
             },
             {
                 "Team": "Birmingham City",
-                "Winning Chance (%)": 33.62
+                "Winning Chance (%)": 35.18
             },
             {
                 "Team": "Wrexham",
