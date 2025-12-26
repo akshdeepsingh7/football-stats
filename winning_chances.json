@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 December 2025, 12:32 PM UTC",
-        "IST": "Friday, 26 December 2025, 06:02 PM IST"
+        "UTC": "Friday, 26 December 2025, 01:29 PM UTC",
+        "IST": "Friday, 26 December 2025, 06:59 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -921,7 +921,7 @@
             },
             {
                 "Team": "Ipswich Town",
-                "Winning Chance (%)": 50.85
+                "Winning Chance (%)": 50.06
             },
             {
                 "Team": "Hull City",
@@ -933,7 +933,11 @@
             },
             {
                 "Team": "Millwall",
-                "Winning Chance (%)": 42.42
+                "Winning Chance (%)": 41.74
+            },
+            {
+                "Team": "Derby County",
+                "Winning Chance (%)": 40.22
             },
             {
                 "Team": "Queens Park Rangers",
@@ -952,10 +956,6 @@
                 "Winning Chance (%)": 39.99
             },
             {
-                "Team": "Derby County",
-                "Winning Chance (%)": 37.5
-            },
-            {
                 "Team": "Southampton",
                 "Winning Chance (%)": 39.58
             },
@@ -965,7 +965,7 @@
             },
             {
                 "Team": "Birmingham City",
-                "Winning Chance (%)": 35.18
+                "Winning Chance (%)": 33.62
             },
             {
                 "Team": "Wrexham",
