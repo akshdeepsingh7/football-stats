@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 December 2025, 03:41 PM UTC",
-        "IST": "Friday, 26 December 2025, 09:11 PM IST"
+        "UTC": "Friday, 26 December 2025, 04:19 PM UTC",
+        "IST": "Friday, 26 December 2025, 09:49 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 68.81
+                "Winning Chance (%)": 71.53
             },
             {
                 "Team": "Middlesbrough",
@@ -940,28 +940,28 @@
                 "Winning Chance (%)": 41.74
             },
             {
-                "Team": "Queens Park Rangers",
-                "Winning Chance (%)": 40.58
-            },
-            {
                 "Team": "Stoke City",
                 "Winning Chance (%)": 42.22
             },
             {
-                "Team": "Leicester City",
-                "Winning Chance (%)": 39.82
+                "Team": "Queens Park Rangers",
+                "Winning Chance (%)": 39.42
+            },
+            {
+                "Team": "Watford",
+                "Winning Chance (%)": 39.46
             },
             {
                 "Team": "Southampton",
                 "Winning Chance (%)": 39.1
             },
             {
-                "Team": "Watford",
-                "Winning Chance (%)": 37.9
-            },
-            {
                 "Team": "Derby County",
                 "Winning Chance (%)": 37.5
+            },
+            {
+                "Team": "Leicester City",
+                "Winning Chance (%)": 37.1
             },
             {
                 "Team": "Birmingham City",
@@ -980,10 +980,6 @@
                 "Winning Chance (%)": 32.46
             },
             {
-                "Team": "Swansea City",
-                "Winning Chance (%)": 31.3
-            },
-            {
                 "Team": "Sheffield United",
                 "Winning Chance (%)": 31.52
             },
@@ -992,8 +988,12 @@
                 "Winning Chance (%)": 31.52
             },
             {
+                "Team": "Swansea City",
+                "Winning Chance (%)": 30.14
+            },
+            {
                 "Team": "Portsmouth",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 29.09
             },
             {
                 "Team": "Oxford United",
