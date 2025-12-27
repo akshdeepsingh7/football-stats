@@ -1,17 +1,17 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 03:15 PM UTC",
-        "IST": "Saturday, 27 December 2025, 08:45 PM IST"
+        "UTC": "Saturday, 27 December 2025, 03:38 PM UTC",
+        "IST": "Saturday, 27 December 2025, 09:08 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
-                "Team": "Manchester City",
-                "Winning Chance (%)": 69.66
+                "Team": "Arsenal",
+                "Winning Chance (%)": 71.02
             },
             {
-                "Team": "Arsenal",
-                "Winning Chance (%)": 67.66
+                "Team": "Manchester City",
+                "Winning Chance (%)": 69.66
             },
             {
                 "Team": "Aston Villa",
@@ -42,12 +42,12 @@
                 "Winning Chance (%)": 38.52
             },
             {
-                "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 37.84
-            },
-            {
                 "Team": "Everton",
                 "Winning Chance (%)": 37.04
+            },
+            {
+                "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 35.96
             },
             {
                 "Team": "Fulham",
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 48.2
+                "Winning Chance (%)": 49.0
             },
             {
                 "Team": "Bologna",
@@ -293,7 +293,11 @@
             },
             {
                 "Team": "Torino",
-                "Winning Chance (%)": 32.94
+                "Winning Chance (%)": 31.37
+            },
+            {
+                "Team": "Cagliari",
+                "Winning Chance (%)": 28.24
             },
             {
                 "Team": "Parma",
@@ -302,10 +306,6 @@
             {
                 "Team": "Lecce",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Cagliari",
-                "Winning Chance (%)": 25.1
             },
             {
                 "Team": "Genoa",
