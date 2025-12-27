@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 02:14 PM UTC",
-        "IST": "Saturday, 27 December 2025, 07:44 PM IST"
+        "UTC": "Saturday, 27 December 2025, 02:40 PM UTC",
+        "IST": "Saturday, 27 December 2025, 08:10 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -264,16 +264,20 @@
                 "Winning Chance (%)": 50.73
             },
             {
+                "Team": "Como",
+                "Winning Chance (%)": 48.2
+            },
+            {
                 "Team": "Bologna",
                 "Winning Chance (%)": 48.44
             },
             {
-                "Team": "Como",
-                "Winning Chance (%)": 44.47
-            },
-            {
                 "Team": "Lazio",
                 "Winning Chance (%)": 40.73
+            },
+            {
+                "Team": "Torino",
+                "Winning Chance (%)": 36.08
             },
             {
                 "Team": "Atalanta",
@@ -292,20 +296,16 @@
                 "Winning Chance (%)": 35.0
             },
             {
-                "Team": "Torino",
-                "Winning Chance (%)": 32.94
-            },
-            {
                 "Team": "Parma",
                 "Winning Chance (%)": 28.33
             },
             {
                 "Team": "Lecce",
-                "Winning Chance (%)": 28.33
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 25.1
+                "Winning Chance (%)": 23.53
             },
             {
                 "Team": "Genoa",
