@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 08:41 PM UTC",
-        "IST": "Sunday, 28 December 2025, 02:11 AM IST"
+        "UTC": "Saturday, 27 December 2025, 09:13 PM UTC",
+        "IST": "Sunday, 28 December 2025, 02:43 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -871,19 +871,19 @@
             },
             {
                 "Team": "Estoril",
-                "Winning Chance (%)": 30.0
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Estrela Amadora",
                 "Winning Chance (%)": 30.0
             },
             {
-                "Team": "Alverca",
-                "Winning Chance (%)": 30.0
-            },
-            {
                 "Team": "Rio Ave",
                 "Winning Chance (%)": 30.22
+            },
+            {
+                "Team": "Alverca",
+                "Winning Chance (%)": 28.33
             },
             {
                 "Team": "Nacional",
