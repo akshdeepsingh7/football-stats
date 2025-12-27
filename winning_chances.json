@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 02:40 PM UTC",
-        "IST": "Saturday, 27 December 2025, 08:10 PM IST"
+        "UTC": "Saturday, 27 December 2025, 03:15 PM UTC",
+        "IST": "Saturday, 27 December 2025, 08:45 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -11,11 +11,15 @@
             },
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 69.58
+                "Winning Chance (%)": 67.66
             },
             {
                 "Team": "Aston Villa",
                 "Winning Chance (%)": 60.07
+            },
+            {
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 45.64
             },
             {
                 "Team": "Chelsea",
@@ -26,10 +30,6 @@
                 "Winning Chance (%)": 44.56
             },
             {
-                "Team": "Liverpool FC",
-                "Winning Chance (%)": 46.69
-            },
-            {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 43.15
             },
@@ -38,24 +38,24 @@
                 "Winning Chance (%)": 41.58
             },
             {
+                "Team": "Brentford",
+                "Winning Chance (%)": 38.52
+            },
+            {
                 "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 38.45
+                "Winning Chance (%)": 37.84
             },
             {
                 "Team": "Everton",
-                "Winning Chance (%)": 37.65
+                "Winning Chance (%)": 37.04
+            },
+            {
+                "Team": "Fulham",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Newcastle United",
                 "Winning Chance (%)": 34.07
-            },
-            {
-                "Team": "Brentford",
-                "Winning Chance (%)": 36.08
-            },
-            {
-                "Team": "Fulham",
-                "Winning Chance (%)": 36.08
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -63,7 +63,7 @@
             },
             {
                 "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 34.51
+                "Winning Chance (%)": 32.59
             },
             {
                 "Team": "Leeds United",
@@ -75,15 +75,15 @@
             },
             {
                 "Team": "West Ham United",
-                "Winning Chance (%)": 20.39
+                "Winning Chance (%)": 20.74
             },
             {
                 "Team": "Burnley",
-                "Winning Chance (%)": 17.25
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 3.14
+                "Winning Chance (%)": 4.44
             }
         ],
         "La Liga": [
@@ -276,10 +276,6 @@
                 "Winning Chance (%)": 40.73
             },
             {
-                "Team": "Torino",
-                "Winning Chance (%)": 36.08
-            },
-            {
                 "Team": "Atalanta",
                 "Winning Chance (%)": 37.47
             },
@@ -296,6 +292,10 @@
                 "Winning Chance (%)": 35.0
             },
             {
+                "Team": "Torino",
+                "Winning Chance (%)": 32.94
+            },
+            {
                 "Team": "Parma",
                 "Winning Chance (%)": 28.33
             },
@@ -305,7 +305,7 @@
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 23.53
+                "Winning Chance (%)": 25.1
             },
             {
                 "Team": "Genoa",
