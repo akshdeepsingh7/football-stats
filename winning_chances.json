@@ -1,13 +1,13 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 04:18 PM UTC",
-        "IST": "Saturday, 27 December 2025, 09:48 PM IST"
+        "UTC": "Saturday, 27 December 2025, 04:45 PM UTC",
+        "IST": "Saturday, 27 December 2025, 10:15 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 71.42
+                "Winning Chance (%)": 71.02
             },
             {
                 "Team": "Manchester City",
@@ -34,12 +34,16 @@
                 "Winning Chance (%)": 43.15
             },
             {
-                "Team": "Brentford",
-                "Winning Chance (%)": 39.32
-            },
-            {
                 "Team": "Crystal Palace",
                 "Winning Chance (%)": 41.58
+            },
+            {
+                "Team": "Brentford",
+                "Winning Chance (%)": 38.92
+            },
+            {
+                "Team": "Fulham",
+                "Winning Chance (%)": 38.52
             },
             {
                 "Team": "Everton",
@@ -47,11 +51,7 @@
             },
             {
                 "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 35.56
-            },
-            {
-                "Team": "Fulham",
-                "Winning Chance (%)": 35.56
+                "Winning Chance (%)": 35.96
             },
             {
                 "Team": "Newcastle United",
@@ -75,7 +75,7 @@
             },
             {
                 "Team": "West Ham United",
-                "Winning Chance (%)": 20.74
+                "Winning Chance (%)": 19.26
             },
             {
                 "Team": "Burnley",
