@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 09:13 PM UTC",
-        "IST": "Sunday, 28 December 2025, 02:43 AM IST"
+        "UTC": "Saturday, 27 December 2025, 09:37 PM UTC",
+        "IST": "Sunday, 28 December 2025, 03:07 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -252,16 +252,16 @@
                 "Winning Chance (%)": 61.29
             },
             {
+                "Team": "Juventus",
+                "Winning Chance (%)": 53.4
+            },
+            {
                 "Team": "Napoli",
                 "Winning Chance (%)": 58.71
             },
             {
                 "Team": "Roma",
                 "Winning Chance (%)": 52.8
-            },
-            {
-                "Team": "Juventus",
-                "Winning Chance (%)": 49.46
             },
             {
                 "Team": "Como",
@@ -317,7 +317,7 @@
             },
             {
                 "Team": "Pisa",
-                "Winning Chance (%)": 18.82
+                "Winning Chance (%)": 17.25
             },
             {
                 "Team": "Fiorentina",
@@ -871,7 +871,7 @@
             },
             {
                 "Team": "Estoril",
-                "Winning Chance (%)": 33.33
+                "Winning Chance (%)": 33.73
             },
             {
                 "Team": "Estrela Amadora",
