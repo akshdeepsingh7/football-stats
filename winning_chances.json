@@ -1,13 +1,13 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 03:38 PM UTC",
-        "IST": "Saturday, 27 December 2025, 09:08 PM IST"
+        "UTC": "Saturday, 27 December 2025, 04:18 PM UTC",
+        "IST": "Saturday, 27 December 2025, 09:48 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 71.02
+                "Winning Chance (%)": 71.42
             },
             {
                 "Team": "Manchester City",
@@ -19,7 +19,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 45.64
+                "Winning Chance (%)": 49.01
             },
             {
                 "Team": "Chelsea",
@@ -34,12 +34,12 @@
                 "Winning Chance (%)": 43.15
             },
             {
-                "Team": "Crystal Palace",
-                "Winning Chance (%)": 41.58
+                "Team": "Brentford",
+                "Winning Chance (%)": 39.32
             },
             {
-                "Team": "Brentford",
-                "Winning Chance (%)": 38.52
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 41.58
             },
             {
                 "Team": "Everton",
@@ -47,7 +47,7 @@
             },
             {
                 "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 35.96
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Fulham",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 4.44
+                "Winning Chance (%)": 2.96
             }
         ],
         "La Liga": [
