@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 06:49 PM UTC",
-        "IST": "Sunday, 28 December 2025, 12:19 AM IST"
+        "UTC": "Saturday, 27 December 2025, 07:36 PM UTC",
+        "IST": "Sunday, 28 December 2025, 01:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -15,15 +15,15 @@
             },
             {
                 "Team": "Aston Villa",
-                "Winning Chance (%)": 56.53
-            },
-            {
-                "Team": "Chelsea",
-                "Winning Chance (%)": 52.61
+                "Winning Chance (%)": 61.78
             },
             {
                 "Team": "Liverpool FC",
                 "Winning Chance (%)": 49.01
+            },
+            {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 47.36
             },
             {
                 "Team": "Manchester United",
@@ -268,16 +268,20 @@
                 "Winning Chance (%)": 49.0
             },
             {
-                "Team": "Lazio",
-                "Winning Chance (%)": 43.58
-            },
-            {
                 "Team": "Bologna",
                 "Winning Chance (%)": 48.44
             },
             {
+                "Team": "Lazio",
+                "Winning Chance (%)": 40.05
+            },
+            {
                 "Team": "Atalanta",
                 "Winning Chance (%)": 37.47
+            },
+            {
+                "Team": "Udinese",
+                "Winning Chance (%)": 34.51
             },
             {
                 "Team": "Sassuolo",
@@ -286,10 +290,6 @@
             {
                 "Team": "Cremonese",
                 "Winning Chance (%)": 35.0
-            },
-            {
-                "Team": "Udinese",
-                "Winning Chance (%)": 32.94
             },
             {
                 "Team": "Torino",
@@ -859,7 +859,7 @@
             },
             {
                 "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 43.2
+                "Winning Chance (%)": 41.13
             },
             {
                 "Team": "Moreirense",
@@ -868,6 +868,10 @@
             {
                 "Team": "Vit\u00f3ria S.C.",
                 "Winning Chance (%)": 37.33
+            },
+            {
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Estoril",
@@ -880,10 +884,6 @@
             {
                 "Team": "Alverca",
                 "Winning Chance (%)": 30.22
-            },
-            {
-                "Team": "Estrela Amadora",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Nacional",
