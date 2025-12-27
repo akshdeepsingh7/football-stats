@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 12:30 PM UTC",
-        "IST": "Saturday, 27 December 2025, 06:00 PM IST"
+        "UTC": "Saturday, 27 December 2025, 01:25 PM UTC",
+        "IST": "Saturday, 27 December 2025, 06:55 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -11,7 +11,7 @@
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 68.04
+                "Winning Chance (%)": 66.3
             },
             {
                 "Team": "Aston Villa",
@@ -71,7 +71,7 @@
             },
             {
                 "Team": "Nottingham Forest",
-                "Winning Chance (%)": 28.24
+                "Winning Chance (%)": 28.15
             },
             {
                 "Team": "West Ham United",
@@ -296,15 +296,15 @@
                 "Winning Chance (%)": 33.33
             },
             {
+                "Team": "Parma",
+                "Winning Chance (%)": 28.33
+            },
+            {
                 "Team": "Lecce",
                 "Winning Chance (%)": 28.44
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 25.0
-            },
-            {
-                "Team": "Parma",
                 "Winning Chance (%)": 25.0
             },
             {
@@ -321,7 +321,7 @@
             },
             {
                 "Team": "Fiorentina",
-                "Winning Chance (%)": 15.69
+                "Winning Chance (%)": 14.12
             }
         ],
         "Ligue 1": [
