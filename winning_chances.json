@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 05:39 PM UTC",
-        "IST": "Saturday, 27 December 2025, 11:09 PM IST"
+        "UTC": "Saturday, 27 December 2025, 06:21 PM UTC",
+        "IST": "Saturday, 27 December 2025, 11:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -15,15 +15,15 @@
             },
             {
                 "Team": "Aston Villa",
-                "Winning Chance (%)": 58.41
+                "Winning Chance (%)": 56.53
+            },
+            {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 52.61
             },
             {
                 "Team": "Liverpool FC",
                 "Winning Chance (%)": 49.01
-            },
-            {
-                "Team": "Chelsea",
-                "Winning Chance (%)": 49.24
             },
             {
                 "Team": "Manchester United",
@@ -859,7 +859,7 @@
             },
             {
                 "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 44.09
+                "Winning Chance (%)": 43.2
             },
             {
                 "Team": "Moreirense",
@@ -882,16 +882,16 @@
                 "Winning Chance (%)": 30.22
             },
             {
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Nacional",
                 "Winning Chance (%)": 28.44
             },
             {
                 "Team": "Santa Clara",
                 "Winning Chance (%)": 28.44
-            },
-            {
-                "Team": "Estrela Amadora",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Casa Pia",
