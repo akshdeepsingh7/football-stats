@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 04:45 PM UTC",
-        "IST": "Saturday, 27 December 2025, 10:15 PM IST"
+        "UTC": "Saturday, 27 December 2025, 05:13 PM UTC",
+        "IST": "Saturday, 27 December 2025, 10:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -34,12 +34,12 @@
                 "Winning Chance (%)": 43.15
             },
             {
-                "Team": "Crystal Palace",
-                "Winning Chance (%)": 41.58
+                "Team": "Brentford",
+                "Winning Chance (%)": 39.32
             },
             {
-                "Team": "Brentford",
-                "Winning Chance (%)": 38.92
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 41.58
             },
             {
                 "Team": "Fulham",
@@ -273,11 +273,15 @@
             },
             {
                 "Team": "Lazio",
-                "Winning Chance (%)": 40.73
+                "Winning Chance (%)": 40.05
             },
             {
                 "Team": "Atalanta",
                 "Winning Chance (%)": 37.47
+            },
+            {
+                "Team": "Udinese",
+                "Winning Chance (%)": 34.51
             },
             {
                 "Team": "Sassuolo",
@@ -285,10 +289,6 @@
             },
             {
                 "Team": "Cremonese",
-                "Winning Chance (%)": 35.0
-            },
-            {
-                "Team": "Udinese",
                 "Winning Chance (%)": 35.0
             },
             {
