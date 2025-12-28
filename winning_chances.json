@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 December 2025, 02:42 PM UTC",
-        "IST": "Sunday, 28 December 2025, 08:12 PM IST"
+        "UTC": "Sunday, 28 December 2025, 03:15 PM UTC",
+        "IST": "Sunday, 28 December 2025, 08:45 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -22,16 +22,16 @@
                 "Winning Chance (%)": 49.01
             },
             {
-                "Team": "Sunderland",
-                "Winning Chance (%)": 45.64
-            },
-            {
                 "Team": "Chelsea",
                 "Winning Chance (%)": 47.36
             },
             {
                 "Team": "Manchester United",
                 "Winning Chance (%)": 44.56
+            },
+            {
+                "Team": "Sunderland",
+                "Winning Chance (%)": 42.28
             },
             {
                 "Team": "Brentford",
@@ -67,7 +67,7 @@
             },
             {
                 "Team": "Leeds United",
-                "Winning Chance (%)": 28.15
+                "Winning Chance (%)": 29.63
             },
             {
                 "Team": "Nottingham Forest",
@@ -249,7 +249,7 @@
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 60.67
+                "Winning Chance (%)": 61.07
             },
             {
                 "Team": "Inter",
