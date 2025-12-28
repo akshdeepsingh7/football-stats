@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 December 2025, 04:46 PM UTC",
-        "IST": "Sunday, 28 December 2025, 10:16 PM IST"
+        "UTC": "Sunday, 28 December 2025, 05:13 PM UTC",
+        "IST": "Sunday, 28 December 2025, 10:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -34,16 +34,20 @@
                 "Winning Chance (%)": 42.28
             },
             {
-                "Team": "Crystal Palace",
-                "Winning Chance (%)": 40.8
-            },
-            {
                 "Team": "Brentford",
                 "Winning Chance (%)": 39.32
             },
             {
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 38.92
+            },
+            {
                 "Team": "Fulham",
                 "Winning Chance (%)": 38.52
+            },
+            {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 38.64
             },
             {
                 "Team": "Everton",
@@ -52,10 +56,6 @@
             {
                 "Team": "Brighton & Hove Albion",
                 "Winning Chance (%)": 35.96
-            },
-            {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 35.27
             },
             {
                 "Team": "Newcastle United",
@@ -269,7 +269,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 48.44
+                "Winning Chance (%)": 47.33
             },
             {
                 "Team": "Lazio",
@@ -280,12 +280,12 @@
                 "Winning Chance (%)": 37.47
             },
             {
-                "Team": "Udinese",
-                "Winning Chance (%)": 34.51
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 34.91
             },
             {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 35.4
+                "Team": "Udinese",
+                "Winning Chance (%)": 34.51
             },
             {
                 "Team": "Cremonese",
