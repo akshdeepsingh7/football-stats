@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 December 2025, 08:42 PM UTC",
-        "IST": "Monday, 29 December 2025, 02:12 AM IST"
+        "UTC": "Sunday, 28 December 2025, 09:14 PM UTC",
+        "IST": "Monday, 29 December 2025, 02:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -244,12 +244,12 @@
         ],
         "Serie A": [
             {
-                "Team": "Milan",
-                "Winning Chance (%)": 63.93
+                "Team": "Inter",
+                "Winning Chance (%)": 68.4
             },
             {
-                "Team": "Inter",
-                "Winning Chance (%)": 64.67
+                "Team": "Milan",
+                "Winning Chance (%)": 63.93
             },
             {
                 "Team": "Napoli",
@@ -276,11 +276,11 @@
                 "Winning Chance (%)": 40.05
             },
             {
-                "Team": "Atalanta",
-                "Winning Chance (%)": 36.88
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 34.91
             },
             {
-                "Team": "Sassuolo",
+                "Team": "Atalanta",
                 "Winning Chance (%)": 34.91
             },
             {
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 78.6
+                "Winning Chance (%)": 82.33
             },
             {
                 "Team": "Benfica",
@@ -874,12 +874,12 @@
                 "Winning Chance (%)": 33.73
             },
             {
-                "Team": "Rio Ave",
+                "Team": "Estrela Amadora",
                 "Winning Chance (%)": 30.0
             },
             {
-                "Team": "Estrela Amadora",
-                "Winning Chance (%)": 30.0
+                "Team": "Rio Ave",
+                "Winning Chance (%)": 28.33
             },
             {
                 "Team": "Alverca",
