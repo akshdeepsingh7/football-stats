@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 December 2025, 11:37 AM UTC",
-        "IST": "Sunday, 28 December 2025, 05:07 PM IST"
+        "UTC": "Sunday, 28 December 2025, 12:31 PM UTC",
+        "IST": "Sunday, 28 December 2025, 06:01 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -244,12 +244,12 @@
         ],
         "Serie A": [
             {
-                "Team": "Inter",
-                "Winning Chance (%)": 66.67
+                "Team": "Milan",
+                "Winning Chance (%)": 63.13
             },
             {
-                "Team": "Milan",
-                "Winning Chance (%)": 59.4
+                "Team": "Inter",
+                "Winning Chance (%)": 66.67
             },
             {
                 "Team": "Juventus",
@@ -313,7 +313,7 @@
             },
             {
                 "Team": "Hellas Verona",
-                "Winning Chance (%)": 21.67
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Pisa",
