@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 29 December 2025, 08:19 PM UTC",
-        "IST": "Tuesday, 30 December 2025, 01:49 AM IST"
+        "UTC": "Monday, 29 December 2025, 08:44 PM UTC",
+        "IST": "Tuesday, 30 December 2025, 02:14 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -257,7 +257,7 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 55.36
+                "Winning Chance (%)": 55.76
             },
             {
                 "Team": "Juventus",
@@ -933,7 +933,7 @@
             },
             {
                 "Team": "Preston North End",
-                "Winning Chance (%)": 45.02
+                "Winning Chance (%)": 43.51
             },
             {
                 "Team": "Bristol City",
@@ -944,27 +944,27 @@
                 "Winning Chance (%)": 41.6
             },
             {
+                "Team": "Queens Park Rangers",
+                "Winning Chance (%)": 40.0
+            },
+            {
                 "Team": "Stoke City",
                 "Winning Chance (%)": 41.69
             },
             {
-                "Team": "Queens Park Rangers",
-                "Winning Chance (%)": 38.89
+                "Team": "Wrexham",
+                "Winning Chance (%)": 38.98
             },
             {
-                "Team": "Derby County",
-                "Winning Chance (%)": 37.07
+                "Team": "Leicester City",
+                "Winning Chance (%)": 37.78
             },
             {
                 "Team": "Southampton",
                 "Winning Chance (%)": 37.16
             },
             {
-                "Team": "Wrexham",
-                "Winning Chance (%)": 36.36
-            },
-            {
-                "Team": "Leicester City",
+                "Team": "Derby County",
                 "Winning Chance (%)": 35.56
             },
             {
@@ -973,7 +973,7 @@
             },
             {
                 "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 34.44
+                "Winning Chance (%)": 32.22
             },
             {
                 "Team": "Swansea City",
