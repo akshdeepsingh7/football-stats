@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 01 January 2026, 03:16 PM UTC",
-        "IST": "Thursday, 01 January 2026, 08:46 PM IST"
+        "UTC": "Thursday, 01 January 2026, 03:41 PM UTC",
+        "IST": "Thursday, 01 January 2026, 09:11 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -916,12 +916,12 @@
                 "Winning Chance (%)": 69.6
             },
             {
-                "Team": "Middlesbrough",
-                "Winning Chance (%)": 50.13
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 54.13
             },
             {
-                "Team": "Ipswich Town",
-                "Winning Chance (%)": 51.6
+                "Team": "Middlesbrough",
+                "Winning Chance (%)": 50.13
             },
             {
                 "Team": "Hull City",
@@ -929,7 +929,11 @@
             },
             {
                 "Team": "Watford",
-                "Winning Chance (%)": 46.13
+                "Winning Chance (%)": 46.53
+            },
+            {
+                "Team": "Preston North End",
+                "Winning Chance (%)": 45.47
             },
             {
                 "Team": "Millwall",
@@ -937,11 +941,7 @@
             },
             {
                 "Team": "Bristol City",
-                "Winning Chance (%)": 44.4
-            },
-            {
-                "Team": "Preston North End",
-                "Winning Chance (%)": 42.93
+                "Winning Chance (%)": 44.8
             },
             {
                 "Team": "Wrexham",
@@ -996,11 +996,11 @@
                 "Winning Chance (%)": 27.78
             },
             {
-                "Team": "Oxford United",
-                "Winning Chance (%)": 24.53
+                "Team": "Norwich City",
+                "Winning Chance (%)": 23.47
             },
             {
-                "Team": "Norwich City",
+                "Team": "Oxford United",
                 "Winning Chance (%)": 23.47
             },
             {
