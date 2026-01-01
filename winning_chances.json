@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 01 January 2026, 05:41 PM UTC",
-        "IST": "Thursday, 01 January 2026, 11:11 PM IST"
+        "UTC": "Thursday, 01 January 2026, 06:23 PM UTC",
+        "IST": "Thursday, 01 January 2026, 11:53 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -30,6 +30,10 @@
                 "Winning Chance (%)": 43.71
             },
             {
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 41.5
+            },
+            {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 42.28
             },
@@ -38,20 +42,16 @@
                 "Winning Chance (%)": 39.3
             },
             {
-                "Team": "Crystal Palace",
-                "Winning Chance (%)": 38.29
-            },
-            {
-                "Team": "Fulham",
-                "Winning Chance (%)": 37.89
-            },
-            {
                 "Team": "Brentford",
                 "Winning Chance (%)": 39.32
             },
             {
                 "Team": "Newcastle United",
                 "Winning Chance (%)": 37.29
+            },
+            {
+                "Team": "Fulham",
+                "Winning Chance (%)": 36.49
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -956,16 +956,20 @@
                 "Winning Chance (%)": 37.73
             },
             {
-                "Team": "Leicester City",
-                "Winning Chance (%)": 37.33
-            },
-            {
                 "Team": "Queens Park Rangers",
                 "Winning Chance (%)": 37.33
             },
             {
+                "Team": "Leicester City",
+                "Winning Chance (%)": 36.27
+            },
+            {
                 "Team": "Southampton",
                 "Winning Chance (%)": 36.8
+            },
+            {
+                "Team": "Sheffield United",
+                "Winning Chance (%)": 34.13
             },
             {
                 "Team": "Swansea City",
@@ -978,10 +982,6 @@
             {
                 "Team": "West Bromwich Albion",
                 "Winning Chance (%)": 33.07
-            },
-            {
-                "Team": "Sheffield United",
-                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Charlton Athletic",
