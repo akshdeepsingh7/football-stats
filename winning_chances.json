@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 01 January 2026, 07:36 PM UTC",
-        "IST": "Friday, 02 January 2026, 01:06 AM IST"
+        "UTC": "Thursday, 01 January 2026, 08:18 PM UTC",
+        "IST": "Friday, 02 January 2026, 01:48 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -11,7 +11,7 @@
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 69.66
+                "Winning Chance (%)": 67.94
             },
             {
                 "Team": "Aston Villa",
@@ -31,11 +31,15 @@
             },
             {
                 "Team": "Sunderland",
-                "Winning Chance (%)": 42.28
+                "Winning Chance (%)": 41.5
             },
             {
                 "Team": "Everton",
                 "Winning Chance (%)": 39.3
+            },
+            {
+                "Team": "Brentford",
+                "Winning Chance (%)": 38.69
             },
             {
                 "Team": "Crystal Palace",
@@ -46,16 +50,12 @@
                 "Winning Chance (%)": 37.89
             },
             {
-                "Team": "Brentford",
-                "Winning Chance (%)": 39.32
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 38.09
             },
             {
                 "Team": "Newcastle United",
                 "Winning Chance (%)": 37.29
-            },
-            {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 38.64
             },
             {
                 "Team": "Brighton & Hove Albion",
