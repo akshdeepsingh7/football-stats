@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 02 January 2026, 09:38 PM UTC",
-        "IST": "Saturday, 03 January 2026, 03:08 AM IST"
+        "UTC": "Friday, 02 January 2026, 10:16 PM UTC",
+        "IST": "Saturday, 03 January 2026, 03:46 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -124,7 +124,7 @@
                 "Winning Chance (%)": 35.71
             },
             {
-                "Team": "Rayo Vallecano",
+                "Team": "Getafe",
                 "Winning Chance (%)": 31.11
             },
             {
@@ -132,8 +132,8 @@
                 "Winning Chance (%)": 31.37
             },
             {
-                "Team": "Getafe",
-                "Winning Chance (%)": 29.63
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 28.15
             },
             {
                 "Team": "Osasuna",
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "Lens",
-                "Winning Chance (%)": 69.55
+                "Winning Chance (%)": 69.95
             },
             {
                 "Team": "PSG",
@@ -355,7 +355,7 @@
             },
             {
                 "Team": "Toulouse",
-                "Winning Chance (%)": 37.28
+                "Winning Chance (%)": 36.88
             },
             {
                 "Team": "Monaco",
