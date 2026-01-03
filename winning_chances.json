@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 05:39 PM UTC",
-        "IST": "Saturday, 03 January 2026, 11:09 PM IST"
+        "UTC": "Saturday, 03 January 2026, 06:22 PM UTC",
+        "IST": "Saturday, 03 January 2026, 11:52 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -343,7 +343,7 @@
             },
             {
                 "Team": "Lyon",
-                "Winning Chance (%)": 49.86
+                "Winning Chance (%)": 50.26
             },
             {
                 "Team": "Rennes",
@@ -351,7 +351,7 @@
             },
             {
                 "Team": "Strasbourg",
-                "Winning Chance (%)": 40.33
+                "Winning Chance (%)": 43.18
             },
             {
                 "Team": "Toulouse",
@@ -375,7 +375,7 @@
             },
             {
                 "Team": "Nice",
-                "Winning Chance (%)": 28.33
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Paris FC",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 69.2
+                "Winning Chance (%)": 67.24
             },
             {
                 "Team": "Gil Vicente",
@@ -855,7 +855,7 @@
             },
             {
                 "Team": "Braga",
-                "Winning Chance (%)": 48.53
+                "Winning Chance (%)": 47.55
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
@@ -866,16 +866,16 @@
                 "Winning Chance (%)": 41.13
             },
             {
+                "Team": "Estoril",
+                "Winning Chance (%)": 33.34
+            },
+            {
                 "Team": "Moreirense",
                 "Winning Chance (%)": 37.33
             },
             {
-                "Team": "Estoril",
-                "Winning Chance (%)": 33.73
-            },
-            {
                 "Team": "Estrela Amadora",
-                "Winning Chance (%)": 30.0
+                "Winning Chance (%)": 29.8
             },
             {
                 "Team": "Rio Ave",
