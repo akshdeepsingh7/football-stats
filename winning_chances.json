@@ -1,13 +1,13 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 06:22 PM UTC",
-        "IST": "Saturday, 03 January 2026, 11:52 PM IST"
+        "UTC": "Saturday, 03 January 2026, 06:49 PM UTC",
+        "IST": "Sunday, 04 January 2026, 12:19 AM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 71.33
+                "Winning Chance (%)": 74.4
             },
             {
                 "Team": "Aston Villa",
@@ -63,7 +63,7 @@
             },
             {
                 "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 32.0
+                "Winning Chance (%)": 30.67
             },
             {
                 "Team": "Leeds United",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 67.24
+                "Winning Chance (%)": 71.18
             },
             {
                 "Team": "Gil Vicente",
@@ -866,12 +866,12 @@
                 "Winning Chance (%)": 41.13
             },
             {
-                "Team": "Estoril",
-                "Winning Chance (%)": 33.34
-            },
-            {
                 "Team": "Moreirense",
                 "Winning Chance (%)": 37.33
+            },
+            {
+                "Team": "Estoril",
+                "Winning Chance (%)": 31.37
             },
             {
                 "Team": "Estrela Amadora",
