@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 09:14 PM UTC",
-        "IST": "Sunday, 04 January 2026, 02:44 AM IST"
+        "UTC": "Saturday, 03 January 2026, 09:38 PM UTC",
+        "IST": "Sunday, 04 January 2026, 03:08 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -334,12 +334,12 @@
                 "Winning Chance (%)": 68.4
             },
             {
-                "Team": "Lille",
-                "Winning Chance (%)": 56.96
-            },
-            {
                 "Team": "Marseille",
                 "Winning Chance (%)": 61.73
+            },
+            {
+                "Team": "Lille",
+                "Winning Chance (%)": 54.6
             },
             {
                 "Team": "Lyon",
@@ -347,7 +347,7 @@
             },
             {
                 "Team": "Rennes",
-                "Winning Chance (%)": 45.12
+                "Winning Chance (%)": 49.06
             },
             {
                 "Team": "Strasbourg",
