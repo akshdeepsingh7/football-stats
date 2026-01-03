@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 04:46 PM UTC",
-        "IST": "Saturday, 03 January 2026, 10:16 PM IST"
+        "UTC": "Saturday, 03 January 2026, 05:13 PM UTC",
+        "IST": "Saturday, 03 January 2026, 10:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Juventus",
-                "Winning Chance (%)": 53.4
+                "Winning Chance (%)": 52.09
             },
             {
                 "Team": "Como",
@@ -343,11 +343,15 @@
             },
             {
                 "Team": "Lyon",
-                "Winning Chance (%)": 49.86
+                "Winning Chance (%)": 46.32
             },
             {
                 "Team": "Rennes",
                 "Winning Chance (%)": 46.2
+            },
+            {
+                "Team": "Monaco",
+                "Winning Chance (%)": 37.65
             },
             {
                 "Team": "Strasbourg",
@@ -356,10 +360,6 @@
             {
                 "Team": "Toulouse",
                 "Winning Chance (%)": 36.88
-            },
-            {
-                "Team": "Monaco",
-                "Winning Chance (%)": 36.08
             },
             {
                 "Team": "Angers",
