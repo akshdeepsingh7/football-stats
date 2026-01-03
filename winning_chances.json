@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 03:15 PM UTC",
-        "IST": "Saturday, 03 January 2026, 08:45 PM IST"
+        "UTC": "Saturday, 03 January 2026, 03:39 PM UTC",
+        "IST": "Saturday, 03 January 2026, 09:09 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -34,6 +34,10 @@
                 "Winning Chance (%)": 41.5
             },
             {
+                "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 38.13
+            },
+            {
                 "Team": "Everton",
                 "Winning Chance (%)": 39.3
             },
@@ -58,10 +62,6 @@
                 "Winning Chance (%)": 37.29
             },
             {
-                "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 35.07
-            },
-            {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 32.28
             },
@@ -79,7 +79,7 @@
             },
             {
                 "Team": "Burnley",
-                "Winning Chance (%)": 17.33
+                "Winning Chance (%)": 16.0
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -117,7 +117,7 @@
             },
             {
                 "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 34.07
+                "Winning Chance (%)": 33.68
             },
             {
                 "Team": "Elche",
@@ -132,12 +132,12 @@
                 "Winning Chance (%)": 31.37
             },
             {
-                "Team": "Rayo Vallecano",
+                "Team": "Osasuna",
                 "Winning Chance (%)": 28.15
             },
             {
-                "Team": "Osasuna",
-                "Winning Chance (%)": 28.24
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 28.15
             },
             {
                 "Team": "Mallorca",
@@ -878,6 +878,10 @@
                 "Winning Chance (%)": 30.0
             },
             {
+                "Team": "Arouca",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Rio Ave",
                 "Winning Chance (%)": 28.33
             },
@@ -898,12 +902,8 @@
                 "Winning Chance (%)": 23.33
             },
             {
-                "Team": "Arouca",
-                "Winning Chance (%)": 23.33
-            },
-            {
                 "Team": "Tondela",
-                "Winning Chance (%)": 16.0
+                "Winning Chance (%)": 15.0
             },
             {
                 "Team": "AVS",
