@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 07:35 PM UTC",
-        "IST": "Sunday, 04 January 2026, 01:05 AM IST"
+        "UTC": "Saturday, 03 January 2026, 08:17 PM UTC",
+        "IST": "Sunday, 04 January 2026, 01:47 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 80.55
+                "Winning Chance (%)": 78.36
             },
             {
                 "Team": "Real Madrid",
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Espanyol",
-                "Winning Chance (%)": 53.76
+                "Winning Chance (%)": 52.37
             },
             {
                 "Team": "Real Betis",
@@ -256,12 +256,12 @@
                 "Winning Chance (%)": 61.07
             },
             {
-                "Team": "Roma",
-                "Winning Chance (%)": 55.36
-            },
-            {
                 "Team": "Juventus",
                 "Winning Chance (%)": 52.09
+            },
+            {
+                "Team": "Roma",
+                "Winning Chance (%)": 51.69
             },
             {
                 "Team": "Como",
@@ -272,16 +272,16 @@
                 "Winning Chance (%)": 47.33
             },
             {
+                "Team": "Atalanta",
+                "Winning Chance (%)": 38.24
+            },
+            {
                 "Team": "Lazio",
                 "Winning Chance (%)": 40.05
             },
             {
                 "Team": "Sassuolo",
                 "Winning Chance (%)": 34.47
-            },
-            {
-                "Team": "Atalanta",
-                "Winning Chance (%)": 34.91
             },
             {
                 "Team": "Udinese",
@@ -334,12 +334,12 @@
                 "Winning Chance (%)": 68.4
             },
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 61.73
+                "Team": "Lille",
+                "Winning Chance (%)": 56.96
             },
             {
-                "Team": "Lille",
-                "Winning Chance (%)": 58.53
+                "Team": "Marseille",
+                "Winning Chance (%)": 61.73
             },
             {
                 "Team": "Lyon",
@@ -347,7 +347,7 @@
             },
             {
                 "Team": "Rennes",
-                "Winning Chance (%)": 46.2
+                "Winning Chance (%)": 45.12
             },
             {
                 "Team": "Strasbourg",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 70.78
+                "Winning Chance (%)": 71.18
             },
             {
                 "Team": "Gil Vicente",
