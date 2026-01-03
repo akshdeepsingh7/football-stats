@@ -1,13 +1,13 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 05:13 PM UTC",
-        "IST": "Saturday, 03 January 2026, 10:43 PM IST"
+        "UTC": "Saturday, 03 January 2026, 05:39 PM UTC",
+        "IST": "Saturday, 03 January 2026, 11:09 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 73.16
+                "Winning Chance (%)": 71.33
             },
             {
                 "Team": "Aston Villa",
@@ -63,7 +63,7 @@
             },
             {
                 "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 32.28
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Leeds United",
@@ -96,12 +96,12 @@
                 "Winning Chance (%)": 70.22
             },
             {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 61.61
+                "Team": "Villarreal",
+                "Winning Chance (%)": 66.41
             },
             {
-                "Team": "Villarreal",
-                "Winning Chance (%)": 64.73
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 61.61
             },
             {
                 "Team": "Espanyol",
@@ -121,7 +121,7 @@
             },
             {
                 "Team": "Elche",
-                "Winning Chance (%)": 35.71
+                "Winning Chance (%)": 33.39
             },
             {
                 "Team": "Getafe",
@@ -343,15 +343,11 @@
             },
             {
                 "Team": "Lyon",
-                "Winning Chance (%)": 46.32
+                "Winning Chance (%)": 49.86
             },
             {
                 "Team": "Rennes",
                 "Winning Chance (%)": 46.2
-            },
-            {
-                "Team": "Monaco",
-                "Winning Chance (%)": 37.65
             },
             {
                 "Team": "Strasbourg",
@@ -360,6 +356,10 @@
             {
                 "Team": "Toulouse",
                 "Winning Chance (%)": 36.88
+            },
+            {
+                "Team": "Monaco",
+                "Winning Chance (%)": 36.08
             },
             {
                 "Team": "Angers",
