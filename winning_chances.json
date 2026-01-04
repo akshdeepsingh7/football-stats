@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 04 January 2026, 12:31 PM UTC",
-        "IST": "Sunday, 04 January 2026, 06:01 PM IST"
+        "UTC": "Sunday, 04 January 2026, 01:26 PM UTC",
+        "IST": "Sunday, 04 January 2026, 06:56 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -124,12 +124,12 @@
                 "Winning Chance (%)": 32.99
             },
             {
-                "Team": "Getafe",
+                "Team": "Sevilla",
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 31.37
+                "Team": "Getafe",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Osasuna",
@@ -160,12 +160,12 @@
                 "Winning Chance (%)": 23.53
             },
             {
-                "Team": "Real Oviedo",
+                "Team": "Levante",
                 "Winning Chance (%)": 17.25
             },
             {
-                "Team": "Levante",
-                "Winning Chance (%)": 16.67
+                "Team": "Real Oviedo",
+                "Winning Chance (%)": 17.25
             }
         ],
         "Bundesliga": [
