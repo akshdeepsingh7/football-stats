@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 04 January 2026, 03:15 PM UTC",
-        "IST": "Sunday, 04 January 2026, 08:45 PM IST"
+        "UTC": "Sunday, 04 January 2026, 03:39 PM UTC",
+        "IST": "Sunday, 04 January 2026, 09:09 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -19,7 +19,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 47.92
+                "Winning Chance (%)": 45.2
             },
             {
                 "Team": "Manchester United",
@@ -34,8 +34,16 @@
                 "Winning Chance (%)": 41.2
             },
             {
+                "Team": "Fulham",
+                "Winning Chance (%)": 40.0
+            },
+            {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 40.67
+            },
+            {
                 "Team": "Sunderland",
-                "Winning Chance (%)": 40.8
+                "Winning Chance (%)": 39.07
             },
             {
                 "Team": "Brighton & Hove Albion",
@@ -50,16 +58,8 @@
                 "Winning Chance (%)": 37.33
             },
             {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 37.6
-            },
-            {
                 "Team": "Newcastle United",
                 "Winning Chance (%)": 36.8
-            },
-            {
-                "Team": "Fulham",
-                "Winning Chance (%)": 37.89
             },
             {
                 "Team": "AFC Bournemouth",
@@ -93,7 +93,7 @@
             },
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 70.22
+                "Winning Chance (%)": 71.56
             },
             {
                 "Team": "Villarreal",
@@ -109,7 +109,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 47.92
+                "Winning Chance (%)": 45.08
             },
             {
                 "Team": "Celta de Vigo",
@@ -879,7 +879,7 @@
             },
             {
                 "Team": "Rio Ave",
-                "Winning Chance (%)": 28.33
+                "Winning Chance (%)": 28.24
             },
             {
                 "Team": "Alverca",
@@ -895,7 +895,7 @@
             },
             {
                 "Team": "Casa Pia",
-                "Winning Chance (%)": 23.33
+                "Winning Chance (%)": 23.53
             },
             {
                 "Team": "Arouca",
@@ -928,16 +928,16 @@
                 "Winning Chance (%)": 48.1
             },
             {
+                "Team": "Millwall",
+                "Winning Chance (%)": 44.1
+            },
+            {
                 "Team": "Watford",
                 "Winning Chance (%)": 46.93
             },
             {
                 "Team": "Hull City",
                 "Winning Chance (%)": 44.53
-            },
-            {
-                "Team": "Millwall",
-                "Winning Chance (%)": 42.05
             },
             {
                 "Team": "Bristol City",
@@ -972,12 +972,12 @@
                 "Winning Chance (%)": 36.27
             },
             {
-                "Team": "Swansea City",
-                "Winning Chance (%)": 33.85
-            },
-            {
                 "Team": "Sheffield United",
                 "Winning Chance (%)": 34.13
+            },
+            {
+                "Team": "Swansea City",
+                "Winning Chance (%)": 32.82
             },
             {
                 "Team": "West Bromwich Albion",
@@ -985,11 +985,11 @@
             },
             {
                 "Team": "Charlton Athletic",
-                "Winning Chance (%)": 30.93
+                "Winning Chance (%)": 33.07
             },
             {
                 "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 29.87
+                "Winning Chance (%)": 28.8
             },
             {
                 "Team": "Norwich City",
