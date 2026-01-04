@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 04 January 2026, 08:18 PM UTC",
-        "IST": "Monday, 05 January 2026, 01:48 AM IST"
+        "UTC": "Sunday, 04 January 2026, 08:42 PM UTC",
+        "IST": "Monday, 05 January 2026, 02:12 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -244,12 +244,12 @@
         ],
         "Serie A": [
             {
-                "Team": "Milan",
-                "Winning Chance (%)": 65.61
+                "Team": "Inter",
+                "Winning Chance (%)": 69.98
             },
             {
-                "Team": "Inter",
-                "Winning Chance (%)": 66.44
+                "Team": "Milan",
+                "Winning Chance (%)": 65.61
             },
             {
                 "Team": "Napoli",
@@ -269,7 +269,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 46.35
+                "Winning Chance (%)": 44.38
             },
             {
                 "Team": "Atalanta",
@@ -331,7 +331,7 @@
             },
             {
                 "Team": "PSG",
-                "Winning Chance (%)": 66.44
+                "Winning Chance (%)": 69.98
             },
             {
                 "Team": "Marseille",
@@ -383,7 +383,7 @@
             },
             {
                 "Team": "Paris FC",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 25.1
             },
             {
                 "Team": "Nantes",
@@ -862,12 +862,12 @@
                 "Winning Chance (%)": 39.22
             },
             {
-                "Team": "Moreirense",
-                "Winning Chance (%)": 40.0
+                "Team": "Famalic\u00e3o",
+                "Winning Chance (%)": 40.45
             },
             {
-                "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 41.13
+                "Team": "Moreirense",
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Estoril",
@@ -883,7 +883,7 @@
             },
             {
                 "Team": "Alverca",
-                "Winning Chance (%)": 28.33
+                "Winning Chance (%)": 28.24
             },
             {
                 "Team": "Nacional",
