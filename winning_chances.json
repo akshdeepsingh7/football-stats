@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 04 January 2026, 01:45 PM UTC",
-        "IST": "Sunday, 04 January 2026, 07:15 PM IST"
+        "UTC": "Sunday, 04 January 2026, 02:15 PM UTC",
+        "IST": "Sunday, 04 January 2026, 07:45 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -124,12 +124,12 @@
                 "Winning Chance (%)": 32.99
             },
             {
-                "Team": "Sevilla",
+                "Team": "Getafe",
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "Getafe",
-                "Winning Chance (%)": 31.11
+                "Team": "Sevilla",
+                "Winning Chance (%)": 29.63
             },
             {
                 "Team": "Osasuna",
@@ -161,7 +161,7 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 17.25
+                "Winning Chance (%)": 20.39
             },
             {
                 "Team": "Real Oviedo",
@@ -284,12 +284,12 @@
                 "Winning Chance (%)": 34.47
             },
             {
-                "Team": "Udinese",
+                "Team": "Cremonese",
                 "Winning Chance (%)": 32.59
             },
             {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 32.94
+                "Team": "Udinese",
+                "Winning Chance (%)": 32.59
             },
             {
                 "Team": "Torino",
@@ -321,7 +321,7 @@
             },
             {
                 "Team": "Fiorentina",
-                "Winning Chance (%)": 14.12
+                "Winning Chance (%)": 14.81
             }
         ],
         "Ligue 1": [
@@ -335,7 +335,7 @@
             },
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 61.73
+                "Winning Chance (%)": 58.2
             },
             {
                 "Team": "Lille",
@@ -386,12 +386,12 @@
                 "Winning Chance (%)": 25.0
             },
             {
-                "Team": "Auxerre",
-                "Winning Chance (%)": 20.0
+                "Team": "Nantes",
+                "Winning Chance (%)": 21.96
             },
             {
-                "Team": "Nantes",
-                "Winning Chance (%)": 18.33
+                "Team": "Auxerre",
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Metz",
