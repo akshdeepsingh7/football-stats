@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 04 January 2026, 08:42 PM UTC",
-        "IST": "Monday, 05 January 2026, 02:12 AM IST"
+        "UTC": "Sunday, 04 January 2026, 09:14 PM UTC",
+        "IST": "Monday, 05 January 2026, 02:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -96,12 +96,12 @@
                 "Winning Chance (%)": 72.76
             },
             {
-                "Team": "Villarreal",
-                "Winning Chance (%)": 66.81
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 63.34
             },
             {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 60.13
+                "Team": "Villarreal",
+                "Winning Chance (%)": 66.81
             },
             {
                 "Team": "Espanyol",
@@ -144,16 +144,16 @@
                 "Winning Chance (%)": 28.15
             },
             {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Mallorca",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Girona",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 25.19
             },
             {
                 "Team": "Valencia",
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 69.98
+                "Winning Chance (%)": 70.38
             },
             {
                 "Team": "Milan",
@@ -269,7 +269,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 44.38
+                "Winning Chance (%)": 43.98
             },
             {
                 "Team": "Atalanta",
