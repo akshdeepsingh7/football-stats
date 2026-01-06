@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 06 January 2026, 04:53 PM UTC",
-        "IST": "Tuesday, 06 January 2026, 10:23 PM IST"
+        "UTC": "Tuesday, 06 January 2026, 05:19 PM UTC",
+        "IST": "Tuesday, 06 January 2026, 10:49 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -256,15 +256,15 @@
                 "Winning Chance (%)": 63.24
             },
             {
+                "Team": "Roma",
+                "Winning Chance (%)": 54.13
+            },
+            {
                 "Team": "Como",
                 "Winning Chance (%)": 54.49
             },
             {
                 "Team": "Juventus",
-                "Winning Chance (%)": 52.09
-            },
-            {
-                "Team": "Roma",
                 "Winning Chance (%)": 52.09
             },
             {
@@ -305,7 +305,7 @@
             },
             {
                 "Team": "Lecce",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 25.19
             },
             {
                 "Team": "Genoa",
