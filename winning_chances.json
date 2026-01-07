@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 07 January 2026, 10:16 PM UTC",
-        "IST": "Thursday, 08 January 2026, 03:46 AM IST"
+        "UTC": "Wednesday, 07 January 2026, 10:44 PM UTC",
+        "IST": "Thursday, 08 January 2026, 04:14 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -26,6 +26,10 @@
                 "Winning Chance (%)": 44.7
             },
             {
+                "Team": "Newcastle United",
+                "Winning Chance (%)": 42.63
+            },
+            {
                 "Team": "Manchester United",
                 "Winning Chance (%)": 42.23
             },
@@ -36,10 +40,6 @@
             {
                 "Team": "Fulham",
                 "Winning Chance (%)": 39.37
-            },
-            {
-                "Team": "Newcastle United",
-                "Winning Chance (%)": 39.7
             },
             {
                 "Team": "Sunderland",
@@ -67,7 +67,7 @@
             },
             {
                 "Team": "Leeds United",
-                "Winning Chance (%)": 29.21
+                "Winning Chance (%)": 27.94
             },
             {
                 "Team": "Nottingham Forest",
