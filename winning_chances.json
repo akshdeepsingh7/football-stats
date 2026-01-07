@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 07 January 2026, 08:19 PM UTC",
-        "IST": "Thursday, 08 January 2026, 01:49 AM IST"
+        "UTC": "Wednesday, 07 January 2026, 08:46 PM UTC",
+        "IST": "Thursday, 08 January 2026, 02:16 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -31,7 +31,7 @@
             },
             {
                 "Team": "Manchester United",
-                "Winning Chance (%)": 42.23
+                "Winning Chance (%)": 40.57
             },
             {
                 "Team": "Everton",
@@ -74,12 +74,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "West Ham United",
-                "Winning Chance (%)": 17.78
+                "Team": "Burnley",
+                "Winning Chance (%)": 19.05
             },
             {
-                "Team": "Burnley",
-                "Winning Chance (%)": 16.51
+                "Team": "West Ham United",
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 68.46
+                "Winning Chance (%)": 71.82
             },
             {
                 "Team": "Milan",
@@ -296,11 +296,11 @@
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "Parma",
-                "Winning Chance (%)": 28.15
+                "Team": "Cagliari",
+                "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Cagliari",
+                "Team": "Parma",
                 "Winning Chance (%)": 26.67
             },
             {
