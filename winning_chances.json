@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 07 January 2026, 09:41 PM UTC",
-        "IST": "Thursday, 08 January 2026, 03:11 AM IST"
+        "UTC": "Wednesday, 07 January 2026, 10:16 PM UTC",
+        "IST": "Thursday, 08 January 2026, 03:46 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -18,16 +18,16 @@
                 "Winning Chance (%)": 58.2
             },
             {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 45.17
-            },
-            {
                 "Team": "Liverpool FC",
                 "Winning Chance (%)": 46.93
             },
             {
                 "Team": "Brentford",
                 "Winning Chance (%)": 44.7
+            },
+            {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 42.23
             },
             {
                 "Team": "Chelsea",
@@ -79,7 +79,7 @@
             },
             {
                 "Team": "Burnley",
-                "Winning Chance (%)": 15.24
+                "Winning Chance (%)": 16.51
             },
             {
                 "Team": "Wolverhampton Wanderers",
