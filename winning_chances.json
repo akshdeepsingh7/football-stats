@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 08 January 2026, 09:16 PM UTC",
-        "IST": "Friday, 09 January 2026, 02:46 AM IST"
+        "UTC": "Thursday, 08 January 2026, 09:42 PM UTC",
+        "IST": "Friday, 09 January 2026, 03:12 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -249,7 +249,7 @@
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 61.9
+                "Winning Chance (%)": 63.78
             },
             {
                 "Team": "Napoli",
@@ -304,12 +304,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Genoa",
-                "Winning Chance (%)": 25.26
-            },
-            {
                 "Team": "Lecce",
                 "Winning Chance (%)": 25.19
+            },
+            {
+                "Team": "Genoa",
+                "Winning Chance (%)": 22.46
             },
             {
                 "Team": "Hellas Verona",
