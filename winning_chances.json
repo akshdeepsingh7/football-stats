@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 08 January 2026, 05:23 PM UTC",
-        "IST": "Thursday, 08 January 2026, 10:53 PM IST"
+        "UTC": "Thursday, 08 January 2026, 05:50 PM UTC",
+        "IST": "Thursday, 08 January 2026, 11:20 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -284,6 +284,10 @@
                 "Winning Chance (%)": 35.09
             },
             {
+                "Team": "Cremonese",
+                "Winning Chance (%)": 33.68
+            },
+            {
                 "Team": "Sassuolo",
                 "Winning Chance (%)": 32.28
             },
@@ -292,16 +296,12 @@
                 "Winning Chance (%)": 32.28
             },
             {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 31.11
+                "Team": "Parma",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Parma",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 25.26
             },
             {
                 "Team": "Lecce",
