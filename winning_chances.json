@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 10 January 2026, 05:40 PM UTC",
-        "IST": "Saturday, 10 January 2026, 11:10 PM IST"
+        "UTC": "Saturday, 10 January 2026, 06:22 PM UTC",
+        "IST": "Saturday, 10 January 2026, 11:52 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -132,12 +132,16 @@
                 "Winning Chance (%)": 29.47
             },
             {
-                "Team": "Osasuna",
-                "Winning Chance (%)": 28.07
+                "Team": "Girona",
+                "Winning Chance (%)": 29.47
             },
             {
                 "Team": "Sevilla",
                 "Winning Chance (%)": 29.63
+            },
+            {
+                "Team": "Osasuna",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Rayo Vallecano",
@@ -145,10 +149,6 @@
             },
             {
                 "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Girona",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -178,16 +178,16 @@
                 "Winning Chance (%)": 60.6
             },
             {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 53.13
-            },
-            {
                 "Team": "RB Leipzig",
                 "Winning Chance (%)": 55.96
             },
             {
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 51.93
+            },
+            {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 49.93
+                "Winning Chance (%)": 51.13
             },
             {
                 "Team": "Hoffenheim",
