@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 10 January 2026, 01:45 PM UTC",
-        "IST": "Saturday, 10 January 2026, 07:15 PM IST"
+        "UTC": "Saturday, 10 January 2026, 02:15 PM UTC",
+        "IST": "Saturday, 10 January 2026, 07:45 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 54.49
+                "Winning Chance (%)": 53.32
             },
             {
                 "Team": "Atalanta",
@@ -273,15 +273,15 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 40.92
+                "Winning Chance (%)": 40.29
+            },
+            {
+                "Team": "Udinese",
+                "Winning Chance (%)": 34.67
             },
             {
                 "Team": "Lazio",
                 "Winning Chance (%)": 36.69
-            },
-            {
-                "Team": "Udinese",
-                "Winning Chance (%)": 35.09
             },
             {
                 "Team": "Sassuolo",
@@ -321,7 +321,7 @@
             },
             {
                 "Team": "Pisa",
-                "Winning Chance (%)": 16.84
+                "Winning Chance (%)": 17.33
             }
         ],
         "Ligue 1": [
