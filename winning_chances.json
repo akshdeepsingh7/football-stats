@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 11 January 2026, 04:46 PM UTC",
-        "IST": "Sunday, 11 January 2026, 10:16 PM IST"
+        "UTC": "Sunday, 11 January 2026, 05:13 PM UTC",
+        "IST": "Sunday, 11 January 2026, 10:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 87.6
+                "Winning Chance (%)": 91.33
             },
             {
                 "Team": "Borussia Dortmund",
@@ -218,12 +218,12 @@
                 "Winning Chance (%)": 30.22
             },
             {
-                "Team": "VfL Wolfsburg",
+                "Team": "Hamburg",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Hamburg",
-                "Winning Chance (%)": 26.67
+                "Team": "VfL Wolfsburg",
+                "Winning Chance (%)": 25.0
             },
             {
                 "Team": "Augsburg",
@@ -276,12 +276,12 @@
                 "Winning Chance (%)": 40.29
             },
             {
-                "Team": "Udinese",
-                "Winning Chance (%)": 34.67
+                "Team": "Lazio",
+                "Winning Chance (%)": 36.27
             },
             {
-                "Team": "Lazio",
-                "Winning Chance (%)": 36.69
+                "Team": "Udinese",
+                "Winning Chance (%)": 34.67
             },
             {
                 "Team": "Sassuolo",
@@ -312,12 +312,12 @@
                 "Winning Chance (%)": 22.46
             },
             {
-                "Team": "Fiorentina",
-                "Winning Chance (%)": 18.67
+                "Team": "Hellas Verona",
+                "Winning Chance (%)": 19.65
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 19.26
+                "Team": "Fiorentina",
+                "Winning Chance (%)": 18.67
             },
             {
                 "Team": "Pisa",
