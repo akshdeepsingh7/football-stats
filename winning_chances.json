@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 11 January 2026, 05:40 PM UTC",
-        "IST": "Sunday, 11 January 2026, 11:10 PM IST"
+        "UTC": "Sunday, 11 January 2026, 06:22 PM UTC",
+        "IST": "Sunday, 11 January 2026, 11:52 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 91.73
+                "Winning Chance (%)": 93.33
             },
             {
                 "Team": "Borussia Dortmund",
@@ -858,12 +858,12 @@
                 "Winning Chance (%)": 47.55
             },
             {
-                "Team": "Vit\u00f3ria S.C.",
+                "Team": "Moreirense",
                 "Winning Chance (%)": 39.22
             },
             {
-                "Team": "Moreirense",
-                "Winning Chance (%)": 40.0
+                "Team": "Vit\u00f3ria S.C.",
+                "Winning Chance (%)": 39.22
             },
             {
                 "Team": "Famalic\u00e3o",
@@ -903,7 +903,7 @@
             },
             {
                 "Team": "Tondela",
-                "Winning Chance (%)": 20.0
+                "Winning Chance (%)": 20.39
             },
             {
                 "Team": "AVS",
