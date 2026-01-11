@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 11 January 2026, 04:19 PM UTC",
-        "IST": "Sunday, 11 January 2026, 09:49 PM IST"
+        "UTC": "Sunday, 11 January 2026, 04:46 PM UTC",
+        "IST": "Sunday, 11 January 2026, 10:16 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 90.49
+                "Winning Chance (%)": 87.6
             },
             {
                 "Team": "Borussia Dortmund",
@@ -218,11 +218,11 @@
                 "Winning Chance (%)": 30.22
             },
             {
-                "Team": "Hamburg",
+                "Team": "VfL Wolfsburg",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "VfL Wolfsburg",
+                "Team": "Hamburg",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -882,16 +882,16 @@
                 "Winning Chance (%)": 31.37
             },
             {
+                "Team": "Nacional",
+                "Winning Chance (%)": 29.8
+            },
+            {
                 "Team": "Estrela Amadora",
                 "Winning Chance (%)": 29.8
             },
             {
-                "Team": "Nacional",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Santa Clara",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 25.1
             },
             {
                 "Team": "Casa Pia",
