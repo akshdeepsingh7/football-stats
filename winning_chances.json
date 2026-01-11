@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 11 January 2026, 02:14 PM UTC",
-        "IST": "Sunday, 11 January 2026, 07:44 PM IST"
+        "UTC": "Sunday, 11 January 2026, 02:41 PM UTC",
+        "IST": "Sunday, 11 January 2026, 08:11 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -206,16 +206,16 @@
                 "Winning Chance (%)": 36.67
             },
             {
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Winning Chance (%)": 31.67
+            },
+            {
                 "Team": "K\u00f6ln",
                 "Winning Chance (%)": 28.33
             },
             {
                 "Team": "Werder Bremen",
                 "Winning Chance (%)": 30.22
-            },
-            {
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 28.44
             },
             {
                 "Team": "Hamburg",
@@ -227,7 +227,7 @@
             },
             {
                 "Team": "Augsburg",
-                "Winning Chance (%)": 24.89
+                "Winning Chance (%)": 23.33
             },
             {
                 "Team": "St. Pauli",
