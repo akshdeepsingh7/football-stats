@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 11 January 2026, 12:31 PM UTC",
-        "IST": "Sunday, 11 January 2026, 06:01 PM IST"
+        "UTC": "Sunday, 11 January 2026, 01:26 PM UTC",
+        "IST": "Sunday, 11 January 2026, 06:56 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -124,6 +124,10 @@
                 "Winning Chance (%)": 32.68
             },
             {
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 30.88
+            },
+            {
                 "Team": "Real Sociedad",
                 "Winning Chance (%)": 29.47
             },
@@ -144,16 +148,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 28.15
-            },
-            {
                 "Team": "Alav\u00e9s",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Mallorca",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 25.26
             },
             {
                 "Team": "Valencia",
@@ -296,16 +296,16 @@
                 "Winning Chance (%)": 30.88
             },
             {
-                "Team": "Lecce",
-                "Winning Chance (%)": 28.07
+                "Team": "Parma",
+                "Winning Chance (%)": 29.47
             },
             {
                 "Team": "Cagliari",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Parma",
-                "Winning Chance (%)": 25.26
+                "Team": "Lecce",
+                "Winning Chance (%)": 23.86
             },
             {
                 "Team": "Genoa",
