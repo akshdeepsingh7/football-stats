@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 12 January 2026, 07:40 PM UTC",
-        "IST": "Tuesday, 13 January 2026, 01:10 AM IST"
+        "UTC": "Monday, 12 January 2026, 08:20 PM UTC",
+        "IST": "Tuesday, 13 January 2026, 01:50 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -113,7 +113,7 @@
             },
             {
                 "Team": "Celta de Vigo",
-                "Winning Chance (%)": 40.12
+                "Winning Chance (%)": 39.49
             },
             {
                 "Team": "Athletic Bilbao",
@@ -132,16 +132,16 @@
                 "Winning Chance (%)": 29.47
             },
             {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 29.47
+            },
+            {
                 "Team": "Getafe",
                 "Winning Chance (%)": 29.47
             },
             {
                 "Team": "Girona",
                 "Winning Chance (%)": 29.47
-            },
-            {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 29.63
             },
             {
                 "Team": "Osasuna",
@@ -256,12 +256,12 @@
                 "Winning Chance (%)": 59.94
             },
             {
-                "Team": "Roma",
-                "Winning Chance (%)": 56.8
+                "Team": "Juventus",
+                "Winning Chance (%)": 57.2
             },
             {
-                "Team": "Juventus",
-                "Winning Chance (%)": 54.93
+                "Team": "Roma",
+                "Winning Chance (%)": 56.8
             },
             {
                 "Team": "Como",
@@ -293,7 +293,7 @@
             },
             {
                 "Team": "Cremonese",
-                "Winning Chance (%)": 30.88
+                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Parma",
