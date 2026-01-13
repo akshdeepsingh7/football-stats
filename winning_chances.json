@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 13 January 2026, 07:38 PM UTC",
-        "IST": "Wednesday, 14 January 2026, 01:08 AM IST"
+        "UTC": "Tuesday, 13 January 2026, 08:19 PM UTC",
+        "IST": "Wednesday, 14 January 2026, 01:49 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -175,7 +175,7 @@
             },
             {
                 "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 58.93
+                "Winning Chance (%)": 62.47
             },
             {
                 "Team": "VfB Stuttgart",
@@ -210,11 +210,11 @@
                 "Winning Chance (%)": 31.67
             },
             {
-                "Team": "Werder Bremen",
-                "Winning Chance (%)": 30.0
+                "Team": "K\u00f6ln",
+                "Winning Chance (%)": 28.33
             },
             {
-                "Team": "K\u00f6ln",
+                "Team": "Werder Bremen",
                 "Winning Chance (%)": 28.33
             },
             {
@@ -230,16 +230,16 @@
                 "Winning Chance (%)": 23.33
             },
             {
-                "Team": "Heidenheim",
-                "Winning Chance (%)": 20.39
+                "Team": "Mainz 05",
+                "Winning Chance (%)": 18.82
             },
             {
                 "Team": "St. Pauli",
                 "Winning Chance (%)": 21.33
             },
             {
-                "Team": "Mainz 05",
-                "Winning Chance (%)": 15.69
+                "Team": "Heidenheim",
+                "Winning Chance (%)": 18.82
             }
         ],
         "Serie A": [
