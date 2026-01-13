@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 13 January 2026, 05:26 PM UTC",
-        "IST": "Tuesday, 13 January 2026, 10:56 PM IST"
+        "UTC": "Tuesday, 13 January 2026, 05:50 PM UTC",
+        "IST": "Tuesday, 13 January 2026, 11:20 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -187,15 +187,15 @@
             },
             {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 50.73
+                "Winning Chance (%)": 47.49
+            },
+            {
+                "Team": "Eintracht Frankfurt",
+                "Winning Chance (%)": 45.89
             },
             {
                 "Team": "Hoffenheim",
                 "Winning Chance (%)": 51.6
-            },
-            {
-                "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 43.33
             },
             {
                 "Team": "SC Freiburg",
