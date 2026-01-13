@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 13 January 2026, 04:16 AM UTC",
-        "IST": "Tuesday, 13 January 2026, 09:46 AM IST"
+        "UTC": "Tuesday, 13 January 2026, 04:56 AM UTC",
+        "IST": "Tuesday, 13 January 2026, 10:26 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -324,7 +324,80 @@
                 "Winning Chance (%)": 17.33
             }
         ],
-        "Ligue 1": [],
+        "Ligue 1": [
+            {
+                "Team": "Lens",
+                "Winning Chance (%)": 69.95
+            },
+            {
+                "Team": "PSG",
+                "Winning Chance (%)": 69.98
+            },
+            {
+                "Team": "Marseille",
+                "Winning Chance (%)": 57.8
+            },
+            {
+                "Team": "Lille",
+                "Winning Chance (%)": 54.6
+            },
+            {
+                "Team": "Lyon",
+                "Winning Chance (%)": 50.26
+            },
+            {
+                "Team": "Rennes",
+                "Winning Chance (%)": 49.06
+            },
+            {
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 39.65
+            },
+            {
+                "Team": "Toulouse",
+                "Winning Chance (%)": 36.88
+            },
+            {
+                "Team": "Monaco",
+                "Winning Chance (%)": 36.08
+            },
+            {
+                "Team": "Angers",
+                "Winning Chance (%)": 34.51
+            },
+            {
+                "Team": "Brest",
+                "Winning Chance (%)": 34.51
+            },
+            {
+                "Team": "Lorient",
+                "Winning Chance (%)": 29.8
+            },
+            {
+                "Team": "Le Havre",
+                "Winning Chance (%)": 28.24
+            },
+            {
+                "Team": "Nice",
+                "Winning Chance (%)": 28.24
+            },
+            {
+                "Team": "Paris FC",
+                "Winning Chance (%)": 25.1
+            },
+            {
+                "Team": "Nantes",
+                "Winning Chance (%)": 21.96
+            },
+            {
+                "Team": "Auxerre",
+                "Winning Chance (%)": 18.82
+            },
+            {
+                "Team": "Metz",
+                "Winning Chance (%)": 18.82
+            }
+        ],
         "Champions League": [
             {
                 "Team": "Arsenal",
