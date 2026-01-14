@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 14 January 2026, 07:39 PM UTC",
-        "IST": "Thursday, 15 January 2026, 01:09 AM IST"
+        "UTC": "Wednesday, 14 January 2026, 08:17 PM UTC",
+        "IST": "Thursday, 15 January 2026, 01:47 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 90.59
+                "Winning Chance (%)": 89.02
             },
             {
                 "Team": "Borussia Dortmund",
@@ -182,16 +182,16 @@
                 "Winning Chance (%)": 53.0
             },
             {
+                "Team": "Hoffenheim",
+                "Winning Chance (%)": 54.8
+            },
+            {
                 "Team": "RB Leipzig",
                 "Winning Chance (%)": 54.4
             },
             {
                 "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 52.33
-            },
-            {
-                "Team": "Hoffenheim",
-                "Winning Chance (%)": 50.27
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -206,12 +206,12 @@
                 "Winning Chance (%)": 36.67
             },
             {
-                "Team": "Borussia M\u00f6nchengladbach",
+                "Team": "K\u00f6ln",
                 "Winning Chance (%)": 31.37
             },
             {
-                "Team": "K\u00f6ln",
-                "Winning Chance (%)": 28.24
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Winning Chance (%)": 29.8
             },
             {
                 "Team": "VfL Wolfsburg",
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 70.35
+                "Winning Chance (%)": 68.67
             },
             {
                 "Team": "Milan",
@@ -309,7 +309,7 @@
             },
             {
                 "Team": "Lecce",
-                "Winning Chance (%)": 23.86
+                "Winning Chance (%)": 24.0
             },
             {
                 "Team": "Fiorentina",
