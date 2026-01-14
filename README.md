@@ -10,7 +10,7 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Wednesday, 14 January 2026, 09:17 PM UTC (Thursday, 15 January 2026, 02:47 AM IST)
+**Last Updated:** Wednesday, 14 January 2026, 09:43 PM UTC (Thursday, 15 January 2026, 03:13 AM IST)
 
 _Charts are sorted by Winning Chance (%)_
 
@@ -29,10 +29,6 @@ _Charts are sorted by Winning Chance (%)_
 ### Serie A
 
 ![Serie A Winning Chances](images/Serie_A_winning_chances.png)
-
-### Ligue 1
-
-![Ligue 1 Winning Chances](images/Ligue_1_winning_chances.png)
 
 ### Champions League
 
