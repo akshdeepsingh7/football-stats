@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 15 January 2026, 05:56 PM UTC",
-        "IST": "Thursday, 15 January 2026, 11:26 PM IST"
+        "UTC": "Thursday, 15 January 2026, 06:32 PM UTC",
+        "IST": "Friday, 16 January 2026, 12:02 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -273,7 +273,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 39.73
+                "Winning Chance (%)": 43.2
             },
             {
                 "Team": "Lazio",
@@ -316,11 +316,11 @@
                 "Winning Chance (%)": 18.67
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 18.67
+                "Team": "Pisa",
+                "Winning Chance (%)": 17.33
             },
             {
-                "Team": "Pisa",
+                "Team": "Hellas Verona",
                 "Winning Chance (%)": 17.33
             }
         ],
