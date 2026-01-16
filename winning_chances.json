@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 16 January 2026, 09:41 PM UTC",
-        "IST": "Saturday, 17 January 2026, 03:11 AM IST"
+        "UTC": "Friday, 16 January 2026, 10:16 PM UTC",
+        "IST": "Saturday, 17 January 2026, 03:46 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Espanyol",
-                "Winning Chance (%)": 46.13
+                "Winning Chance (%)": 45.73
             },
             {
                 "Team": "Real Betis",
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "PSG",
-                "Winning Chance (%)": 71.82
+                "Winning Chance (%)": 72.22
             },
             {
                 "Team": "Lens",
@@ -339,7 +339,7 @@
             },
             {
                 "Team": "Lille",
-                "Winning Chance (%)": 51.01
+                "Winning Chance (%)": 50.61
             },
             {
                 "Team": "Lyon",
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 82.67
+                "Winning Chance (%)": 83.07
             },
             {
                 "Team": "Benfica",
@@ -917,7 +917,7 @@
             },
             {
                 "Team": "Middlesbrough",
-                "Winning Chance (%)": 50.82
+                "Winning Chance (%)": 53.2
             },
             {
                 "Team": "Ipswich Town",
@@ -976,12 +976,12 @@
                 "Winning Chance (%)": 34.13
             },
             {
-                "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 31.6
-            },
-            {
                 "Team": "Swansea City",
                 "Winning Chance (%)": 32.82
+            },
+            {
+                "Team": "West Bromwich Albion",
+                "Winning Chance (%)": 30.62
             },
             {
                 "Team": "Charlton Athletic",
