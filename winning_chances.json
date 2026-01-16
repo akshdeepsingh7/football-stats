@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 16 January 2026, 08:42 PM UTC",
-        "IST": "Saturday, 17 January 2026, 02:12 AM IST"
+        "UTC": "Friday, 16 January 2026, 09:16 PM UTC",
+        "IST": "Saturday, 17 January 2026, 02:46 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Espanyol",
-                "Winning Chance (%)": 47.87
+                "Winning Chance (%)": 46.13
             },
             {
                 "Team": "Real Betis",
@@ -120,16 +120,16 @@
                 "Winning Chance (%)": 33.68
             },
             {
+                "Team": "Girona",
+                "Winning Chance (%)": 32.0
+            },
+            {
                 "Team": "Elche",
                 "Winning Chance (%)": 32.68
             },
             {
                 "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 30.88
-            },
-            {
-                "Team": "Girona",
-                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Real Sociedad",
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 78.9
+                "Winning Chance (%)": 82.67
             },
             {
                 "Team": "Benfica",
@@ -895,7 +895,7 @@
             },
             {
                 "Team": "Casa Pia",
-                "Winning Chance (%)": 22.22
+                "Winning Chance (%)": 20.74
             },
             {
                 "Team": "Arouca",
@@ -917,7 +917,7 @@
             },
             {
                 "Team": "Middlesbrough",
-                "Winning Chance (%)": 50.82
+                "Winning Chance (%)": 53.6
             },
             {
                 "Team": "Ipswich Town",
@@ -976,12 +976,12 @@
                 "Winning Chance (%)": 34.13
             },
             {
-                "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 31.6
-            },
-            {
                 "Team": "Swansea City",
                 "Winning Chance (%)": 32.82
+            },
+            {
+                "Team": "West Bromwich Albion",
+                "Winning Chance (%)": 30.62
             },
             {
                 "Team": "Charlton Athletic",
