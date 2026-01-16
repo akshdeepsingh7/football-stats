@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 16 January 2026, 01:34 PM UTC",
-        "IST": "Friday, 16 January 2026, 07:04 PM IST"
+        "UTC": "Friday, 16 January 2026, 02:21 PM UTC",
+        "IST": "Friday, 16 January 2026, 07:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -86,88 +86,7 @@
                 "Winning Chance (%)": 8.89
             }
         ],
-        "La Liga": [
-            {
-                "Team": "Barcelona",
-                "Winning Chance (%)": 81.97
-            },
-            {
-                "Team": "Real Madrid",
-                "Winning Chance (%)": 72.76
-            },
-            {
-                "Team": "Villarreal",
-                "Winning Chance (%)": 68.74
-            },
-            {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 60.13
-            },
-            {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 48.92
-            },
-            {
-                "Team": "Real Betis",
-                "Winning Chance (%)": 43.1
-            },
-            {
-                "Team": "Celta de Vigo",
-                "Winning Chance (%)": 42.7
-            },
-            {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 33.68
-            },
-            {
-                "Team": "Elche",
-                "Winning Chance (%)": 32.68
-            },
-            {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 30.88
-            },
-            {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 29.47
-            },
-            {
-                "Team": "Getafe",
-                "Winning Chance (%)": 29.47
-            },
-            {
-                "Team": "Girona",
-                "Winning Chance (%)": 29.47
-            },
-            {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 28.07
-            },
-            {
-                "Team": "Osasuna",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Mallorca",
-                "Winning Chance (%)": 25.26
-            },
-            {
-                "Team": "Valencia",
-                "Winning Chance (%)": 23.86
-            },
-            {
-                "Team": "Levante",
-                "Winning Chance (%)": 20.74
-            },
-            {
-                "Team": "Real Oviedo",
-                "Winning Chance (%)": 18.25
-            }
-        ],
+        "La Liga": [],
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
