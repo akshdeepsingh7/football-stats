@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 17 January 2026, 01:44 PM UTC",
-        "IST": "Saturday, 17 January 2026, 07:14 PM IST"
+        "UTC": "Saturday, 17 January 2026, 02:14 PM UTC",
+        "IST": "Saturday, 17 January 2026, 07:44 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -11,11 +11,15 @@
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 63.73
+                "Winning Chance (%)": 61.72
             },
             {
                 "Team": "Aston Villa",
                 "Winning Chance (%)": 58.2
+            },
+            {
+                "Team": "Manchester United",
+                "Winning Chance (%)": 44.82
             },
             {
                 "Team": "Liverpool FC",
@@ -24,10 +28,6 @@
             {
                 "Team": "Brentford",
                 "Winning Chance (%)": 44.7
-            },
-            {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 41.6
             },
             {
                 "Team": "Newcastle United",
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 71.73
+                "Winning Chance (%)": 70.08
             },
             {
                 "Team": "Milan",
@@ -281,7 +281,7 @@
             },
             {
                 "Team": "Udinese",
-                "Winning Chance (%)": 34.67
+                "Winning Chance (%)": 34.29
             },
             {
                 "Team": "Sassuolo",
@@ -925,7 +925,7 @@
             },
             {
                 "Team": "Millwall",
-                "Winning Chance (%)": 43.46
+                "Winning Chance (%)": 45.43
             },
             {
                 "Team": "Preston North End",
@@ -933,7 +933,7 @@
             },
             {
                 "Team": "Watford",
-                "Winning Chance (%)": 46.28
+                "Winning Chance (%)": 44.85
             },
             {
                 "Team": "Hull City",
