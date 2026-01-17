@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 17 January 2026, 01:25 PM UTC",
-        "IST": "Saturday, 17 January 2026, 06:55 PM IST"
+        "UTC": "Saturday, 17 January 2026, 01:44 PM UTC",
+        "IST": "Saturday, 17 January 2026, 07:14 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 62.16
+                "Winning Chance (%)": 63.55
             },
             {
                 "Team": "Middlesbrough",
@@ -948,16 +948,16 @@
                 "Winning Chance (%)": 43.43
             },
             {
-                "Team": "Leicester City",
-                "Winning Chance (%)": 39.51
-            },
-            {
                 "Team": "Bristol City",
                 "Winning Chance (%)": 43.6
             },
             {
                 "Team": "Queens Park Rangers",
                 "Winning Chance (%)": 38.97
+            },
+            {
+                "Team": "Leicester City",
+                "Winning Chance (%)": 37.53
             },
             {
                 "Team": "Derby County",
