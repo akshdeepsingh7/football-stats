@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 17 January 2026, 08:41 PM UTC",
-        "IST": "Sunday, 18 January 2026, 02:11 AM IST"
+        "UTC": "Saturday, 17 January 2026, 09:14 PM UTC",
+        "IST": "Sunday, 18 January 2026, 02:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -256,12 +256,12 @@
                 "Winning Chance (%)": 60.2
             },
             {
-                "Team": "Juventus",
-                "Winning Chance (%)": 57.19
-            },
-            {
                 "Team": "Roma",
                 "Winning Chance (%)": 56.8
+            },
+            {
+                "Team": "Juventus",
+                "Winning Chance (%)": 55.52
             },
             {
                 "Team": "Como",
@@ -301,7 +301,7 @@
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 25.4
+                "Winning Chance (%)": 27.94
             },
             {
                 "Team": "Genoa",
@@ -335,7 +335,7 @@
             },
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 60.25
+                "Winning Chance (%)": 60.65
             },
             {
                 "Team": "Lille",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 69.26
+                "Winning Chance (%)": 73.02
             },
             {
                 "Team": "Gil Vicente",
@@ -874,12 +874,12 @@
                 "Winning Chance (%)": 38.48
             },
             {
-                "Team": "Rio Ave",
-                "Winning Chance (%)": 31.11
-            },
-            {
                 "Team": "Estoril",
                 "Winning Chance (%)": 31.37
+            },
+            {
+                "Team": "Rio Ave",
+                "Winning Chance (%)": 29.63
             },
             {
                 "Team": "Estrela Amadora",
