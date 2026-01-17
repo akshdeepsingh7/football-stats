@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 17 January 2026, 04:44 PM UTC",
-        "IST": "Saturday, 17 January 2026, 10:14 PM IST"
+        "UTC": "Saturday, 17 January 2026, 05:15 PM UTC",
+        "IST": "Saturday, 17 January 2026, 10:45 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -43,7 +43,7 @@
             },
             {
                 "Team": "Fulham",
-                "Winning Chance (%)": 38.79
+                "Winning Chance (%)": 37.58
             },
             {
                 "Team": "Brighton & Hove Albion",
@@ -54,12 +54,12 @@
                 "Winning Chance (%)": 36.83
             },
             {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 35.14
-            },
-            {
                 "Team": "Crystal Palace",
                 "Winning Chance (%)": 33.94
+            },
+            {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 33.53
             },
             {
                 "Team": "AFC Bournemouth",
@@ -67,7 +67,7 @@
             },
             {
                 "Team": "Leeds United",
-                "Winning Chance (%)": 27.88
+                "Winning Chance (%)": 30.3
             },
             {
                 "Team": "Nottingham Forest",
@@ -75,7 +75,7 @@
             },
             {
                 "Team": "West Ham United",
-                "Winning Chance (%)": 18.18
+                "Winning Chance (%)": 20.61
             },
             {
                 "Team": "Burnley",
@@ -117,7 +117,7 @@
             },
             {
                 "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 33.33
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Girona",
@@ -136,6 +136,10 @@
                 "Winning Chance (%)": 29.47
             },
             {
+                "Team": "Mallorca",
+                "Winning Chance (%)": 28.0
+            },
+            {
                 "Team": "Getafe",
                 "Winning Chance (%)": 29.47
             },
@@ -146,10 +150,6 @@
             {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Mallorca",
-                "Winning Chance (%)": 25.33
             },
             {
                 "Team": "Alav\u00e9s",
@@ -253,7 +253,7 @@
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 58.53
+                "Winning Chance (%)": 60.2
             },
             {
                 "Team": "Juventus",
@@ -284,12 +284,12 @@
                 "Winning Chance (%)": 33.02
             },
             {
-                "Team": "Sassuolo",
+                "Team": "Torino",
                 "Winning Chance (%)": 30.67
             },
             {
-                "Team": "Torino",
-                "Winning Chance (%)": 30.67
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 29.21
             },
             {
                 "Team": "Cremonese",
@@ -851,7 +851,7 @@
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 46.96
+                "Winning Chance (%)": 50.33
             },
             {
                 "Team": "Braga",
@@ -886,12 +886,12 @@
                 "Winning Chance (%)": 29.8
             },
             {
-                "Team": "Nacional",
+                "Team": "Santa Clara",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 26.67
+                "Team": "Nacional",
+                "Winning Chance (%)": 25.19
             },
             {
                 "Team": "Casa Pia",
