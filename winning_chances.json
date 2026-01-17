@@ -1,13 +1,13 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 17 January 2026, 05:15 PM UTC",
-        "IST": "Saturday, 17 January 2026, 10:45 PM IST"
+        "UTC": "Saturday, 17 January 2026, 05:39 PM UTC",
+        "IST": "Saturday, 17 January 2026, 11:09 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 72.62
+                "Winning Chance (%)": 71.01
             },
             {
                 "Team": "Manchester City",
@@ -144,12 +144,12 @@
                 "Winning Chance (%)": 29.47
             },
             {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 28.07
-            },
-            {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 28.07
             },
             {
                 "Team": "Alav\u00e9s",
@@ -165,13 +165,13 @@
             },
             {
                 "Team": "Real Oviedo",
-                "Winning Chance (%)": 18.25
+                "Winning Chance (%)": 18.67
             }
         ],
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 93.73
+                "Winning Chance (%)": 91.11
             },
             {
                 "Team": "Borussia Dortmund",
@@ -183,7 +183,7 @@
             },
             {
                 "Team": "RB Leipzig",
-                "Winning Chance (%)": 58.53
+                "Winning Chance (%)": 56.96
             },
             {
                 "Team": "VfB Stuttgart",
@@ -326,12 +326,12 @@
         ],
         "Ligue 1": [
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 72.22
+                "Team": "Lens",
+                "Winning Chance (%)": 71.3
             },
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 67.94
+                "Team": "PSG",
+                "Winning Chance (%)": 72.22
             },
             {
                 "Team": "Marseille",
@@ -391,7 +391,7 @@
             },
             {
                 "Team": "Auxerre",
-                "Winning Chance (%)": 19.26
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Metz",
@@ -965,18 +965,18 @@
             },
             {
                 "Team": "Birmingham City",
-                "Winning Chance (%)": 34.87
+                "Winning Chance (%)": 34.57
             },
             {
                 "Team": "Southampton",
                 "Winning Chance (%)": 32.59
             },
             {
-                "Team": "Sheffield United",
-                "Winning Chance (%)": 32.82
+                "Team": "Swansea City",
+                "Winning Chance (%)": 32.59
             },
             {
-                "Team": "Swansea City",
+                "Team": "Sheffield United",
                 "Winning Chance (%)": 32.82
             },
             {
