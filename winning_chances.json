@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 17 January 2026, 08:17 PM UTC",
-        "IST": "Sunday, 18 January 2026, 01:47 AM IST"
+        "UTC": "Saturday, 17 January 2026, 08:41 PM UTC",
+        "IST": "Sunday, 18 January 2026, 02:11 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -335,7 +335,7 @@
             },
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 56.49
+                "Winning Chance (%)": 60.25
             },
             {
                 "Team": "Lille",
@@ -358,16 +358,16 @@
                 "Winning Chance (%)": 39.65
             },
             {
-                "Team": "Angers",
-                "Winning Chance (%)": 34.07
-            },
-            {
                 "Team": "Monaco",
                 "Winning Chance (%)": 34.07
             },
             {
                 "Team": "Brest",
                 "Winning Chance (%)": 34.51
+            },
+            {
+                "Team": "Angers",
+                "Winning Chance (%)": 32.59
             },
             {
                 "Team": "Lorient",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 71.18
+                "Winning Chance (%)": 69.26
             },
             {
                 "Team": "Gil Vicente",
@@ -874,11 +874,11 @@
                 "Winning Chance (%)": 38.48
             },
             {
-                "Team": "Estoril",
-                "Winning Chance (%)": 31.37
+                "Team": "Rio Ave",
+                "Winning Chance (%)": 31.11
             },
             {
-                "Team": "Rio Ave",
+                "Team": "Estoril",
                 "Winning Chance (%)": 31.37
             },
             {
