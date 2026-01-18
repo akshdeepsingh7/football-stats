@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 18 January 2026, 04:45 PM UTC",
-        "IST": "Sunday, 18 January 2026, 10:15 PM IST"
+        "UTC": "Sunday, 18 January 2026, 05:13 PM UTC",
+        "IST": "Sunday, 18 January 2026, 10:43 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -257,7 +257,7 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 56.8
+                "Winning Chance (%)": 55.59
             },
             {
                 "Team": "Juventus",
@@ -285,7 +285,7 @@
             },
             {
                 "Team": "Torino",
-                "Winning Chance (%)": 30.67
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Sassuolo",
@@ -862,12 +862,12 @@
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 39.22
+                "Team": "Famalic\u00e3o",
+                "Winning Chance (%)": 41.32
             },
             {
-                "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 37.96
+                "Team": "Vit\u00f3ria S.C.",
+                "Winning Chance (%)": 39.22
             },
             {
                 "Team": "Alverca",
@@ -886,11 +886,11 @@
                 "Winning Chance (%)": 29.8
             },
             {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 26.67
+                "Team": "Arouca",
+                "Winning Chance (%)": 25.19
             },
             {
-                "Team": "Arouca",
+                "Team": "Santa Clara",
                 "Winning Chance (%)": 25.19
             },
             {
