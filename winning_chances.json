@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 18 January 2026, 01:45 PM UTC",
-        "IST": "Sunday, 18 January 2026, 07:15 PM IST"
+        "UTC": "Sunday, 18 January 2026, 02:14 PM UTC",
+        "IST": "Sunday, 18 January 2026, 07:44 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -34,12 +34,12 @@
                 "Winning Chance (%)": 42.0
             },
             {
-                "Team": "Sunderland",
-                "Winning Chance (%)": 40.0
+                "Team": "Newcastle United",
+                "Winning Chance (%)": 42.0
             },
             {
-                "Team": "Newcastle United",
-                "Winning Chance (%)": 42.63
+                "Team": "Sunderland",
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Fulham",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 8.89
+                "Winning Chance (%)": 9.7
             }
         ],
         "La Liga": [
@@ -273,7 +273,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 42.8
+                "Winning Chance (%)": 42.17
             },
             {
                 "Team": "Lazio",
@@ -313,7 +313,7 @@
             },
             {
                 "Team": "Fiorentina",
-                "Winning Chance (%)": 18.67
+                "Winning Chance (%)": 19.05
             },
             {
                 "Team": "Pisa",
@@ -350,12 +350,12 @@
                 "Winning Chance (%)": 49.06
             },
             {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 40.92
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 42.4
             },
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 39.65
+                "Team": "Toulouse",
+                "Winning Chance (%)": 40.92
             },
             {
                 "Team": "Monaco",
@@ -395,7 +395,7 @@
             },
             {
                 "Team": "Metz",
-                "Winning Chance (%)": 18.82
+                "Winning Chance (%)": 17.78
             }
         ],
         "Champions League": [
