@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 18 January 2026, 04:19 PM UTC",
-        "IST": "Sunday, 18 January 2026, 09:49 PM IST"
+        "UTC": "Sunday, 18 January 2026, 04:45 PM UTC",
+        "IST": "Sunday, 18 January 2026, 10:15 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -10,12 +10,12 @@
                 "Winning Chance (%)": 71.01
             },
             {
-                "Team": "Manchester City",
-                "Winning Chance (%)": 61.72
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 56.93
             },
             {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 58.2
+                "Team": "Manchester City",
+                "Winning Chance (%)": 61.72
             },
             {
                 "Team": "Liverpool FC",
@@ -46,12 +46,12 @@
                 "Winning Chance (%)": 37.58
             },
             {
-                "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 38.03
+                "Team": "Everton",
+                "Winning Chance (%)": 36.36
             },
             {
-                "Team": "Everton",
-                "Winning Chance (%)": 36.83
+                "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 38.03
             },
             {
                 "Team": "Crystal Palace",
@@ -101,7 +101,7 @@
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 58.8
+                "Winning Chance (%)": 61.87
             },
             {
                 "Team": "Espanyol",
@@ -152,12 +152,12 @@
                 "Winning Chance (%)": 28.07
             },
             {
-                "Team": "Alav\u00e9s",
+                "Team": "Valencia",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Valencia",
-                "Winning Chance (%)": 26.67
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 25.33
             },
             {
                 "Team": "Levante",
@@ -198,12 +198,12 @@
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "Union Berlin",
+                "Team": "SC Freiburg",
                 "Winning Chance (%)": 35.56
             },
             {
-                "Team": "SC Freiburg",
-                "Winning Chance (%)": 36.08
+                "Team": "Union Berlin",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "K\u00f6ln",
@@ -227,7 +227,7 @@
             },
             {
                 "Team": "Augsburg",
-                "Winning Chance (%)": 23.53
+                "Winning Chance (%)": 23.7
             },
             {
                 "Team": "Heidenheim",
@@ -374,6 +374,10 @@
                 "Winning Chance (%)": 32.59
             },
             {
+                "Team": "Paris FC",
+                "Winning Chance (%)": 28.15
+            },
+            {
                 "Team": "Le Havre",
                 "Winning Chance (%)": 28.15
             },
@@ -382,12 +386,8 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Paris FC",
-                "Winning Chance (%)": 25.19
-            },
-            {
                 "Team": "Nantes",
-                "Winning Chance (%)": 22.22
+                "Winning Chance (%)": 20.74
             },
             {
                 "Team": "Auxerre",
