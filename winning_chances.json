@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 18 January 2026, 08:18 PM UTC",
-        "IST": "Monday, 19 January 2026, 01:48 AM IST"
+        "UTC": "Sunday, 18 January 2026, 08:42 PM UTC",
+        "IST": "Monday, 19 January 2026, 02:12 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 79.87
+                "Winning Chance (%)": 78.13
             },
             {
                 "Team": "Real Madrid",
@@ -116,6 +116,10 @@
                 "Winning Chance (%)": 45.87
             },
             {
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 32.0
+            },
+            {
                 "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 32.0
             },
@@ -126,10 +130,6 @@
             {
                 "Team": "Elche",
                 "Winning Chance (%)": 32.68
-            },
-            {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Osasuna",
@@ -338,12 +338,12 @@
                 "Winning Chance (%)": 60.65
             },
             {
-                "Team": "Lille",
-                "Winning Chance (%)": 50.61
+                "Team": "Lyon",
+                "Winning Chance (%)": 52.89
             },
             {
-                "Team": "Lyon",
-                "Winning Chance (%)": 49.13
+                "Team": "Lille",
+                "Winning Chance (%)": 50.61
             },
             {
                 "Team": "Rennes",
@@ -358,15 +358,15 @@
                 "Winning Chance (%)": 40.92
             },
             {
-                "Team": "Brest",
-                "Winning Chance (%)": 34.07
-            },
-            {
                 "Team": "Monaco",
                 "Winning Chance (%)": 34.07
             },
             {
                 "Team": "Angers",
+                "Winning Chance (%)": 32.59
+            },
+            {
+                "Team": "Brest",
                 "Winning Chance (%)": 32.59
             },
             {
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 89.66
+                "Winning Chance (%)": 86.87
             },
             {
                 "Team": "Sporting CP",
@@ -867,7 +867,7 @@
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 39.22
+                "Winning Chance (%)": 38.52
             },
             {
                 "Team": "Alverca",
