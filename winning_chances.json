@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 18 January 2026, 02:14 PM UTC",
-        "IST": "Sunday, 18 January 2026, 07:44 PM IST"
+        "UTC": "Sunday, 18 January 2026, 02:40 PM UTC",
+        "IST": "Sunday, 18 January 2026, 08:10 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -182,12 +182,12 @@
                 "Winning Chance (%)": 57.36
             },
             {
-                "Team": "RB Leipzig",
-                "Winning Chance (%)": 53.8
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 51.69
             },
             {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 53.0
+                "Team": "RB Leipzig",
+                "Winning Chance (%)": 53.8
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -198,11 +198,11 @@
                 "Winning Chance (%)": 40.0
             },
             {
-                "Team": "SC Freiburg",
-                "Winning Chance (%)": 36.08
+                "Team": "Union Berlin",
+                "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Union Berlin",
+                "Team": "SC Freiburg",
                 "Winning Chance (%)": 36.08
             },
             {
@@ -273,7 +273,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 42.17
+                "Winning Chance (%)": 40.5
             },
             {
                 "Team": "Lazio",
@@ -313,7 +313,7 @@
             },
             {
                 "Team": "Fiorentina",
-                "Winning Chance (%)": 19.05
+                "Winning Chance (%)": 21.59
             },
             {
                 "Team": "Pisa",
@@ -350,12 +350,12 @@
                 "Winning Chance (%)": 49.06
             },
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 42.4
-            },
-            {
                 "Team": "Toulouse",
                 "Winning Chance (%)": 40.92
+            },
+            {
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 39.04
             },
             {
                 "Team": "Monaco",
@@ -390,11 +390,11 @@
                 "Winning Chance (%)": 21.96
             },
             {
-                "Team": "Auxerre",
-                "Winning Chance (%)": 17.78
+                "Team": "Metz",
+                "Winning Chance (%)": 19.26
             },
             {
-                "Team": "Metz",
+                "Team": "Auxerre",
                 "Winning Chance (%)": 17.78
             }
         ],
