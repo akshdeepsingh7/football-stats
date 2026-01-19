@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 19 January 2026, 05:20 PM UTC",
-        "IST": "Monday, 19 January 2026, 10:50 PM IST"
+        "UTC": "Monday, 19 January 2026, 05:46 PM UTC",
+        "IST": "Monday, 19 January 2026, 11:16 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -288,16 +288,16 @@
                 "Winning Chance (%)": 29.21
             },
             {
+                "Team": "Cremonese",
+                "Winning Chance (%)": 29.21
+            },
+            {
                 "Team": "Parma",
                 "Winning Chance (%)": 29.21
             },
             {
                 "Team": "Torino",
                 "Winning Chance (%)": 29.21
-            },
-            {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Cagliari",
@@ -321,7 +321,7 @@
             },
             {
                 "Team": "Hellas Verona",
-                "Winning Chance (%)": 17.33
+                "Winning Chance (%)": 17.78
             }
         ],
         "Ligue 1": [
