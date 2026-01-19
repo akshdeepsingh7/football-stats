@@ -10,7 +10,7 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Monday, 19 January 2026, 06:32 AM UTC (Monday, 19 January 2026, 12:02 PM IST)
+**Last Updated:** Monday, 19 January 2026, 07:25 AM UTC (Monday, 19 January 2026, 12:55 PM IST)
 
 _Charts are sorted by Winning Chance (%)_
 
@@ -57,6 +57,10 @@ _Charts are sorted by Winning Chance (%)_
 ### Indian Super League
 
 ![Indian Super League Winning Chances](images/Indian_Super_League_winning_chances.png)
+
+### Brasileirão
+
+![Brasileirão Winning Chances](images/Brasileirão_winning_chances.png)
 
 
 <!-- END_WINNING_CHANCES -->
