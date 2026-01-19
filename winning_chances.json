@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 19 January 2026, 07:38 PM UTC",
-        "IST": "Tuesday, 20 January 2026, 01:08 AM IST"
+        "UTC": "Monday, 19 January 2026, 08:19 PM UTC",
+        "IST": "Tuesday, 20 January 2026, 01:49 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -51,7 +51,7 @@
             },
             {
                 "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 38.03
+                "Winning Chance (%)": 37.56
             },
             {
                 "Team": "Crystal Palace",
@@ -63,7 +63,7 @@
             },
             {
                 "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 33.02
+                "Winning Chance (%)": 32.73
             },
             {
                 "Team": "Leeds United",
@@ -116,6 +116,10 @@
                 "Winning Chance (%)": 45.87
             },
             {
+                "Team": "Elche",
+                "Winning Chance (%)": 35.47
+            },
+            {
                 "Team": "Real Sociedad",
                 "Winning Chance (%)": 32.0
             },
@@ -126,10 +130,6 @@
             {
                 "Team": "Girona",
                 "Winning Chance (%)": 32.0
-            },
-            {
-                "Team": "Elche",
-                "Winning Chance (%)": 32.68
             },
             {
                 "Team": "Osasuna",
@@ -149,7 +149,7 @@
             },
             {
                 "Team": "Sevilla",
-                "Winning Chance (%)": 28.07
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Valencia",
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 50.13
+                "Winning Chance (%)": 52.58
             },
             {
                 "Team": "Atalanta",
@@ -277,7 +277,7 @@
             },
             {
                 "Team": "Lazio",
-                "Winning Chance (%)": 39.33
+                "Winning Chance (%)": 36.76
             },
             {
                 "Team": "Udinese",
@@ -875,7 +875,7 @@
             },
             {
                 "Team": "Estoril",
-                "Winning Chance (%)": 31.37
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Rio Ave",
@@ -883,7 +883,7 @@
             },
             {
                 "Team": "Estrela Amadora",
-                "Winning Chance (%)": 29.8
+                "Winning Chance (%)": 29.63
             },
             {
                 "Team": "Arouca",
