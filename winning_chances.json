@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 19 January 2026, 09:40 PM UTC",
-        "IST": "Tuesday, 20 January 2026, 03:10 AM IST"
+        "UTC": "Monday, 19 January 2026, 10:17 PM UTC",
+        "IST": "Tuesday, 20 January 2026, 03:47 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -51,11 +51,7 @@
             },
             {
                 "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 35.95
-            },
-            {
-                "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 35.15
+                "Winning Chance (%)": 37.56
             },
             {
                 "Team": "Crystal Palace",
@@ -64,6 +60,10 @@
             {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 33.53
+            },
+            {
+                "Team": "AFC Bournemouth",
+                "Winning Chance (%)": 32.73
             },
             {
                 "Team": "Leeds United",
@@ -117,7 +117,7 @@
             },
             {
                 "Team": "Elche",
-                "Winning Chance (%)": 35.47
+                "Winning Chance (%)": 32.4
             },
             {
                 "Team": "Real Sociedad",
@@ -140,16 +140,16 @@
                 "Winning Chance (%)": 29.33
             },
             {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 28.0
+            },
+            {
                 "Team": "Mallorca",
                 "Winning Chance (%)": 28.0
             },
             {
                 "Team": "Getafe",
                 "Winning Chance (%)": 28.0
-            },
-            {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Valencia",
@@ -871,7 +871,7 @@
             },
             {
                 "Team": "Estoril",
-                "Winning Chance (%)": 34.87
+                "Winning Chance (%)": 35.67
             },
             {
                 "Team": "Alverca",
