@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 20 January 2026, 03:55 PM UTC",
-        "IST": "Tuesday, 20 January 2026, 09:25 PM IST"
+        "UTC": "Tuesday, 20 January 2026, 04:30 PM UTC",
+        "IST": "Tuesday, 20 January 2026, 10:00 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -492,6 +492,10 @@
                 "Winning Chance (%)": 31.11
             },
             {
+                "Team": "Club Brugge",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "FC Copenhagen",
                 "Winning Chance (%)": 31.11
             },
@@ -516,10 +520,6 @@
                 "Winning Chance (%)": 22.22
             },
             {
-                "Team": "Club Brugge",
-                "Winning Chance (%)": 19.05
-            },
-            {
                 "Team": "Eintracht Frankfurt",
                 "Winning Chance (%)": 17.78
             },
@@ -536,12 +536,12 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Kairat",
-                "Winning Chance (%)": 7.62
-            },
-            {
                 "Team": "Villarreal",
                 "Winning Chance (%)": 4.44
+            },
+            {
+                "Team": "Kairat",
+                "Winning Chance (%)": 3.81
             }
         ],
         "Europa League": [
