@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 20 January 2026, 09:16 PM UTC",
-        "IST": "Wednesday, 21 January 2026, 02:46 AM IST"
+        "UTC": "Tuesday, 20 January 2026, 09:42 PM UTC",
+        "IST": "Wednesday, 21 January 2026, 03:12 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -409,7 +409,7 @@
             },
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 60.74
+                "Winning Chance (%)": 61.14
             },
             {
                 "Team": "PSG",
@@ -460,10 +460,6 @@
                 "Winning Chance (%)": 45.64
             },
             {
-                "Team": "Napoli",
-                "Winning Chance (%)": 38.1
-            },
-            {
                 "Team": "Marseille",
                 "Winning Chance (%)": 41.2
             },
@@ -492,15 +488,19 @@
                 "Winning Chance (%)": 30.48
             },
             {
+                "Team": "Napoli",
+                "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "FC Copenhagen",
+                "Winning Chance (%)": 30.48
+            },
+            {
                 "Team": "Qaraba\u011f",
                 "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Club Brugge",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "FC Copenhagen",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -528,7 +528,7 @@
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Villarreal",
+                "Team": "Ajax",
                 "Winning Chance (%)": 15.24
             },
             {
@@ -536,8 +536,8 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Ajax",
-                "Winning Chance (%)": 11.43
+                "Team": "Villarreal",
+                "Winning Chance (%)": 7.62
             },
             {
                 "Team": "Kairat",
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 64.93
+                "Winning Chance (%)": 67.24
             },
             {
                 "Team": "Ipswich Town",
@@ -929,11 +929,15 @@
             },
             {
                 "Team": "Millwall",
-                "Winning Chance (%)": 44.76
+                "Winning Chance (%)": 43.81
             },
             {
                 "Team": "Preston North End",
                 "Winning Chance (%)": 43.75
+            },
+            {
+                "Team": "Wrexham",
+                "Winning Chance (%)": 43.35
             },
             {
                 "Team": "Stoke City",
@@ -942,10 +946,6 @@
             {
                 "Team": "Watford",
                 "Winning Chance (%)": 44.45
-            },
-            {
-                "Team": "Wrexham",
-                "Winning Chance (%)": 41.05
             },
             {
                 "Team": "Derby County",
@@ -960,12 +960,12 @@
                 "Winning Chance (%)": 38.1
             },
             {
-                "Team": "Leicester City",
-                "Winning Chance (%)": 36.19
+                "Team": "Birmingham City",
+                "Winning Chance (%)": 36.59
             },
             {
-                "Team": "Birmingham City",
-                "Winning Chance (%)": 34.29
+                "Team": "Leicester City",
+                "Winning Chance (%)": 35.24
             },
             {
                 "Team": "Swansea City",
