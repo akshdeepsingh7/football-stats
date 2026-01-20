@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 20 January 2026, 05:01 PM UTC",
-        "IST": "Tuesday, 20 January 2026, 10:31 PM IST"
+        "UTC": "Tuesday, 20 January 2026, 05:52 PM UTC",
+        "IST": "Tuesday, 20 January 2026, 11:22 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -408,12 +408,12 @@
                 "Winning Chance (%)": 71.07
             },
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 62.18
+                "Team": "Manchester City",
+                "Winning Chance (%)": 55.73
             },
             {
-                "Team": "Manchester City",
-                "Winning Chance (%)": 60.18
+                "Team": "PSG",
+                "Winning Chance (%)": 62.18
             },
             {
                 "Team": "Atalanta",
@@ -488,12 +488,12 @@
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "Napoli",
-                "Winning Chance (%)": 31.11
-            },
-            {
                 "Team": "Club Brugge",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Napoli",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "FC Copenhagen",
@@ -520,12 +520,12 @@
                 "Winning Chance (%)": 22.22
             },
             {
-                "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 17.78
+                "Team": "Bod\u00f8/Glimt",
+                "Winning Chance (%)": 15.24
             },
             {
-                "Team": "Bod\u00f8/Glimt",
-                "Winning Chance (%)": 13.33
+                "Team": "Eintracht Frankfurt",
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Slavia Prague",
