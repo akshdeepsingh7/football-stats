@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 20 January 2026, 05:52 PM UTC",
-        "IST": "Tuesday, 20 January 2026, 11:22 PM IST"
+        "UTC": "Tuesday, 20 January 2026, 06:28 PM UTC",
+        "IST": "Tuesday, 20 January 2026, 11:58 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -408,12 +408,12 @@
                 "Winning Chance (%)": 71.07
             },
             {
-                "Team": "Manchester City",
-                "Winning Chance (%)": 55.73
-            },
-            {
                 "Team": "PSG",
                 "Winning Chance (%)": 62.18
+            },
+            {
+                "Team": "Manchester City",
+                "Winning Chance (%)": 51.12
             },
             {
                 "Team": "Atalanta",
@@ -500,6 +500,10 @@
                 "Winning Chance (%)": 31.11
             },
             {
+                "Team": "Bod\u00f8/Glimt",
+                "Winning Chance (%)": 22.86
+            },
+            {
                 "Team": "Benfica",
                 "Winning Chance (%)": 26.67
             },
@@ -518,10 +522,6 @@
             {
                 "Team": "Olympiacos",
                 "Winning Chance (%)": 22.22
-            },
-            {
-                "Team": "Bod\u00f8/Glimt",
-                "Winning Chance (%)": 15.24
             },
             {
                 "Team": "Eintracht Frankfurt",
