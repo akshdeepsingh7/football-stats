@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 21 January 2026, 09:24 PM UTC",
-        "IST": "Thursday, 22 January 2026, 02:54 AM IST"
+        "UTC": "Wednesday, 21 January 2026, 09:50 PM UTC",
+        "IST": "Thursday, 22 January 2026, 03:20 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -413,15 +413,11 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 58.74
+                "Winning Chance (%)": 59.14
             },
             {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 56.53
-            },
-            {
-                "Team": "Atalanta",
-                "Winning Chance (%)": 54.13
             },
             {
                 "Team": "PSG",
@@ -429,7 +425,15 @@
             },
             {
                 "Team": "Newcastle United",
-                "Winning Chance (%)": 53.12
+                "Winning Chance (%)": 53.52
+            },
+            {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 51.92
+            },
+            {
+                "Team": "Barcelona",
+                "Winning Chance (%)": 51.52
             },
             {
                 "Team": "Sporting CP",
@@ -444,6 +448,10 @@
                 "Winning Chance (%)": 50.72
             },
             {
+                "Team": "Atalanta",
+                "Winning Chance (%)": 49.92
+            },
+            {
                 "Team": "Inter",
                 "Winning Chance (%)": 48.11
             },
@@ -452,16 +460,8 @@
                 "Winning Chance (%)": 47.31
             },
             {
-                "Team": "Chelsea",
-                "Winning Chance (%)": 43.9
-            },
-            {
                 "Team": "Borussia Dortmund",
                 "Winning Chance (%)": 43.5
-            },
-            {
-                "Team": "Barcelona",
-                "Winning Chance (%)": 43.1
             },
             {
                 "Team": "Galatasaray",
@@ -473,7 +473,7 @@
             },
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 35.09
+                "Winning Chance (%)": 34.69
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -485,7 +485,11 @@
             },
             {
                 "Team": "PSV",
-                "Winning Chance (%)": 31.28
+                "Winning Chance (%)": 30.88
+            },
+            {
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Olympiacos",
@@ -504,10 +508,6 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Pafos",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Bod\u00f8/Glimt",
                 "Winning Chance (%)": 22.86
             },
@@ -516,7 +516,7 @@
                 "Winning Chance (%)": 22.86
             },
             {
-                "Team": "Athletic Bilbao",
+                "Team": "Pafos",
                 "Winning Chance (%)": 22.86
             },
             {
@@ -533,7 +533,7 @@
             },
             {
                 "Team": "Slavia Prague",
-                "Winning Chance (%)": 15.24
+                "Winning Chance (%)": 11.43
             },
             {
                 "Team": "Villarreal",
@@ -936,16 +936,16 @@
                 "Winning Chance (%)": 43.75
             },
             {
+                "Team": "Watford",
+                "Winning Chance (%)": 43.88
+            },
+            {
                 "Team": "Stoke City",
                 "Winning Chance (%)": 42.25
             },
             {
                 "Team": "Wrexham",
                 "Winning Chance (%)": 41.05
-            },
-            {
-                "Team": "Watford",
-                "Winning Chance (%)": 42.49
             },
             {
                 "Team": "Derby County",
@@ -988,12 +988,12 @@
                 "Winning Chance (%)": 29.52
             },
             {
-                "Team": "Portsmouth",
-                "Winning Chance (%)": 31.79
-            },
-            {
                 "Team": "Norwich City",
                 "Winning Chance (%)": 28.57
+            },
+            {
+                "Team": "Portsmouth",
+                "Winning Chance (%)": 29.74
             },
             {
                 "Team": "Blackburn Rovers",
