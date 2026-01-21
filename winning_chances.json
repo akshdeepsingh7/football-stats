@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 21 January 2026, 04:51 PM UTC",
-        "IST": "Wednesday, 21 January 2026, 10:21 PM IST"
+        "UTC": "Wednesday, 21 January 2026, 05:50 PM UTC",
+        "IST": "Wednesday, 21 January 2026, 11:20 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -428,16 +428,16 @@
                 "Winning Chance (%)": 51.12
             },
             {
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 50.72
+            },
+            {
                 "Team": "Atalanta",
                 "Winning Chance (%)": 58.58
             },
             {
                 "Team": "Inter",
                 "Winning Chance (%)": 48.11
-            },
-            {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 54.53
             },
             {
                 "Team": "Liverpool FC",
@@ -460,16 +460,16 @@
                 "Winning Chance (%)": 45.64
             },
             {
+                "Team": "Galatasaray",
+                "Winning Chance (%)": 38.1
+            },
+            {
                 "Team": "Marseille",
                 "Winning Chance (%)": 41.2
             },
             {
                 "Team": "Juventus",
                 "Winning Chance (%)": 40.8
-            },
-            {
-                "Team": "Galatasaray",
-                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -484,6 +484,10 @@
                 "Winning Chance (%)": 37.16
             },
             {
+                "Team": "Qaraba\u011f",
+                "Winning Chance (%)": 30.48
+            },
+            {
                 "Team": "Olympiacos",
                 "Winning Chance (%)": 30.48
             },
@@ -494,10 +498,6 @@
             {
                 "Team": "FC Copenhagen",
                 "Winning Chance (%)": 30.48
-            },
-            {
-                "Team": "Qaraba\u011f",
-                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Club Brugge",
@@ -529,7 +529,7 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 17.78
+                "Winning Chance (%)": 19.05
             },
             {
                 "Team": "Slavia Prague",
