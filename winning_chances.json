@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 21 January 2026, 08:25 PM UTC",
-        "IST": "Thursday, 22 January 2026, 01:55 AM IST"
+        "UTC": "Wednesday, 21 January 2026, 08:54 PM UTC",
+        "IST": "Thursday, 22 January 2026, 02:24 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -416,6 +416,10 @@
                 "Winning Chance (%)": 61.54
             },
             {
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 58.74
+            },
+            {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 56.53
             },
@@ -425,7 +429,7 @@
             },
             {
                 "Team": "Newcastle United",
-                "Winning Chance (%)": 52.72
+                "Winning Chance (%)": 53.12
             },
             {
                 "Team": "Sporting CP",
@@ -437,10 +441,6 @@
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 50.72
-            },
-            {
-                "Team": "Liverpool FC",
                 "Winning Chance (%)": 50.72
             },
             {
@@ -456,12 +456,8 @@
                 "Winning Chance (%)": 43.5
             },
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 39.3
-            },
-            {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 38.9
+                "Winning Chance (%)": 43.1
             },
             {
                 "Team": "Juventus",
@@ -476,6 +472,10 @@
                 "Winning Chance (%)": 38.1
             },
             {
+                "Team": "Marseille",
+                "Winning Chance (%)": 35.09
+            },
+            {
                 "Team": "Bayer Leverkusen",
                 "Winning Chance (%)": 34.29
             },
@@ -485,7 +485,7 @@
             },
             {
                 "Team": "PSV",
-                "Winning Chance (%)": 31.68
+                "Winning Chance (%)": 31.28
             },
             {
                 "Team": "Olympiacos",
@@ -520,10 +520,6 @@
                 "Winning Chance (%)": 22.86
             },
             {
-                "Team": "Slavia Prague",
-                "Winning Chance (%)": 22.86
-            },
-            {
                 "Team": "Ajax",
                 "Winning Chance (%)": 22.86
             },
@@ -533,6 +529,10 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
+                "Winning Chance (%)": 15.24
+            },
+            {
+                "Team": "Slavia Prague",
                 "Winning Chance (%)": 15.24
             },
             {
