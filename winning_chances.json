@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 22 January 2026, 08:48 PM UTC",
-        "IST": "Friday, 23 January 2026, 02:18 AM IST"
+        "UTC": "Thursday, 22 January 2026, 09:18 PM UTC",
+        "IST": "Friday, 23 January 2026, 02:48 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -558,23 +558,23 @@
                 "Winning Chance (%)": 67.56
             },
             {
+                "Team": "Ferencv\u00e1ros",
+                "Winning Chance (%)": 67.16
+            },
+            {
                 "Team": "Midtjylland",
                 "Winning Chance (%)": 64.15
+            },
+            {
+                "Team": "Braga",
+                "Winning Chance (%)": 63.35
             },
             {
                 "Team": "Roma",
                 "Winning Chance (%)": 59.54
             },
             {
-                "Team": "Ferencv\u00e1ros",
-                "Winning Chance (%)": 59.14
-            },
-            {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 55.33
-            },
-            {
-                "Team": "Braga",
                 "Winning Chance (%)": 55.33
             },
             {
@@ -594,16 +594,16 @@
                 "Winning Chance (%)": 47.71
             },
             {
-                "Team": "Nottingham Forest",
-                "Winning Chance (%)": 47.71
-            },
-            {
                 "Team": "Celta de Vigo",
                 "Winning Chance (%)": 47.31
             },
             {
                 "Team": "Bologna",
                 "Winning Chance (%)": 47.31
+            },
+            {
+                "Team": "Nottingham Forest",
+                "Winning Chance (%)": 43.5
             },
             {
                 "Team": "Plze\u0148",
@@ -614,12 +614,12 @@
                 "Winning Chance (%)": 43.1
             },
             {
-                "Team": "Panathinaikos",
-                "Winning Chance (%)": 42.7
+                "Team": "KRC Genk",
+                "Winning Chance (%)": 42.3
             },
             {
-                "Team": "KRC Genk",
-                "Winning Chance (%)": 44.84
+                "Team": "Panathinaikos",
+                "Winning Chance (%)": 38.5
             },
             {
                 "Team": "Dinamo Zagreb",
@@ -650,11 +650,11 @@
                 "Winning Chance (%)": 22.86
             },
             {
-                "Team": "RB Salzburg",
+                "Team": "FC Basel",
                 "Winning Chance (%)": 22.86
             },
             {
-                "Team": "FC Basel",
+                "Team": "RB Salzburg",
                 "Winning Chance (%)": 22.86
             },
             {
@@ -679,7 +679,7 @@
             },
             {
                 "Team": "Utrecht",
-                "Winning Chance (%)": 4.44
+                "Winning Chance (%)": 7.62
             },
             {
                 "Team": "Malm\u00f6",
