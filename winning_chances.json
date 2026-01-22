@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 22 January 2026, 08:20 PM UTC",
-        "IST": "Friday, 23 January 2026, 01:50 AM IST"
+        "UTC": "Thursday, 22 January 2026, 08:48 PM UTC",
+        "IST": "Friday, 23 January 2026, 02:18 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -562,6 +562,10 @@
                 "Winning Chance (%)": 64.15
             },
             {
+                "Team": "Roma",
+                "Winning Chance (%)": 59.54
+            },
+            {
                 "Team": "Ferencv\u00e1ros",
                 "Winning Chance (%)": 59.14
             },
@@ -578,16 +582,12 @@
                 "Winning Chance (%)": 54.93
             },
             {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 52.32
-            },
-            {
-                "Team": "Roma",
-                "Winning Chance (%)": 51.52
-            },
-            {
                 "Team": "Red Star Belgrade",
                 "Winning Chance (%)": 49.92
+            },
+            {
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 48.11
             },
             {
                 "Team": "PAOK",
@@ -638,23 +638,23 @@
                 "Winning Chance (%)": 34.29
             },
             {
-                "Team": "Ludogorets",
+                "Team": "Celtic",
                 "Winning Chance (%)": 30.48
             },
             {
-                "Team": "Celtic",
-                "Winning Chance (%)": 30.48
+                "Team": "Ludogorets",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Feyenoord",
                 "Winning Chance (%)": 22.86
             },
             {
-                "Team": "FC Basel",
+                "Team": "RB Salzburg",
                 "Winning Chance (%)": 22.86
             },
             {
-                "Team": "RB Salzburg",
+                "Team": "FC Basel",
                 "Winning Chance (%)": 22.86
             },
             {
@@ -666,16 +666,16 @@
                 "Winning Chance (%)": 22.86
             },
             {
+                "Team": "Rangers",
+                "Winning Chance (%)": 15.24
+            },
+            {
                 "Team": "Sturm Graz",
                 "Winning Chance (%)": 15.24
             },
             {
                 "Team": "Nice",
                 "Winning Chance (%)": 11.43
-            },
-            {
-                "Team": "Rangers",
-                "Winning Chance (%)": 7.62
             },
             {
                 "Team": "Utrecht",
