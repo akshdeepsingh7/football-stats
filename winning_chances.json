@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 22 January 2026, 09:18 PM UTC",
-        "IST": "Friday, 23 January 2026, 02:48 AM IST"
+        "UTC": "Thursday, 22 January 2026, 09:44 PM UTC",
+        "IST": "Friday, 23 January 2026, 03:14 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -558,10 +558,6 @@
                 "Winning Chance (%)": 67.56
             },
             {
-                "Team": "Ferencv\u00e1ros",
-                "Winning Chance (%)": 67.16
-            },
-            {
                 "Team": "Midtjylland",
                 "Winning Chance (%)": 64.15
             },
@@ -572,6 +568,10 @@
             {
                 "Team": "Roma",
                 "Winning Chance (%)": 59.54
+            },
+            {
+                "Team": "Ferencv\u00e1ros",
+                "Winning Chance (%)": 59.14
             },
             {
                 "Team": "Real Betis",
@@ -595,7 +595,7 @@
             },
             {
                 "Team": "Celta de Vigo",
-                "Winning Chance (%)": 47.31
+                "Winning Chance (%)": 47.71
             },
             {
                 "Team": "Bologna",
@@ -614,12 +614,12 @@
                 "Winning Chance (%)": 43.1
             },
             {
-                "Team": "KRC Genk",
-                "Winning Chance (%)": 42.3
+                "Team": "Panathinaikos",
+                "Winning Chance (%)": 42.7
             },
             {
-                "Team": "Panathinaikos",
-                "Winning Chance (%)": 38.5
+                "Team": "KRC Genk",
+                "Winning Chance (%)": 42.3
             },
             {
                 "Team": "Dinamo Zagreb",
@@ -627,7 +627,7 @@
             },
             {
                 "Team": "Lille",
-                "Winning Chance (%)": 35.09
+                "Winning Chance (%)": 34.69
             },
             {
                 "Team": "Brann",
