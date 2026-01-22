@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 22 January 2026, 06:25 PM UTC",
-        "IST": "Thursday, 22 January 2026, 11:55 PM IST"
+        "UTC": "Thursday, 22 January 2026, 06:58 PM UTC",
+        "IST": "Friday, 23 January 2026, 12:28 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -546,16 +546,16 @@
         ],
         "Europa League": [
             {
+                "Team": "Lyon",
+                "Winning Chance (%)": 72.97
+            },
+            {
                 "Team": "Midtjylland",
                 "Winning Chance (%)": 72.17
             },
             {
                 "Team": "Aston Villa",
                 "Winning Chance (%)": 71.37
-            },
-            {
-                "Team": "Lyon",
-                "Winning Chance (%)": 64.95
             },
             {
                 "Team": "Real Betis",
@@ -603,7 +603,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 43.1
+                "Winning Chance (%)": 42.7
             },
             {
                 "Team": "PAOK",
@@ -622,16 +622,16 @@
                 "Winning Chance (%)": 38.1
             },
             {
-                "Team": "BSC Young Boys",
-                "Winning Chance (%)": 38.1
-            },
-            {
                 "Team": "Celta de Vigo",
                 "Winning Chance (%)": 41.2
             },
             {
                 "Team": "Lille",
                 "Winning Chance (%)": 41.2
+            },
+            {
+                "Team": "BSC Young Boys",
+                "Winning Chance (%)": 34.29
             },
             {
                 "Team": "Brann",
