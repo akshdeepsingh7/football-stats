@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 22 January 2026, 07:27 PM UTC",
-        "IST": "Friday, 23 January 2026, 12:57 AM IST"
+        "UTC": "Thursday, 22 January 2026, 07:45 PM UTC",
+        "IST": "Friday, 23 January 2026, 01:15 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -550,10 +550,6 @@
                 "Winning Chance (%)": 72.97
             },
             {
-                "Team": "Midtjylland",
-                "Winning Chance (%)": 72.17
-            },
-            {
                 "Team": "Aston Villa",
                 "Winning Chance (%)": 71.37
             },
@@ -562,24 +558,24 @@
                 "Winning Chance (%)": 67.56
             },
             {
-                "Team": "Real Betis",
-                "Winning Chance (%)": 55.73
+                "Team": "Midtjylland",
+                "Winning Chance (%)": 64.15
             },
             {
                 "Team": "Ferencv\u00e1ros",
                 "Winning Chance (%)": 64.22
             },
             {
-                "Team": "Braga",
-                "Winning Chance (%)": 59.78
-            },
-            {
-                "Team": "Plze\u0148",
-                "Winning Chance (%)": 51.52
+                "Team": "Real Betis",
+                "Winning Chance (%)": 55.33
             },
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 50.72
+                "Winning Chance (%)": 54.93
+            },
+            {
+                "Team": "Braga",
+                "Winning Chance (%)": 59.78
             },
             {
                 "Team": "Red Star Belgrade",
@@ -590,12 +586,12 @@
                 "Winning Chance (%)": 56.13
             },
             {
-                "Team": "Roma",
-                "Winning Chance (%)": 55.33
+                "Team": "PAOK",
+                "Winning Chance (%)": 47.71
             },
             {
-                "Team": "PAOK",
-                "Winning Chance (%)": 47.31
+                "Team": "Roma",
+                "Winning Chance (%)": 55.33
             },
             {
                 "Team": "Bologna",
@@ -604,6 +600,10 @@
             {
                 "Team": "Nottingham Forest",
                 "Winning Chance (%)": 50.89
+            },
+            {
+                "Team": "Plze\u0148",
+                "Winning Chance (%)": 43.5
             },
             {
                 "Team": "Fenerbah\u00e7e",
@@ -626,12 +626,12 @@
                 "Winning Chance (%)": 41.2
             },
             {
-                "Team": "BSC Young Boys",
+                "Team": "Brann",
                 "Winning Chance (%)": 34.29
             },
             {
-                "Team": "Brann",
-                "Winning Chance (%)": 30.48
+                "Team": "BSC Young Boys",
+                "Winning Chance (%)": 34.29
             },
             {
                 "Team": "Celtic",
