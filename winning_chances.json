@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 23 January 2026, 09:41 PM UTC",
-        "IST": "Saturday, 24 January 2026, 03:11 AM IST"
+        "UTC": "Friday, 23 January 2026, 10:14 PM UTC",
+        "IST": "Saturday, 24 January 2026, 03:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -932,16 +932,16 @@
                 "Winning Chance (%)": 43.81
             },
             {
-                "Team": "Derby County",
-                "Winning Chance (%)": 41.66
-            },
-            {
                 "Team": "Preston North End",
                 "Winning Chance (%)": 43.75
             },
             {
                 "Team": "Watford",
                 "Winning Chance (%)": 43.88
+            },
+            {
+                "Team": "Derby County",
+                "Winning Chance (%)": 39.42
             },
             {
                 "Team": "Stoke City",
@@ -985,7 +985,7 @@
             },
             {
                 "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 28.51
+                "Winning Chance (%)": 29.43
             },
             {
                 "Team": "Norwich City",
