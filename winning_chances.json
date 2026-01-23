@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 23 January 2026, 07:25 PM UTC",
-        "IST": "Saturday, 24 January 2026, 12:55 AM IST"
+        "UTC": "Friday, 23 January 2026, 07:41 PM UTC",
+        "IST": "Saturday, 24 January 2026, 01:11 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -218,16 +218,20 @@
                 "Winning Chance (%)": 28.15
             },
             {
-                "Team": "Werder Bremen",
-                "Winning Chance (%)": 28.24
-            },
-            {
                 "Team": "Hamburg",
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Werder Bremen",
+                "Winning Chance (%)": 28.24
+            },
+            {
                 "Team": "Augsburg",
                 "Winning Chance (%)": 23.7
+            },
+            {
+                "Team": "St. Pauli",
+                "Winning Chance (%)": 19.26
             },
             {
                 "Team": "Heidenheim",
@@ -236,10 +240,6 @@
             {
                 "Team": "Mainz 05",
                 "Winning Chance (%)": 17.78
-            },
-            {
-                "Team": "St. Pauli",
-                "Winning Chance (%)": 18.82
             }
         ],
         "Serie A": [
