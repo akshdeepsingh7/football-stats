@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 23 January 2026, 08:20 PM UTC",
-        "IST": "Saturday, 24 January 2026, 01:50 AM IST"
+        "UTC": "Friday, 23 January 2026, 08:46 PM UTC",
+        "IST": "Saturday, 24 January 2026, 02:16 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 69.39
+                "Winning Chance (%)": 74.23
             },
             {
                 "Team": "Milan",
@@ -316,18 +316,18 @@
                 "Winning Chance (%)": 21.59
             },
             {
-                "Team": "Pisa",
-                "Winning Chance (%)": 20.61
-            },
-            {
                 "Team": "Hellas Verona",
                 "Winning Chance (%)": 17.78
+            },
+            {
+                "Team": "Pisa",
+                "Winning Chance (%)": 16.97
             }
         ],
         "Ligue 1": [
             {
                 "Team": "PSG",
-                "Winning Chance (%)": 70.35
+                "Winning Chance (%)": 73.56
             },
             {
                 "Team": "Lens",
@@ -391,7 +391,7 @@
             },
             {
                 "Team": "Auxerre",
-                "Winning Chance (%)": 18.25
+                "Winning Chance (%)": 16.84
             },
             {
                 "Team": "Metz",
@@ -886,10 +886,6 @@
                 "Winning Chance (%)": 28.15
             },
             {
-                "Team": "Arouca",
-                "Winning Chance (%)": 25.19
-            },
-            {
                 "Team": "Santa Clara",
                 "Winning Chance (%)": 25.19
             },
@@ -898,8 +894,12 @@
                 "Winning Chance (%)": 25.19
             },
             {
+                "Team": "Arouca",
+                "Winning Chance (%)": 25.19
+            },
+            {
                 "Team": "Casa Pia",
-                "Winning Chance (%)": 20.74
+                "Winning Chance (%)": 23.86
             },
             {
                 "Team": "Tondela",
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 5.93
+                "Winning Chance (%)": 5.61
             }
         ],
         "EFL Championship": [
@@ -932,16 +932,16 @@
                 "Winning Chance (%)": 43.81
             },
             {
+                "Team": "Derby County",
+                "Winning Chance (%)": 41.66
+            },
+            {
                 "Team": "Preston North End",
                 "Winning Chance (%)": 43.75
             },
             {
                 "Team": "Watford",
                 "Winning Chance (%)": 43.88
-            },
-            {
-                "Team": "Derby County",
-                "Winning Chance (%)": 39.42
             },
             {
                 "Team": "Stoke City",
@@ -985,7 +985,7 @@
             },
             {
                 "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 29.43
+                "Winning Chance (%)": 28.51
             },
             {
                 "Team": "Norwich City",
