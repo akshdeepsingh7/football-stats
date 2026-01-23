@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 23 January 2026, 07:41 PM UTC",
-        "IST": "Saturday, 24 January 2026, 01:11 AM IST"
+        "UTC": "Friday, 23 January 2026, 08:20 PM UTC",
+        "IST": "Saturday, 24 January 2026, 01:50 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -117,7 +117,7 @@
             },
             {
                 "Team": "Elche",
-                "Winning Chance (%)": 32.4
+                "Winning Chance (%)": 35.09
             },
             {
                 "Team": "Real Sociedad",
@@ -161,7 +161,7 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 19.65
+                "Winning Chance (%)": 18.67
             },
             {
                 "Team": "Real Oviedo",
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 73.02
+                "Winning Chance (%)": 69.39
             },
             {
                 "Team": "Milan",
@@ -317,7 +317,7 @@
             },
             {
                 "Team": "Pisa",
-                "Winning Chance (%)": 17.78
+                "Winning Chance (%)": 20.61
             },
             {
                 "Team": "Hellas Verona",
@@ -940,16 +940,16 @@
                 "Winning Chance (%)": 43.88
             },
             {
+                "Team": "Derby County",
+                "Winning Chance (%)": 39.42
+            },
+            {
                 "Team": "Stoke City",
                 "Winning Chance (%)": 42.25
             },
             {
                 "Team": "Wrexham",
                 "Winning Chance (%)": 41.05
-            },
-            {
-                "Team": "Derby County",
-                "Winning Chance (%)": 39.85
             },
             {
                 "Team": "Bristol City",
@@ -985,7 +985,7 @@
             },
             {
                 "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 29.52
+                "Winning Chance (%)": 29.43
             },
             {
                 "Team": "Norwich City",
