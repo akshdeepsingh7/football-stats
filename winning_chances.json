@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 24 January 2026, 06:23 PM UTC",
-        "IST": "Saturday, 24 January 2026, 11:53 PM IST"
+        "UTC": "Saturday, 24 January 2026, 06:51 PM UTC",
+        "IST": "Sunday, 25 January 2026, 12:21 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -120,10 +120,6 @@
                 "Winning Chance (%)": 31.75
             },
             {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 31.75
-            },
-            {
                 "Team": "Elche",
                 "Winning Chance (%)": 30.48
             },
@@ -132,16 +128,20 @@
                 "Winning Chance (%)": 32.0
             },
             {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 30.48
+            },
+            {
                 "Team": "Girona",
                 "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Valencia",
                 "Winning Chance (%)": 29.21
-            },
-            {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 27.94
             },
             {
                 "Team": "Rayo Vallecano",
@@ -175,7 +175,7 @@
             },
             {
                 "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 66.55
+                "Winning Chance (%)": 66.95
             },
             {
                 "Team": "Hoffenheim",
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 80.96
+                "Winning Chance (%)": 84.17
             },
             {
                 "Team": "Benfica",
@@ -887,15 +887,15 @@
             },
             {
                 "Team": "Arouca",
-                "Winning Chance (%)": 25.26
-            },
-            {
-                "Team": "Nacional",
-                "Winning Chance (%)": 25.19
+                "Winning Chance (%)": 23.86
             },
             {
                 "Team": "Santa Clara",
                 "Winning Chance (%)": 23.86
+            },
+            {
+                "Team": "Nacional",
+                "Winning Chance (%)": 25.19
             },
             {
                 "Team": "Casa Pia",
