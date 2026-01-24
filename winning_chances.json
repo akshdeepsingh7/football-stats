@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 24 January 2026, 03:15 PM UTC",
-        "IST": "Saturday, 24 January 2026, 08:45 PM IST"
+        "UTC": "Saturday, 24 January 2026, 03:40 PM UTC",
+        "IST": "Saturday, 24 January 2026, 09:10 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -38,20 +38,20 @@
                 "Winning Chance (%)": 42.0
             },
             {
-                "Team": "Sunderland",
-                "Winning Chance (%)": 38.26
+                "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 39.86
             },
             {
-                "Team": "Fulham",
-                "Winning Chance (%)": 37.1
+                "Team": "Sunderland",
+                "Winning Chance (%)": 38.26
             },
             {
                 "Team": "Everton",
                 "Winning Chance (%)": 38.79
             },
             {
-                "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 37.14
+                "Team": "Fulham",
+                "Winning Chance (%)": 35.94
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Espanyol",
-                "Winning Chance (%)": 45.73
+                "Winning Chance (%)": 43.17
             },
             {
                 "Team": "Real Betis",
@@ -136,6 +136,10 @@
                 "Winning Chance (%)": 32.0
             },
             {
+                "Team": "Valencia",
+                "Winning Chance (%)": 29.21
+            },
+            {
                 "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 27.94
             },
@@ -150,10 +154,6 @@
             {
                 "Team": "Getafe",
                 "Winning Chance (%)": 28.0
-            },
-            {
-                "Team": "Valencia",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Alav\u00e9s",
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 55.28
+                "Winning Chance (%)": 56.88
             },
             {
                 "Team": "Juventus",
@@ -859,7 +859,7 @@
             },
             {
                 "Team": "Moreirense",
-                "Winning Chance (%)": 40.0
+                "Winning Chance (%)": 39.3
             },
             {
                 "Team": "Famalic\u00e3o",
@@ -886,11 +886,11 @@
                 "Winning Chance (%)": 28.15
             },
             {
-                "Team": "Arouca",
-                "Winning Chance (%)": 25.19
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 25.26
             },
             {
-                "Team": "Santa Clara",
+                "Team": "Arouca",
                 "Winning Chance (%)": 25.19
             },
             {
@@ -921,15 +921,15 @@
             },
             {
                 "Team": "Ipswich Town",
-                "Winning Chance (%)": 57.77
+                "Winning Chance (%)": 56.42
+            },
+            {
+                "Team": "Hull City",
+                "Winning Chance (%)": 50.82
             },
             {
                 "Team": "Millwall",
                 "Winning Chance (%)": 45.46
-            },
-            {
-                "Team": "Hull City",
-                "Winning Chance (%)": 48.11
             },
             {
                 "Team": "Watford",
@@ -968,16 +968,16 @@
                 "Winning Chance (%)": 34.94
             },
             {
-                "Team": "Swansea City",
-                "Winning Chance (%)": 34.02
-            },
-            {
                 "Team": "Southampton",
                 "Winning Chance (%)": 34.29
             },
             {
+                "Team": "Swansea City",
+                "Winning Chance (%)": 33.1
+            },
+            {
                 "Team": "Sheffield United",
-                "Winning Chance (%)": 31.43
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Charlton Athletic",
