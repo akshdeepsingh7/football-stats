@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 24 January 2026, 08:41 PM UTC",
-        "IST": "Sunday, 25 January 2026, 02:11 AM IST"
+        "UTC": "Saturday, 24 January 2026, 09:14 PM UTC",
+        "IST": "Sunday, 25 January 2026, 02:44 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -88,20 +88,20 @@
         ],
         "La Liga": [
             {
+                "Team": "Real Madrid",
+                "Winning Chance (%)": 75.56
+            },
+            {
                 "Team": "Barcelona",
                 "Winning Chance (%)": 78.13
             },
             {
-                "Team": "Real Madrid",
-                "Winning Chance (%)": 72.62
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 61.87
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 63.2
-            },
-            {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 61.87
+                "Winning Chance (%)": 61.47
             },
             {
                 "Team": "Espanyol",
@@ -862,16 +862,16 @@
                 "Winning Chance (%)": 42.11
             },
             {
+                "Team": "Vit\u00f3ria S.C.",
+                "Winning Chance (%)": 39.3
+            },
+            {
                 "Team": "Famalic\u00e3o",
                 "Winning Chance (%)": 41.32
             },
             {
-                "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 36.49
-            },
-            {
                 "Team": "Estoril",
-                "Winning Chance (%)": 35.28
+                "Winning Chance (%)": 33.48
             },
             {
                 "Team": "Alverca",
