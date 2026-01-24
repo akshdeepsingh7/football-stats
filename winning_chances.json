@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 24 January 2026, 01:27 PM UTC",
-        "IST": "Saturday, 24 January 2026, 06:57 PM IST"
+        "UTC": "Saturday, 24 January 2026, 01:48 PM UTC",
+        "IST": "Saturday, 24 January 2026, 07:18 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -116,6 +116,10 @@
                 "Winning Chance (%)": 45.87
             },
             {
+                "Team": "Osasuna",
+                "Winning Chance (%)": 31.75
+            },
+            {
                 "Team": "Elche",
                 "Winning Chance (%)": 30.48
             },
@@ -132,12 +136,8 @@
                 "Winning Chance (%)": 32.0
             },
             {
-                "Team": "Osasuna",
-                "Winning Chance (%)": 29.21
-            },
-            {
                 "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 29.21
+                "Winning Chance (%)": 27.94
             },
             {
                 "Team": "Sevilla",
@@ -917,7 +917,7 @@
             },
             {
                 "Team": "Middlesbrough",
-                "Winning Chance (%)": 56.97
+                "Winning Chance (%)": 57.37
             },
             {
                 "Team": "Ipswich Town",
@@ -933,7 +933,7 @@
             },
             {
                 "Team": "Preston North End",
-                "Winning Chance (%)": 41.14
+                "Winning Chance (%)": 40.74
             },
             {
                 "Team": "Watford",
