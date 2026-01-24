@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 24 January 2026, 04:48 PM UTC",
-        "IST": "Saturday, 24 January 2026, 10:18 PM IST"
+        "UTC": "Saturday, 24 January 2026, 05:14 PM UTC",
+        "IST": "Saturday, 24 January 2026, 10:44 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -30,6 +30,10 @@
                 "Winning Chance (%)": 46.01
             },
             {
+                "Team": "Fulham",
+                "Winning Chance (%)": 39.42
+            },
+            {
                 "Team": "Brentford",
                 "Winning Chance (%)": 42.0
             },
@@ -42,24 +46,20 @@
                 "Winning Chance (%)": 38.26
             },
             {
-                "Team": "Fulham",
-                "Winning Chance (%)": 37.1
-            },
-            {
                 "Team": "Everton",
                 "Winning Chance (%)": 38.79
             },
             {
                 "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 37.14
+                "Winning Chance (%)": 35.58
+            },
+            {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 33.26
             },
             {
                 "Team": "Crystal Palace",
                 "Winning Chance (%)": 33.94
-            },
-            {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 31.7
             },
             {
                 "Team": "AFC Bournemouth",
@@ -79,7 +79,7 @@
             },
             {
                 "Team": "Burnley",
-                "Winning Chance (%)": 19.71
+                "Winning Chance (%)": 17.39
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -296,12 +296,12 @@
                 "Winning Chance (%)": 29.21
             },
             {
-                "Team": "Torino",
+                "Team": "Cagliari",
                 "Winning Chance (%)": 27.88
             },
             {
-                "Team": "Cagliari",
-                "Winning Chance (%)": 27.94
+                "Team": "Torino",
+                "Winning Chance (%)": 27.88
             },
             {
                 "Team": "Genoa",
@@ -309,7 +309,7 @@
             },
             {
                 "Team": "Fiorentina",
-                "Winning Chance (%)": 21.59
+                "Winning Chance (%)": 21.82
             },
             {
                 "Team": "Lecce",
@@ -932,6 +932,10 @@
                 "Winning Chance (%)": 45.46
             },
             {
+                "Team": "Wrexham",
+                "Winning Chance (%)": 42.86
+            },
+            {
                 "Team": "Bristol City",
                 "Winning Chance (%)": 43.14
             },
@@ -944,10 +948,6 @@
                 "Winning Chance (%)": 40.74
             },
             {
-                "Team": "Queens Park Rangers",
-                "Winning Chance (%)": 39.54
-            },
-            {
                 "Team": "Stoke City",
                 "Winning Chance (%)": 41.82
             },
@@ -956,8 +956,8 @@
                 "Winning Chance (%)": 39.42
             },
             {
-                "Team": "Wrexham",
-                "Winning Chance (%)": 39.3
+                "Team": "Queens Park Rangers",
+                "Winning Chance (%)": 36.78
             },
             {
                 "Team": "Birmingham City",
