@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 24 January 2026, 06:51 PM UTC",
-        "IST": "Sunday, 25 January 2026, 12:21 AM IST"
+        "UTC": "Saturday, 24 January 2026, 07:13 PM UTC",
+        "IST": "Sunday, 25 January 2026, 12:43 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -19,7 +19,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 42.94
+                "Winning Chance (%)": 44.5
             },
             {
                 "Team": "Manchester United",
@@ -54,16 +54,16 @@
                 "Winning Chance (%)": 35.58
             },
             {
-                "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 34.78
-            },
-            {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 33.26
             },
             {
                 "Team": "Crystal Palace",
                 "Winning Chance (%)": 33.94
+            },
+            {
+                "Team": "AFC Bournemouth",
+                "Winning Chance (%)": 32.46
             },
             {
                 "Team": "Leeds United",
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 84.17
+                "Winning Chance (%)": 80.96
             },
             {
                 "Team": "Benfica",
@@ -887,15 +887,15 @@
             },
             {
                 "Team": "Arouca",
-                "Winning Chance (%)": 23.86
-            },
-            {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 23.86
+                "Winning Chance (%)": 25.26
             },
             {
                 "Team": "Nacional",
                 "Winning Chance (%)": 25.19
+            },
+            {
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 23.86
             },
             {
                 "Team": "Casa Pia",
