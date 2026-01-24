@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 24 January 2026, 04:19 PM UTC",
-        "IST": "Saturday, 24 January 2026, 09:49 PM IST"
+        "UTC": "Saturday, 24 January 2026, 04:48 PM UTC",
+        "IST": "Saturday, 24 January 2026, 10:18 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -38,28 +38,28 @@
                 "Winning Chance (%)": 42.0
             },
             {
-                "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 39.86
-            },
-            {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 38.26
+            },
+            {
+                "Team": "Fulham",
+                "Winning Chance (%)": 37.1
             },
             {
                 "Team": "Everton",
                 "Winning Chance (%)": 38.79
             },
             {
-                "Team": "Fulham",
-                "Winning Chance (%)": 35.94
-            },
-            {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 33.26
+                "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 37.14
             },
             {
                 "Team": "Crystal Palace",
                 "Winning Chance (%)": 33.94
+            },
+            {
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 31.7
             },
             {
                 "Team": "AFC Bournemouth",
@@ -79,7 +79,7 @@
             },
             {
                 "Team": "Burnley",
-                "Winning Chance (%)": 17.39
+                "Winning Chance (%)": 19.71
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -925,11 +925,15 @@
             },
             {
                 "Team": "Hull City",
-                "Winning Chance (%)": 50.82
+                "Winning Chance (%)": 50.42
             },
             {
                 "Team": "Millwall",
                 "Winning Chance (%)": 45.46
+            },
+            {
+                "Team": "Bristol City",
+                "Winning Chance (%)": 43.14
             },
             {
                 "Team": "Watford",
@@ -940,28 +944,24 @@
                 "Winning Chance (%)": 40.74
             },
             {
-                "Team": "Wrexham",
-                "Winning Chance (%)": 40.62
+                "Team": "Queens Park Rangers",
+                "Winning Chance (%)": 39.54
+            },
+            {
+                "Team": "Stoke City",
+                "Winning Chance (%)": 41.82
             },
             {
                 "Team": "Derby County",
                 "Winning Chance (%)": 39.42
             },
             {
-                "Team": "Bristol City",
-                "Winning Chance (%)": 40.5
-            },
-            {
-                "Team": "Stoke City",
-                "Winning Chance (%)": 40.5
+                "Team": "Wrexham",
+                "Winning Chance (%)": 39.3
             },
             {
                 "Team": "Birmingham City",
-                "Winning Chance (%)": 38.5
-            },
-            {
-                "Team": "Queens Park Rangers",
-                "Winning Chance (%)": 37.7
+                "Winning Chance (%)": 36.26
             },
             {
                 "Team": "Leicester City",
