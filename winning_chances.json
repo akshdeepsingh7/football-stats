@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 25 January 2026, 12:33 PM UTC",
-        "IST": "Sunday, 25 January 2026, 06:03 PM IST"
+        "UTC": "Sunday, 25 January 2026, 01:29 PM UTC",
+        "IST": "Sunday, 25 January 2026, 06:59 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -97,7 +97,7 @@
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 61.87
+                "Winning Chance (%)": 63.47
             },
             {
                 "Team": "Villarreal",
@@ -149,7 +149,7 @@
             },
             {
                 "Team": "Mallorca",
-                "Winning Chance (%)": 28.0
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Getafe",
@@ -960,16 +960,16 @@
                 "Winning Chance (%)": 36.78
             },
             {
+                "Team": "Southampton",
+                "Winning Chance (%)": 36.26
+            },
+            {
                 "Team": "Birmingham City",
                 "Winning Chance (%)": 36.26
             },
             {
                 "Team": "Leicester City",
                 "Winning Chance (%)": 34.94
-            },
-            {
-                "Team": "Southampton",
-                "Winning Chance (%)": 34.02
             },
             {
                 "Team": "Swansea City",
@@ -992,12 +992,12 @@
                 "Winning Chance (%)": 28.57
             },
             {
-                "Team": "Portsmouth",
-                "Winning Chance (%)": 29.63
-            },
-            {
                 "Team": "Blackburn Rovers",
                 "Winning Chance (%)": 27.62
+            },
+            {
+                "Team": "Portsmouth",
+                "Winning Chance (%)": 28.64
             },
             {
                 "Team": "Oxford United",
