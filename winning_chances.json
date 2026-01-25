@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 25 January 2026, 04:48 PM UTC",
-        "IST": "Sunday, 25 January 2026, 10:18 PM IST"
+        "UTC": "Sunday, 25 January 2026, 05:14 PM UTC",
+        "IST": "Sunday, 25 January 2026, 10:44 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 79.63
+                "Winning Chance (%)": 80.03
             },
             {
                 "Team": "Real Madrid",
@@ -253,7 +253,7 @@
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 60.2
+                "Winning Chance (%)": 58.93
             },
             {
                 "Team": "Roma",
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Juventus",
-                "Winning Chance (%)": 55.52
+                "Winning Chance (%)": 54.48
             },
             {
                 "Team": "Atalanta",
@@ -351,7 +351,7 @@
             },
             {
                 "Team": "Toulouse",
-                "Winning Chance (%)": 40.29
+                "Winning Chance (%)": 43.9
             },
             {
                 "Team": "Strasbourg",
@@ -366,12 +366,12 @@
                 "Winning Chance (%)": 33.68
             },
             {
-                "Team": "Brest",
+                "Team": "Angers",
                 "Winning Chance (%)": 32.28
             },
             {
-                "Team": "Angers",
-                "Winning Chance (%)": 32.28
+                "Team": "Brest",
+                "Winning Chance (%)": 30.88
             },
             {
                 "Team": "Nice",
