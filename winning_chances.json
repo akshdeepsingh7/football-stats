@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 25 January 2026, 07:36 PM UTC",
-        "IST": "Monday, 26 January 2026, 01:06 AM IST"
+        "UTC": "Sunday, 25 January 2026, 08:20 PM UTC",
+        "IST": "Monday, 26 January 2026, 01:50 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -109,7 +109,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 45.87
+                "Winning Chance (%)": 43.43
             },
             {
                 "Team": "Celta de Vigo",
@@ -144,6 +144,10 @@
                 "Winning Chance (%)": 29.21
             },
             {
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 27.94
+            },
+            {
                 "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 27.94
             },
@@ -154,10 +158,6 @@
             {
                 "Team": "Getafe",
                 "Winning Chance (%)": 28.0
-            },
-            {
-                "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 25.33
             },
             {
                 "Team": "Levante",
@@ -249,15 +249,15 @@
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 65.61
+                "Winning Chance (%)": 64.17
+            },
+            {
+                "Team": "Roma",
+                "Winning Chance (%)": 57.72
             },
             {
                 "Team": "Napoli",
                 "Winning Chance (%)": 56.52
-            },
-            {
-                "Team": "Roma",
-                "Winning Chance (%)": 58.93
             },
             {
                 "Team": "Juventus",
@@ -343,19 +343,19 @@
             },
             {
                 "Team": "Lille",
-                "Winning Chance (%)": 50.61
+                "Winning Chance (%)": 47.31
             },
             {
                 "Team": "Rennes",
                 "Winning Chance (%)": 44.71
             },
             {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 43.9
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 45.31
             },
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 42.4
+                "Team": "Toulouse",
+                "Winning Chance (%)": 43.9
             },
             {
                 "Team": "Lorient",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 75.16
+                "Winning Chance (%)": 75.56
             },
             {
                 "Team": "Gil Vicente",
@@ -863,7 +863,7 @@
             },
             {
                 "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 44.3
+                "Winning Chance (%)": 44.7
             },
             {
                 "Team": "Estoril",
