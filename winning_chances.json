@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 25 January 2026, 08:44 PM UTC",
-        "IST": "Monday, 26 January 2026, 02:14 AM IST"
+        "UTC": "Sunday, 25 January 2026, 09:15 PM UTC",
+        "IST": "Monday, 26 January 2026, 02:45 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -109,7 +109,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 43.43
+                "Winning Chance (%)": 43.03
             },
             {
                 "Team": "Celta de Vigo",
@@ -249,11 +249,7 @@
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 64.17
-            },
-            {
-                "Team": "Roma",
-                "Winning Chance (%)": 57.72
+                "Winning Chance (%)": 66.99
             },
             {
                 "Team": "Napoli",
@@ -262,6 +258,10 @@
             {
                 "Team": "Juventus",
                 "Winning Chance (%)": 58.11
+            },
+            {
+                "Team": "Roma",
+                "Winning Chance (%)": 56.11
             },
             {
                 "Team": "Como",
@@ -343,7 +343,7 @@
             },
             {
                 "Team": "Lille",
-                "Winning Chance (%)": 47.31
+                "Winning Chance (%)": 46.91
             },
             {
                 "Team": "Rennes",
@@ -351,7 +351,7 @@
             },
             {
                 "Team": "Strasbourg",
-                "Winning Chance (%)": 45.31
+                "Winning Chance (%)": 45.71
             },
             {
                 "Team": "Toulouse",
@@ -850,12 +850,12 @@
                 "Winning Chance (%)": 75.56
             },
             {
-                "Team": "Gil Vicente",
-                "Winning Chance (%)": 50.33
+                "Team": "Braga",
+                "Winning Chance (%)": 53.12
             },
             {
-                "Team": "Braga",
-                "Winning Chance (%)": 49.11
+                "Team": "Gil Vicente",
+                "Winning Chance (%)": 50.33
             },
             {
                 "Team": "Moreirense",
@@ -875,7 +875,7 @@
             },
             {
                 "Team": "Alverca",
-                "Winning Chance (%)": 33.68
+                "Winning Chance (%)": 32.28
             },
             {
                 "Team": "Nacional",
