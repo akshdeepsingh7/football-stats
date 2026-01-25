@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 25 January 2026, 01:29 PM UTC",
-        "IST": "Sunday, 25 January 2026, 06:59 PM IST"
+        "UTC": "Sunday, 25 January 2026, 01:50 PM UTC",
+        "IST": "Sunday, 25 January 2026, 07:20 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -960,16 +960,16 @@
                 "Winning Chance (%)": 36.78
             },
             {
-                "Team": "Southampton",
-                "Winning Chance (%)": 36.26
-            },
-            {
                 "Team": "Birmingham City",
                 "Winning Chance (%)": 36.26
             },
             {
                 "Team": "Leicester City",
                 "Winning Chance (%)": 34.94
+            },
+            {
+                "Team": "Southampton",
+                "Winning Chance (%)": 34.02
             },
             {
                 "Team": "Swansea City",
@@ -992,12 +992,12 @@
                 "Winning Chance (%)": 28.57
             },
             {
-                "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 27.62
+                "Team": "Portsmouth",
+                "Winning Chance (%)": 29.63
             },
             {
-                "Team": "Portsmouth",
-                "Winning Chance (%)": 28.64
+                "Team": "Blackburn Rovers",
+                "Winning Chance (%)": 27.62
             },
             {
                 "Team": "Oxford United",
