@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 26 January 2026, 09:19 PM UTC",
-        "IST": "Tuesday, 27 January 2026, 02:49 AM IST"
+        "UTC": "Monday, 26 January 2026, 09:45 PM UTC",
+        "IST": "Tuesday, 27 January 2026, 03:15 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -42,12 +42,12 @@
                 "Winning Chance (%)": 39.46
             },
             {
-                "Team": "Sunderland",
+                "Team": "Everton",
                 "Winning Chance (%)": 38.26
             },
             {
-                "Team": "Everton",
-                "Winning Chance (%)": 37.1
+                "Team": "Sunderland",
+                "Winning Chance (%)": 38.26
             },
             {
                 "Team": "Brighton & Hove Albion",
@@ -67,7 +67,7 @@
             },
             {
                 "Team": "Leeds United",
-                "Winning Chance (%)": 32.46
+                "Winning Chance (%)": 30.14
             },
             {
                 "Team": "Nottingham Forest",
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 66.25
+                "Winning Chance (%)": 64.93
             },
             {
                 "Team": "Middlesbrough",
@@ -980,16 +980,16 @@
                 "Winning Chance (%)": 33.33
             },
             {
+                "Team": "Norwich City",
+                "Winning Chance (%)": 30.34
+            },
+            {
                 "Team": "Charlton Athletic",
                 "Winning Chance (%)": 30.48
             },
             {
                 "Team": "West Bromwich Albion",
                 "Winning Chance (%)": 29.43
-            },
-            {
-                "Team": "Norwich City",
-                "Winning Chance (%)": 28.51
             },
             {
                 "Team": "Portsmouth",
