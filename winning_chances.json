@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 26 January 2026, 08:48 PM UTC",
-        "IST": "Tuesday, 27 January 2026, 02:18 AM IST"
+        "UTC": "Monday, 26 January 2026, 09:19 PM UTC",
+        "IST": "Tuesday, 27 January 2026, 02:49 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -124,10 +124,6 @@
                 "Winning Chance (%)": 31.75
             },
             {
-                "Team": "Girona",
-                "Winning Chance (%)": 31.75
-            },
-            {
                 "Team": "Elche",
                 "Winning Chance (%)": 30.48
             },
@@ -140,6 +136,14 @@
                 "Winning Chance (%)": 30.48
             },
             {
+                "Team": "Getafe",
+                "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "Girona",
+                "Winning Chance (%)": 30.48
+            },
+            {
                 "Team": "Valencia",
                 "Winning Chance (%)": 29.21
             },
@@ -149,10 +153,6 @@
             },
             {
                 "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 27.94
-            },
-            {
-                "Team": "Getafe",
                 "Winning Chance (%)": 27.94
             },
             {
@@ -281,7 +281,7 @@
             },
             {
                 "Team": "Udinese",
-                "Winning Chance (%)": 32.73
+                "Winning Chance (%)": 35.15
             },
             {
                 "Team": "Sassuolo",
@@ -316,11 +316,11 @@
                 "Winning Chance (%)": 20.61
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 18.18
+                "Team": "Pisa",
+                "Winning Chance (%)": 16.97
             },
             {
-                "Team": "Pisa",
+                "Team": "Hellas Verona",
                 "Winning Chance (%)": 16.97
             }
         ],
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 87.59
+                "Winning Chance (%)": 90.79
             },
             {
                 "Team": "Sporting CP",
@@ -855,7 +855,7 @@
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 49.31
+                "Winning Chance (%)": 47.51
             },
             {
                 "Team": "Moreirense",
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 68.49
+                "Winning Chance (%)": 66.25
             },
             {
                 "Team": "Middlesbrough",
@@ -989,7 +989,7 @@
             },
             {
                 "Team": "Norwich City",
-                "Winning Chance (%)": 27.59
+                "Winning Chance (%)": 28.51
             },
             {
                 "Team": "Portsmouth",
