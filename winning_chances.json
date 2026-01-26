@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 26 January 2026, 09:45 PM UTC",
-        "IST": "Tuesday, 27 January 2026, 03:15 AM IST"
+        "UTC": "Monday, 26 January 2026, 10:17 PM UTC",
+        "IST": "Tuesday, 27 January 2026, 03:47 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -124,6 +124,10 @@
                 "Winning Chance (%)": 31.75
             },
             {
+                "Team": "Girona",
+                "Winning Chance (%)": 31.75
+            },
+            {
                 "Team": "Elche",
                 "Winning Chance (%)": 30.48
             },
@@ -136,14 +140,6 @@
                 "Winning Chance (%)": 30.48
             },
             {
-                "Team": "Getafe",
-                "Winning Chance (%)": 30.48
-            },
-            {
-                "Team": "Girona",
-                "Winning Chance (%)": 30.48
-            },
-            {
                 "Team": "Valencia",
                 "Winning Chance (%)": 29.21
             },
@@ -153,6 +149,10 @@
             },
             {
                 "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 27.94
+            },
+            {
+                "Team": "Getafe",
                 "Winning Chance (%)": 27.94
             },
             {
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 90.79
+                "Winning Chance (%)": 91.59
             },
             {
                 "Team": "Sporting CP",
@@ -855,7 +855,7 @@
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 47.51
+                "Winning Chance (%)": 46.71
             },
             {
                 "Team": "Moreirense",
