@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 28 January 2026, 11:21 PM UTC",
-        "IST": "Thursday, 29 January 2026, 04:51 AM IST"
+        "UTC": "Wednesday, 28 January 2026, 11:47 PM UTC",
+        "IST": "Thursday, 29 January 2026, 05:17 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1064,11 +1064,11 @@
         ],
         "Brasileir\u00e3o": [
             {
-                "Team": "Chapecoense",
-                "Winning Chance (%)": 80.4
+                "Team": "Vit\u00f3ria",
+                "Winning Chance (%)": 80.8
             },
             {
-                "Team": "Corinthians",
+                "Team": "Bahia",
                 "Winning Chance (%)": 80.4
             },
             {
@@ -1076,27 +1076,19 @@
                 "Winning Chance (%)": 80.4
             },
             {
-                "Team": "Palmeiras",
-                "Winning Chance (%)": 26.67
+                "Team": "Chapecoense",
+                "Winning Chance (%)": 80.4
+            },
+            {
+                "Team": "Fluminense",
+                "Winning Chance (%)": 80.4
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Fluminense",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Gr\u00eamio",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Remo",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Vit\u00f3ria",
+                "Team": "Palmeiras",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -1132,7 +1124,11 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Bahia",
+                "Team": "Corinthians",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Gr\u00eamio",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -1141,6 +1137,10 @@
             },
             {
                 "Team": "Santos",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Remo",
                 "Winning Chance (%)": 0.0
             }
         ]
