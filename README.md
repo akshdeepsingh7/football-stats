@@ -10,7 +10,7 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Wednesday, 28 January 2026, 09:25 PM UTC (Thursday, 29 January 2026, 02:55 AM IST)
+**Last Updated:** Wednesday, 28 January 2026, 09:52 PM UTC (Thursday, 29 January 2026, 03:22 AM IST)
 
 _Charts are sorted by Winning Chance (%)_
 
@@ -34,10 +34,6 @@ _Charts are sorted by Winning Chance (%)_
 
 ![Ligue 1 Winning Chances](images/Ligue_1_winning_chances.png)
 
-### Champions League
-
-![Champions League Winning Chances](images/Champions_League_winning_chances.png)
-
 ### Europa League
 
 ![Europa League Winning Chances](images/Europa_League_winning_chances.png)
@@ -50,9 +46,9 @@ _Charts are sorted by Winning Chance (%)_
 
 ![Liga Portugal Winning Chances](images/Liga_Portugal_winning_chances.png)
 
-### EFL Championship
+### Indian Super League
 
-![EFL Championship Winning Chances](images/EFL_Championship_winning_chances.png)
+![Indian Super League Winning Chances](images/Indian_Super_League_winning_chances.png)
 
 ### Brasileirão
 
