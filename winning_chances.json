@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 28 January 2026, 11:47 PM UTC",
-        "IST": "Thursday, 29 January 2026, 05:17 AM IST"
+        "UTC": "Thursday, 29 January 2026, 01:41 AM UTC",
+        "IST": "Thursday, 29 January 2026, 07:11 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1064,8 +1064,16 @@
         ],
         "Brasileir\u00e3o": [
             {
+                "Team": "Chapecoense",
+                "Winning Chance (%)": 80.8
+            },
+            {
                 "Team": "Vit\u00f3ria",
                 "Winning Chance (%)": 80.8
+            },
+            {
+                "Team": "Fluminense",
+                "Winning Chance (%)": 80.4
             },
             {
                 "Team": "Bahia",
@@ -1076,27 +1084,23 @@
                 "Winning Chance (%)": 80.4
             },
             {
-                "Team": "Chapecoense",
+                "Team": "RB Bragantino",
                 "Winning Chance (%)": 80.4
-            },
-            {
-                "Team": "Fluminense",
-                "Winning Chance (%)": 80.4
-            },
-            {
-                "Team": "Atl\u00e9tico Mineiro",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Palmeiras",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "RB Bragantino",
+                "Team": "Atl\u00e9tico Mineiro",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Coritiba",
+                "Team": "Flamengo",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "S\u00e3o Paulo",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -1108,15 +1112,7 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Flamengo",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Mirassol",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "S\u00e3o Paulo",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -1124,15 +1120,19 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Corinthians",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Gr\u00eamio",
                 "Winning Chance (%)": 0.0
             },
             {
+                "Team": "Corinthians",
+                "Winning Chance (%)": 0.0
+            },
+            {
                 "Team": "Internacional",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Coritiba",
                 "Winning Chance (%)": 0.0
             },
             {
