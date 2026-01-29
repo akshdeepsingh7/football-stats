@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 29 January 2026, 01:41 AM UTC",
-        "IST": "Thursday, 29 January 2026, 07:11 AM IST"
+        "UTC": "Thursday, 29 January 2026, 04:03 AM UTC",
+        "IST": "Thursday, 29 January 2026, 09:33 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1072,6 +1072,10 @@
                 "Winning Chance (%)": 80.8
             },
             {
+                "Team": "S\u00e3o Paulo",
+                "Winning Chance (%)": 80.4
+            },
+            {
                 "Team": "Fluminense",
                 "Winning Chance (%)": 80.4
             },
@@ -1096,14 +1100,6 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Flamengo",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "S\u00e3o Paulo",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Botafogo",
                 "Winning Chance (%)": 0.0
             },
@@ -1125,6 +1121,10 @@
             },
             {
                 "Team": "Corinthians",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Flamengo",
                 "Winning Chance (%)": 0.0
             },
             {
