@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 29 January 2026, 11:47 PM UTC",
-        "IST": "Friday, 30 January 2026, 05:17 AM IST"
+        "UTC": "Friday, 30 January 2026, 01:29 AM UTC",
+        "IST": "Friday, 30 January 2026, 06:59 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1080,6 +1080,10 @@
                 "Winning Chance (%)": 80.4
             },
             {
+                "Team": "Mirassol",
+                "Winning Chance (%)": 80.4
+            },
+            {
                 "Team": "Bahia",
                 "Winning Chance (%)": 80.4
             },
@@ -1100,19 +1104,15 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Mirassol",
+                "Team": "Botafogo",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Cruzeiro",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Vasco da Gama",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Botafogo",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Cruzeiro",
                 "Winning Chance (%)": 0.0
             },
             {
