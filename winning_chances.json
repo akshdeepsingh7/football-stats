@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 31 January 2026, 09:42 PM UTC",
-        "IST": "Sunday, 01 February 2026, 03:12 AM IST"
+        "UTC": "Saturday, 31 January 2026, 10:18 PM UTC",
+        "IST": "Sunday, 01 February 2026, 03:48 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -23,7 +23,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 45.33
+                "Winning Chance (%)": 45.73
             },
             {
                 "Team": "Manchester United",
@@ -43,7 +43,7 @@
             },
             {
                 "Team": "Newcastle United",
-                "Winning Chance (%)": 37.07
+                "Winning Chance (%)": 36.67
             },
             {
                 "Team": "Sunderland",
@@ -875,7 +875,11 @@
             },
             {
                 "Team": "Alverca",
-                "Winning Chance (%)": 32.0
+                "Winning Chance (%)": 30.67
+            },
+            {
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Arouca",
@@ -887,10 +891,6 @@
             },
             {
                 "Team": "Rio Ave",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Estrela Amadora",
                 "Winning Chance (%)": 26.67
             },
             {
