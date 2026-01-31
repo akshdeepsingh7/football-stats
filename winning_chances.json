@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 31 January 2026, 10:18 PM UTC",
-        "IST": "Sunday, 01 February 2026, 03:48 AM IST"
+        "UTC": "Saturday, 31 January 2026, 10:47 PM UTC",
+        "IST": "Sunday, 01 February 2026, 04:17 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -875,11 +875,7 @@
             },
             {
                 "Team": "Alverca",
-                "Winning Chance (%)": 30.67
-            },
-            {
-                "Team": "Estrela Amadora",
-                "Winning Chance (%)": 29.33
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Arouca",
@@ -891,6 +887,10 @@
             },
             {
                 "Team": "Rio Ave",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Estrela Amadora",
                 "Winning Chance (%)": 26.67
             },
             {
