@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 31 January 2026, 12:36 PM UTC",
-        "IST": "Saturday, 31 January 2026, 06:06 PM IST"
+        "UTC": "Saturday, 31 January 2026, 01:37 PM UTC",
+        "IST": "Saturday, 31 January 2026, 07:07 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -120,16 +120,16 @@
                 "Winning Chance (%)": 34.29
             },
             {
+                "Team": "Girona",
+                "Winning Chance (%)": 31.52
+            },
+            {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 31.75
             },
             {
                 "Team": "Alav\u00e9s",
                 "Winning Chance (%)": 30.3
-            },
-            {
-                "Team": "Girona",
-                "Winning Chance (%)": 31.75
             },
             {
                 "Team": "Elche",
@@ -165,7 +165,7 @@
             },
             {
                 "Team": "Real Oviedo",
-                "Winning Chance (%)": 16.51
+                "Winning Chance (%)": 16.97
             }
         ],
         "Bundesliga": [
@@ -940,10 +940,6 @@
                 "Winning Chance (%)": 42.4
             },
             {
-                "Team": "Stoke City",
-                "Winning Chance (%)": 41.42
-            },
-            {
                 "Team": "Watford",
                 "Winning Chance (%)": 43.35
             },
@@ -956,6 +952,14 @@
                 "Winning Chance (%)": 40.74
             },
             {
+                "Team": "Stoke City",
+                "Winning Chance (%)": 40.13
+            },
+            {
+                "Team": "Southampton",
+                "Winning Chance (%)": 35.96
+            },
+            {
                 "Team": "Queens Park Rangers",
                 "Winning Chance (%)": 36.78
             },
@@ -965,10 +969,6 @@
             },
             {
                 "Team": "Leicester City",
-                "Winning Chance (%)": 34.67
-            },
-            {
-                "Team": "Southampton",
                 "Winning Chance (%)": 33.78
             },
             {
@@ -980,11 +980,11 @@
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Norwich City",
-                "Winning Chance (%)": 30.34
+                "Team": "Charlton Athletic",
+                "Winning Chance (%)": 32.18
             },
             {
-                "Team": "Charlton Athletic",
+                "Team": "Norwich City",
                 "Winning Chance (%)": 30.34
             },
             {
