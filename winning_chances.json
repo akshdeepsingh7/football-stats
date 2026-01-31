@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 31 January 2026, 08:19 PM UTC",
-        "IST": "Sunday, 01 February 2026, 01:49 AM IST"
+        "UTC": "Saturday, 31 January 2026, 08:47 PM UTC",
+        "IST": "Sunday, 01 February 2026, 02:17 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -22,16 +22,12 @@
                 "Winning Chance (%)": 50.44
             },
             {
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 44.93
+            },
+            {
                 "Team": "Manchester United",
                 "Winning Chance (%)": 46.86
-            },
-            {
-                "Team": "Liverpool FC",
-                "Winning Chance (%)": 42.31
-            },
-            {
-                "Team": "Newcastle United",
-                "Winning Chance (%)": 38.98
             },
             {
                 "Team": "Fulham",
@@ -44,6 +40,10 @@
             {
                 "Team": "Brentford",
                 "Winning Chance (%)": 39.46
+            },
+            {
+                "Team": "Newcastle United",
+                "Winning Chance (%)": 37.47
             },
             {
                 "Team": "Sunderland",
@@ -289,7 +289,7 @@
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 30.14
+                "Winning Chance (%)": 32.46
             },
             {
                 "Team": "Cremonese",
@@ -316,11 +316,11 @@
                 "Winning Chance (%)": 19.71
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 17.39
+                "Team": "Pisa",
+                "Winning Chance (%)": 16.23
             },
             {
-                "Team": "Pisa",
+                "Team": "Hellas Verona",
                 "Winning Chance (%)": 16.23
             }
         ],
@@ -347,7 +347,7 @@
             },
             {
                 "Team": "Rennes",
-                "Winning Chance (%)": 43.87
+                "Winning Chance (%)": 42.13
             },
             {
                 "Team": "Strasbourg",
@@ -363,7 +363,7 @@
             },
             {
                 "Team": "Monaco",
-                "Winning Chance (%)": 33.33
+                "Winning Chance (%)": 36.0
             },
             {
                 "Team": "Angers",
@@ -875,7 +875,7 @@
             },
             {
                 "Team": "Alverca",
-                "Winning Chance (%)": 32.28
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Arouca",
