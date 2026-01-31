@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 31 January 2026, 11:41 AM UTC",
-        "IST": "Saturday, 31 January 2026, 05:11 PM IST"
+        "UTC": "Saturday, 31 January 2026, 12:36 PM UTC",
+        "IST": "Saturday, 31 January 2026, 06:06 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -937,7 +937,11 @@
             },
             {
                 "Team": "Wrexham",
-                "Winning Chance (%)": 42.86
+                "Winning Chance (%)": 42.4
+            },
+            {
+                "Team": "Stoke City",
+                "Winning Chance (%)": 41.42
             },
             {
                 "Team": "Watford",
@@ -952,10 +956,6 @@
                 "Winning Chance (%)": 40.74
             },
             {
-                "Team": "Stoke City",
-                "Winning Chance (%)": 41.82
-            },
-            {
                 "Team": "Queens Park Rangers",
                 "Winning Chance (%)": 36.78
             },
@@ -965,11 +965,11 @@
             },
             {
                 "Team": "Leicester City",
-                "Winning Chance (%)": 34.94
+                "Winning Chance (%)": 34.67
             },
             {
                 "Team": "Southampton",
-                "Winning Chance (%)": 34.02
+                "Winning Chance (%)": 33.78
             },
             {
                 "Team": "Swansea City",
@@ -985,7 +985,7 @@
             },
             {
                 "Team": "Charlton Athletic",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 30.34
             },
             {
                 "Team": "West Bromwich Albion",
