@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 31 January 2026, 05:19 PM UTC",
-        "IST": "Saturday, 31 January 2026, 10:49 PM IST"
+        "UTC": "Saturday, 31 January 2026, 05:47 PM UTC",
+        "IST": "Saturday, 31 January 2026, 11:17 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -23,7 +23,7 @@
             },
             {
                 "Team": "Chelsea",
-                "Winning Chance (%)": 48.5
+                "Winning Chance (%)": 46.31
             },
             {
                 "Team": "Liverpool FC",
@@ -75,7 +75,7 @@
             },
             {
                 "Team": "West Ham United",
-                "Winning Chance (%)": 23.19
+                "Winning Chance (%)": 25.56
             },
             {
                 "Team": "Burnley",
@@ -97,7 +97,7 @@
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 64.27
+                "Winning Chance (%)": 62.95
             },
             {
                 "Team": "Villarreal",
@@ -161,7 +161,7 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 22.67
+                "Winning Chance (%)": 22.86
             },
             {
                 "Team": "Real Oviedo",
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 90.18
+                "Winning Chance (%)": 88.0
             },
             {
                 "Team": "Borussia Dortmund",
@@ -218,6 +218,10 @@
                 "Winning Chance (%)": 28.0
             },
             {
+                "Team": "Hamburg",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "VfL Wolfsburg",
                 "Winning Chance (%)": 25.33
             },
@@ -228,10 +232,6 @@
             {
                 "Team": "Mainz 05",
                 "Winning Chance (%)": 24.0
-            },
-            {
-                "Team": "Hamburg",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "St. Pauli",
@@ -335,7 +335,7 @@
             },
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 65.07
+                "Winning Chance (%)": 64.67
             },
             {
                 "Team": "Lyon",
@@ -378,11 +378,11 @@
                 "Winning Chance (%)": 29.47
             },
             {
-                "Team": "Le Havre",
+                "Team": "Paris FC",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Paris FC",
+                "Team": "Le Havre",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -867,7 +867,7 @@
             },
             {
                 "Team": "Estoril",
-                "Winning Chance (%)": 41.47
+                "Winning Chance (%)": 41.87
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
