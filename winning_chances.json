@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 05:20 PM UTC",
-        "IST": "Sunday, 01 February 2026, 10:50 PM IST"
+        "UTC": "Sunday, 01 February 2026, 05:49 PM UTC",
+        "IST": "Sunday, 01 February 2026, 11:19 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -11,7 +11,7 @@
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 65.64
+                "Winning Chance (%)": 65.24
             },
             {
                 "Team": "Aston Villa",
@@ -63,7 +63,7 @@
             },
             {
                 "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 31.11
+                "Winning Chance (%)": 31.51
             },
             {
                 "Team": "Leeds United",
@@ -113,7 +113,7 @@
             },
             {
                 "Team": "Celta de Vigo",
-                "Winning Chance (%)": 43.03
+                "Winning Chance (%)": 42.4
             },
             {
                 "Team": "Real Sociedad",
@@ -149,7 +149,7 @@
             },
             {
                 "Team": "Getafe",
-                "Winning Chance (%)": 27.94
+                "Winning Chance (%)": 27.88
             },
             {
                 "Team": "Rayo Vallecano",
@@ -174,11 +174,11 @@
                 "Winning Chance (%)": 88.0
             },
             {
-                "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 68.8
+                "Team": "Hoffenheim",
+                "Winning Chance (%)": 64.0
             },
             {
-                "Team": "Hoffenheim",
+                "Team": "Borussia Dortmund",
                 "Winning Chance (%)": 64.0
             },
             {
@@ -234,18 +234,18 @@
                 "Winning Chance (%)": 24.0
             },
             {
-                "Team": "St. Pauli",
-                "Winning Chance (%)": 18.67
+                "Team": "Heidenheim",
+                "Winning Chance (%)": 21.33
             },
             {
-                "Team": "Heidenheim",
-                "Winning Chance (%)": 17.33
+                "Team": "St. Pauli",
+                "Winning Chance (%)": 18.67
             }
         ],
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 76.57
+                "Winning Chance (%)": 76.97
             },
             {
                 "Team": "Milan",
@@ -371,14 +371,14 @@
             },
             {
                 "Team": "Brest",
-                "Winning Chance (%)": 33.33
-            },
-            {
-                "Team": "Paris FC",
-                "Winning Chance (%)": 28.0
+                "Winning Chance (%)": 30.67
             },
             {
                 "Team": "Nice",
+                "Winning Chance (%)": 29.33
+            },
+            {
+                "Team": "Paris FC",
                 "Winning Chance (%)": 28.0
             },
             {
@@ -851,7 +851,7 @@
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 50.13
+                "Winning Chance (%)": 50.53
             },
             {
                 "Team": "Braga",
@@ -863,7 +863,7 @@
             },
             {
                 "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 41.07
+                "Winning Chance (%)": 40.67
             },
             {
                 "Team": "Estoril",
