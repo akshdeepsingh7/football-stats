@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 08:20 PM UTC",
-        "IST": "Monday, 02 February 2026, 01:50 AM IST"
+        "UTC": "Sunday, 01 February 2026, 08:48 PM UTC",
+        "IST": "Monday, 02 February 2026, 02:18 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -117,7 +117,7 @@
             },
             {
                 "Team": "Real Sociedad",
-                "Winning Chance (%)": 33.94
+                "Winning Chance (%)": 36.76
             },
             {
                 "Team": "Osasuna",
@@ -125,10 +125,6 @@
             },
             {
                 "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 30.3
-            },
-            {
-                "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 30.3
             },
             {
@@ -142,6 +138,10 @@
             {
                 "Team": "Sevilla",
                 "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 29.09
             },
             {
                 "Team": "Valencia",
@@ -257,7 +257,7 @@
             },
             {
                 "Team": "Juventus",
-                "Winning Chance (%)": 59.77
+                "Winning Chance (%)": 60.17
             },
             {
                 "Team": "Roma",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 75.56
+                "Winning Chance (%)": 73.73
             },
             {
                 "Team": "Gil Vicente",
@@ -903,7 +903,7 @@
             },
             {
                 "Team": "Tondela",
-                "Winning Chance (%)": 16.84
+                "Winning Chance (%)": 17.33
             },
             {
                 "Team": "AVS",
