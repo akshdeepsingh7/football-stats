@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 01:39 PM UTC",
-        "IST": "Sunday, 01 February 2026, 07:09 PM IST"
+        "UTC": "Sunday, 01 February 2026, 02:21 PM UTC",
+        "IST": "Sunday, 01 February 2026, 07:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -10,12 +10,16 @@
                 "Winning Chance (%)": 70.49
             },
             {
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 56.22
+            },
+            {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 63.73
             },
             {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 57.33
+                "Team": "Manchester United",
+                "Winning Chance (%)": 48.76
             },
             {
                 "Team": "Chelsea",
@@ -26,20 +30,16 @@
                 "Winning Chance (%)": 45.73
             },
             {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 46.86
+                "Team": "Brentford",
+                "Winning Chance (%)": 38.98
             },
             {
                 "Team": "Fulham",
-                "Winning Chance (%)": 39.42
+                "Winning Chance (%)": 37.78
             },
             {
                 "Team": "Everton",
                 "Winning Chance (%)": 37.78
-            },
-            {
-                "Team": "Brentford",
-                "Winning Chance (%)": 39.46
             },
             {
                 "Team": "Newcastle United",
@@ -63,15 +63,15 @@
             },
             {
                 "Team": "Crystal Palace",
-                "Winning Chance (%)": 32.46
+                "Winning Chance (%)": 31.11
+            },
+            {
+                "Team": "Nottingham Forest",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Leeds United",
                 "Winning Chance (%)": 28.89
-            },
-            {
-                "Team": "Nottingham Forest",
-                "Winning Chance (%)": 28.99
             },
             {
                 "Team": "West Ham United",
@@ -93,7 +93,7 @@
             },
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 77.05
+                "Winning Chance (%)": 74.23
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
@@ -148,12 +148,12 @@
                 "Winning Chance (%)": 29.21
             },
             {
-                "Team": "Getafe",
-                "Winning Chance (%)": 27.94
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 27.88
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 26.67
+                "Team": "Getafe",
+                "Winning Chance (%)": 27.94
             },
             {
                 "Team": "Mallorca",
@@ -265,11 +265,11 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 56.88
+                "Winning Chance (%)": 55.94
             },
             {
                 "Team": "Atalanta",
-                "Winning Chance (%)": 46.42
+                "Winning Chance (%)": 45.74
             },
             {
                 "Team": "Lazio",
@@ -339,11 +339,11 @@
             },
             {
                 "Team": "Lyon",
-                "Winning Chance (%)": 55.33
+                "Winning Chance (%)": 54.13
             },
             {
                 "Team": "Lille",
-                "Winning Chance (%)": 46.91
+                "Winning Chance (%)": 46.0
             },
             {
                 "Team": "Rennes",
