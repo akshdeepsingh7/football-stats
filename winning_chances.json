@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 03:47 PM UTC",
-        "IST": "Sunday, 01 February 2026, 09:17 PM IST"
+        "UTC": "Sunday, 01 February 2026, 04:23 PM UTC",
+        "IST": "Sunday, 01 February 2026, 09:53 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -183,7 +183,7 @@
             },
             {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 53.33
+                "Winning Chance (%)": 56.4
             },
             {
                 "Team": "RB Leipzig",
@@ -195,7 +195,7 @@
             },
             {
                 "Team": "SC Freiburg",
-                "Winning Chance (%)": 37.33
+                "Winning Chance (%)": 36.0
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -355,7 +355,7 @@
             },
             {
                 "Team": "Toulouse",
-                "Winning Chance (%)": 43.9
+                "Winning Chance (%)": 43.2
             },
             {
                 "Team": "Lorient",
@@ -367,19 +367,19 @@
             },
             {
                 "Team": "Angers",
-                "Winning Chance (%)": 32.28
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Brest",
-                "Winning Chance (%)": 30.88
+                "Winning Chance (%)": 30.67
+            },
+            {
+                "Team": "Nice",
+                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Paris FC",
                 "Winning Chance (%)": 28.0
-            },
-            {
-                "Team": "Nice",
-                "Winning Chance (%)": 29.47
             },
             {
                 "Team": "Le Havre",
@@ -391,11 +391,11 @@
             },
             {
                 "Team": "Auxerre",
-                "Winning Chance (%)": 16.84
+                "Winning Chance (%)": 17.33
             },
             {
                 "Team": "Metz",
-                "Winning Chance (%)": 16.84
+                "Winning Chance (%)": 17.33
             }
         ],
         "Champions League": [
@@ -850,20 +850,20 @@
                 "Winning Chance (%)": 75.56
             },
             {
+                "Team": "Gil Vicente",
+                "Winning Chance (%)": 48.93
+            },
+            {
                 "Team": "Braga",
                 "Winning Chance (%)": 53.92
             },
             {
-                "Team": "Gil Vicente",
-                "Winning Chance (%)": 45.87
+                "Team": "Moreirense",
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 44.0
-            },
-            {
-                "Team": "Moreirense",
-                "Winning Chance (%)": 40.0
+                "Winning Chance (%)": 42.27
             },
             {
                 "Team": "Estoril",
