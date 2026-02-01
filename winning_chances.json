@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 03:19 PM UTC",
-        "IST": "Sunday, 01 February 2026, 08:49 PM IST"
+        "UTC": "Sunday, 01 February 2026, 03:47 PM UTC",
+        "IST": "Sunday, 01 February 2026, 09:17 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -19,7 +19,7 @@
             },
             {
                 "Team": "Manchester United",
-                "Winning Chance (%)": 49.16
+                "Winning Chance (%)": 48.76
             },
             {
                 "Team": "Chelsea",
@@ -34,11 +34,11 @@
                 "Winning Chance (%)": 41.6
             },
             {
-                "Team": "Everton",
+                "Team": "Fulham",
                 "Winning Chance (%)": 37.78
             },
             {
-                "Team": "Fulham",
+                "Team": "Everton",
                 "Winning Chance (%)": 37.78
             },
             {
@@ -109,7 +109,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 43.43
+                "Winning Chance (%)": 42.8
             },
             {
                 "Team": "Celta de Vigo",
@@ -145,7 +145,7 @@
             },
             {
                 "Team": "Valencia",
-                "Winning Chance (%)": 29.21
+                "Winning Chance (%)": 29.09
             },
             {
                 "Team": "Getafe",
@@ -855,15 +855,15 @@
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 46.71
+                "Winning Chance (%)": 45.87
+            },
+            {
+                "Team": "Famalic\u00e3o",
+                "Winning Chance (%)": 44.0
             },
             {
                 "Team": "Moreirense",
                 "Winning Chance (%)": 40.0
-            },
-            {
-                "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 44.7
             },
             {
                 "Team": "Estoril",
