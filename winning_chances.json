@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 02:21 PM UTC",
-        "IST": "Sunday, 01 February 2026, 07:51 PM IST"
+        "UTC": "Sunday, 01 February 2026, 02:51 PM UTC",
+        "IST": "Sunday, 01 February 2026, 08:21 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -10,12 +10,12 @@
                 "Winning Chance (%)": 70.49
             },
             {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 56.22
-            },
-            {
                 "Team": "Manchester City",
                 "Winning Chance (%)": 63.73
+            },
+            {
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 54.71
             },
             {
                 "Team": "Manchester United",
@@ -31,7 +31,7 @@
             },
             {
                 "Team": "Brentford",
-                "Winning Chance (%)": 38.98
+                "Winning Chance (%)": 41.6
             },
             {
                 "Team": "Fulham",
@@ -58,19 +58,19 @@
                 "Winning Chance (%)": 35.24
             },
             {
+                "Team": "Crystal Palace",
+                "Winning Chance (%)": 32.22
+            },
+            {
                 "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 33.26
             },
             {
-                "Team": "Crystal Palace",
-                "Winning Chance (%)": 31.11
+                "Team": "Leeds United",
+                "Winning Chance (%)": 28.89
             },
             {
                 "Team": "Nottingham Forest",
-                "Winning Chance (%)": 31.11
-            },
-            {
-                "Team": "Leeds United",
                 "Winning Chance (%)": 28.89
             },
             {
@@ -182,12 +182,12 @@
                 "Winning Chance (%)": 64.0
             },
             {
-                "Team": "RB Leipzig",
-                "Winning Chance (%)": 52.4
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 53.33
             },
             {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 54.53
+                "Team": "RB Leipzig",
+                "Winning Chance (%)": 52.4
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -195,7 +195,7 @@
             },
             {
                 "Team": "SC Freiburg",
-                "Winning Chance (%)": 37.89
+                "Winning Chance (%)": 37.33
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -339,11 +339,11 @@
             },
             {
                 "Team": "Lyon",
-                "Winning Chance (%)": 54.13
+                "Winning Chance (%)": 57.2
             },
             {
                 "Team": "Lille",
-                "Winning Chance (%)": 46.0
+                "Winning Chance (%)": 44.27
             },
             {
                 "Team": "Rennes",
