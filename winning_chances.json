@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 07:44 PM UTC",
-        "IST": "Monday, 02 February 2026, 01:14 AM IST"
+        "UTC": "Sunday, 01 February 2026, 08:20 PM UTC",
+        "IST": "Monday, 02 February 2026, 01:50 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -117,7 +117,7 @@
             },
             {
                 "Team": "Real Sociedad",
-                "Winning Chance (%)": 34.29
+                "Winning Chance (%)": 33.94
             },
             {
                 "Team": "Osasuna",
@@ -125,6 +125,10 @@
             },
             {
                 "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 30.3
+            },
+            {
+                "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 30.3
             },
             {
@@ -137,10 +141,6 @@
             },
             {
                 "Team": "Sevilla",
-                "Winning Chance (%)": 30.48
-            },
-            {
-                "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 30.48
             },
             {
@@ -256,12 +256,12 @@
                 "Winning Chance (%)": 58.13
             },
             {
-                "Team": "Roma",
-                "Winning Chance (%)": 57.72
+                "Team": "Juventus",
+                "Winning Chance (%)": 59.77
             },
             {
-                "Team": "Juventus",
-                "Winning Chance (%)": 58.11
+                "Team": "Roma",
+                "Winning Chance (%)": 57.72
             },
             {
                 "Team": "Como",
@@ -296,15 +296,15 @@
                 "Winning Chance (%)": 30.14
             },
             {
-                "Team": "Parma",
-                "Winning Chance (%)": 27.88
-            },
-            {
                 "Team": "Genoa",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Cremonese",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Parma",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -326,12 +326,12 @@
         ],
         "Ligue 1": [
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 68.53
+                "Team": "PSG",
+                "Winning Chance (%)": 71.73
             },
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 73.56
+                "Team": "Lens",
+                "Winning Chance (%)": 68.53
             },
             {
                 "Team": "Marseille",
@@ -346,12 +346,12 @@
                 "Winning Chance (%)": 44.27
             },
             {
-                "Team": "Rennes",
-                "Winning Chance (%)": 41.33
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 44.93
             },
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 45.71
+                "Team": "Rennes",
+                "Winning Chance (%)": 41.33
             },
             {
                 "Team": "Toulouse",
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 82.13
+                "Winning Chance (%)": 85.2
             },
             {
                 "Team": "Benfica",
@@ -878,11 +878,11 @@
                 "Winning Chance (%)": 32.0
             },
             {
-                "Team": "Nacional",
-                "Winning Chance (%)": 28.0
+                "Team": "Arouca",
+                "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Arouca",
+                "Team": "Nacional",
                 "Winning Chance (%)": 26.67
             },
             {
