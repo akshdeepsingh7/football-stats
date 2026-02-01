@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 09:18 PM UTC",
-        "IST": "Monday, 02 February 2026, 02:48 AM IST"
+        "UTC": "Sunday, 01 February 2026, 09:45 PM UTC",
+        "IST": "Monday, 02 February 2026, 03:15 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "PSG",
-                "Winning Chance (%)": 71.73
+                "Winning Chance (%)": 74.8
             },
             {
                 "Team": "Lens",
@@ -346,12 +346,12 @@
                 "Winning Chance (%)": 44.27
             },
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 44.93
-            },
-            {
                 "Team": "Rennes",
                 "Winning Chance (%)": 41.33
+            },
+            {
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 43.2
             },
             {
                 "Team": "Toulouse",
