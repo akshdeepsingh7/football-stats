@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 02:51 PM UTC",
-        "IST": "Sunday, 01 February 2026, 08:21 PM IST"
+        "UTC": "Sunday, 01 February 2026, 03:19 PM UTC",
+        "IST": "Sunday, 01 February 2026, 08:49 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -19,7 +19,7 @@
             },
             {
                 "Team": "Manchester United",
-                "Winning Chance (%)": 48.76
+                "Winning Chance (%)": 49.16
             },
             {
                 "Team": "Chelsea",
@@ -34,11 +34,11 @@
                 "Winning Chance (%)": 41.6
             },
             {
-                "Team": "Fulham",
+                "Team": "Everton",
                 "Winning Chance (%)": 37.78
             },
             {
-                "Team": "Everton",
+                "Team": "Fulham",
                 "Winning Chance (%)": 37.78
             },
             {
@@ -93,7 +93,7 @@
             },
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 74.23
+                "Winning Chance (%)": 77.05
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
@@ -148,12 +148,12 @@
                 "Winning Chance (%)": 29.21
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 27.88
-            },
-            {
                 "Team": "Getafe",
                 "Winning Chance (%)": 27.94
+            },
+            {
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Mallorca",
