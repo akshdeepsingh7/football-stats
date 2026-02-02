@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 02 February 2026, 06:36 PM UTC",
-        "IST": "Tuesday, 03 February 2026, 12:06 AM IST"
+        "UTC": "Monday, 02 February 2026, 11:23 PM UTC",
+        "IST": "Tuesday, 03 February 2026, 04:53 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -34,6 +34,10 @@
                 "Winning Chance (%)": 41.6
             },
             {
+                "Team": "Sunderland",
+                "Winning Chance (%)": 40.4
+            },
+            {
                 "Team": "Fulham",
                 "Winning Chance (%)": 37.78
             },
@@ -44,10 +48,6 @@
             {
                 "Team": "Newcastle United",
                 "Winning Chance (%)": 36.67
-            },
-            {
-                "Team": "Sunderland",
-                "Winning Chance (%)": 38.26
             },
             {
                 "Team": "AFC Bournemouth",
@@ -79,7 +79,7 @@
             },
             {
                 "Team": "Burnley",
-                "Winning Chance (%)": 17.39
+                "Winning Chance (%)": 16.67
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -140,8 +140,12 @@
                 "Winning Chance (%)": 29.09
             },
             {
+                "Team": "Mallorca",
+                "Winning Chance (%)": 29.09
+            },
+            {
                 "Team": "Sevilla",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 29.09
             },
             {
                 "Team": "Valencia",
@@ -153,10 +157,6 @@
             },
             {
                 "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Mallorca",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 57.72
+                "Winning Chance (%)": 55.06
             },
             {
                 "Team": "Como",
@@ -276,12 +276,12 @@
                 "Winning Chance (%)": 38.3
             },
             {
-                "Team": "Bologna",
-                "Winning Chance (%)": 38.36
+                "Team": "Udinese",
+                "Winning Chance (%)": 37.1
             },
             {
-                "Team": "Udinese",
-                "Winning Chance (%)": 35.15
+                "Team": "Bologna",
+                "Winning Chance (%)": 38.36
             },
             {
                 "Team": "Sassuolo",
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 91.59
+                "Winning Chance (%)": 87.33
             },
             {
                 "Team": "Sporting CP",
@@ -850,12 +850,12 @@
                 "Winning Chance (%)": 73.73
             },
             {
-                "Team": "Gil Vicente",
-                "Winning Chance (%)": 50.53
+                "Team": "Braga",
+                "Winning Chance (%)": 57.2
             },
             {
-                "Team": "Braga",
-                "Winning Chance (%)": 53.92
+                "Team": "Gil Vicente",
+                "Winning Chance (%)": 50.53
             },
             {
                 "Team": "Moreirense",
@@ -894,12 +894,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 22.67
+                "Team": "Casa Pia",
+                "Winning Chance (%)": 24.0
             },
             {
-                "Team": "Casa Pia",
-                "Winning Chance (%)": 21.05
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 22.67
             },
             {
                 "Team": "Tondela",
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 7.02
+                "Winning Chance (%)": 6.67
             }
         ],
         "EFL Championship": [
