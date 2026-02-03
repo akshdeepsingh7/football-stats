@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 03 February 2026, 08:38 PM UTC",
-        "IST": "Wednesday, 04 February 2026, 02:08 AM IST"
+        "UTC": "Tuesday, 03 February 2026, 09:29 PM UTC",
+        "IST": "Wednesday, 04 February 2026, 02:59 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -249,7 +249,7 @@
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 65.97
+                "Winning Chance (%)": 66.37
             },
             {
                 "Team": "Napoli",
@@ -281,7 +281,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 35.98
+                "Winning Chance (%)": 35.58
             },
             {
                 "Team": "Sassuolo",
@@ -968,16 +968,16 @@
                 "Winning Chance (%)": 36.36
             },
             {
+                "Team": "Sheffield United",
+                "Winning Chance (%)": 34.67
+            },
+            {
                 "Team": "Swansea City",
                 "Winning Chance (%)": 34.67
             },
             {
                 "Team": "Leicester City",
                 "Winning Chance (%)": 33.78
-            },
-            {
-                "Team": "Sheffield United",
-                "Winning Chance (%)": 32.89
             },
             {
                 "Team": "Charlton Athletic",
@@ -1001,7 +1001,7 @@
             },
             {
                 "Team": "Oxford United",
-                "Winning Chance (%)": 24.89
+                "Winning Chance (%)": 24.0
             },
             {
                 "Team": "Sheffield Wednesday",
