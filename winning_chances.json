@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 04 February 2026, 09:52 PM UTC",
-        "IST": "Thursday, 05 February 2026, 03:22 AM IST"
+        "UTC": "Wednesday, 04 February 2026, 10:21 PM UTC",
+        "IST": "Thursday, 05 February 2026, 03:51 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1064,6 +1064,10 @@
         ],
         "Brasileir\u00e3o": [
             {
+                "Team": "RB Bragantino",
+                "Winning Chance (%)": 53.73
+            },
+            {
                 "Team": "Botafogo",
                 "Winning Chance (%)": 81.6
             },
@@ -1096,16 +1100,20 @@
                 "Winning Chance (%)": 80.4
             },
             {
-                "Team": "RB Bragantino",
-                "Winning Chance (%)": 80.4
+                "Team": "Atl\u00e9tico Mineiro",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Palmeiras",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Atl\u00e9tico Mineiro",
-                "Winning Chance (%)": 26.67
+                "Team": "Flamengo",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Internacional",
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Vasco da Gama",
@@ -1117,14 +1125,6 @@
             },
             {
                 "Team": "Corinthians",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Flamengo",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Internacional",
                 "Winning Chance (%)": 0.0
             },
             {
