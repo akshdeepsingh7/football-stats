@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 04 February 2026, 11:49 PM UTC",
-        "IST": "Thursday, 05 February 2026, 05:19 AM IST"
+        "UTC": "Thursday, 05 February 2026, 01:43 AM UTC",
+        "IST": "Thursday, 05 February 2026, 07:13 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1064,23 +1064,27 @@
         ],
         "Brasileir\u00e3o": [
             {
+                "Team": "Botafogo",
+                "Winning Chance (%)": 82.0
+            },
+            {
                 "Team": "RB Bragantino",
                 "Winning Chance (%)": 80.8
+            },
+            {
+                "Team": "Palmeiras",
+                "Winning Chance (%)": 54.53
+            },
+            {
+                "Team": "Mirassol",
+                "Winning Chance (%)": 53.73
             },
             {
                 "Team": "S\u00e3o Paulo",
                 "Winning Chance (%)": 53.73
             },
             {
-                "Team": "Botafogo",
-                "Winning Chance (%)": 81.6
-            },
-            {
                 "Team": "Chapecoense",
-                "Winning Chance (%)": 80.8
-            },
-            {
-                "Team": "Vit\u00f3ria",
                 "Winning Chance (%)": 80.8
             },
             {
@@ -1096,16 +1100,8 @@
                 "Winning Chance (%)": 80.4
             },
             {
-                "Team": "Remo",
+                "Team": "Vit\u00f3ria",
                 "Winning Chance (%)": 40.0
-            },
-            {
-                "Team": "Mirassol",
-                "Winning Chance (%)": 40.0
-            },
-            {
-                "Team": "Palmeiras",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
@@ -1124,11 +1120,11 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Vasco da Gama",
-                "Winning Chance (%)": 0.0
+                "Team": "Remo",
+                "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Gr\u00eamio",
+                "Team": "Vasco da Gama",
                 "Winning Chance (%)": 0.0
             },
             {
@@ -1137,6 +1133,10 @@
             },
             {
                 "Team": "Coritiba",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Gr\u00eamio",
                 "Winning Chance (%)": 0.0
             },
             {
