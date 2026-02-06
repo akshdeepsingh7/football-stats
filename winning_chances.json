@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 06 February 2026, 01:42 AM UTC",
-        "IST": "Friday, 06 February 2026, 07:12 AM IST"
+        "UTC": "Friday, 06 February 2026, 04:10 AM UTC",
+        "IST": "Friday, 06 February 2026, 09:40 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1104,6 +1104,10 @@
                 "Winning Chance (%)": 80.4
             },
             {
+                "Team": "Coritiba",
+                "Winning Chance (%)": 40.0
+            },
+            {
                 "Team": "Vit\u00f3ria",
                 "Winning Chance (%)": 40.0
             },
@@ -1124,10 +1128,6 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Coritiba",
-                "Winning Chance (%)": 13.33
-            },
-            {
                 "Team": "Santos",
                 "Winning Chance (%)": 13.33
             },
@@ -1136,11 +1136,11 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Cruzeiro",
-                "Winning Chance (%)": 13.33
+                "Team": "Corinthians",
+                "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Corinthians",
+                "Team": "Cruzeiro",
                 "Winning Chance (%)": 0.0
             }
         ]
