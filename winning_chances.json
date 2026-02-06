@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 05 February 2026, 11:47 PM UTC",
-        "IST": "Friday, 06 February 2026, 05:17 AM IST"
+        "UTC": "Friday, 06 February 2026, 01:42 AM UTC",
+        "IST": "Friday, 06 February 2026, 07:12 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1108,6 +1108,10 @@
                 "Winning Chance (%)": 40.0
             },
             {
+                "Team": "Vasco da Gama",
+                "Winning Chance (%)": 13.33
+            },
+            {
                 "Team": "Atl\u00e9tico Mineiro",
                 "Winning Chance (%)": 13.33
             },
@@ -1116,11 +1120,11 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Vasco da Gama",
+                "Team": "Internacional",
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Internacional",
+                "Team": "Coritiba",
                 "Winning Chance (%)": 13.33
             },
             {
@@ -1132,15 +1136,11 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Corinthians",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Coritiba",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Cruzeiro",
+                "Winning Chance (%)": 13.33
+            },
+            {
+                "Team": "Corinthians",
                 "Winning Chance (%)": 0.0
             }
         ]
