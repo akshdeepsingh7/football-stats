@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 02:21 PM UTC",
-        "IST": "Saturday, 07 February 2026, 07:51 PM IST"
+        "UTC": "Saturday, 07 February 2026, 02:51 PM UTC",
+        "IST": "Saturday, 07 February 2026, 08:21 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -175,7 +175,7 @@
             },
             {
                 "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 68.8
+                "Winning Chance (%)": 67.21
             },
             {
                 "Team": "Hoffenheim",
@@ -183,7 +183,7 @@
             },
             {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 56.4
+                "Winning Chance (%)": 55.19
             },
             {
                 "Team": "RB Leipzig",
@@ -194,12 +194,12 @@
                 "Winning Chance (%)": 53.92
             },
             {
-                "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 35.56
+                "Team": "SC Freiburg",
+                "Winning Chance (%)": 38.1
             },
             {
-                "Team": "SC Freiburg",
-                "Winning Chance (%)": 36.0
+                "Team": "Eintracht Frankfurt",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Union Berlin",
@@ -211,7 +211,11 @@
             },
             {
                 "Team": "Augsburg",
-                "Winning Chance (%)": 29.33
+                "Winning Chance (%)": 27.94
+            },
+            {
+                "Team": "Mainz 05",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
@@ -223,23 +227,19 @@
             },
             {
                 "Team": "VfL Wolfsburg",
-                "Winning Chance (%)": 25.33
+                "Winning Chance (%)": 25.4
             },
             {
                 "Team": "Werder Bremen",
-                "Winning Chance (%)": 25.33
-            },
-            {
-                "Team": "Mainz 05",
-                "Winning Chance (%)": 24.0
+                "Winning Chance (%)": 24.13
             },
             {
                 "Team": "St. Pauli",
-                "Winning Chance (%)": 18.67
+                "Winning Chance (%)": 19.05
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 17.33
+                "Winning Chance (%)": 17.78
             }
         ],
         "Serie A": [
