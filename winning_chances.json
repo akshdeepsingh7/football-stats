@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 08:20 PM UTC",
-        "IST": "Sunday, 08 February 2026, 01:50 AM IST"
+        "UTC": "Saturday, 07 February 2026, 08:50 PM UTC",
+        "IST": "Sunday, 08 February 2026, 02:20 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -117,15 +117,11 @@
             },
             {
                 "Team": "Real Sociedad",
-                "Winning Chance (%)": 33.62
+                "Winning Chance (%)": 36.34
             },
             {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 33.62
-            },
-            {
-                "Team": "Elche",
-                "Winning Chance (%)": 28.99
             },
             {
                 "Team": "Alav\u00e9s",
@@ -140,12 +136,16 @@
                 "Winning Chance (%)": 30.3
             },
             {
-                "Team": "Mallorca",
+                "Team": "Elche",
                 "Winning Chance (%)": 27.83
             },
             {
                 "Team": "Sevilla",
                 "Winning Chance (%)": 29.09
+            },
+            {
+                "Team": "Mallorca",
+                "Winning Chance (%)": 27.83
             },
             {
                 "Team": "Valencia",
@@ -335,7 +335,7 @@
             },
             {
                 "Team": "Lyon",
-                "Winning Chance (%)": 55.99
+                "Winning Chance (%)": 58.93
             },
             {
                 "Team": "Marseille",
@@ -387,7 +387,7 @@
             },
             {
                 "Team": "Nantes",
-                "Winning Chance (%)": 19.05
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Auxerre",
@@ -871,7 +871,7 @@
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 37.33
+                "Winning Chance (%)": 36.83
             },
             {
                 "Team": "Alverca",
