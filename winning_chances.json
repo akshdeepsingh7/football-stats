@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 04:55 PM UTC",
-        "IST": "Saturday, 07 February 2026, 10:25 PM IST"
+        "UTC": "Saturday, 07 February 2026, 05:23 PM UTC",
+        "IST": "Saturday, 07 February 2026, 10:53 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 82.85
+                "Winning Chance (%)": 83.25
             },
             {
                 "Team": "Real Madrid",
@@ -253,7 +253,7 @@
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 58.13
+                "Winning Chance (%)": 59.64
             },
             {
                 "Team": "Juventus",
@@ -296,16 +296,16 @@
                 "Winning Chance (%)": 30.14
             },
             {
-                "Team": "Genoa",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Cremonese",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Parma",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Genoa",
+                "Winning Chance (%)": 25.56
             },
             {
                 "Team": "Lecce",
@@ -326,12 +326,12 @@
         ],
         "Ligue 1": [
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 74.8
+                "Team": "Lens",
+                "Winning Chance (%)": 69.82
             },
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 66.88
+                "Team": "PSG",
+                "Winning Chance (%)": 74.8
             },
             {
                 "Team": "Marseille",
@@ -347,7 +347,7 @@
             },
             {
                 "Team": "Rennes",
-                "Winning Chance (%)": 40.63
+                "Winning Chance (%)": 39.37
             },
             {
                 "Team": "Strasbourg",
