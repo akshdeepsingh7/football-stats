@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 09:48 PM UTC",
-        "IST": "Sunday, 08 February 2026, 03:18 AM IST"
+        "UTC": "Saturday, 07 February 2026, 10:20 PM UTC",
+        "IST": "Sunday, 08 February 2026, 03:50 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -117,7 +117,7 @@
             },
             {
                 "Team": "Real Sociedad",
-                "Winning Chance (%)": 36.34
+                "Winning Chance (%)": 36.74
             },
             {
                 "Team": "Osasuna",
@@ -858,10 +858,6 @@
                 "Winning Chance (%)": 57.2
             },
             {
-                "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 39.37
-            },
-            {
                 "Team": "Estoril",
                 "Winning Chance (%)": 41.3
             },
@@ -874,6 +870,10 @@
                 "Winning Chance (%)": 40.67
             },
             {
+                "Team": "Vit\u00f3ria S.C.",
+                "Winning Chance (%)": 35.56
+            },
+            {
                 "Team": "Alverca",
                 "Winning Chance (%)": 32.0
             },
@@ -883,7 +883,7 @@
             },
             {
                 "Team": "Arouca",
-                "Winning Chance (%)": 25.4
+                "Winning Chance (%)": 29.21
             },
             {
                 "Team": "Nacional",
