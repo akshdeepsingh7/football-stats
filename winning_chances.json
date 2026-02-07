@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 05:23 PM UTC",
-        "IST": "Saturday, 07 February 2026, 10:53 PM IST"
+        "UTC": "Saturday, 07 February 2026, 05:50 PM UTC",
+        "IST": "Saturday, 07 February 2026, 11:20 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -30,16 +30,20 @@
                 "Winning Chance (%)": 45.73
             },
             {
+                "Team": "Brentford",
+                "Winning Chance (%)": 41.07
+            },
+            {
                 "Team": "Everton",
                 "Winning Chance (%)": 39.47
             },
             {
-                "Team": "Brentford",
-                "Winning Chance (%)": 41.6
-            },
-            {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 38.4
+            },
+            {
+                "Team": "Newcastle United",
+                "Winning Chance (%)": 36.27
             },
             {
                 "Team": "Fulham",
@@ -48,10 +52,6 @@
             {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 36.27
-            },
-            {
-                "Team": "Newcastle United",
-                "Winning Chance (%)": 36.67
             },
             {
                 "Team": "Brighton & Hove Albion",
@@ -191,7 +191,7 @@
             },
             {
                 "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 53.92
+                "Winning Chance (%)": 51.07
             },
             {
                 "Team": "SC Freiburg",
@@ -204,6 +204,10 @@
             {
                 "Team": "Union Berlin",
                 "Winning Chance (%)": 31.75
+            },
+            {
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "K\u00f6ln",
@@ -220,10 +224,6 @@
             {
                 "Team": "Mainz 05",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 28.0
             },
             {
                 "Team": "VfL Wolfsburg",
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "Lens",
-                "Winning Chance (%)": 69.82
+                "Winning Chance (%)": 70.22
             },
             {
                 "Team": "PSG",
