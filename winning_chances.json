@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 08:50 PM UTC",
-        "IST": "Sunday, 08 February 2026, 02:20 AM IST"
+        "UTC": "Saturday, 07 February 2026, 09:21 PM UTC",
+        "IST": "Sunday, 08 February 2026, 02:51 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -288,12 +288,12 @@
                 "Winning Chance (%)": 33.62
             },
             {
-                "Team": "Torino",
-                "Winning Chance (%)": 32.22
-            },
-            {
                 "Team": "Cagliari",
                 "Winning Chance (%)": 32.46
+            },
+            {
+                "Team": "Torino",
+                "Winning Chance (%)": 28.89
             },
             {
                 "Team": "Cremonese",
@@ -308,12 +308,12 @@
                 "Winning Chance (%)": 25.56
             },
             {
-                "Team": "Lecce",
-                "Winning Chance (%)": 20.87
+                "Team": "Fiorentina",
+                "Winning Chance (%)": 22.22
             },
             {
-                "Team": "Fiorentina",
-                "Winning Chance (%)": 18.89
+                "Team": "Lecce",
+                "Winning Chance (%)": 20.87
             },
             {
                 "Team": "Pisa",
@@ -858,6 +858,10 @@
                 "Winning Chance (%)": 57.2
             },
             {
+                "Team": "Vit\u00f3ria S.C.",
+                "Winning Chance (%)": 39.37
+            },
+            {
                 "Team": "Estoril",
                 "Winning Chance (%)": 41.3
             },
@@ -870,10 +874,6 @@
                 "Winning Chance (%)": 40.67
             },
             {
-                "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 36.83
-            },
-            {
                 "Team": "Alverca",
                 "Winning Chance (%)": 32.0
             },
@@ -883,7 +883,7 @@
             },
             {
                 "Team": "Arouca",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 25.4
             },
             {
                 "Team": "Nacional",
