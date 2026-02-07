@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 09:21 PM UTC",
-        "IST": "Sunday, 08 February 2026, 02:51 AM IST"
+        "UTC": "Saturday, 07 February 2026, 09:48 PM UTC",
+        "IST": "Sunday, 08 February 2026, 03:18 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -293,7 +293,7 @@
             },
             {
                 "Team": "Torino",
-                "Winning Chance (%)": 28.89
+                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Cremonese",
@@ -308,12 +308,12 @@
                 "Winning Chance (%)": 25.56
             },
             {
-                "Team": "Fiorentina",
-                "Winning Chance (%)": 22.22
-            },
-            {
                 "Team": "Lecce",
                 "Winning Chance (%)": 20.87
+            },
+            {
+                "Team": "Fiorentina",
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Pisa",
