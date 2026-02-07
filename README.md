@@ -10,7 +10,7 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Saturday, 07 February 2026, 03:19 PM UTC (Saturday, 07 February 2026, 08:49 PM IST)
+**Last Updated:** Saturday, 07 February 2026, 03:47 PM UTC (Saturday, 07 February 2026, 09:17 PM IST)
 
 _Charts are sorted by Winning Chance (%)_
 
@@ -49,6 +49,10 @@ _Charts are sorted by Winning Chance (%)_
 ### Liga Portugal
 
 ![Liga Portugal Winning Chances](images/Liga_Portugal_winning_chances.png)
+
+### EFL Championship
+
+![EFL Championship Winning Chances](images/EFL_Championship_winning_chances.png)
 
 ### Indian Super League
 
