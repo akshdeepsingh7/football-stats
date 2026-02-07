@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 05:50 PM UTC",
-        "IST": "Saturday, 07 February 2026, 11:20 PM IST"
+        "UTC": "Saturday, 07 February 2026, 06:28 PM UTC",
+        "IST": "Saturday, 07 February 2026, 11:58 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -31,7 +31,7 @@
             },
             {
                 "Team": "Brentford",
-                "Winning Chance (%)": 41.07
+                "Winning Chance (%)": 43.6
             },
             {
                 "Team": "Everton",
@@ -42,16 +42,16 @@
                 "Winning Chance (%)": 38.4
             },
             {
-                "Team": "Newcastle United",
-                "Winning Chance (%)": 36.27
-            },
-            {
                 "Team": "Fulham",
                 "Winning Chance (%)": 36.27
             },
             {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 36.27
+            },
+            {
+                "Team": "Newcastle United",
+                "Winning Chance (%)": 35.2
             },
             {
                 "Team": "Brighton & Hove Albion",
@@ -186,12 +186,12 @@
                 "Winning Chance (%)": 53.52
             },
             {
-                "Team": "RB Leipzig",
-                "Winning Chance (%)": 52.4
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 52.8
             },
             {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 51.07
+                "Team": "RB Leipzig",
+                "Winning Chance (%)": 52.4
             },
             {
                 "Team": "SC Freiburg",
@@ -206,16 +206,16 @@
                 "Winning Chance (%)": 31.75
             },
             {
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 30.48
-            },
-            {
                 "Team": "K\u00f6ln",
                 "Winning Chance (%)": 30.67
             },
             {
                 "Team": "Hamburg",
                 "Winning Chance (%)": 29.33
+            },
+            {
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Winning Chance (%)": 27.94
             },
             {
                 "Team": "Augsburg",
@@ -253,7 +253,7 @@
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 59.64
+                "Winning Chance (%)": 57.02
             },
             {
                 "Team": "Juventus",
@@ -296,16 +296,16 @@
                 "Winning Chance (%)": 30.14
             },
             {
+                "Team": "Genoa",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Cremonese",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Parma",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Genoa",
-                "Winning Chance (%)": 25.56
             },
             {
                 "Team": "Lecce",
@@ -359,7 +359,7 @@
             },
             {
                 "Team": "Lorient",
-                "Winning Chance (%)": 37.33
+                "Winning Chance (%)": 36.83
             },
             {
                 "Team": "Monaco",
@@ -371,7 +371,7 @@
             },
             {
                 "Team": "Brest",
-                "Winning Chance (%)": 30.67
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Nice",
@@ -867,7 +867,7 @@
             },
             {
                 "Team": "Estoril",
-                "Winning Chance (%)": 41.87
+                "Winning Chance (%)": 39.63
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
@@ -903,7 +903,7 @@
             },
             {
                 "Team": "Tondela",
-                "Winning Chance (%)": 17.33
+                "Winning Chance (%)": 20.32
             },
             {
                 "Team": "AVS",
