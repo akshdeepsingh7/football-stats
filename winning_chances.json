@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 07:43 PM UTC",
-        "IST": "Sunday, 08 February 2026, 01:13 AM IST"
+        "UTC": "Saturday, 07 February 2026, 08:20 PM UTC",
+        "IST": "Sunday, 08 February 2026, 01:50 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -116,12 +116,16 @@
                 "Winning Chance (%)": 40.26
             },
             {
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 33.62
+            },
+            {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 33.62
             },
             {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 33.94
+                "Team": "Elche",
+                "Winning Chance (%)": 28.99
             },
             {
                 "Team": "Alav\u00e9s",
@@ -136,16 +140,12 @@
                 "Winning Chance (%)": 30.3
             },
             {
-                "Team": "Elche",
-                "Winning Chance (%)": 29.09
+                "Team": "Mallorca",
+                "Winning Chance (%)": 27.83
             },
             {
                 "Team": "Sevilla",
                 "Winning Chance (%)": 29.09
-            },
-            {
-                "Team": "Mallorca",
-                "Winning Chance (%)": 27.83
             },
             {
                 "Team": "Valencia",
@@ -288,12 +288,12 @@
                 "Winning Chance (%)": 33.62
             },
             {
-                "Team": "Cagliari",
-                "Winning Chance (%)": 32.46
+                "Team": "Torino",
+                "Winning Chance (%)": 32.22
             },
             {
-                "Team": "Torino",
-                "Winning Chance (%)": 30.14
+                "Team": "Cagliari",
+                "Winning Chance (%)": 32.46
             },
             {
                 "Team": "Cremonese",
@@ -313,7 +313,7 @@
             },
             {
                 "Team": "Fiorentina",
-                "Winning Chance (%)": 19.71
+                "Winning Chance (%)": 18.89
             },
             {
                 "Team": "Pisa",
@@ -334,12 +334,12 @@
                 "Winning Chance (%)": 74.8
             },
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 61.6
+                "Team": "Lyon",
+                "Winning Chance (%)": 55.99
             },
             {
-                "Team": "Lyon",
-                "Winning Chance (%)": 57.2
+                "Team": "Marseille",
+                "Winning Chance (%)": 61.6
             },
             {
                 "Team": "Lille",
@@ -387,7 +387,7 @@
             },
             {
                 "Team": "Nantes",
-                "Winning Chance (%)": 18.67
+                "Winning Chance (%)": 19.05
             },
             {
                 "Team": "Auxerre",
