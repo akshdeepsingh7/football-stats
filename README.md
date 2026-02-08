@@ -10,13 +10,17 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Sunday, 08 February 2026, 03:21 PM UTC (Sunday, 08 February 2026, 08:51 PM IST)
+**Last Updated:** Sunday, 08 February 2026, 03:48 PM UTC (Sunday, 08 February 2026, 09:18 PM IST)
 
 _Charts are sorted by Winning Chance (%)_
 
 ### Premier League
 
 ![Premier League Winning Chances](images/Premier_League_winning_chances.png)
+
+### La Liga
+
+![La Liga Winning Chances](images/La_Liga_winning_chances.png)
 
 ### Bundesliga
 
