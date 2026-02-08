@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 02:52 PM UTC",
-        "IST": "Sunday, 08 February 2026, 08:22 PM IST"
+        "UTC": "Sunday, 08 February 2026, 03:21 PM UTC",
+        "IST": "Sunday, 08 February 2026, 08:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -86,88 +86,7 @@
                 "Winning Chance (%)": 8.53
             }
         ],
-        "La Liga": [
-            {
-                "Team": "Barcelona",
-                "Winning Chance (%)": 83.25
-            },
-            {
-                "Team": "Real Madrid",
-                "Winning Chance (%)": 77.05
-            },
-            {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 62.95
-            },
-            {
-                "Team": "Villarreal",
-                "Winning Chance (%)": 59.73
-            },
-            {
-                "Team": "Real Betis",
-                "Winning Chance (%)": 45.62
-            },
-            {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 41.21
-            },
-            {
-                "Team": "Celta de Vigo",
-                "Winning Chance (%)": 40.26
-            },
-            {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 36.74
-            },
-            {
-                "Team": "Osasuna",
-                "Winning Chance (%)": 33.62
-            },
-            {
-                "Team": "Getafe",
-                "Winning Chance (%)": 30.14
-            },
-            {
-                "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 28.99
-            },
-            {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 30.3
-            },
-            {
-                "Team": "Girona",
-                "Winning Chance (%)": 30.3
-            },
-            {
-                "Team": "Elche",
-                "Winning Chance (%)": 27.83
-            },
-            {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 29.09
-            },
-            {
-                "Team": "Mallorca",
-                "Winning Chance (%)": 27.83
-            },
-            {
-                "Team": "Valencia",
-                "Winning Chance (%)": 27.88
-            },
-            {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Levante",
-                "Winning Chance (%)": 22.86
-            },
-            {
-                "Team": "Real Oviedo",
-                "Winning Chance (%)": 19.39
-            }
-        ],
+        "La Liga": [],
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
@@ -182,12 +101,12 @@
                 "Winning Chance (%)": 64.0
             },
             {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 53.52
+                "Team": "RB Leipzig",
+                "Winning Chance (%)": 54.32
             },
             {
-                "Team": "RB Leipzig",
-                "Winning Chance (%)": 51.38
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 53.52
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -207,7 +126,7 @@
             },
             {
                 "Team": "K\u00f6ln",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 29.21
             },
             {
                 "Team": "Hamburg",
