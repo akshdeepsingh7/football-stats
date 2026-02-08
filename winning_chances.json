@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 05:22 PM UTC",
-        "IST": "Sunday, 08 February 2026, 10:52 PM IST"
+        "UTC": "Sunday, 08 February 2026, 05:51 PM UTC",
+        "IST": "Sunday, 08 February 2026, 11:21 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -97,7 +97,7 @@
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 62.95
+                "Winning Chance (%)": 61.73
             },
             {
                 "Team": "Villarreal",
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 45.62
+                "Winning Chance (%)": 44.94
             },
             {
                 "Team": "Espanyol",
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 78.04
+                "Winning Chance (%)": 78.44
             },
             {
                 "Team": "Milan",
@@ -346,16 +346,16 @@
                 "Winning Chance (%)": 43.5
             },
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 42.57
-            },
-            {
                 "Team": "Toulouse",
                 "Winning Chance (%)": 42.57
             },
             {
                 "Team": "Rennes",
                 "Winning Chance (%)": 39.37
+            },
+            {
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 40.9
             },
             {
                 "Team": "Monaco",
@@ -374,16 +374,16 @@
                 "Winning Chance (%)": 33.02
             },
             {
+                "Team": "Le Havre",
+                "Winning Chance (%)": 29.21
+            },
+            {
                 "Team": "Nice",
                 "Winning Chance (%)": 29.21
             },
             {
                 "Team": "Paris FC",
                 "Winning Chance (%)": 27.94
-            },
-            {
-                "Team": "Le Havre",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Auxerre",
