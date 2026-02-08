@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 06:29 PM UTC",
-        "IST": "Sunday, 08 February 2026, 11:59 PM IST"
+        "UTC": "Sunday, 08 February 2026, 07:03 PM UTC",
+        "IST": "Monday, 09 February 2026, 12:33 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -11,7 +11,7 @@
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 64.53
+                "Winning Chance (%)": 64.13
             },
             {
                 "Team": "Aston Villa",
@@ -26,12 +26,12 @@
                 "Winning Chance (%)": 52.67
             },
             {
-                "Team": "Brentford",
+                "Team": "Liverpool FC",
                 "Winning Chance (%)": 43.6
             },
             {
-                "Team": "Liverpool FC",
-                "Winning Chance (%)": 43.2
+                "Team": "Brentford",
+                "Winning Chance (%)": 43.6
             },
             {
                 "Team": "Everton",
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 79.24
+                "Winning Chance (%)": 79.64
             },
             {
                 "Team": "Milan",
