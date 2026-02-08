@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 04:24 PM UTC",
-        "IST": "Sunday, 08 February 2026, 09:54 PM IST"
+        "UTC": "Sunday, 08 February 2026, 04:55 PM UTC",
+        "IST": "Sunday, 08 February 2026, 10:25 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -11,7 +11,7 @@
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 62.62
+                "Winning Chance (%)": 61.6
             },
             {
                 "Team": "Aston Villa",
@@ -27,7 +27,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 45.73
+                "Winning Chance (%)": 45.07
             },
             {
                 "Team": "Brentford",
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 88.0
+                "Winning Chance (%)": 88.57
             },
             {
                 "Team": "Borussia Dortmund",
@@ -179,7 +179,7 @@
             },
             {
                 "Team": "Hoffenheim",
-                "Winning Chance (%)": 64.0
+                "Winning Chance (%)": 60.93
             },
             {
                 "Team": "RB Leipzig",
