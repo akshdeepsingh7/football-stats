@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 02:22 PM UTC",
-        "IST": "Sunday, 08 February 2026, 07:52 PM IST"
+        "UTC": "Sunday, 08 February 2026, 02:52 PM UTC",
+        "IST": "Sunday, 08 February 2026, 08:22 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -186,12 +186,12 @@
                 "Winning Chance (%)": 53.52
             },
             {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 52.8
+                "Team": "RB Leipzig",
+                "Winning Chance (%)": 51.38
             },
             {
-                "Team": "RB Leipzig",
-                "Winning Chance (%)": 52.4
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 52.8
             },
             {
                 "Team": "SC Freiburg",
@@ -207,7 +207,7 @@
             },
             {
                 "Team": "K\u00f6ln",
-                "Winning Chance (%)": 30.67
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Hamburg",
@@ -272,12 +272,12 @@
                 "Winning Chance (%)": 45.74
             },
             {
-                "Team": "Lazio",
-                "Winning Chance (%)": 38.3
+                "Team": "Udinese",
+                "Winning Chance (%)": 36.67
             },
             {
-                "Team": "Udinese",
-                "Winning Chance (%)": 35.56
+                "Team": "Lazio",
+                "Winning Chance (%)": 38.3
             },
             {
                 "Team": "Bologna",
@@ -309,7 +309,7 @@
             },
             {
                 "Team": "Lecce",
-                "Winning Chance (%)": 23.33
+                "Winning Chance (%)": 21.11
             },
             {
                 "Team": "Fiorentina",
