@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 04:55 PM UTC",
-        "IST": "Sunday, 08 February 2026, 10:25 PM IST"
+        "UTC": "Sunday, 08 February 2026, 05:22 PM UTC",
+        "IST": "Sunday, 08 February 2026, 10:52 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -128,12 +128,16 @@
                 "Winning Chance (%)": 32.46
             },
             {
-                "Team": "Girona",
-                "Winning Chance (%)": 32.46
-            },
-            {
                 "Team": "Getafe",
                 "Winning Chance (%)": 30.14
+            },
+            {
+                "Team": "Girona",
+                "Winning Chance (%)": 30.14
+            },
+            {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 28.99
             },
             {
                 "Team": "Alav\u00e9s",
@@ -141,10 +145,6 @@
             },
             {
                 "Team": "Elche",
-                "Winning Chance (%)": 27.83
-            },
-            {
-                "Team": "Sevilla",
                 "Winning Chance (%)": 27.83
             },
             {
@@ -179,7 +179,7 @@
             },
             {
                 "Team": "Hoffenheim",
-                "Winning Chance (%)": 60.93
+                "Winning Chance (%)": 60.53
             },
             {
                 "Team": "RB Leipzig",
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 76.97
+                "Winning Chance (%)": 78.04
             },
             {
                 "Team": "Milan",
@@ -285,7 +285,7 @@
             },
             {
                 "Team": "Sassuolo",
-                "Winning Chance (%)": 33.62
+                "Winning Chance (%)": 32.22
             },
             {
                 "Team": "Cagliari",
