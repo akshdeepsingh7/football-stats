@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 09 February 2026, 05:47 PM UTC",
-        "IST": "Monday, 09 February 2026, 11:17 PM IST"
+        "UTC": "Monday, 09 February 2026, 07:59 PM UTC",
+        "IST": "Tuesday, 10 February 2026, 01:29 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 55.06
+                "Winning Chance (%)": 54.09
             },
             {
                 "Team": "Como",
@@ -284,12 +284,12 @@
                 "Winning Chance (%)": 33.73
             },
             {
-                "Team": "Sassuolo",
+                "Team": "Cagliari",
                 "Winning Chance (%)": 32.22
             },
             {
-                "Team": "Cagliari",
-                "Winning Chance (%)": 32.46
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 32.22
             },
             {
                 "Team": "Torino",
@@ -867,7 +867,7 @@
             },
             {
                 "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 40.67
+                "Winning Chance (%)": 38.43
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 6.67
+                "Winning Chance (%)": 10.16
             }
         ],
         "EFL Championship": [
