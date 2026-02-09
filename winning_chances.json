@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 09 February 2026, 07:59 PM UTC",
-        "IST": "Tuesday, 10 February 2026, 01:29 AM IST"
+        "UTC": "Monday, 09 February 2026, 08:52 PM UTC",
+        "IST": "Tuesday, 10 February 2026, 02:22 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -101,7 +101,7 @@
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 59.73
+                "Winning Chance (%)": 61.75
             },
             {
                 "Team": "Real Betis",
@@ -109,7 +109,7 @@
             },
             {
                 "Team": "Espanyol",
-                "Winning Chance (%)": 41.21
+                "Winning Chance (%)": 39.42
             },
             {
                 "Team": "Celta de Vigo",
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 54.09
+                "Winning Chance (%)": 56.71
             },
             {
                 "Team": "Como",
@@ -284,12 +284,12 @@
                 "Winning Chance (%)": 33.73
             },
             {
-                "Team": "Cagliari",
+                "Team": "Sassuolo",
                 "Winning Chance (%)": 32.22
             },
             {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 32.22
+                "Team": "Cagliari",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Torino",
@@ -839,11 +839,11 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 87.33
+                "Winning Chance (%)": 85.11
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 85.2
+                "Winning Chance (%)": 83.23
             },
             {
                 "Team": "Benfica",
@@ -858,16 +858,16 @@
                 "Winning Chance (%)": 52.58
             },
             {
+                "Team": "Famalic\u00e3o",
+                "Winning Chance (%)": 43.43
+            },
+            {
                 "Team": "Estoril",
                 "Winning Chance (%)": 41.3
             },
             {
                 "Team": "Moreirense",
                 "Winning Chance (%)": 38.1
-            },
-            {
-                "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 38.43
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
@@ -907,17 +907,17 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 10.16
+                "Winning Chance (%)": 6.35
             }
         ],
         "EFL Championship": [
             {
-                "Team": "Coventry City",
-                "Winning Chance (%)": 61.95
+                "Team": "Middlesbrough",
+                "Winning Chance (%)": 60.47
             },
             {
-                "Team": "Middlesbrough",
-                "Winning Chance (%)": 58.76
+                "Team": "Coventry City",
+                "Winning Chance (%)": 61.95
             },
             {
                 "Team": "Ipswich Town",
@@ -973,7 +973,7 @@
             },
             {
                 "Team": "Sheffield United",
-                "Winning Chance (%)": 34.67
+                "Winning Chance (%)": 33.55
             },
             {
                 "Team": "Norwich City",
