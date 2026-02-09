@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 09 February 2026, 08:52 PM UTC",
-        "IST": "Tuesday, 10 February 2026, 02:22 AM IST"
+        "UTC": "Monday, 09 February 2026, 09:35 PM UTC",
+        "IST": "Tuesday, 10 February 2026, 03:05 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -96,12 +96,12 @@
                 "Winning Chance (%)": 78.49
             },
             {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 60.17
+                "Team": "Villarreal",
+                "Winning Chance (%)": 62.55
             },
             {
-                "Team": "Villarreal",
-                "Winning Chance (%)": 61.75
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 60.17
             },
             {
                 "Team": "Real Betis",
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 56.71
+                "Winning Chance (%)": 57.11
             },
             {
                 "Team": "Como",
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Middlesbrough",
-                "Winning Chance (%)": 60.47
+                "Winning Chance (%)": 60.07
             },
             {
                 "Team": "Coventry City",
