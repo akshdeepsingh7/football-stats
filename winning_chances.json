@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 09 February 2026, 09:35 PM UTC",
-        "IST": "Tuesday, 10 February 2026, 03:05 AM IST"
+        "UTC": "Monday, 09 February 2026, 10:30 PM UTC",
+        "IST": "Tuesday, 10 February 2026, 04:00 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -96,12 +96,12 @@
                 "Winning Chance (%)": 78.49
             },
             {
-                "Team": "Villarreal",
-                "Winning Chance (%)": 62.55
-            },
-            {
                 "Team": "Atl\u00e9tico de Madrid",
                 "Winning Chance (%)": 60.17
+            },
+            {
+                "Team": "Villarreal",
+                "Winning Chance (%)": 62.15
             },
             {
                 "Team": "Real Betis",
@@ -839,11 +839,11 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 85.11
+                "Winning Chance (%)": 88.05
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 83.23
+                "Winning Chance (%)": 81.56
             },
             {
                 "Team": "Benfica",
