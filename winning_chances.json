@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 11 February 2026, 09:29 PM UTC",
-        "IST": "Thursday, 12 February 2026, 02:59 AM IST"
+        "UTC": "Wednesday, 11 February 2026, 10:00 PM UTC",
+        "IST": "Thursday, 12 February 2026, 03:30 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -27,7 +27,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 43.03
+                "Winning Chance (%)": 45.48
             },
             {
                 "Team": "Brentford",
@@ -42,11 +42,11 @@
                 "Winning Chance (%)": 37.95
             },
             {
-                "Team": "Sunderland",
-                "Winning Chance (%)": 37.95
+                "Team": "Newcastle United",
+                "Winning Chance (%)": 36.92
             },
             {
-                "Team": "Newcastle United",
+                "Team": "Sunderland",
                 "Winning Chance (%)": 36.92
             },
             {
@@ -1072,16 +1072,16 @@
                 "Winning Chance (%)": 80.8
             },
             {
+                "Team": "Mirassol",
+                "Winning Chance (%)": 44.84
+            },
+            {
                 "Team": "Palmeiras",
                 "Winning Chance (%)": 54.93
             },
             {
                 "Team": "Chapecoense",
                 "Winning Chance (%)": 54.13
-            },
-            {
-                "Team": "Mirassol",
-                "Winning Chance (%)": 53.73
             },
             {
                 "Team": "S\u00e3o Paulo",
@@ -1140,11 +1140,11 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Corinthians",
-                "Winning Chance (%)": 0.0
+                "Team": "Cruzeiro",
+                "Winning Chance (%)": 8.89
             },
             {
-                "Team": "Cruzeiro",
+                "Team": "Corinthians",
                 "Winning Chance (%)": 0.0
             }
         ]
