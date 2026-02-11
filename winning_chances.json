@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 11 February 2026, 10:58 PM UTC",
-        "IST": "Thursday, 12 February 2026, 04:28 AM IST"
+        "UTC": "Wednesday, 11 February 2026, 11:35 PM UTC",
+        "IST": "Thursday, 12 February 2026, 05:05 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1068,20 +1068,24 @@
         ],
         "Brasileir\u00e3o": [
             {
+                "Team": "Mirassol",
+                "Winning Chance (%)": 63.02
+            },
+            {
                 "Team": "RB Bragantino",
                 "Winning Chance (%)": 80.8
             },
             {
-                "Team": "Chapecoense",
-                "Winning Chance (%)": 45.24
-            },
-            {
-                "Team": "Mirassol",
-                "Winning Chance (%)": 44.84
+                "Team": "Coritiba",
+                "Winning Chance (%)": 53.73
             },
             {
                 "Team": "Palmeiras",
                 "Winning Chance (%)": 54.93
+            },
+            {
+                "Team": "Chapecoense",
+                "Winning Chance (%)": 35.96
             },
             {
                 "Team": "S\u00e3o Paulo",
@@ -1100,7 +1104,7 @@
                 "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Coritiba",
+                "Team": "Atl\u00e9tico Mineiro",
                 "Winning Chance (%)": 35.56
             },
             {
@@ -1124,10 +1128,6 @@
                 "Winning Chance (%)": 13.33
             },
             {
-                "Team": "Atl\u00e9tico Mineiro",
-                "Winning Chance (%)": 13.33
-            },
-            {
                 "Team": "Internacional",
                 "Winning Chance (%)": 13.33
             },
@@ -1137,14 +1137,14 @@
             },
             {
                 "Team": "Remo",
-                "Winning Chance (%)": 13.33
-            },
-            {
-                "Team": "Cruzeiro",
                 "Winning Chance (%)": 8.89
             },
             {
                 "Team": "Corinthians",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Cruzeiro",
                 "Winning Chance (%)": 0.0
             }
         ]
