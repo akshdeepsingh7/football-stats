@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 12 February 2026, 11:29 PM UTC",
-        "IST": "Friday, 13 February 2026, 04:59 AM IST"
+        "UTC": "Thursday, 12 February 2026, 11:55 PM UTC",
+        "IST": "Friday, 13 February 2026, 05:25 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1072,6 +1072,10 @@
                 "Winning Chance (%)": 63.42
             },
             {
+                "Team": "Fluminense",
+                "Winning Chance (%)": 63.02
+            },
+            {
                 "Team": "Bahia",
                 "Winning Chance (%)": 63.02
             },
@@ -1088,16 +1092,8 @@
                 "Winning Chance (%)": 44.84
             },
             {
-                "Team": "Fluminense",
-                "Winning Chance (%)": 44.84
-            },
-            {
                 "Team": "Palmeiras",
                 "Winning Chance (%)": 54.93
-            },
-            {
-                "Team": "Botafogo",
-                "Winning Chance (%)": 36.36
             },
             {
                 "Team": "Athletico Paranaense",
@@ -1110,6 +1106,10 @@
             {
                 "Team": "Flamengo",
                 "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Botafogo",
+                "Winning Chance (%)": 27.07
             },
             {
                 "Team": "Gr\u00eamio",
