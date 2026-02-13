@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 13 February 2026, 09:29 PM UTC",
-        "IST": "Saturday, 14 February 2026, 02:59 AM IST"
+        "UTC": "Friday, 13 February 2026, 10:00 PM UTC",
+        "IST": "Saturday, 14 February 2026, 03:30 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -249,7 +249,7 @@
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 65.07
+                "Winning Chance (%)": 67.69
             },
             {
                 "Team": "Napoli",
@@ -316,12 +316,12 @@
                 "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Pisa",
-                "Winning Chance (%)": 17.07
-            },
-            {
                 "Team": "Hellas Verona",
                 "Winning Chance (%)": 16.67
+            },
+            {
+                "Team": "Pisa",
+                "Winning Chance (%)": 16.0
             }
         ],
         "Ligue 1": [
