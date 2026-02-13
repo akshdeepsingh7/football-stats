@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 13 February 2026, 08:32 PM UTC",
-        "IST": "Saturday, 14 February 2026, 02:02 AM IST"
+        "UTC": "Friday, 13 February 2026, 09:29 PM UTC",
+        "IST": "Saturday, 14 February 2026, 02:59 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -175,7 +175,7 @@
             },
             {
                 "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 72.22
+                "Winning Chance (%)": 72.62
             },
             {
                 "Team": "Hoffenheim",
@@ -249,7 +249,7 @@
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 67.69
+                "Winning Chance (%)": 65.07
             },
             {
                 "Team": "Napoli",
@@ -316,12 +316,12 @@
                 "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 16.67
+                "Team": "Pisa",
+                "Winning Chance (%)": 17.07
             },
             {
-                "Team": "Pisa",
-                "Winning Chance (%)": 16.0
+                "Team": "Hellas Verona",
+                "Winning Chance (%)": 16.67
             }
         ],
         "Ligue 1": [
@@ -351,7 +351,7 @@
             },
             {
                 "Team": "Monaco",
-                "Winning Chance (%)": 37.58
+                "Winning Chance (%)": 37.98
             },
             {
                 "Team": "Strasbourg",
@@ -875,7 +875,7 @@
             },
             {
                 "Team": "Alverca",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 32.73
             },
             {
                 "Team": "Estrela Amadora",
@@ -903,7 +903,7 @@
             },
             {
                 "Team": "Tondela",
-                "Winning Chance (%)": 17.78
+                "Winning Chance (%)": 16.97
             },
             {
                 "Team": "AVS",
