@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 09:19 PM UTC",
-        "IST": "Sunday, 15 February 2026, 02:49 AM IST"
+        "UTC": "Saturday, 14 February 2026, 09:45 PM UTC",
+        "IST": "Sunday, 15 February 2026, 03:15 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 78.13
+                "Winning Chance (%)": 80.67
             },
             {
                 "Team": "Milan",
@@ -256,12 +256,12 @@
                 "Winning Chance (%)": 59.64
             },
             {
-                "Team": "Juventus",
-                "Winning Chance (%)": 58.53
-            },
-            {
                 "Team": "Roma",
                 "Winning Chance (%)": 57.11
+            },
+            {
+                "Team": "Juventus",
+                "Winning Chance (%)": 57.07
             },
             {
                 "Team": "Atalanta",
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "Lens",
-                "Winning Chance (%)": 71.83
+                "Winning Chance (%)": 72.23
             },
             {
                 "Team": "PSG",
