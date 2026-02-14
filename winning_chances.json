@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 04:22 PM UTC",
-        "IST": "Saturday, 14 February 2026, 09:52 PM IST"
+        "UTC": "Saturday, 14 February 2026, 04:54 PM UTC",
+        "IST": "Saturday, 14 February 2026, 10:24 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -179,7 +179,7 @@
             },
             {
                 "Team": "Hoffenheim",
-                "Winning Chance (%)": 61.75
+                "Winning Chance (%)": 62.15
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -920,6 +920,10 @@
                 "Winning Chance (%)": 61.95
             },
             {
+                "Team": "Millwall",
+                "Winning Chance (%)": 48.27
+            },
+            {
                 "Team": "Ipswich Town",
                 "Winning Chance (%)": 56.8
             },
@@ -928,24 +932,16 @@
                 "Winning Chance (%)": 49.25
             },
             {
-                "Team": "Millwall",
-                "Winning Chance (%)": 44.97
+                "Team": "Derby County",
+                "Winning Chance (%)": 43.2
             },
             {
-                "Team": "Derby County",
-                "Winning Chance (%)": 42.8
+                "Team": "Preston North End",
+                "Winning Chance (%)": 41.6
             },
             {
                 "Team": "Wrexham",
                 "Winning Chance (%)": 42.43
-            },
-            {
-                "Team": "Watford",
-                "Winning Chance (%)": 40.77
-            },
-            {
-                "Team": "Preston North End",
-                "Winning Chance (%)": 40.37
             },
             {
                 "Team": "Bristol City",
@@ -960,6 +956,10 @@
                 "Winning Chance (%)": 39.93
             },
             {
+                "Team": "Watford",
+                "Winning Chance (%)": 38.7
+            },
+            {
                 "Team": "Queens Park Rangers",
                 "Winning Chance (%)": 36.67
             },
@@ -968,12 +968,12 @@
                 "Winning Chance (%)": 37.83
             },
             {
-                "Team": "Swansea City",
+                "Team": "Sheffield United",
                 "Winning Chance (%)": 35.0
             },
             {
-                "Team": "Sheffield United",
-                "Winning Chance (%)": 33.33
+                "Team": "Swansea City",
+                "Winning Chance (%)": 35.0
             },
             {
                 "Team": "Norwich City",
@@ -988,12 +988,12 @@
                 "Winning Chance (%)": 29.17
             },
             {
-                "Team": "Portsmouth",
-                "Winning Chance (%)": 30.22
-            },
-            {
                 "Team": "West Bromwich Albion",
                 "Winning Chance (%)": 28.33
+            },
+            {
+                "Team": "Portsmouth",
+                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Leicester City",
