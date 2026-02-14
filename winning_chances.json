@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 03:48 PM UTC",
-        "IST": "Saturday, 14 February 2026, 09:18 PM IST"
+        "UTC": "Saturday, 14 February 2026, 04:22 PM UTC",
+        "IST": "Saturday, 14 February 2026, 09:52 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -96,12 +96,12 @@
                 "Winning Chance (%)": 78.49
             },
             {
-                "Team": "Villarreal",
-                "Winning Chance (%)": 60.93
-            },
-            {
                 "Team": "Atl\u00e9tico de Madrid",
                 "Winning Chance (%)": 60.17
+            },
+            {
+                "Team": "Villarreal",
+                "Winning Chance (%)": 59.37
             },
             {
                 "Team": "Real Betis",
@@ -124,12 +124,12 @@
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 32.46
+                "Team": "Getafe",
+                "Winning Chance (%)": 32.22
             },
             {
-                "Team": "Getafe",
-                "Winning Chance (%)": 30.0
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 32.46
             },
             {
                 "Team": "Girona",
@@ -183,7 +183,7 @@
             },
             {
                 "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 55.52
+                "Winning Chance (%)": 55.92
             },
             {
                 "Team": "RB Leipzig",
@@ -334,12 +334,12 @@
                 "Winning Chance (%)": 70.22
             },
             {
-                "Team": "Lyon",
-                "Winning Chance (%)": 58.93
+                "Team": "Marseille",
+                "Winning Chance (%)": 58.91
             },
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 57.12
+                "Team": "Lyon",
+                "Winning Chance (%)": 58.93
             },
             {
                 "Team": "Rennes",
@@ -354,12 +354,12 @@
                 "Winning Chance (%)": 37.98
             },
             {
-                "Team": "Strasbourg",
+                "Team": "Toulouse",
                 "Winning Chance (%)": 40.9
             },
             {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 40.9
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 38.76
             },
             {
                 "Team": "Angers",
@@ -874,10 +874,6 @@
                 "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Arouca",
-                "Winning Chance (%)": 31.52
-            },
-            {
                 "Team": "Alverca",
                 "Winning Chance (%)": 30.3
             },
@@ -886,16 +882,20 @@
                 "Winning Chance (%)": 29.21
             },
             {
+                "Team": "Arouca",
+                "Winning Chance (%)": 27.88
+            },
+            {
+                "Team": "Casa Pia",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Nacional",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Rio Ave",
                 "Winning Chance (%)": 25.4
-            },
-            {
-                "Team": "Casa Pia",
-                "Winning Chance (%)": 23.03
             },
             {
                 "Team": "Santa Clara",
@@ -929,19 +929,23 @@
             },
             {
                 "Team": "Millwall",
-                "Winning Chance (%)": 46.2
+                "Winning Chance (%)": 44.97
             },
             {
-                "Team": "Preston North End",
-                "Winning Chance (%)": 43.67
+                "Team": "Derby County",
+                "Winning Chance (%)": 42.8
             },
             {
                 "Team": "Wrexham",
                 "Winning Chance (%)": 42.43
             },
             {
-                "Team": "Derby County",
-                "Winning Chance (%)": 40.73
+                "Team": "Watford",
+                "Winning Chance (%)": 40.77
+            },
+            {
+                "Team": "Preston North End",
+                "Winning Chance (%)": 40.37
             },
             {
                 "Team": "Bristol City",
@@ -956,10 +960,6 @@
                 "Winning Chance (%)": 39.93
             },
             {
-                "Team": "Watford",
-                "Winning Chance (%)": 37.47
-            },
-            {
                 "Team": "Queens Park Rangers",
                 "Winning Chance (%)": 36.67
             },
@@ -969,7 +969,7 @@
             },
             {
                 "Team": "Swansea City",
-                "Winning Chance (%)": 36.23
+                "Winning Chance (%)": 35.0
             },
             {
                 "Team": "Sheffield United",
