@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 03:20 PM UTC",
-        "IST": "Saturday, 14 February 2026, 08:50 PM IST"
+        "UTC": "Saturday, 14 February 2026, 03:48 PM UTC",
+        "IST": "Saturday, 14 February 2026, 09:18 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -179,11 +179,11 @@
             },
             {
                 "Team": "Hoffenheim",
-                "Winning Chance (%)": 58.52
+                "Winning Chance (%)": 61.75
             },
             {
                 "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 55.12
+                "Winning Chance (%)": 55.52
             },
             {
                 "Team": "RB Leipzig",
@@ -194,12 +194,12 @@
                 "Winning Chance (%)": 53.52
             },
             {
-                "Team": "SC Freiburg",
+                "Team": "Eintracht Frankfurt",
                 "Winning Chance (%)": 37.58
             },
             {
-                "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 37.58
+                "Team": "SC Freiburg",
+                "Winning Chance (%)": 36.36
             },
             {
                 "Team": "Hamburg",
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 53.16
+                "Winning Chance (%)": 53.56
             },
             {
                 "Team": "Atalanta",
@@ -874,15 +874,15 @@
                 "Winning Chance (%)": 35.56
             },
             {
+                "Team": "Arouca",
+                "Winning Chance (%)": 31.52
+            },
+            {
                 "Team": "Alverca",
                 "Winning Chance (%)": 30.3
             },
             {
                 "Team": "Estrela Amadora",
-                "Winning Chance (%)": 29.21
-            },
-            {
-                "Team": "Arouca",
                 "Winning Chance (%)": 29.21
             },
             {
@@ -895,7 +895,7 @@
             },
             {
                 "Team": "Casa Pia",
-                "Winning Chance (%)": 24.13
+                "Winning Chance (%)": 23.03
             },
             {
                 "Team": "Santa Clara",
@@ -956,12 +956,12 @@
                 "Winning Chance (%)": 39.93
             },
             {
-                "Team": "Queens Park Rangers",
-                "Winning Chance (%)": 37.5
-            },
-            {
                 "Team": "Watford",
                 "Winning Chance (%)": 37.47
+            },
+            {
+                "Team": "Queens Park Rangers",
+                "Winning Chance (%)": 36.67
             },
             {
                 "Team": "Stoke City",
@@ -984,16 +984,16 @@
                 "Winning Chance (%)": 33.55
             },
             {
+                "Team": "Blackburn Rovers",
+                "Winning Chance (%)": 29.17
+            },
+            {
                 "Team": "Portsmouth",
                 "Winning Chance (%)": 30.22
             },
             {
                 "Team": "West Bromwich Albion",
                 "Winning Chance (%)": 28.33
-            },
-            {
-                "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 27.5
             },
             {
                 "Team": "Leicester City",
@@ -1014,8 +1014,12 @@
                 "Winning Chance (%)": 80.8
             },
             {
+                "Team": "FC Goa",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Inter Kashi",
-                "Winning Chance (%)": 80.4
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Bengaluru",
@@ -1055,10 +1059,6 @@
             },
             {
                 "Team": "SC Delhi",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "FC Goa",
                 "Winning Chance (%)": 0.0
             },
             {
