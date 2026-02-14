@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 07:00 PM UTC",
-        "IST": "Sunday, 15 February 2026, 12:30 AM IST"
+        "UTC": "Saturday, 14 February 2026, 07:43 PM UTC",
+        "IST": "Sunday, 15 February 2026, 01:13 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -132,8 +132,12 @@
                 "Winning Chance (%)": 32.46
             },
             {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 28.89
+            },
+            {
                 "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 31.11
+                "Winning Chance (%)": 28.89
             },
             {
                 "Team": "Girona",
@@ -141,10 +145,6 @@
             },
             {
                 "Team": "Elche",
-                "Winning Chance (%)": 27.78
-            },
-            {
-                "Team": "Sevilla",
                 "Winning Chance (%)": 27.78
             },
             {
@@ -183,7 +183,7 @@
             },
             {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 55.31
+                "Winning Chance (%)": 55.71
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -862,6 +862,10 @@
                 "Winning Chance (%)": 43.43
             },
             {
+                "Team": "Vit\u00f3ria S.C.",
+                "Winning Chance (%)": 37.58
+            },
+            {
                 "Team": "Estoril",
                 "Winning Chance (%)": 41.3
             },
@@ -870,16 +874,12 @@
                 "Winning Chance (%)": 38.1
             },
             {
-                "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 33.94
+                "Team": "Alverca",
+                "Winning Chance (%)": 30.3
             },
             {
                 "Team": "Estrela Amadora",
-                "Winning Chance (%)": 31.52
-            },
-            {
-                "Team": "Alverca",
-                "Winning Chance (%)": 30.3
+                "Winning Chance (%)": 27.88
             },
             {
                 "Team": "Arouca",
