@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 08:20 PM UTC",
-        "IST": "Sunday, 15 February 2026, 01:50 AM IST"
+        "UTC": "Saturday, 14 February 2026, 08:49 PM UTC",
+        "IST": "Sunday, 15 February 2026, 02:19 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 79.47
+                "Winning Chance (%)": 79.87
             },
             {
                 "Team": "Barcelona",
@@ -117,7 +117,7 @@
             },
             {
                 "Team": "Real Sociedad",
-                "Winning Chance (%)": 34.84
+                "Winning Chance (%)": 34.44
             },
             {
                 "Team": "Osasuna",
@@ -326,12 +326,12 @@
         ],
         "Ligue 1": [
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 73.82
+                "Team": "Lens",
+                "Winning Chance (%)": 71.83
             },
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 68.61
+                "Team": "PSG",
+                "Winning Chance (%)": 73.82
             },
             {
                 "Team": "Lyon",
@@ -374,16 +374,16 @@
                 "Winning Chance (%)": 32.73
             },
             {
-                "Team": "Paris FC",
-                "Winning Chance (%)": 27.88
-            },
-            {
                 "Team": "Le Havre",
                 "Winning Chance (%)": 29.21
             },
             {
                 "Team": "Nice",
                 "Winning Chance (%)": 29.21
+            },
+            {
+                "Team": "Paris FC",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Auxerre",
@@ -851,11 +851,11 @@
             },
             {
                 "Team": "Braga",
-                "Winning Chance (%)": 59.92
+                "Winning Chance (%)": 58.88
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 52.58
+                "Winning Chance (%)": 51.66
             },
             {
                 "Team": "Famalic\u00e3o",
