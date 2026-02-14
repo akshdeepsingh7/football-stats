@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 01:40 PM UTC",
-        "IST": "Saturday, 14 February 2026, 07:10 PM IST"
+        "UTC": "Saturday, 14 February 2026, 02:21 PM UTC",
+        "IST": "Saturday, 14 February 2026, 07:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -108,12 +108,12 @@
                 "Winning Chance (%)": 47.66
             },
             {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 38.89
+                "Team": "Celta de Vigo",
+                "Winning Chance (%)": 42.4
             },
             {
-                "Team": "Celta de Vigo",
-                "Winning Chance (%)": 39.78
+                "Team": "Espanyol",
+                "Winning Chance (%)": 37.78
             },
             {
                 "Team": "Real Sociedad",
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 55.94
+                "Winning Chance (%)": 55.07
             },
             {
                 "Team": "Atalanta",
@@ -313,7 +313,7 @@
             },
             {
                 "Team": "Fiorentina",
-                "Winning Chance (%)": 20.0
+                "Winning Chance (%)": 20.27
             },
             {
                 "Team": "Hellas Verona",
@@ -1014,6 +1014,14 @@
                 "Winning Chance (%)": 80.8
             },
             {
+                "Team": "FC Goa",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Inter Kashi",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Bengaluru",
                 "Winning Chance (%)": 0.0
             },
@@ -1023,14 +1031,6 @@
             },
             {
                 "Team": "East Bengal",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "FC Goa",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Inter Kashi",
                 "Winning Chance (%)": 0.0
             },
             {
