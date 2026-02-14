@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 06:27 PM UTC",
-        "IST": "Saturday, 14 February 2026, 11:57 PM IST"
+        "UTC": "Saturday, 14 February 2026, 07:00 PM UTC",
+        "IST": "Sunday, 15 February 2026, 12:30 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -128,12 +128,12 @@
                 "Winning Chance (%)": 32.22
             },
             {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 31.11
-            },
-            {
                 "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 32.46
+            },
+            {
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Girona",
@@ -144,7 +144,7 @@
                 "Winning Chance (%)": 27.78
             },
             {
-                "Team": "Alav\u00e9s",
+                "Team": "Sevilla",
                 "Winning Chance (%)": 27.78
             },
             {
