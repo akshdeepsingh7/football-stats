@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 11:19 AM UTC",
-        "IST": "Saturday, 14 February 2026, 04:49 PM IST"
+        "UTC": "Saturday, 14 February 2026, 11:43 AM UTC",
+        "IST": "Saturday, 14 February 2026, 05:13 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1010,6 +1010,14 @@
         ],
         "Indian Super League": [
             {
+                "Team": "Kerala Blasters",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Mohun Bagan SG",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Bengaluru",
                 "Winning Chance (%)": 0.0
             },
@@ -1034,15 +1042,7 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Kerala Blasters",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Mohammedan",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Mohun Bagan SG",
                 "Winning Chance (%)": 0.0
             },
             {
