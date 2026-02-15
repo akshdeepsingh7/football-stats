@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 04:25 PM UTC",
-        "IST": "Sunday, 15 February 2026, 09:55 PM IST"
+        "UTC": "Sunday, 15 February 2026, 04:55 PM UTC",
+        "IST": "Sunday, 15 February 2026, 10:25 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -101,7 +101,7 @@
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 57.2
+                "Winning Chance (%)": 56.8
             },
             {
                 "Team": "Real Betis",
@@ -186,12 +186,12 @@
                 "Winning Chance (%)": 55.71
             },
             {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 55.92
+                "Team": "RB Leipzig",
+                "Winning Chance (%)": 53.28
             },
             {
-                "Team": "RB Leipzig",
-                "Winning Chance (%)": 54.32
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 55.92
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -227,7 +227,7 @@
             },
             {
                 "Team": "VfL Wolfsburg",
-                "Winning Chance (%)": 24.13
+                "Winning Chance (%)": 24.24
             },
             {
                 "Team": "Werder Bremen",
@@ -358,15 +358,15 @@
                 "Winning Chance (%)": 37.98
             },
             {
+                "Team": "Lorient",
+                "Winning Chance (%)": 37.58
+            },
+            {
                 "Team": "Toulouse",
                 "Winning Chance (%)": 38.76
             },
             {
                 "Team": "Angers",
-                "Winning Chance (%)": 36.36
-            },
-            {
-                "Team": "Lorient",
                 "Winning Chance (%)": 35.15
             },
             {
