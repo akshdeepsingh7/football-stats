@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 05:50 PM UTC",
-        "IST": "Sunday, 15 February 2026, 11:20 PM IST"
+        "UTC": "Sunday, 15 February 2026, 06:29 PM UTC",
+        "IST": "Sunday, 15 February 2026, 11:59 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -186,12 +186,12 @@
                 "Winning Chance (%)": 55.71
             },
             {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 55.92
+                "Team": "RB Leipzig",
+                "Winning Chance (%)": 53.28
             },
             {
-                "Team": "RB Leipzig",
-                "Winning Chance (%)": 51.67
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 55.92
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -222,12 +222,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "VfL Wolfsburg",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Mainz 05",
                 "Winning Chance (%)": 25.45
+            },
+            {
+                "Team": "VfL Wolfsburg",
+                "Winning Chance (%)": 24.24
             },
             {
                 "Team": "Werder Bremen",
@@ -862,12 +862,12 @@
                 "Winning Chance (%)": 43.43
             },
             {
-                "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 37.58
+                "Team": "Estoril",
+                "Winning Chance (%)": 40.78
             },
             {
-                "Team": "Estoril",
-                "Winning Chance (%)": 41.3
+                "Team": "Vit\u00f3ria S.C.",
+                "Winning Chance (%)": 37.58
             },
             {
                 "Team": "Moreirense",
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 6.35
+                "Winning Chance (%)": 7.27
             }
         ],
         "EFL Championship": [
