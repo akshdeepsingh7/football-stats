@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 07:02 PM UTC",
-        "IST": "Monday, 16 February 2026, 12:32 AM IST"
+        "UTC": "Sunday, 15 February 2026, 07:45 PM UTC",
+        "IST": "Monday, 16 February 2026, 01:15 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -862,12 +862,12 @@
                 "Winning Chance (%)": 43.43
             },
             {
-                "Team": "Estoril",
-                "Winning Chance (%)": 40.78
-            },
-            {
                 "Team": "Vit\u00f3ria S.C.",
                 "Winning Chance (%)": 37.58
+            },
+            {
+                "Team": "Estoril",
+                "Winning Chance (%)": 38.76
             },
             {
                 "Team": "Moreirense",
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 7.27
+                "Winning Chance (%)": 9.7
             }
         ],
         "EFL Championship": [
