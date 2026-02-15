@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 12:39 PM UTC",
-        "IST": "Sunday, 15 February 2026, 06:09 PM IST"
+        "UTC": "Sunday, 15 February 2026, 01:41 PM UTC",
+        "IST": "Sunday, 15 February 2026, 07:11 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -129,7 +129,7 @@
             },
             {
                 "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 32.46
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Sevilla",
@@ -160,12 +160,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Levante",
-                "Winning Chance (%)": 21.82
+                "Team": "Real Oviedo",
+                "Winning Chance (%)": 22.03
             },
             {
-                "Team": "Real Oviedo",
-                "Winning Chance (%)": 19.39
+                "Team": "Levante",
+                "Winning Chance (%)": 21.82
             }
         ],
         "Bundesliga": [
@@ -272,20 +272,20 @@
                 "Winning Chance (%)": 53.56
             },
             {
-                "Team": "Udinese",
-                "Winning Chance (%)": 37.33
-            },
-            {
                 "Team": "Lazio",
                 "Winning Chance (%)": 35.6
             },
             {
-                "Team": "Bologna",
-                "Winning Chance (%)": 33.73
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 34.13
             },
             {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 30.93
+                "Team": "Udinese",
+                "Winning Chance (%)": 34.13
+            },
+            {
+                "Team": "Bologna",
+                "Winning Chance (%)": 33.73
             },
             {
                 "Team": "Cagliari",
