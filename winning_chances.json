@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 04:55 PM UTC",
-        "IST": "Sunday, 15 February 2026, 10:25 PM IST"
+        "UTC": "Sunday, 15 February 2026, 05:21 PM UTC",
+        "IST": "Sunday, 15 February 2026, 10:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -285,7 +285,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 33.73
+                "Winning Chance (%)": 33.47
             },
             {
                 "Team": "Parma",
@@ -297,7 +297,7 @@
             },
             {
                 "Team": "Torino",
-                "Winning Chance (%)": 30.0
+                "Winning Chance (%)": 29.87
             },
             {
                 "Team": "Cremonese",
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 83.09
+                "Winning Chance (%)": 85.92
             },
             {
                 "Team": "Sporting CP",
@@ -886,12 +886,12 @@
                 "Winning Chance (%)": 27.88
             },
             {
-                "Team": "Nacional",
+                "Team": "Casa Pia",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Casa Pia",
-                "Winning Chance (%)": 26.67
+                "Team": "Nacional",
+                "Winning Chance (%)": 25.45
             },
             {
                 "Team": "Rio Ave",
