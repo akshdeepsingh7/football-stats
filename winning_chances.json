@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 11:18 AM UTC",
-        "IST": "Sunday, 15 February 2026, 04:48 PM IST"
+        "UTC": "Sunday, 15 February 2026, 11:44 AM UTC",
+        "IST": "Sunday, 15 February 2026, 05:14 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -272,12 +272,12 @@
                 "Winning Chance (%)": 53.56
             },
             {
-                "Team": "Lazio",
-                "Winning Chance (%)": 35.6
+                "Team": "Udinese",
+                "Winning Chance (%)": 37.33
             },
             {
-                "Team": "Udinese",
-                "Winning Chance (%)": 35.56
+                "Team": "Lazio",
+                "Winning Chance (%)": 35.6
             },
             {
                 "Team": "Bologna",
@@ -285,7 +285,7 @@
             },
             {
                 "Team": "Sassuolo",
-                "Winning Chance (%)": 32.22
+                "Winning Chance (%)": 30.93
             },
             {
                 "Team": "Cagliari",
@@ -1014,6 +1014,10 @@
                 "Winning Chance (%)": 80.8
             },
             {
+                "Team": "Jamshedpur",
+                "Winning Chance (%)": 80.4
+            },
+            {
                 "Team": "FC Goa",
                 "Winning Chance (%)": 26.67
             },
@@ -1034,14 +1038,6 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Jamshedpur",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Mohammedan",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Mumbai City",
                 "Winning Chance (%)": 0.0
             },
@@ -1059,6 +1055,10 @@
             },
             {
                 "Team": "SC Delhi",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Mohammedan",
                 "Winning Chance (%)": 0.0
             },
             {
