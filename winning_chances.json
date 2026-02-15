@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 01:41 PM UTC",
-        "IST": "Sunday, 15 February 2026, 07:11 PM IST"
+        "UTC": "Sunday, 15 February 2026, 02:22 PM UTC",
+        "IST": "Sunday, 15 February 2026, 07:52 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -124,12 +124,12 @@
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Getafe",
+                "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 32.22
             },
             {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 31.11
+                "Team": "Getafe",
+                "Winning Chance (%)": 32.22
             },
             {
                 "Team": "Sevilla",
@@ -160,12 +160,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Real Oviedo",
-                "Winning Chance (%)": 22.03
-            },
-            {
                 "Team": "Levante",
                 "Winning Chance (%)": 21.82
+            },
+            {
+                "Team": "Real Oviedo",
+                "Winning Chance (%)": 19.71
             }
         ],
         "Bundesliga": [
@@ -288,6 +288,10 @@
                 "Winning Chance (%)": 33.73
             },
             {
+                "Team": "Parma",
+                "Winning Chance (%)": 30.93
+            },
+            {
                 "Team": "Cagliari",
                 "Winning Chance (%)": 31.11
             },
@@ -296,16 +300,12 @@
                 "Winning Chance (%)": 30.0
             },
             {
-                "Team": "Parma",
-                "Winning Chance (%)": 28.89
-            },
-            {
                 "Team": "Genoa",
-                "Winning Chance (%)": 25.56
+                "Winning Chance (%)": 25.6
             },
             {
                 "Team": "Cremonese",
-                "Winning Chance (%)": 25.56
+                "Winning Chance (%)": 25.6
             },
             {
                 "Team": "Lecce",
@@ -316,11 +316,11 @@
                 "Winning Chance (%)": 22.4
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 16.67
+                "Team": "Pisa",
+                "Winning Chance (%)": 16.0
             },
             {
-                "Team": "Pisa",
+                "Team": "Hellas Verona",
                 "Winning Chance (%)": 16.0
             }
         ],
@@ -354,12 +354,12 @@
                 "Winning Chance (%)": 40.38
             },
             {
-                "Team": "Monaco",
-                "Winning Chance (%)": 37.98
+                "Team": "Toulouse",
+                "Winning Chance (%)": 40.38
             },
             {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 40.9
+                "Team": "Monaco",
+                "Winning Chance (%)": 37.98
             },
             {
                 "Team": "Angers",
@@ -375,7 +375,7 @@
             },
             {
                 "Team": "Le Havre",
-                "Winning Chance (%)": 29.21
+                "Winning Chance (%)": 29.09
             },
             {
                 "Team": "Nice",
@@ -1027,7 +1027,11 @@
             },
             {
                 "Team": "Bengaluru",
-                "Winning Chance (%)": 0.0
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "SC Delhi",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Chennaiyin",
@@ -1051,10 +1055,6 @@
             },
             {
                 "Team": "Punjab FC",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "SC Delhi",
                 "Winning Chance (%)": 0.0
             },
             {
