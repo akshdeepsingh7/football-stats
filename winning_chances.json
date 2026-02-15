@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 02:52 PM UTC",
-        "IST": "Sunday, 15 February 2026, 08:22 PM IST"
+        "UTC": "Sunday, 15 February 2026, 03:21 PM UTC",
+        "IST": "Sunday, 15 February 2026, 08:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -97,7 +97,7 @@
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 60.17
+                "Winning Chance (%)": 59.11
             },
             {
                 "Team": "Villarreal",
@@ -152,11 +152,11 @@
                 "Winning Chance (%)": 27.83
             },
             {
-                "Team": "Valencia",
+                "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Rayo Vallecano",
+                "Team": "Valencia",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -354,12 +354,12 @@
                 "Winning Chance (%)": 40.38
             },
             {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 40.38
-            },
-            {
                 "Team": "Monaco",
                 "Winning Chance (%)": 37.98
+            },
+            {
+                "Team": "Toulouse",
+                "Winning Chance (%)": 38.76
             },
             {
                 "Team": "Angers",
@@ -375,7 +375,7 @@
             },
             {
                 "Team": "Le Havre",
-                "Winning Chance (%)": 29.09
+                "Winning Chance (%)": 31.52
             },
             {
                 "Team": "Nice",
