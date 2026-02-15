@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 06:29 PM UTC",
-        "IST": "Sunday, 15 February 2026, 11:59 PM IST"
+        "UTC": "Sunday, 15 February 2026, 07:02 PM UTC",
+        "IST": "Monday, 16 February 2026, 12:32 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -140,6 +140,10 @@
                 "Winning Chance (%)": 28.89
             },
             {
+                "Team": "Valencia",
+                "Winning Chance (%)": 28.89
+            },
+            {
                 "Team": "Girona",
                 "Winning Chance (%)": 30.14
             },
@@ -156,12 +160,8 @@
                 "Winning Chance (%)": 27.83
             },
             {
-                "Team": "Valencia",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Levante",
-                "Winning Chance (%)": 22.03
+                "Winning Chance (%)": 20.87
             },
             {
                 "Team": "Real Oviedo",
@@ -272,6 +272,10 @@
                 "Winning Chance (%)": 53.56
             },
             {
+                "Team": "Bologna",
+                "Winning Chance (%)": 36.0
+            },
+            {
                 "Team": "Lazio",
                 "Winning Chance (%)": 35.6
             },
@@ -284,10 +288,6 @@
                 "Winning Chance (%)": 34.13
             },
             {
-                "Team": "Bologna",
-                "Winning Chance (%)": 33.47
-            },
-            {
                 "Team": "Parma",
                 "Winning Chance (%)": 30.93
             },
@@ -297,7 +297,7 @@
             },
             {
                 "Team": "Torino",
-                "Winning Chance (%)": 29.87
+                "Winning Chance (%)": 28.8
             },
             {
                 "Team": "Cremonese",
