@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 03:47 PM UTC",
-        "IST": "Sunday, 15 February 2026, 09:17 PM IST"
+        "UTC": "Sunday, 15 February 2026, 04:25 PM UTC",
+        "IST": "Sunday, 15 February 2026, 09:55 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -96,12 +96,12 @@
                 "Winning Chance (%)": 83.25
             },
             {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 59.11
-            },
-            {
                 "Team": "Villarreal",
                 "Winning Chance (%)": 59.37
+            },
+            {
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 57.2
             },
             {
                 "Team": "Real Betis",
@@ -148,12 +148,12 @@
                 "Winning Chance (%)": 27.78
             },
             {
-                "Team": "Mallorca",
-                "Winning Chance (%)": 27.83
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 28.99
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 26.67
+                "Team": "Mallorca",
+                "Winning Chance (%)": 27.83
             },
             {
                 "Team": "Valencia",
@@ -210,11 +210,11 @@
                 "Winning Chance (%)": 30.3
             },
             {
-                "Team": "K\u00f6ln",
-                "Winning Chance (%)": 27.88
+                "Team": "Augsburg",
+                "Winning Chance (%)": 30.3
             },
             {
-                "Team": "Augsburg",
+                "Team": "K\u00f6ln",
                 "Winning Chance (%)": 27.88
             },
             {
@@ -239,7 +239,7 @@
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 16.97
+                "Winning Chance (%)": 15.76
             }
         ],
         "Serie A": [
@@ -288,6 +288,10 @@
                 "Winning Chance (%)": 33.73
             },
             {
+                "Team": "Parma",
+                "Winning Chance (%)": 30.93
+            },
+            {
                 "Team": "Cagliari",
                 "Winning Chance (%)": 31.11
             },
@@ -296,15 +300,11 @@
                 "Winning Chance (%)": 30.0
             },
             {
-                "Team": "Parma",
-                "Winning Chance (%)": 28.8
-            },
-            {
-                "Team": "Genoa",
+                "Team": "Cremonese",
                 "Winning Chance (%)": 25.6
             },
             {
-                "Team": "Cremonese",
+                "Team": "Genoa",
                 "Winning Chance (%)": 25.6
             },
             {
@@ -316,11 +316,11 @@
                 "Winning Chance (%)": 22.4
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 17.07
+                "Team": "Pisa",
+                "Winning Chance (%)": 16.0
             },
             {
-                "Team": "Pisa",
+                "Team": "Hellas Verona",
                 "Winning Chance (%)": 16.0
             }
         ],
@@ -363,11 +363,11 @@
             },
             {
                 "Team": "Angers",
-                "Winning Chance (%)": 36.83
+                "Winning Chance (%)": 36.36
             },
             {
                 "Team": "Lorient",
-                "Winning Chance (%)": 35.56
+                "Winning Chance (%)": 35.15
             },
             {
                 "Team": "Brest",
@@ -387,7 +387,7 @@
             },
             {
                 "Team": "Auxerre",
-                "Winning Chance (%)": 17.78
+                "Winning Chance (%)": 20.61
             },
             {
                 "Team": "Nantes",
@@ -395,7 +395,7 @@
             },
             {
                 "Team": "Metz",
-                "Winning Chance (%)": 16.51
+                "Winning Chance (%)": 15.76
             }
         ],
         "Champions League": [
@@ -1010,12 +1010,12 @@
         ],
         "Indian Super League": [
             {
-                "Team": "Mohun Bagan SG",
+                "Team": "Bengaluru",
                 "Winning Chance (%)": 80.8
             },
             {
-                "Team": "Bengaluru",
-                "Winning Chance (%)": 80.4
+                "Team": "Mohun Bagan SG",
+                "Winning Chance (%)": 80.8
             },
             {
                 "Team": "Jamshedpur",
@@ -1058,11 +1058,11 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "SC Delhi",
+                "Team": "Kerala Blasters",
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Kerala Blasters",
+                "Team": "SC Delhi",
                 "Winning Chance (%)": 0.0
             }
         ],
