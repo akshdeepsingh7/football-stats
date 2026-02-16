@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 16 February 2026, 08:54 PM UTC",
-        "IST": "Tuesday, 17 February 2026, 02:24 AM IST"
+        "UTC": "Monday, 16 February 2026, 09:24 PM UTC",
+        "IST": "Tuesday, 17 February 2026, 02:54 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -288,28 +288,28 @@
                 "Winning Chance (%)": 34.13
             },
             {
-                "Team": "Cagliari",
+                "Team": "Parma",
                 "Winning Chance (%)": 30.93
             },
             {
-                "Team": "Parma",
-                "Winning Chance (%)": 30.93
+                "Team": "Cagliari",
+                "Winning Chance (%)": 29.87
             },
             {
                 "Team": "Torino",
                 "Winning Chance (%)": 28.8
             },
             {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 25.6
-            },
-            {
                 "Team": "Genoa",
                 "Winning Chance (%)": 25.6
             },
             {
+                "Team": "Cremonese",
+                "Winning Chance (%)": 25.6
+            },
+            {
                 "Team": "Lecce",
-                "Winning Chance (%)": 23.47
+                "Winning Chance (%)": 25.6
             },
             {
                 "Team": "Fiorentina",
@@ -858,12 +858,12 @@
                 "Winning Chance (%)": 57.27
             },
             {
-                "Team": "Moreirense",
-                "Winning Chance (%)": 40.0
-            },
-            {
                 "Team": "Famalic\u00e3o",
                 "Winning Chance (%)": 41.19
+            },
+            {
+                "Team": "Moreirense",
+                "Winning Chance (%)": 37.58
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
@@ -895,7 +895,7 @@
             },
             {
                 "Team": "Rio Ave",
-                "Winning Chance (%)": 24.24
+                "Winning Chance (%)": 25.45
             },
             {
                 "Team": "Santa Clara",
@@ -913,11 +913,11 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 63.27
+                "Winning Chance (%)": 63.67
             },
             {
                 "Team": "Middlesbrough",
-                "Winning Chance (%)": 58.03
+                "Winning Chance (%)": 57.63
             },
             {
                 "Team": "Millwall",
