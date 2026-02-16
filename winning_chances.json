@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 16 February 2026, 03:07 PM UTC",
-        "IST": "Monday, 16 February 2026, 08:37 PM IST"
+        "UTC": "Monday, 16 February 2026, 04:03 PM UTC",
+        "IST": "Monday, 16 February 2026, 09:33 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1010,6 +1010,10 @@
         ],
         "Indian Super League": [
             {
+                "Team": "East Bengal",
+                "Winning Chance (%)": 81.2
+            },
+            {
                 "Team": "Bengaluru",
                 "Winning Chance (%)": 80.8
             },
@@ -1027,14 +1031,6 @@
             },
             {
                 "Team": "Inter Kashi",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "East Bengal",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "NorthEast Utd",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -1063,6 +1059,10 @@
             },
             {
                 "Team": "SC Delhi",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "NorthEast Utd",
                 "Winning Chance (%)": 0.0
             }
         ],
