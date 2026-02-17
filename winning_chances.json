@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 17 February 2026, 07:43 PM UTC",
-        "IST": "Wednesday, 18 February 2026, 01:13 AM IST"
+        "UTC": "Tuesday, 17 February 2026, 08:31 PM UTC",
+        "IST": "Wednesday, 18 February 2026, 02:01 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -932,6 +932,10 @@
                 "Winning Chance (%)": 49.25
             },
             {
+                "Team": "Wrexham",
+                "Winning Chance (%)": 44.07
+            },
+            {
                 "Team": "Derby County",
                 "Winning Chance (%)": 43.2
             },
@@ -940,15 +944,11 @@
                 "Winning Chance (%)": 41.6
             },
             {
-                "Team": "Wrexham",
-                "Winning Chance (%)": 42.43
+                "Team": "Southampton",
+                "Winning Chance (%)": 39.93
             },
             {
                 "Team": "Bristol City",
-                "Winning Chance (%)": 41.57
-            },
-            {
-                "Team": "Southampton",
                 "Winning Chance (%)": 39.93
             },
             {
@@ -981,7 +981,11 @@
             },
             {
                 "Team": "Charlton Athletic",
-                "Winning Chance (%)": 33.55
+                "Winning Chance (%)": 32.5
+            },
+            {
+                "Team": "Portsmouth",
+                "Winning Chance (%)": 30.97
             },
             {
                 "Team": "Blackburn Rovers",
@@ -990,10 +994,6 @@
             {
                 "Team": "West Bromwich Albion",
                 "Winning Chance (%)": 28.33
-            },
-            {
-                "Team": "Portsmouth",
-                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Leicester City",
