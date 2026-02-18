@@ -1,13 +1,13 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 18 February 2026, 07:44 PM UTC",
-        "IST": "Thursday, 19 February 2026, 01:14 AM IST"
+        "UTC": "Wednesday, 18 February 2026, 08:33 PM UTC",
+        "IST": "Thursday, 19 February 2026, 02:03 AM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 71.26
+                "Winning Chance (%)": 72.46
             },
             {
                 "Team": "Manchester City",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 9.23
+                "Winning Chance (%)": 8.89
             }
         ],
         "La Liga": [
@@ -97,7 +97,7 @@
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 58.31
+                "Winning Chance (%)": 60.93
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
@@ -161,7 +161,7 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 21.11
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Real Oviedo",
@@ -249,7 +249,7 @@
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 67.69
+                "Winning Chance (%)": 64.93
             },
             {
                 "Team": "Napoli",
@@ -264,12 +264,12 @@
                 "Winning Chance (%)": 57.07
             },
             {
-                "Team": "Atalanta",
-                "Winning Chance (%)": 50.0
+                "Team": "Como",
+                "Winning Chance (%)": 55.33
             },
             {
-                "Team": "Como",
-                "Winning Chance (%)": 53.56
+                "Team": "Atalanta",
+                "Winning Chance (%)": 50.0
             },
             {
                 "Team": "Bologna",
