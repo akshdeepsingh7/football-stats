@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 19 February 2026, 10:26 PM UTC",
-        "IST": "Friday, 20 February 2026, 03:56 AM IST"
+        "UTC": "Thursday, 19 February 2026, 10:59 PM UTC",
+        "IST": "Friday, 20 February 2026, 04:29 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1084,8 +1084,12 @@
                 "Winning Chance (%)": 63.02
             },
             {
+                "Team": "Corinthians",
+                "Winning Chance (%)": 54.13
+            },
+            {
                 "Team": "Athletico Paranaense",
-                "Winning Chance (%)": 80.8
+                "Winning Chance (%)": 53.73
             },
             {
                 "Team": "RB Bragantino",
@@ -1110,10 +1114,6 @@
             {
                 "Team": "Botafogo",
                 "Winning Chance (%)": 27.07
-            },
-            {
-                "Team": "Corinthians",
-                "Winning Chance (%)": 40.4
             },
             {
                 "Team": "Gr\u00eamio",
