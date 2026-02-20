@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 20 February 2026, 08:25 PM UTC",
-        "IST": "Saturday, 21 February 2026, 01:55 AM IST"
+        "UTC": "Friday, 20 February 2026, 08:53 PM UTC",
+        "IST": "Saturday, 21 February 2026, 02:23 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -272,16 +272,16 @@
                 "Winning Chance (%)": 50.0
             },
             {
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 35.9
+            },
+            {
                 "Team": "Bologna",
                 "Winning Chance (%)": 36.0
             },
             {
                 "Team": "Lazio",
                 "Winning Chance (%)": 35.6
-            },
-            {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 33.85
             },
             {
                 "Team": "Udinese",
@@ -316,12 +316,12 @@
                 "Winning Chance (%)": 22.4
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 16.41
-            },
-            {
                 "Team": "Pisa",
                 "Winning Chance (%)": 16.0
+            },
+            {
+                "Team": "Hellas Verona",
+                "Winning Chance (%)": 15.38
             }
         ],
         "Ligue 1": [
@@ -879,7 +879,7 @@
             },
             {
                 "Team": "Estrela Amadora",
-                "Winning Chance (%)": 27.88
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Arouca",
@@ -898,12 +898,12 @@
                 "Winning Chance (%)": 24.24
             },
             {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 20.61
+                "Team": "Tondela",
+                "Winning Chance (%)": 20.87
             },
             {
-                "Team": "Tondela",
-                "Winning Chance (%)": 18.18
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 20.61
             },
             {
                 "Team": "AVS",
