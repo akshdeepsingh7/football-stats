@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 20 February 2026, 09:48 PM UTC",
-        "IST": "Saturday, 21 February 2026, 03:18 AM IST"
+        "UTC": "Friday, 20 February 2026, 10:20 PM UTC",
+        "IST": "Saturday, 21 February 2026, 03:50 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -117,7 +117,7 @@
             },
             {
                 "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 34.13
+                "Winning Chance (%)": 36.27
             },
             {
                 "Team": "Real Sociedad",
@@ -136,10 +136,6 @@
                 "Winning Chance (%)": 32.22
             },
             {
-                "Team": "Elche",
-                "Winning Chance (%)": 27.73
-            },
-            {
                 "Team": "Sevilla",
                 "Winning Chance (%)": 28.89
             },
@@ -150,6 +146,10 @@
             {
                 "Team": "Valencia",
                 "Winning Chance (%)": 28.89
+            },
+            {
+                "Team": "Elche",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Rayo Vallecano",
@@ -932,16 +932,16 @@
                 "Winning Chance (%)": 49.25
             },
             {
-                "Team": "Preston North End",
-                "Winning Chance (%)": 41.2
-            },
-            {
                 "Team": "Derby County",
                 "Winning Chance (%)": 43.2
             },
             {
                 "Team": "Wrexham",
                 "Winning Chance (%)": 42.0
+            },
+            {
+                "Team": "Preston North End",
+                "Winning Chance (%)": 39.99
             },
             {
                 "Team": "Bristol City",
@@ -984,12 +984,12 @@
                 "Winning Chance (%)": 32.5
             },
             {
-                "Team": "Portsmouth",
-                "Winning Chance (%)": 30.97
+                "Team": "Blackburn Rovers",
+                "Winning Chance (%)": 30.71
             },
             {
-                "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 29.09
+                "Team": "Portsmouth",
+                "Winning Chance (%)": 30.97
             },
             {
                 "Team": "West Bromwich Albion",
