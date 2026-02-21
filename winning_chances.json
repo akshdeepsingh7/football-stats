@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 February 2026, 01:38 PM UTC",
-        "IST": "Saturday, 21 February 2026, 07:08 PM IST"
+        "UTC": "Saturday, 21 February 2026, 02:21 PM UTC",
+        "IST": "Saturday, 21 February 2026, 07:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -121,7 +121,7 @@
             },
             {
                 "Team": "Real Sociedad",
-                "Winning Chance (%)": 34.13
+                "Winning Chance (%)": 33.07
             },
             {
                 "Team": "Osasuna",
@@ -160,12 +160,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Levante",
-                "Winning Chance (%)": 20.0
+                "Team": "Real Oviedo",
+                "Winning Chance (%)": 21.11
             },
             {
-                "Team": "Real Oviedo",
-                "Winning Chance (%)": 18.89
+                "Team": "Levante",
+                "Winning Chance (%)": 20.0
             }
         ],
         "Bundesliga": [
@@ -261,11 +261,11 @@
             },
             {
                 "Team": "Juventus",
-                "Winning Chance (%)": 57.07
+                "Winning Chance (%)": 54.78
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 52.8
+                "Winning Chance (%)": 54.55
             },
             {
                 "Team": "Atalanta",
@@ -924,12 +924,12 @@
                 "Winning Chance (%)": 48.27
             },
             {
-                "Team": "Hull City",
-                "Winning Chance (%)": 48.63
-            },
-            {
                 "Team": "Ipswich Town",
                 "Winning Chance (%)": 56.8
+            },
+            {
+                "Team": "Hull City",
+                "Winning Chance (%)": 47.4
             },
             {
                 "Team": "Derby County",
@@ -948,8 +948,8 @@
                 "Winning Chance (%)": 39.58
             },
             {
-                "Team": "Stoke City",
-                "Winning Chance (%)": 39.57
+                "Team": "Queens Park Rangers",
+                "Winning Chance (%)": 37.98
             },
             {
                 "Team": "Southampton",
@@ -968,8 +968,8 @@
                 "Winning Chance (%)": 36.36
             },
             {
-                "Team": "Queens Park Rangers",
-                "Winning Chance (%)": 36.36
+                "Team": "Stoke City",
+                "Winning Chance (%)": 37.56
             },
             {
                 "Team": "Sheffield United",
@@ -997,7 +997,7 @@
             },
             {
                 "Team": "Leicester City",
-                "Winning Chance (%)": 25.86
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Oxford United",
@@ -1018,16 +1018,16 @@
                 "Winning Chance (%)": 54.13
             },
             {
+                "Team": "Jamshedpur",
+                "Winning Chance (%)": 53.73
+            },
+            {
                 "Team": "Bengaluru",
                 "Winning Chance (%)": 80.8
             },
             {
                 "Team": "Mohun Bagan SG",
                 "Winning Chance (%)": 80.8
-            },
-            {
-                "Team": "Jamshedpur",
-                "Winning Chance (%)": 80.4
             },
             {
                 "Team": "Mumbai City",
@@ -1038,11 +1038,11 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Odisha",
-                "Winning Chance (%)": 0.0
+                "Team": "Punjab FC",
+                "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Punjab FC",
+                "Team": "Odisha",
                 "Winning Chance (%)": 0.0
             },
             {
