@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 February 2026, 04:54 PM UTC",
-        "IST": "Saturday, 21 February 2026, 10:24 PM IST"
+        "UTC": "Saturday, 21 February 2026, 05:21 PM UTC",
+        "IST": "Saturday, 21 February 2026, 10:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 80.67
+                "Winning Chance (%)": 79.19
             },
             {
                 "Team": "Milan",
@@ -300,15 +300,15 @@
                 "Winning Chance (%)": 28.8
             },
             {
-                "Team": "Genoa",
-                "Winning Chance (%)": 25.6
+                "Team": "Lecce",
+                "Winning Chance (%)": 25.64
             },
             {
                 "Team": "Cremonese",
                 "Winning Chance (%)": 25.6
             },
             {
-                "Team": "Lecce",
+                "Team": "Genoa",
                 "Winning Chance (%)": 25.6
             },
             {
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "Lens",
-                "Winning Chance (%)": 74.17
+                "Winning Chance (%)": 74.57
             },
             {
                 "Team": "PSG",
@@ -874,11 +874,11 @@
                 "Winning Chance (%)": 38.36
             },
             {
-                "Team": "Alverca",
-                "Winning Chance (%)": 32.46
+                "Team": "Arouca",
+                "Winning Chance (%)": 30.14
             },
             {
-                "Team": "Arouca",
+                "Team": "Alverca",
                 "Winning Chance (%)": 30.14
             },
             {
@@ -903,7 +903,7 @@
             },
             {
                 "Team": "Santa Clara",
-                "Winning Chance (%)": 19.71
+                "Winning Chance (%)": 20.87
             },
             {
                 "Team": "AVS",
