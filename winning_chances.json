@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 February 2026, 12:37 PM UTC",
-        "IST": "Saturday, 21 February 2026, 06:07 PM IST"
+        "UTC": "Saturday, 21 February 2026, 01:38 PM UTC",
+        "IST": "Saturday, 21 February 2026, 07:08 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -121,7 +121,7 @@
             },
             {
                 "Team": "Real Sociedad",
-                "Winning Chance (%)": 34.44
+                "Winning Chance (%)": 34.13
             },
             {
                 "Team": "Osasuna",
@@ -165,7 +165,7 @@
             },
             {
                 "Team": "Real Oviedo",
-                "Winning Chance (%)": 18.55
+                "Winning Chance (%)": 18.89
             }
         ],
         "Bundesliga": [
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 64.93
+                "Winning Chance (%)": 65.33
             },
             {
                 "Team": "Middlesbrough",
@@ -940,12 +940,12 @@
                 "Winning Chance (%)": 42.0
             },
             {
-                "Team": "Bristol City",
-                "Winning Chance (%)": 40.79
-            },
-            {
                 "Team": "Preston North End",
                 "Winning Chance (%)": 39.99
+            },
+            {
+                "Team": "Bristol City",
+                "Winning Chance (%)": 39.58
             },
             {
                 "Team": "Stoke City",
@@ -964,12 +964,12 @@
                 "Winning Chance (%)": 38.7
             },
             {
-                "Team": "Queens Park Rangers",
+                "Team": "Swansea City",
                 "Winning Chance (%)": 36.36
             },
             {
-                "Team": "Swansea City",
-                "Winning Chance (%)": 34.75
+                "Team": "Queens Park Rangers",
+                "Winning Chance (%)": 36.36
             },
             {
                 "Team": "Sheffield United",
@@ -1011,7 +1011,7 @@
         "Indian Super League": [
             {
                 "Team": "East Bengal",
-                "Winning Chance (%)": 82.0
+                "Winning Chance (%)": 82.4
             },
             {
                 "Team": "FC Goa",
