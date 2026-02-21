@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 February 2026, 02:21 PM UTC",
-        "IST": "Saturday, 21 February 2026, 07:51 PM IST"
+        "UTC": "Saturday, 21 February 2026, 02:51 PM UTC",
+        "IST": "Saturday, 21 February 2026, 08:21 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -116,12 +116,12 @@
                 "Winning Chance (%)": 39.78
             },
             {
-                "Team": "Athletic Bilbao",
+                "Team": "Real Sociedad",
                 "Winning Chance (%)": 36.27
             },
             {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 33.07
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 36.27
             },
             {
                 "Team": "Osasuna",
@@ -160,18 +160,18 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Real Oviedo",
-                "Winning Chance (%)": 21.11
-            },
-            {
                 "Team": "Levante",
                 "Winning Chance (%)": 20.0
+            },
+            {
+                "Team": "Real Oviedo",
+                "Winning Chance (%)": 17.78
             }
         ],
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 89.09
+                "Winning Chance (%)": 89.57
             },
             {
                 "Team": "Borussia Dortmund",
@@ -179,27 +179,31 @@
             },
             {
                 "Team": "Hoffenheim",
-                "Winning Chance (%)": 62.15
+                "Winning Chance (%)": 59.37
             },
             {
                 "Team": "VfB Stuttgart",
                 "Winning Chance (%)": 55.71
             },
             {
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 54.88
+            },
+            {
                 "Team": "RB Leipzig",
                 "Winning Chance (%)": 53.28
             },
             {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 55.92
-            },
-            {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 37.58
+                "Winning Chance (%)": 35.94
             },
             {
                 "Team": "SC Freiburg",
                 "Winning Chance (%)": 36.36
+            },
+            {
+                "Team": "K\u00f6ln",
+                "Winning Chance (%)": 30.14
             },
             {
                 "Team": "Hamburg",
@@ -207,15 +211,11 @@
             },
             {
                 "Team": "Union Berlin",
-                "Winning Chance (%)": 30.3
+                "Winning Chance (%)": 30.14
             },
             {
                 "Team": "Augsburg",
-                "Winning Chance (%)": 30.3
-            },
-            {
-                "Team": "K\u00f6ln",
-                "Winning Chance (%)": 27.88
+                "Winning Chance (%)": 30.14
             },
             {
                 "Team": "Mainz 05",
@@ -227,7 +227,7 @@
             },
             {
                 "Team": "VfL Wolfsburg",
-                "Winning Chance (%)": 24.24
+                "Winning Chance (%)": 24.35
             },
             {
                 "Team": "Werder Bremen",
@@ -929,7 +929,7 @@
             },
             {
                 "Team": "Hull City",
-                "Winning Chance (%)": 47.4
+                "Winning Chance (%)": 47.0
             },
             {
                 "Team": "Derby County",
