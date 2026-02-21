@@ -10,7 +10,7 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Saturday, 21 February 2026, 07:50 AM UTC (Saturday, 21 February 2026, 01:20 PM IST)
+**Last Updated:** Saturday, 21 February 2026, 08:24 AM UTC (Saturday, 21 February 2026, 01:54 PM IST)
 
 _Charts are sorted by Winning Chance (%)_
 
