@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 February 2026, 11:44 AM UTC",
-        "IST": "Saturday, 21 February 2026, 05:14 PM IST"
+        "UTC": "Saturday, 21 February 2026, 12:37 PM UTC",
+        "IST": "Saturday, 21 February 2026, 06:07 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 63.67
+                "Winning Chance (%)": 64.93
             },
             {
                 "Team": "Middlesbrough",
@@ -924,12 +924,12 @@
                 "Winning Chance (%)": 48.27
             },
             {
-                "Team": "Ipswich Town",
-                "Winning Chance (%)": 56.8
+                "Team": "Hull City",
+                "Winning Chance (%)": 48.63
             },
             {
-                "Team": "Hull City",
-                "Winning Chance (%)": 49.25
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 56.8
             },
             {
                 "Team": "Derby County",
@@ -940,12 +940,16 @@
                 "Winning Chance (%)": 42.0
             },
             {
+                "Team": "Bristol City",
+                "Winning Chance (%)": 40.79
+            },
+            {
                 "Team": "Preston North End",
                 "Winning Chance (%)": 39.99
             },
             {
-                "Team": "Bristol City",
-                "Winning Chance (%)": 41.17
+                "Team": "Stoke City",
+                "Winning Chance (%)": 39.57
             },
             {
                 "Team": "Southampton",
@@ -961,18 +965,14 @@
             },
             {
                 "Team": "Queens Park Rangers",
-                "Winning Chance (%)": 36.67
-            },
-            {
-                "Team": "Stoke City",
-                "Winning Chance (%)": 37.83
-            },
-            {
-                "Team": "Sheffield United",
-                "Winning Chance (%)": 35.0
+                "Winning Chance (%)": 36.36
             },
             {
                 "Team": "Swansea City",
+                "Winning Chance (%)": 34.75
+            },
+            {
+                "Team": "Sheffield United",
                 "Winning Chance (%)": 35.0
             },
             {
@@ -993,11 +993,11 @@
             },
             {
                 "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 28.33
+                "Winning Chance (%)": 27.47
             },
             {
                 "Team": "Leicester City",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 25.86
             },
             {
                 "Team": "Oxford United",
@@ -1011,7 +1011,7 @@
         "Indian Super League": [
             {
                 "Team": "East Bengal",
-                "Winning Chance (%)": 81.6
+                "Winning Chance (%)": 82.0
             },
             {
                 "Team": "FC Goa",
@@ -1054,15 +1054,15 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "SC Delhi",
-                "Winning Chance (%)": 0.0
-            },
-            {
                 "Team": "Mohammedan",
                 "Winning Chance (%)": 0.0
             },
             {
                 "Team": "NorthEast Utd",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "SC Delhi",
                 "Winning Chance (%)": 0.0
             }
         ],
