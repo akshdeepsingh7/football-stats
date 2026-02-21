@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 February 2026, 03:19 PM UTC",
-        "IST": "Saturday, 21 February 2026, 08:49 PM IST"
+        "UTC": "Saturday, 21 February 2026, 03:46 PM UTC",
+        "IST": "Saturday, 21 February 2026, 09:16 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -15,7 +15,7 @@
             },
             {
                 "Team": "Aston Villa",
-                "Winning Chance (%)": 54.37
+                "Winning Chance (%)": 52.98
             },
             {
                 "Team": "Chelsea",
@@ -31,7 +31,7 @@
             },
             {
                 "Team": "Brentford",
-                "Winning Chance (%)": 42.49
+                "Winning Chance (%)": 41.11
             },
             {
                 "Team": "Everton",
@@ -50,20 +50,20 @@
                 "Winning Chance (%)": 36.92
             },
             {
+                "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 33.98
+            },
+            {
                 "Team": "Fulham",
                 "Winning Chance (%)": 34.87
             },
             {
-                "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 31.6
+                "Team": "Leeds United",
+                "Winning Chance (%)": 32.59
             },
             {
                 "Team": "Crystal Palace",
                 "Winning Chance (%)": 32.82
-            },
-            {
-                "Team": "Leeds United",
-                "Winning Chance (%)": 30.62
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 48.8
+                "Winning Chance (%)": 51.33
             },
             {
                 "Team": "Espanyol",
@@ -144,16 +144,16 @@
                 "Winning Chance (%)": 28.89
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 28.89
-            },
-            {
                 "Team": "Valencia",
                 "Winning Chance (%)": 28.89
             },
             {
                 "Team": "Elche",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 27.78
             },
             {
                 "Team": "Mallorca",
@@ -261,11 +261,11 @@
             },
             {
                 "Team": "Juventus",
-                "Winning Chance (%)": 54.78
+                "Winning Chance (%)": 54.38
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 54.55
+                "Winning Chance (%)": 54.95
             },
             {
                 "Team": "Atalanta",
@@ -875,23 +875,23 @@
             },
             {
                 "Team": "Alverca",
-                "Winning Chance (%)": 30.3
+                "Winning Chance (%)": 32.46
+            },
+            {
+                "Team": "Arouca",
+                "Winning Chance (%)": 27.83
             },
             {
                 "Team": "Estrela Amadora",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Arouca",
-                "Winning Chance (%)": 27.88
+                "Team": "Nacional",
+                "Winning Chance (%)": 25.51
             },
             {
                 "Team": "Casa Pia",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Nacional",
-                "Winning Chance (%)": 25.45
             },
             {
                 "Team": "Rio Ave",
@@ -903,7 +903,7 @@
             },
             {
                 "Team": "Santa Clara",
-                "Winning Chance (%)": 20.61
+                "Winning Chance (%)": 19.71
             },
             {
                 "Team": "AVS",
@@ -1014,12 +1014,12 @@
                 "Winning Chance (%)": 82.4
             },
             {
-                "Team": "FC Goa",
-                "Winning Chance (%)": 54.13
+                "Team": "Jamshedpur",
+                "Winning Chance (%)": 80.8
             },
             {
-                "Team": "Jamshedpur",
-                "Winning Chance (%)": 53.73
+                "Team": "FC Goa",
+                "Winning Chance (%)": 54.13
             },
             {
                 "Team": "Bengaluru",
@@ -1038,15 +1038,15 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Punjab FC",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Odisha",
                 "Winning Chance (%)": 0.0
             },
             {
                 "Team": "Chennaiyin",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Punjab FC",
                 "Winning Chance (%)": 0.0
             },
             {
