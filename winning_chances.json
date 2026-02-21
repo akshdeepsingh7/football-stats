@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 February 2026, 07:00 PM UTC",
-        "IST": "Sunday, 22 February 2026, 12:30 AM IST"
+        "UTC": "Saturday, 21 February 2026, 07:32 PM UTC",
+        "IST": "Sunday, 22 February 2026, 01:02 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -175,19 +175,19 @@
             },
             {
                 "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 69.53
+                "Winning Chance (%)": 71.09
             },
             {
                 "Team": "Hoffenheim",
                 "Winning Chance (%)": 60.93
             },
             {
-                "Team": "RB Leipzig",
-                "Winning Chance (%)": 55.06
-            },
-            {
                 "Team": "VfB Stuttgart",
                 "Winning Chance (%)": 55.71
+            },
+            {
+                "Team": "RB Leipzig",
+                "Winning Chance (%)": 52.34
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 82.53
+                "Winning Chance (%)": 85.65
             },
             {
                 "Team": "Benfica",
@@ -859,7 +859,7 @@
             },
             {
                 "Team": "Moreirense",
-                "Winning Chance (%)": 39.42
+                "Winning Chance (%)": 38.26
             },
             {
                 "Team": "Famalic\u00e3o",
