@@ -1,13 +1,13 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 04:23 PM UTC",
-        "IST": "Sunday, 22 February 2026, 09:53 PM IST"
+        "UTC": "Sunday, 22 February 2026, 04:54 PM UTC",
+        "IST": "Sunday, 22 February 2026, 10:24 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 70.08
+                "Winning Chance (%)": 68.99
             },
             {
                 "Team": "Manchester City",
@@ -67,7 +67,7 @@
             },
             {
                 "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 29.74
+                "Winning Chance (%)": 29.63
             },
             {
                 "Team": "Nottingham Forest",
@@ -231,11 +231,11 @@
             },
             {
                 "Team": "Werder Bremen",
-                "Winning Chance (%)": 23.03
+                "Winning Chance (%)": 23.19
             },
             {
                 "Team": "St. Pauli",
-                "Winning Chance (%)": 20.61
+                "Winning Chance (%)": 20.87
             },
             {
                 "Team": "Heidenheim",
@@ -354,16 +354,16 @@
                 "Winning Chance (%)": 40.22
             },
             {
-                "Team": "Lorient",
-                "Winning Chance (%)": 37.1
-            },
-            {
                 "Team": "Strasbourg",
                 "Winning Chance (%)": 40.38
             },
             {
                 "Team": "Toulouse",
                 "Winning Chance (%)": 38.34
+            },
+            {
+                "Team": "Lorient",
+                "Winning Chance (%)": 35.94
             },
             {
                 "Team": "Brest",
@@ -379,7 +379,7 @@
             },
             {
                 "Team": "Nice",
-                "Winning Chance (%)": 27.83
+                "Winning Chance (%)": 30.14
             },
             {
                 "Team": "Paris FC",
