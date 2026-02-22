@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 07:01 PM UTC",
-        "IST": "Monday, 23 February 2026, 12:31 AM IST"
+        "UTC": "Sunday, 22 February 2026, 07:44 PM UTC",
+        "IST": "Monday, 23 February 2026, 01:14 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -108,12 +108,12 @@
                 "Winning Chance (%)": 48.8
             },
             {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 37.33
+                "Team": "Celta de Vigo",
+                "Winning Chance (%)": 42.27
             },
             {
-                "Team": "Celta de Vigo",
-                "Winning Chance (%)": 39.33
+                "Team": "Espanyol",
+                "Winning Chance (%)": 37.33
             },
             {
                 "Team": "Athletic Bilbao",
@@ -157,7 +157,7 @@
             },
             {
                 "Team": "Mallorca",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 25.6
             },
             {
                 "Team": "Levante",
@@ -183,7 +183,7 @@
             },
             {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 57.37
+                "Winning Chance (%)": 54.66
             },
             {
                 "Team": "RB Leipzig",
@@ -239,7 +239,7 @@
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 15.07
+                "Winning Chance (%)": 16.23
             }
         ],
         "Serie A": [
@@ -855,7 +855,11 @@
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 53.54
+                "Winning Chance (%)": 51.98
+            },
+            {
+                "Team": "Estoril",
+                "Winning Chance (%)": 40.66
             },
             {
                 "Team": "Moreirense",
@@ -864,10 +868,6 @@
             {
                 "Team": "Famalic\u00e3o",
                 "Winning Chance (%)": 41.19
-            },
-            {
-                "Team": "Estoril",
-                "Winning Chance (%)": 37.94
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
