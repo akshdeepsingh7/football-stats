@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 01:39 PM UTC",
-        "IST": "Sunday, 22 February 2026, 07:09 PM IST"
+        "UTC": "Sunday, 22 February 2026, 02:21 PM UTC",
+        "IST": "Sunday, 22 February 2026, 07:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -27,7 +27,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 45.48
+                "Winning Chance (%)": 44.87
             },
             {
                 "Team": "Brentford",
@@ -42,24 +42,24 @@
                 "Winning Chance (%)": 37.95
             },
             {
+                "Team": "Sunderland",
+                "Winning Chance (%)": 36.54
+            },
+            {
                 "Team": "Newcastle United",
                 "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Sunderland",
-                "Winning Chance (%)": 36.92
+                "Team": "Fulham",
+                "Winning Chance (%)": 34.57
             },
             {
                 "Team": "Brighton & Hove Albion",
                 "Winning Chance (%)": 34.38
             },
             {
-                "Team": "Fulham",
-                "Winning Chance (%)": 34.87
-            },
-            {
                 "Team": "Crystal Palace",
-                "Winning Chance (%)": 32.82
+                "Winning Chance (%)": 32.59
             },
             {
                 "Team": "Leeds United",
@@ -71,7 +71,7 @@
             },
             {
                 "Team": "Nottingham Forest",
-                "Winning Chance (%)": 27.69
+                "Winning Chance (%)": 27.65
             },
             {
                 "Team": "West Ham United",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 9.88
+                "Winning Chance (%)": 10.48
             }
         ],
         "La Liga": [
@@ -253,7 +253,7 @@
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 58.53
+                "Winning Chance (%)": 59.96
             },
             {
                 "Team": "Roma",
@@ -269,7 +269,7 @@
             },
             {
                 "Team": "Atalanta",
-                "Winning Chance (%)": 50.0
+                "Winning Chance (%)": 47.88
             },
             {
                 "Team": "Sassuolo",
@@ -342,16 +342,16 @@
                 "Winning Chance (%)": 53.18
             },
             {
+                "Team": "Rennes",
+                "Winning Chance (%)": 42.9
+            },
+            {
                 "Team": "Lille",
                 "Winning Chance (%)": 42.81
             },
             {
                 "Team": "Monaco",
                 "Winning Chance (%)": 40.22
-            },
-            {
-                "Team": "Rennes",
-                "Winning Chance (%)": 41.21
             },
             {
                 "Team": "Strasbourg",
@@ -387,7 +387,7 @@
             },
             {
                 "Team": "Auxerre",
-                "Winning Chance (%)": 20.61
+                "Winning Chance (%)": 19.71
             },
             {
                 "Team": "Nantes",
@@ -1026,16 +1026,20 @@
                 "Winning Chance (%)": 54.13
             },
             {
+                "Team": "Mumbai City",
+                "Winning Chance (%)": 53.73
+            },
+            {
                 "Team": "Mohun Bagan SG",
                 "Winning Chance (%)": 80.8
             },
             {
-                "Team": "Mumbai City",
-                "Winning Chance (%)": 80.4
-            },
-            {
                 "Team": "Inter Kashi",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Kerala Blasters",
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "NorthEast Utd",
@@ -1051,10 +1055,6 @@
             },
             {
                 "Team": "Punjab FC",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Kerala Blasters",
                 "Winning Chance (%)": 0.0
             },
             {
