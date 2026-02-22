@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 02:51 PM UTC",
-        "IST": "Sunday, 22 February 2026, 08:21 PM IST"
+        "UTC": "Sunday, 22 February 2026, 03:20 PM UTC",
+        "IST": "Sunday, 22 February 2026, 08:50 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -42,7 +42,7 @@
                 "Winning Chance (%)": 37.95
             },
             {
-                "Team": "Sunderland",
+                "Team": "Fulham",
                 "Winning Chance (%)": 36.54
             },
             {
@@ -50,8 +50,8 @@
                 "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Fulham",
-                "Winning Chance (%)": 34.57
+                "Team": "Sunderland",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Brighton & Hove Albion",
@@ -93,7 +93,7 @@
             },
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 80.04
+                "Winning Chance (%)": 78.53
             },
             {
                 "Team": "Villarreal",
@@ -161,7 +161,7 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 20.0
+                "Winning Chance (%)": 20.27
             },
             {
                 "Team": "Real Oviedo",
@@ -194,11 +194,11 @@
                 "Winning Chance (%)": 53.27
             },
             {
-                "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 35.94
+                "Team": "SC Freiburg",
+                "Winning Chance (%)": 38.26
             },
             {
-                "Team": "SC Freiburg",
+                "Team": "Eintracht Frankfurt",
                 "Winning Chance (%)": 35.94
             },
             {
@@ -218,11 +218,11 @@
                 "Winning Chance (%)": 27.83
             },
             {
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 26.67
+                "Team": "Mainz 05",
+                "Winning Chance (%)": 25.51
             },
             {
-                "Team": "Mainz 05",
+                "Team": "Borussia M\u00f6nchengladbach",
                 "Winning Chance (%)": 25.51
             },
             {
@@ -1018,6 +1018,10 @@
                 "Winning Chance (%)": 80.8
             },
             {
+                "Team": "Mumbai City",
+                "Winning Chance (%)": 80.8
+            },
+            {
                 "Team": "Bengaluru",
                 "Winning Chance (%)": 54.13
             },
@@ -1026,20 +1030,12 @@
                 "Winning Chance (%)": 54.13
             },
             {
-                "Team": "Mumbai City",
-                "Winning Chance (%)": 53.73
-            },
-            {
                 "Team": "Mohun Bagan SG",
                 "Winning Chance (%)": 80.8
             },
             {
                 "Team": "Inter Kashi",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Kerala Blasters",
-                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "NorthEast Utd",
@@ -1055,6 +1051,10 @@
             },
             {
                 "Team": "Punjab FC",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Kerala Blasters",
                 "Winning Chance (%)": 0.0
             },
             {
