@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 11:17 AM UTC",
-        "IST": "Sunday, 22 February 2026, 04:47 PM IST"
+        "UTC": "Sunday, 22 February 2026, 11:43 AM UTC",
+        "IST": "Sunday, 22 February 2026, 05:13 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -297,14 +297,14 @@
             },
             {
                 "Team": "Torino",
-                "Winning Chance (%)": 28.8
-            },
-            {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 25.6
+                "Winning Chance (%)": 28.72
             },
             {
                 "Team": "Genoa",
+                "Winning Chance (%)": 25.64
+            },
+            {
+                "Team": "Cremonese",
                 "Winning Chance (%)": 25.6
             },
             {
@@ -1023,7 +1023,7 @@
             },
             {
                 "Team": "Bengaluru",
-                "Winning Chance (%)": 80.8
+                "Winning Chance (%)": 54.13
             },
             {
                 "Team": "Mohun Bagan SG",
@@ -1036,6 +1036,10 @@
             {
                 "Team": "Inter Kashi",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "NorthEast Utd",
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Odisha",
@@ -1055,10 +1059,6 @@
             },
             {
                 "Team": "Mohammedan",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "NorthEast Utd",
                 "Winning Chance (%)": 0.0
             },
             {
