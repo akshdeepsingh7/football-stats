@@ -1,13 +1,13 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 05:50 PM UTC",
-        "IST": "Sunday, 22 February 2026, 11:20 PM IST"
+        "UTC": "Sunday, 22 February 2026, 06:28 PM UTC",
+        "IST": "Sunday, 22 February 2026, 11:58 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 71.3
+                "Winning Chance (%)": 71.7
             },
             {
                 "Team": "Manchester City",
@@ -354,16 +354,16 @@
                 "Winning Chance (%)": 40.22
             },
             {
+                "Team": "Lorient",
+                "Winning Chance (%)": 37.1
+            },
+            {
                 "Team": "Strasbourg",
                 "Winning Chance (%)": 40.38
             },
             {
                 "Team": "Toulouse",
                 "Winning Chance (%)": 38.34
-            },
-            {
-                "Team": "Lorient",
-                "Winning Chance (%)": 35.94
             },
             {
                 "Team": "Brest",
@@ -379,7 +379,7 @@
             },
             {
                 "Team": "Nice",
-                "Winning Chance (%)": 30.14
+                "Winning Chance (%)": 27.83
             },
             {
                 "Team": "Paris FC",
@@ -855,7 +855,7 @@
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 54.48
+                "Winning Chance (%)": 53.54
             },
             {
                 "Team": "Moreirense",
@@ -866,12 +866,12 @@
                 "Winning Chance (%)": 41.19
             },
             {
-                "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 35.94
+                "Team": "Estoril",
+                "Winning Chance (%)": 37.94
             },
             {
-                "Team": "Estoril",
-                "Winning Chance (%)": 38.36
+                "Team": "Vit\u00f3ria S.C.",
+                "Winning Chance (%)": 35.94
             },
             {
                 "Team": "Arouca",
