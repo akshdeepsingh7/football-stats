@@ -1,13 +1,13 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 05:21 PM UTC",
-        "IST": "Sunday, 22 February 2026, 10:51 PM IST"
+        "UTC": "Sunday, 22 February 2026, 05:50 PM UTC",
+        "IST": "Sunday, 22 February 2026, 11:20 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 68.99
+                "Winning Chance (%)": 71.3
             },
             {
                 "Team": "Manchester City",
@@ -67,7 +67,7 @@
             },
             {
                 "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 29.63
+                "Winning Chance (%)": 28.64
             },
             {
                 "Team": "Nottingham Forest",
@@ -113,7 +113,7 @@
             },
             {
                 "Team": "Celta de Vigo",
-                "Winning Chance (%)": 39.78
+                "Winning Chance (%)": 39.33
             },
             {
                 "Team": "Athletic Bilbao",
@@ -230,12 +230,12 @@
                 "Winning Chance (%)": 23.19
             },
             {
-                "Team": "Werder Bremen",
+                "Team": "St. Pauli",
                 "Winning Chance (%)": 23.19
             },
             {
-                "Team": "St. Pauli",
-                "Winning Chance (%)": 20.87
+                "Team": "Werder Bremen",
+                "Winning Chance (%)": 22.03
             },
             {
                 "Team": "Heidenheim",
