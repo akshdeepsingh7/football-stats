@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 08:20 PM UTC",
-        "IST": "Monday, 23 February 2026, 01:50 AM IST"
+        "UTC": "Sunday, 22 February 2026, 08:49 PM UTC",
+        "IST": "Monday, 23 February 2026, 02:19 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -183,7 +183,7 @@
             },
             {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 53.1
+                "Winning Chance (%)": 54.66
             },
             {
                 "Team": "RB Leipzig",
@@ -239,7 +239,7 @@
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 18.55
+                "Winning Chance (%)": 16.23
             }
         ],
         "Serie A": [
@@ -335,7 +335,7 @@
             },
             {
                 "Team": "Lyon",
-                "Winning Chance (%)": 59.73
+                "Winning Chance (%)": 58.17
             },
             {
                 "Team": "Marseille",
@@ -350,12 +350,12 @@
                 "Winning Chance (%)": 43.7
             },
             {
-                "Team": "Monaco",
-                "Winning Chance (%)": 40.22
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 42.62
             },
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 39.9
+                "Team": "Monaco",
+                "Winning Chance (%)": 40.22
             },
             {
                 "Team": "Lorient",
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 85.92
+                "Winning Chance (%)": 83.97
             },
             {
                 "Team": "Sporting CP",
@@ -895,7 +895,7 @@
             },
             {
                 "Team": "Rio Ave",
-                "Winning Chance (%)": 24.24
+                "Winning Chance (%)": 24.35
             },
             {
                 "Team": "Tondela",
