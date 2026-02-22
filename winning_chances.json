@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 12:38 PM UTC",
-        "IST": "Sunday, 22 February 2026, 06:08 PM IST"
+        "UTC": "Sunday, 22 February 2026, 01:39 PM UTC",
+        "IST": "Sunday, 22 February 2026, 07:09 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -129,7 +129,7 @@
             },
             {
                 "Team": "Getafe",
-                "Winning Chance (%)": 32.22
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Girona",
@@ -137,7 +137,7 @@
             },
             {
                 "Team": "Sevilla",
-                "Winning Chance (%)": 28.89
+                "Winning Chance (%)": 28.8
             },
             {
                 "Team": "Rayo Vallecano",
@@ -965,7 +965,7 @@
             },
             {
                 "Team": "Sheffield United",
-                "Winning Chance (%)": 37.16
+                "Winning Chance (%)": 36.76
             },
             {
                 "Team": "Swansea City",
@@ -1014,12 +1014,12 @@
                 "Winning Chance (%)": 82.4
             },
             {
-                "Team": "Bengaluru",
-                "Winning Chance (%)": 81.2
-            },
-            {
                 "Team": "Jamshedpur",
                 "Winning Chance (%)": 80.8
+            },
+            {
+                "Team": "Bengaluru",
+                "Winning Chance (%)": 54.13
             },
             {
                 "Team": "FC Goa",
@@ -1036,6 +1036,10 @@
             {
                 "Team": "Inter Kashi",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "NorthEast Utd",
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Odisha",
@@ -1055,10 +1059,6 @@
             },
             {
                 "Team": "Mohammedan",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "NorthEast Utd",
                 "Winning Chance (%)": 0.0
             },
             {
