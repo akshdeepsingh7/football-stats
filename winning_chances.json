@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 07:44 PM UTC",
-        "IST": "Monday, 23 February 2026, 01:14 AM IST"
+        "UTC": "Sunday, 22 February 2026, 08:20 PM UTC",
+        "IST": "Monday, 23 February 2026, 01:50 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -97,7 +97,7 @@
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 60.93
+                "Winning Chance (%)": 59.87
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
@@ -140,15 +140,15 @@
                 "Winning Chance (%)": 32.22
             },
             {
+                "Team": "Valencia",
+                "Winning Chance (%)": 28.8
+            },
+            {
                 "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 28.89
             },
             {
                 "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 28.89
-            },
-            {
-                "Team": "Valencia",
                 "Winning Chance (%)": 28.89
             },
             {
@@ -183,7 +183,7 @@
             },
             {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 54.66
+                "Winning Chance (%)": 53.1
             },
             {
                 "Team": "RB Leipzig",
@@ -239,7 +239,7 @@
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 16.23
+                "Winning Chance (%)": 18.55
             }
         ],
         "Serie A": [
@@ -257,7 +257,7 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 56.13
+                "Winning Chance (%)": 55.23
             },
             {
                 "Team": "Juventus",
@@ -305,7 +305,7 @@
             },
             {
                 "Team": "Cremonese",
-                "Winning Chance (%)": 25.6
+                "Winning Chance (%)": 25.64
             },
             {
                 "Team": "Lecce",
@@ -335,7 +335,7 @@
             },
             {
                 "Team": "Lyon",
-                "Winning Chance (%)": 60.95
+                "Winning Chance (%)": 59.73
             },
             {
                 "Team": "Marseille",
@@ -354,12 +354,12 @@
                 "Winning Chance (%)": 40.22
             },
             {
-                "Team": "Lorient",
-                "Winning Chance (%)": 37.1
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 39.9
             },
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 40.38
+                "Team": "Lorient",
+                "Winning Chance (%)": 37.1
             },
             {
                 "Team": "Toulouse",
@@ -855,11 +855,11 @@
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 51.98
+                "Winning Chance (%)": 51.58
             },
             {
                 "Team": "Estoril",
-                "Winning Chance (%)": 40.66
+                "Winning Chance (%)": 41.06
             },
             {
                 "Team": "Moreirense",
