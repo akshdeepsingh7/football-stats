@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 02:21 PM UTC",
-        "IST": "Sunday, 22 February 2026, 07:51 PM IST"
+        "UTC": "Sunday, 22 February 2026, 02:51 PM UTC",
+        "IST": "Sunday, 22 February 2026, 08:21 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -128,16 +128,16 @@
                 "Winning Chance (%)": 34.13
             },
             {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 30.93
+            },
+            {
                 "Team": "Getafe",
-                "Winning Chance (%)": 32.0
+                "Winning Chance (%)": 30.93
             },
             {
                 "Team": "Girona",
                 "Winning Chance (%)": 32.22
-            },
-            {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 28.8
             },
             {
                 "Team": "Rayo Vallecano",
@@ -199,7 +199,7 @@
             },
             {
                 "Team": "SC Freiburg",
-                "Winning Chance (%)": 36.36
+                "Winning Chance (%)": 35.94
             },
             {
                 "Team": "Union Berlin",
@@ -218,12 +218,12 @@
                 "Winning Chance (%)": 27.83
             },
             {
-                "Team": "Mainz 05",
-                "Winning Chance (%)": 25.51
-            },
-            {
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Mainz 05",
+                "Winning Chance (%)": 25.51
             },
             {
                 "Team": "VfL Wolfsburg",
@@ -343,7 +343,7 @@
             },
             {
                 "Team": "Rennes",
-                "Winning Chance (%)": 42.9
+                "Winning Chance (%)": 43.7
             },
             {
                 "Team": "Lille",
