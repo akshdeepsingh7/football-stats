@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 11:43 AM UTC",
-        "IST": "Sunday, 22 February 2026, 05:13 PM IST"
+        "UTC": "Sunday, 22 February 2026, 12:38 PM UTC",
+        "IST": "Sunday, 22 February 2026, 06:08 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -296,12 +296,12 @@
                 "Winning Chance (%)": 29.74
             },
             {
-                "Team": "Torino",
-                "Winning Chance (%)": 28.72
+                "Team": "Genoa",
+                "Winning Chance (%)": 27.69
             },
             {
-                "Team": "Genoa",
-                "Winning Chance (%)": 25.64
+                "Team": "Torino",
+                "Winning Chance (%)": 27.69
             },
             {
                 "Team": "Cremonese",
@@ -964,16 +964,16 @@
                 "Winning Chance (%)": 37.98
             },
             {
+                "Team": "Sheffield United",
+                "Winning Chance (%)": 37.16
+            },
+            {
                 "Team": "Swansea City",
                 "Winning Chance (%)": 36.36
             },
             {
                 "Team": "Stoke City",
                 "Winning Chance (%)": 37.56
-            },
-            {
-                "Team": "Sheffield United",
-                "Winning Chance (%)": 35.0
             },
             {
                 "Team": "Charlton Athletic",
@@ -1014,15 +1014,15 @@
                 "Winning Chance (%)": 82.4
             },
             {
+                "Team": "Bengaluru",
+                "Winning Chance (%)": 81.2
+            },
+            {
                 "Team": "Jamshedpur",
                 "Winning Chance (%)": 80.8
             },
             {
                 "Team": "FC Goa",
-                "Winning Chance (%)": 54.13
-            },
-            {
-                "Team": "Bengaluru",
                 "Winning Chance (%)": 54.13
             },
             {
@@ -1036,10 +1036,6 @@
             {
                 "Team": "Inter Kashi",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "NorthEast Utd",
-                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Odisha",
@@ -1059,6 +1055,10 @@
             },
             {
                 "Team": "Mohammedan",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "NorthEast Utd",
                 "Winning Chance (%)": 0.0
             },
             {
