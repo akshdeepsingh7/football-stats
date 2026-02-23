@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 23 February 2026, 02:05 PM UTC",
-        "IST": "Monday, 23 February 2026, 07:35 PM IST"
+        "UTC": "Monday, 23 February 2026, 03:12 PM UTC",
+        "IST": "Monday, 23 February 2026, 08:42 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1014,6 +1014,10 @@
                 "Winning Chance (%)": 82.4
             },
             {
+                "Team": "Mohun Bagan SG",
+                "Winning Chance (%)": 81.2
+            },
+            {
                 "Team": "Jamshedpur",
                 "Winning Chance (%)": 80.8
             },
@@ -1030,16 +1034,8 @@
                 "Winning Chance (%)": 54.13
             },
             {
-                "Team": "Mohun Bagan SG",
-                "Winning Chance (%)": 54.13
-            },
-            {
                 "Team": "Inter Kashi",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Chennaiyin",
-                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "NorthEast Utd",
@@ -1051,6 +1047,10 @@
             },
             {
                 "Team": "Punjab FC",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Chennaiyin",
                 "Winning Chance (%)": 0.0
             },
             {
