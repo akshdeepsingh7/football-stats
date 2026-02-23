@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 23 February 2026, 06:56 PM UTC",
-        "IST": "Tuesday, 24 February 2026, 12:26 AM IST"
+        "UTC": "Monday, 23 February 2026, 07:55 PM UTC",
+        "IST": "Tuesday, 24 February 2026, 01:25 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -276,16 +276,16 @@
                 "Winning Chance (%)": 35.9
             },
             {
+                "Team": "Bologna",
+                "Winning Chance (%)": 35.67
+            },
+            {
                 "Team": "Lazio",
                 "Winning Chance (%)": 35.27
             },
             {
-                "Team": "Bologna",
-                "Winning Chance (%)": 36.0
-            },
-            {
                 "Team": "Udinese",
-                "Winning Chance (%)": 34.13
+                "Winning Chance (%)": 33.85
             },
             {
                 "Team": "Parma",
