@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 23 February 2026, 08:39 PM UTC",
-        "IST": "Tuesday, 24 February 2026, 02:09 AM IST"
+        "UTC": "Monday, 23 February 2026, 09:39 PM UTC",
+        "IST": "Tuesday, 24 February 2026, 03:09 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -19,7 +19,7 @@
             },
             {
                 "Team": "Manchester United",
-                "Winning Chance (%)": 49.43
+                "Winning Chance (%)": 51.81
             },
             {
                 "Team": "Chelsea",
@@ -34,12 +34,12 @@
                 "Winning Chance (%)": 40.71
             },
             {
-                "Team": "Everton",
+                "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 37.53
             },
             {
-                "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 37.53
+                "Team": "Everton",
+                "Winning Chance (%)": 36.54
             },
             {
                 "Team": "Fulham",
@@ -129,7 +129,7 @@
             },
             {
                 "Team": "Girona",
-                "Winning Chance (%)": 32.0
+                "Winning Chance (%)": 34.13
             },
             {
                 "Team": "Sevilla",
@@ -140,12 +140,12 @@
                 "Winning Chance (%)": 30.93
             },
             {
-                "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 28.8
-            },
-            {
                 "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 28.89
+            },
+            {
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 27.73
             },
             {
                 "Team": "Valencia",
@@ -272,12 +272,12 @@
                 "Winning Chance (%)": 51.75
             },
             {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 35.9
+                "Team": "Bologna",
+                "Winning Chance (%)": 38.12
             },
             {
-                "Team": "Bologna",
-                "Winning Chance (%)": 35.67
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 35.9
             },
             {
                 "Team": "Lazio",
@@ -285,7 +285,7 @@
             },
             {
                 "Team": "Udinese",
-                "Winning Chance (%)": 33.85
+                "Winning Chance (%)": 32.82
             },
             {
                 "Team": "Parma",
@@ -859,15 +859,15 @@
             },
             {
                 "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 40.66
-            },
-            {
-                "Team": "Moreirense",
-                "Winning Chance (%)": 38.26
+                "Winning Chance (%)": 43.38
             },
             {
                 "Team": "Estoril",
                 "Winning Chance (%)": 41.06
+            },
+            {
+                "Team": "Moreirense",
+                "Winning Chance (%)": 38.26
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
@@ -887,7 +887,7 @@
             },
             {
                 "Team": "Casa Pia",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 25.51
             },
             {
                 "Team": "Nacional",
