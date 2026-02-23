@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 23 February 2026, 09:39 PM UTC",
-        "IST": "Tuesday, 24 February 2026, 03:09 AM IST"
+        "UTC": "Monday, 23 February 2026, 10:36 PM UTC",
+        "IST": "Tuesday, 24 February 2026, 04:06 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -129,7 +129,7 @@
             },
             {
                 "Team": "Girona",
-                "Winning Chance (%)": 34.13
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Sevilla",
@@ -140,12 +140,12 @@
                 "Winning Chance (%)": 30.93
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 28.89
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 28.8
             },
             {
-                "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 27.73
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 28.89
             },
             {
                 "Team": "Valencia",
@@ -859,7 +859,7 @@
             },
             {
                 "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 43.38
+                "Winning Chance (%)": 43.78
             },
             {
                 "Team": "Estoril",
