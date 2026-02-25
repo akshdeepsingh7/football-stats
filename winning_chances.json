@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 25 February 2026, 10:27 PM UTC",
-        "IST": "Thursday, 26 February 2026, 03:57 AM IST"
+        "UTC": "Wednesday, 25 February 2026, 11:00 PM UTC",
+        "IST": "Thursday, 26 February 2026, 04:30 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1068,12 +1068,16 @@
         ],
         "Brasileir\u00e3o": [
             {
-                "Team": "Palmeiras",
-                "Winning Chance (%)": 64.62
+                "Team": "RB Bragantino",
+                "Winning Chance (%)": 60.4
             },
             {
                 "Team": "S\u00e3o Paulo",
-                "Winning Chance (%)": 63.42
+                "Winning Chance (%)": 54.53
+            },
+            {
+                "Team": "Palmeiras",
+                "Winning Chance (%)": 64.62
             },
             {
                 "Team": "Fluminense",
@@ -1084,16 +1088,12 @@
                 "Winning Chance (%)": 63.02
             },
             {
-                "Team": "Athletico Paranaense",
-                "Winning Chance (%)": 47.07
-            },
-            {
-                "Team": "RB Bragantino",
-                "Winning Chance (%)": 46.67
-            },
-            {
                 "Team": "Corinthians",
                 "Winning Chance (%)": 54.13
+            },
+            {
+                "Team": "Athletico Paranaense",
+                "Winning Chance (%)": 40.0
             },
             {
                 "Team": "Chapecoense",
@@ -1105,7 +1105,7 @@
             },
             {
                 "Team": "Coritiba",
-                "Winning Chance (%)": 35.56
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Flamengo",
