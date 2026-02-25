@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 25 February 2026, 07:46 PM UTC",
-        "IST": "Thursday, 26 February 2026, 01:16 AM IST"
+        "UTC": "Wednesday, 25 February 2026, 08:30 PM UTC",
+        "IST": "Thursday, 26 February 2026, 02:00 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -920,16 +920,16 @@
                 "Winning Chance (%)": 56.21
             },
             {
+                "Team": "Millwall",
+                "Winning Chance (%)": 47.87
+            },
+            {
                 "Team": "Ipswich Town",
                 "Winning Chance (%)": 56.3
             },
             {
                 "Team": "Hull City",
                 "Winning Chance (%)": 48.86
-            },
-            {
-                "Team": "Millwall",
-                "Winning Chance (%)": 45.51
             },
             {
                 "Team": "Wrexham",
@@ -945,7 +945,7 @@
             },
             {
                 "Team": "Birmingham City",
-                "Winning Chance (%)": 41.22
+                "Winning Chance (%)": 39.63
             },
             {
                 "Team": "Preston North End",
@@ -973,15 +973,15 @@
             },
             {
                 "Team": "Stoke City",
-                "Winning Chance (%)": 37.56
+                "Winning Chance (%)": 37.29
+            },
+            {
+                "Team": "Norwich City",
+                "Winning Chance (%)": 33.34
             },
             {
                 "Team": "Charlton Athletic",
                 "Winning Chance (%)": 32.16
-            },
-            {
-                "Team": "Norwich City",
-                "Winning Chance (%)": 31.37
             },
             {
                 "Team": "Portsmouth",
@@ -1001,7 +1001,7 @@
             },
             {
                 "Team": "Oxford United",
-                "Winning Chance (%)": 23.43
+                "Winning Chance (%)": 23.53
             },
             {
                 "Team": "Sheffield Wednesday",
