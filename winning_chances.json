@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 26 February 2026, 01:43 AM UTC",
-        "IST": "Thursday, 26 February 2026, 07:13 AM IST"
+        "UTC": "Thursday, 26 February 2026, 04:12 AM UTC",
+        "IST": "Thursday, 26 February 2026, 09:42 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1096,6 +1096,10 @@
                 "Winning Chance (%)": 46.67
             },
             {
+                "Team": "Gr\u00eamio",
+                "Winning Chance (%)": 40.0
+            },
+            {
                 "Team": "Chapecoense",
                 "Winning Chance (%)": 45.24
             },
@@ -1106,10 +1110,6 @@
             {
                 "Team": "Flamengo",
                 "Winning Chance (%)": 35.56
-            },
-            {
-                "Team": "Gr\u00eamio",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Coritiba",
@@ -1124,12 +1124,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Atl\u00e9tico Mineiro",
+                "Team": "Remo",
                 "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Remo",
-                "Winning Chance (%)": 20.0
+                "Team": "Atl\u00e9tico Mineiro",
+                "Winning Chance (%)": 13.33
             },
             {
                 "Team": "Internacional",
