@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 26 February 2026, 09:54 PM UTC",
-        "IST": "Friday, 27 February 2026, 03:24 AM IST"
+        "UTC": "Thursday, 26 February 2026, 10:28 PM UTC",
+        "IST": "Friday, 27 February 2026, 03:58 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1116,6 +1116,10 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Santos",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Botafogo",
                 "Winning Chance (%)": 27.07
             },
@@ -1141,11 +1145,7 @@
             },
             {
                 "Team": "Vasco da Gama",
-                "Winning Chance (%)": 8.89
-            },
-            {
-                "Team": "Santos",
-                "Winning Chance (%)": 8.89
+                "Winning Chance (%)": 6.67
             }
         ]
     }
