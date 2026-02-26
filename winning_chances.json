@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 26 February 2026, 12:54 PM UTC",
-        "IST": "Thursday, 26 February 2026, 06:24 PM IST"
+        "UTC": "Thursday, 26 February 2026, 02:07 PM UTC",
+        "IST": "Thursday, 26 February 2026, 07:37 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1026,11 +1026,11 @@
                 "Winning Chance (%)": 80.8
             },
             {
-                "Team": "Bengaluru",
-                "Winning Chance (%)": 54.13
+                "Team": "FC Goa",
+                "Winning Chance (%)": 45.24
             },
             {
-                "Team": "FC Goa",
+                "Team": "Bengaluru",
                 "Winning Chance (%)": 54.13
             },
             {
@@ -1046,6 +1046,10 @@
                 "Winning Chance (%)": 13.33
             },
             {
+                "Team": "SC Delhi",
+                "Winning Chance (%)": 8.89
+            },
+            {
                 "Team": "Punjab FC",
                 "Winning Chance (%)": 0.0
             },
@@ -1059,10 +1063,6 @@
             },
             {
                 "Team": "Mohammedan",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "SC Delhi",
                 "Winning Chance (%)": 0.0
             }
         ],
