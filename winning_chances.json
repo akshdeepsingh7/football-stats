@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 27 February 2026, 01:56 PM UTC",
-        "IST": "Friday, 27 February 2026, 07:26 PM IST"
+        "UTC": "Friday, 27 February 2026, 02:37 PM UTC",
+        "IST": "Friday, 27 February 2026, 08:07 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1031,7 +1031,11 @@
             },
             {
                 "Team": "Bengaluru",
-                "Winning Chance (%)": 54.13
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Punjab FC",
+                "Winning Chance (%)": 40.4
             },
             {
                 "Team": "Inter Kashi",
@@ -1044,10 +1048,6 @@
             {
                 "Team": "NorthEast Utd",
                 "Winning Chance (%)": 13.33
-            },
-            {
-                "Team": "Punjab FC",
-                "Winning Chance (%)": 0.0
             },
             {
                 "Team": "Chennaiyin",
