@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 27 February 2026, 07:55 PM UTC",
-        "IST": "Saturday, 28 February 2026, 01:25 AM IST"
+        "UTC": "Friday, 27 February 2026, 08:22 PM UTC",
+        "IST": "Saturday, 28 February 2026, 01:52 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -15,7 +15,7 @@
             },
             {
                 "Team": "Aston Villa",
-                "Winning Chance (%)": 54.37
+                "Winning Chance (%)": 53.52
             },
             {
                 "Team": "Manchester United",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 9.52
+                "Winning Chance (%)": 10.11
             }
         ],
         "La Liga": [
@@ -141,7 +141,7 @@
             },
             {
                 "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 28.8
+                "Winning Chance (%)": 28.72
             },
             {
                 "Team": "Rayo Vallecano",
@@ -161,7 +161,7 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 19.2
+                "Winning Chance (%)": 19.49
             },
             {
                 "Team": "Real Oviedo",
@@ -331,7 +331,7 @@
             },
             {
                 "Team": "Lens",
-                "Winning Chance (%)": 68.49
+                "Winning Chance (%)": 66.98
             },
             {
                 "Team": "Lyon",
@@ -342,16 +342,16 @@
                 "Winning Chance (%)": 53.18
             },
             {
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 45.11
+            },
+            {
                 "Team": "Lille",
                 "Winning Chance (%)": 44.9
             },
             {
                 "Team": "Rennes",
                 "Winning Chance (%)": 43.7
-            },
-            {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 42.49
             },
             {
                 "Team": "Monaco",
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 87.42
+                "Winning Chance (%)": 84.8
             },
             {
                 "Team": "Sporting CP",
@@ -875,7 +875,7 @@
             },
             {
                 "Team": "Arouca",
-                "Winning Chance (%)": 28.89
+                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Alverca",
@@ -936,12 +936,16 @@
                 "Winning Chance (%)": 45.55
             },
             {
+                "Team": "Watford",
+                "Winning Chance (%)": 40.46
+            },
+            {
                 "Team": "Southampton",
                 "Winning Chance (%)": 42.82
             },
             {
                 "Team": "Bristol City",
-                "Winning Chance (%)": 41.22
+                "Winning Chance (%)": 39.7
             },
             {
                 "Team": "Preston North End",
@@ -954,10 +958,6 @@
             {
                 "Team": "Derby County",
                 "Winning Chance (%)": 39.25
-            },
-            {
-                "Team": "Watford",
-                "Winning Chance (%)": 38.85
             },
             {
                 "Team": "Stoke City",
