@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 27 February 2026, 07:29 PM UTC",
-        "IST": "Saturday, 28 February 2026, 12:59 AM IST"
+        "UTC": "Friday, 27 February 2026, 07:55 PM UTC",
+        "IST": "Saturday, 28 February 2026, 01:25 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -202,11 +202,11 @@
                 "Winning Chance (%)": 35.94
             },
             {
-                "Team": "Union Berlin",
-                "Winning Chance (%)": 32.46
+                "Team": "Augsburg",
+                "Winning Chance (%)": 32.22
             },
             {
-                "Team": "Augsburg",
+                "Team": "Union Berlin",
                 "Winning Chance (%)": 32.46
             },
             {
@@ -215,7 +215,7 @@
             },
             {
                 "Team": "K\u00f6ln",
-                "Winning Chance (%)": 27.83
+                "Winning Chance (%)": 27.78
             },
             {
                 "Team": "Mainz 05",
@@ -284,16 +284,16 @@
                 "Winning Chance (%)": 35.27
             },
             {
+                "Team": "Parma",
+                "Winning Chance (%)": 32.59
+            },
+            {
                 "Team": "Udinese",
                 "Winning Chance (%)": 32.82
             },
             {
-                "Team": "Parma",
-                "Winning Chance (%)": 32.82
-            },
-            {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 29.74
+                "Winning Chance (%)": 29.63
             },
             {
                 "Team": "Genoa",
@@ -331,7 +331,7 @@
             },
             {
                 "Team": "Lens",
-                "Winning Chance (%)": 69.89
+                "Winning Chance (%)": 68.49
             },
             {
                 "Team": "Lyon",
@@ -351,7 +351,7 @@
             },
             {
                 "Team": "Strasbourg",
-                "Winning Chance (%)": 43.02
+                "Winning Chance (%)": 42.49
             },
             {
                 "Team": "Monaco",
