@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 05:16 PM UTC",
-        "IST": "Saturday, 28 February 2026, 10:46 PM IST"
+        "UTC": "Saturday, 28 February 2026, 05:42 PM UTC",
+        "IST": "Saturday, 28 February 2026, 11:12 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -11,7 +11,7 @@
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 67.71
+                "Winning Chance (%)": 66.69
             },
             {
                 "Team": "Aston Villa",
@@ -63,7 +63,7 @@
             },
             {
                 "Team": "Leeds United",
-                "Winning Chance (%)": 30.62
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -125,7 +125,7 @@
             },
             {
                 "Team": "Real Sociedad",
-                "Winning Chance (%)": 34.13
+                "Winning Chance (%)": 33.85
             },
             {
                 "Team": "Girona",
@@ -157,7 +157,7 @@
             },
             {
                 "Team": "Mallorca",
-                "Winning Chance (%)": 25.6
+                "Winning Chance (%)": 25.64
             },
             {
                 "Team": "Levante",
@@ -171,11 +171,11 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 89.57
+                "Winning Chance (%)": 87.78
             },
             {
                 "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 71.09
+                "Winning Chance (%)": 69.69
             },
             {
                 "Team": "Hoffenheim",
