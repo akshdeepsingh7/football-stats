@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 08:20 PM UTC",
-        "IST": "Sunday, 01 March 2026, 01:50 AM IST"
+        "UTC": "Saturday, 28 February 2026, 08:45 PM UTC",
+        "IST": "Sunday, 01 March 2026, 02:15 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "PSG",
-                "Winning Chance (%)": 74.31
+                "Winning Chance (%)": 76.93
             },
             {
                 "Team": "Lens",
@@ -375,7 +375,7 @@
             },
             {
                 "Team": "Le Havre",
-                "Winning Chance (%)": 30.0
+                "Winning Chance (%)": 28.89
             },
             {
                 "Team": "Nice",
@@ -871,15 +871,15 @@
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 35.94
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Alverca",
+                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Arouca",
                 "Winning Chance (%)": 28.89
-            },
-            {
-                "Team": "Alverca",
-                "Winning Chance (%)": 30.14
             },
             {
                 "Team": "Estrela Amadora",
