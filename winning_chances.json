@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 04:20 PM UTC",
-        "IST": "Saturday, 28 February 2026, 09:50 PM IST"
+        "UTC": "Saturday, 28 February 2026, 04:48 PM UTC",
+        "IST": "Saturday, 28 February 2026, 10:18 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -23,7 +23,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 49.31
+                "Winning Chance (%)": 49.71
             },
             {
                 "Team": "Chelsea",
@@ -31,7 +31,7 @@
             },
             {
                 "Team": "Brentford",
-                "Winning Chance (%)": 42.55
+                "Winning Chance (%)": 40.25
             },
             {
                 "Team": "Everton",
@@ -79,7 +79,7 @@
             },
             {
                 "Team": "Burnley",
-                "Winning Chance (%)": 18.1
+                "Winning Chance (%)": 19.05
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -191,7 +191,7 @@
             },
             {
                 "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 50.82
+                "Winning Chance (%)": 52.38
             },
             {
                 "Team": "SC Freiburg",
@@ -207,14 +207,14 @@
             },
             {
                 "Team": "Union Berlin",
-                "Winning Chance (%)": 32.22
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Hamburg",
                 "Winning Chance (%)": 31.52
             },
             {
-                "Team": "Mainz 05",
+                "Team": "Borussia M\u00f6nchengladbach",
                 "Winning Chance (%)": 27.78
             },
             {
@@ -222,7 +222,7 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Borussia M\u00f6nchengladbach",
+                "Team": "Mainz 05",
                 "Winning Chance (%)": 25.56
             },
             {
@@ -343,7 +343,7 @@
             },
             {
                 "Team": "Rennes",
-                "Winning Chance (%)": 43.02
+                "Winning Chance (%)": 45.64
             },
             {
                 "Team": "Lille",
@@ -358,12 +358,12 @@
                 "Winning Chance (%)": 40.22
             },
             {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 37.96
-            },
-            {
                 "Team": "Lorient",
                 "Winning Chance (%)": 37.1
+            },
+            {
+                "Team": "Toulouse",
+                "Winning Chance (%)": 36.44
             },
             {
                 "Team": "Brest",
@@ -925,7 +925,7 @@
             },
             {
                 "Team": "Ipswich Town",
-                "Winning Chance (%)": 58.08
+                "Winning Chance (%)": 58.48
             },
             {
                 "Team": "Hull City",
@@ -937,7 +937,7 @@
             },
             {
                 "Team": "Southampton",
-                "Winning Chance (%)": 44.38
+                "Winning Chance (%)": 44.78
             },
             {
                 "Team": "Derby County",
