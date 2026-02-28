@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 05:42 PM UTC",
-        "IST": "Saturday, 28 February 2026, 11:12 PM IST"
+        "UTC": "Saturday, 28 February 2026, 06:26 PM UTC",
+        "IST": "Saturday, 28 February 2026, 11:56 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -11,7 +11,7 @@
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 66.69
+                "Winning Chance (%)": 68.99
             },
             {
                 "Team": "Aston Villa",
@@ -63,7 +63,7 @@
             },
             {
                 "Team": "Leeds United",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 29.52
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -112,6 +112,10 @@
                 "Winning Chance (%)": 42.27
             },
             {
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 35.9
+            },
+            {
                 "Team": "Espanyol",
                 "Winning Chance (%)": 37.33
             },
@@ -122,10 +126,6 @@
             {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 35.6
-            },
-            {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 33.85
             },
             {
                 "Team": "Girona",
@@ -157,7 +157,7 @@
             },
             {
                 "Team": "Mallorca",
-                "Winning Chance (%)": 25.64
+                "Winning Chance (%)": 24.62
             },
             {
                 "Team": "Levante",
@@ -171,11 +171,11 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 87.78
+                "Winning Chance (%)": 86.67
             },
             {
                 "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 69.69
+                "Winning Chance (%)": 72.31
             },
             {
                 "Team": "Hoffenheim",
@@ -253,7 +253,7 @@
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 57.55
+                "Winning Chance (%)": 55.17
             },
             {
                 "Team": "Roma",
@@ -316,12 +316,12 @@
                 "Winning Chance (%)": 23.7
             },
             {
-                "Team": "Pisa",
-                "Winning Chance (%)": 15.38
+                "Team": "Hellas Verona",
+                "Winning Chance (%)": 15.8
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 14.81
+                "Team": "Pisa",
+                "Winning Chance (%)": 15.38
             }
         ],
         "Ligue 1": [
@@ -355,7 +355,7 @@
             },
             {
                 "Team": "Monaco",
-                "Winning Chance (%)": 40.22
+                "Winning Chance (%)": 39.69
             },
             {
                 "Team": "Lorient",
@@ -371,7 +371,7 @@
             },
             {
                 "Team": "Angers",
-                "Winning Chance (%)": 33.62
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Le Havre",
@@ -851,7 +851,7 @@
             },
             {
                 "Team": "Braga",
-                "Winning Chance (%)": 59.1
+                "Winning Chance (%)": 60.8
             },
             {
                 "Team": "Gil Vicente",
@@ -891,7 +891,7 @@
             },
             {
                 "Team": "Nacional",
-                "Winning Chance (%)": 24.35
+                "Winning Chance (%)": 23.33
             },
             {
                 "Team": "Rio Ave",
