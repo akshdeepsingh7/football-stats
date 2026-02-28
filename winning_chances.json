@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 07:17 PM UTC",
-        "IST": "Sunday, 01 March 2026, 12:47 AM IST"
+        "UTC": "Saturday, 28 February 2026, 07:40 PM UTC",
+        "IST": "Sunday, 01 March 2026, 01:10 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -171,11 +171,11 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 87.78
+                "Winning Chance (%)": 90.0
             },
             {
                 "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 69.69
+                "Winning Chance (%)": 68.18
             },
             {
                 "Team": "Hoffenheim",
@@ -351,7 +351,7 @@
             },
             {
                 "Team": "Monaco",
-                "Winning Chance (%)": 42.31
+                "Winning Chance (%)": 42.71
             },
             {
                 "Team": "Strasbourg",
@@ -851,7 +851,7 @@
             },
             {
                 "Team": "Braga",
-                "Winning Chance (%)": 60.8
+                "Winning Chance (%)": 58.18
             },
             {
                 "Team": "Gil Vicente",
@@ -886,12 +886,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Casa Pia",
-                "Winning Chance (%)": 25.51
+                "Team": "Nacional",
+                "Winning Chance (%)": 24.44
             },
             {
-                "Team": "Nacional",
-                "Winning Chance (%)": 23.33
+                "Team": "Casa Pia",
+                "Winning Chance (%)": 25.51
             },
             {
                 "Team": "Rio Ave",
