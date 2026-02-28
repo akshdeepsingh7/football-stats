@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 02:18 PM UTC",
-        "IST": "Saturday, 28 February 2026, 07:48 PM IST"
+        "UTC": "Saturday, 28 February 2026, 02:45 PM UTC",
+        "IST": "Saturday, 28 February 2026, 08:15 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -179,7 +179,7 @@
             },
             {
                 "Team": "Hoffenheim",
-                "Winning Chance (%)": 60.93
+                "Winning Chance (%)": 59.82
             },
             {
                 "Team": "VfB Stuttgart",
@@ -191,7 +191,7 @@
             },
             {
                 "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 53.27
+                "Winning Chance (%)": 52.38
             },
             {
                 "Team": "SC Freiburg",
@@ -207,7 +207,7 @@
             },
             {
                 "Team": "Union Berlin",
-                "Winning Chance (%)": 32.46
+                "Winning Chance (%)": 32.22
             },
             {
                 "Team": "Hamburg",
@@ -219,27 +219,27 @@
             },
             {
                 "Team": "Mainz 05",
-                "Winning Chance (%)": 25.51
+                "Winning Chance (%)": 25.56
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 25.51
+                "Winning Chance (%)": 25.56
+            },
+            {
+                "Team": "St. Pauli",
+                "Winning Chance (%)": 23.33
             },
             {
                 "Team": "VfL Wolfsburg",
                 "Winning Chance (%)": 23.19
             },
             {
-                "Team": "St. Pauli",
-                "Winning Chance (%)": 23.19
-            },
-            {
                 "Team": "Werder Bremen",
-                "Winning Chance (%)": 22.03
+                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 16.23
+                "Winning Chance (%)": 16.67
             }
         ],
         "Serie A": [
@@ -260,16 +260,16 @@
                 "Winning Chance (%)": 58.48
             },
             {
+                "Team": "Como",
+                "Winning Chance (%)": 56.61
+            },
+            {
                 "Team": "Juventus",
                 "Winning Chance (%)": 54.38
             },
             {
                 "Team": "Atalanta",
                 "Winning Chance (%)": 51.75
-            },
-            {
-                "Team": "Como",
-                "Winning Chance (%)": 52.84
             },
             {
                 "Team": "Bologna",
@@ -304,16 +304,16 @@
                 "Winning Chance (%)": 27.69
             },
             {
-                "Team": "Lecce",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Fiorentina",
                 "Winning Chance (%)": 24.62
             },
             {
                 "Team": "Cremonese",
                 "Winning Chance (%)": 24.62
+            },
+            {
+                "Team": "Lecce",
+                "Winning Chance (%)": 23.7
             },
             {
                 "Team": "Pisa",
@@ -1010,6 +1010,10 @@
         ],
         "Indian Super League": [
             {
+                "Team": "Mohun Bagan SG",
+                "Winning Chance (%)": 82.4
+            },
+            {
                 "Team": "Jamshedpur",
                 "Winning Chance (%)": 81.2
             },
@@ -1020,10 +1024,6 @@
             {
                 "Team": "East Bengal",
                 "Winning Chance (%)": 55.33
-            },
-            {
-                "Team": "Mohun Bagan SG",
-                "Winning Chance (%)": 54.53
             },
             {
                 "Team": "Mumbai City",
@@ -1042,10 +1042,6 @@
                 "Winning Chance (%)": 40.4
             },
             {
-                "Team": "Mohammedan",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "Odisha",
                 "Winning Chance (%)": 26.67
             },
@@ -1059,6 +1055,10 @@
             },
             {
                 "Team": "Kerala Blasters",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Mohammedan",
                 "Winning Chance (%)": 0.0
             },
             {
