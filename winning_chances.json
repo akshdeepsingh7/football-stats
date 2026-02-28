@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 07:40 PM UTC",
-        "IST": "Sunday, 01 March 2026, 01:10 AM IST"
+        "UTC": "Saturday, 28 February 2026, 08:20 PM UTC",
+        "IST": "Sunday, 01 March 2026, 01:50 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -101,7 +101,7 @@
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 58.8
+                "Winning Chance (%)": 57.86
             },
             {
                 "Team": "Real Betis",
@@ -165,7 +165,7 @@
             },
             {
                 "Team": "Real Oviedo",
-                "Winning Chance (%)": 18.89
+                "Winning Chance (%)": 19.2
             }
         ],
         "Bundesliga": [
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 82.04
+                "Winning Chance (%)": 82.97
             },
             {
                 "Team": "Milan",
@@ -296,12 +296,12 @@
                 "Winning Chance (%)": 29.63
             },
             {
-                "Team": "Genoa",
+                "Team": "Torino",
                 "Winning Chance (%)": 27.69
             },
             {
-                "Team": "Torino",
-                "Winning Chance (%)": 27.69
+                "Team": "Genoa",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Fiorentina",
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "PSG",
-                "Winning Chance (%)": 75.81
+                "Winning Chance (%)": 74.31
             },
             {
                 "Team": "Lens",
@@ -375,7 +375,7 @@
             },
             {
                 "Team": "Le Havre",
-                "Winning Chance (%)": 30.14
+                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Nice",
@@ -851,7 +851,7 @@
             },
             {
                 "Team": "Braga",
-                "Winning Chance (%)": 58.18
+                "Winning Chance (%)": 60.8
             },
             {
                 "Team": "Gil Vicente",
@@ -886,12 +886,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Nacional",
-                "Winning Chance (%)": 24.44
-            },
-            {
                 "Team": "Casa Pia",
                 "Winning Chance (%)": 25.51
+            },
+            {
+                "Team": "Nacional",
+                "Winning Chance (%)": 23.33
             },
             {
                 "Team": "Rio Ave",
