@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 12:35 PM UTC",
-        "IST": "Saturday, 28 February 2026, 06:05 PM IST"
+        "UTC": "Saturday, 28 February 2026, 01:33 PM UTC",
+        "IST": "Saturday, 28 February 2026, 07:03 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -34,8 +34,12 @@
                 "Winning Chance (%)": 40.71
             },
             {
-                "Team": "AFC Bournemouth",
+                "Team": "Sunderland",
                 "Winning Chance (%)": 37.14
+            },
+            {
+                "Team": "AFC Bournemouth",
+                "Winning Chance (%)": 36.19
             },
             {
                 "Team": "Everton",
@@ -44,10 +48,6 @@
             {
                 "Team": "Fulham",
                 "Winning Chance (%)": 36.54
-            },
-            {
-                "Team": "Sunderland",
-                "Winning Chance (%)": 35.24
             },
             {
                 "Team": "Newcastle United",
@@ -117,7 +117,7 @@
             },
             {
                 "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 36.27
+                "Winning Chance (%)": 35.9
             },
             {
                 "Team": "Osasuna",
@@ -140,12 +140,12 @@
                 "Winning Chance (%)": 30.93
             },
             {
-                "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 27.69
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 28.8
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 28.89
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 27.69
             },
             {
                 "Team": "Valencia",
@@ -948,16 +948,16 @@
                 "Winning Chance (%)": 39.7
             },
             {
-                "Team": "Derby County",
-                "Winning Chance (%)": 38.93
-            },
-            {
                 "Team": "Preston North End",
                 "Winning Chance (%)": 39.63
             },
             {
                 "Team": "Birmingham City",
                 "Winning Chance (%)": 39.23
+            },
+            {
+                "Team": "Derby County",
+                "Winning Chance (%)": 37.77
             },
             {
                 "Team": "Stoke City",
@@ -984,12 +984,12 @@
                 "Winning Chance (%)": 32.16
             },
             {
-                "Team": "Portsmouth",
-                "Winning Chance (%)": 31.37
+                "Team": "Blackburn Rovers",
+                "Winning Chance (%)": 31.24
             },
             {
-                "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 29.71
+                "Team": "Portsmouth",
+                "Winning Chance (%)": 31.37
             },
             {
                 "Team": "Leicester City",
