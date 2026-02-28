@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 02:45 PM UTC",
-        "IST": "Saturday, 28 February 2026, 08:15 PM IST"
+        "UTC": "Saturday, 28 February 2026, 03:17 PM UTC",
+        "IST": "Saturday, 28 February 2026, 08:47 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -22,16 +22,16 @@
                 "Winning Chance (%)": 51.81
             },
             {
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 48.91
+            },
+            {
                 "Team": "Chelsea",
                 "Winning Chance (%)": 51.24
             },
             {
-                "Team": "Liverpool FC",
-                "Winning Chance (%)": 47.24
-            },
-            {
                 "Team": "Brentford",
-                "Winning Chance (%)": 40.71
+                "Winning Chance (%)": 42.55
             },
             {
                 "Team": "AFC Bournemouth",
@@ -39,7 +39,11 @@
             },
             {
                 "Team": "Everton",
-                "Winning Chance (%)": 36.54
+                "Winning Chance (%)": 36.19
+            },
+            {
+                "Team": "Newcastle United",
+                "Winning Chance (%)": 35.24
             },
             {
                 "Team": "Fulham",
@@ -48,10 +52,6 @@
             {
                 "Team": "Sunderland",
                 "Winning Chance (%)": 35.24
-            },
-            {
-                "Team": "Newcastle United",
-                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Crystal Palace",
@@ -75,11 +75,11 @@
             },
             {
                 "Team": "West Ham United",
-                "Winning Chance (%)": 24.69
+                "Winning Chance (%)": 23.81
             },
             {
                 "Team": "Burnley",
-                "Winning Chance (%)": 18.77
+                "Winning Chance (%)": 18.1
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 56.61
+                "Winning Chance (%)": 57.01
             },
             {
                 "Team": "Juventus",
@@ -913,11 +913,15 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 66.53
+                "Winning Chance (%)": 67.7
             },
             {
                 "Team": "Middlesbrough",
                 "Winning Chance (%)": 56.21
+            },
+            {
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 57.68
             },
             {
                 "Team": "Hull City",
@@ -925,15 +929,15 @@
             },
             {
                 "Team": "Millwall",
-                "Winning Chance (%)": 48.27
-            },
-            {
-                "Team": "Ipswich Town",
-                "Winning Chance (%)": 56.3
+                "Winning Chance (%)": 47.71
             },
             {
                 "Team": "Wrexham",
-                "Winning Chance (%)": 45.55
+                "Winning Chance (%)": 45.1
+            },
+            {
+                "Team": "Southampton",
+                "Winning Chance (%)": 42.46
             },
             {
                 "Team": "Derby County",
@@ -944,44 +948,40 @@
                 "Winning Chance (%)": 40.46
             },
             {
-                "Team": "Southampton",
-                "Winning Chance (%)": 42.82
-            },
-            {
                 "Team": "Bristol City",
                 "Winning Chance (%)": 39.7
             },
             {
                 "Team": "Preston North End",
-                "Winning Chance (%)": 39.63
+                "Winning Chance (%)": 39.3
             },
             {
                 "Team": "Birmingham City",
                 "Winning Chance (%)": 39.23
             },
             {
+                "Team": "Sheffield United",
+                "Winning Chance (%)": 36.97
+            },
+            {
                 "Team": "Stoke City",
-                "Winning Chance (%)": 39.26
+                "Winning Chance (%)": 37.81
             },
             {
                 "Team": "Queens Park Rangers",
-                "Winning Chance (%)": 36.86
+                "Winning Chance (%)": 35.81
             },
             {
                 "Team": "Swansea City",
-                "Winning Chance (%)": 36.08
+                "Winning Chance (%)": 35.05
             },
             {
                 "Team": "Norwich City",
                 "Winning Chance (%)": 35.49
             },
             {
-                "Team": "Sheffield United",
-                "Winning Chance (%)": 35.29
-            },
-            {
                 "Team": "Charlton Athletic",
-                "Winning Chance (%)": 32.16
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Portsmouth",
@@ -993,7 +993,7 @@
             },
             {
                 "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 27.45
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Leicester City",
@@ -1001,7 +1001,7 @@
             },
             {
                 "Team": "Oxford United",
-                "Winning Chance (%)": 22.75
+                "Winning Chance (%)": 24.38
             },
             {
                 "Team": "Sheffield Wednesday",
