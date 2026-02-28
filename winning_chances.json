@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 06:54 PM UTC",
-        "IST": "Sunday, 01 March 2026, 12:24 AM IST"
+        "UTC": "Saturday, 28 February 2026, 07:17 PM UTC",
+        "IST": "Sunday, 01 March 2026, 12:47 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -253,7 +253,7 @@
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 55.17
+                "Winning Chance (%)": 57.55
             },
             {
                 "Team": "Roma",
@@ -316,12 +316,12 @@
                 "Winning Chance (%)": 23.7
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 15.8
-            },
-            {
                 "Team": "Pisa",
                 "Winning Chance (%)": 15.38
+            },
+            {
+                "Team": "Hellas Verona",
+                "Winning Chance (%)": 14.81
             }
         ],
         "Ligue 1": [
@@ -350,12 +350,12 @@
                 "Winning Chance (%)": 44.9
             },
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 42.49
+                "Team": "Monaco",
+                "Winning Chance (%)": 42.31
             },
             {
-                "Team": "Monaco",
-                "Winning Chance (%)": 39.69
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 42.49
             },
             {
                 "Team": "Lorient",
@@ -371,7 +371,7 @@
             },
             {
                 "Team": "Angers",
-                "Winning Chance (%)": 33.33
+                "Winning Chance (%)": 32.22
             },
             {
                 "Team": "Le Havre",
