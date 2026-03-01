@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 12:37 PM UTC",
-        "IST": "Sunday, 01 March 2026, 06:07 PM IST"
+        "UTC": "Sunday, 01 March 2026, 01:35 PM UTC",
+        "IST": "Sunday, 01 March 2026, 07:05 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -108,16 +108,16 @@
                 "Winning Chance (%)": 48.8
             },
             {
+                "Team": "Espanyol",
+                "Winning Chance (%)": 38.97
+            },
+            {
                 "Team": "Celta de Vigo",
                 "Winning Chance (%)": 42.27
             },
             {
                 "Team": "Real Sociedad",
                 "Winning Chance (%)": 35.9
-            },
-            {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 37.33
             },
             {
                 "Team": "Athletic Bilbao",
@@ -153,7 +153,7 @@
             },
             {
                 "Team": "Elche",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 25.64
             },
             {
                 "Team": "Mallorca",
@@ -249,7 +249,7 @@
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 62.72
+                "Winning Chance (%)": 65.5
             },
             {
                 "Team": "Napoli",
@@ -304,12 +304,12 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 24.69
-            },
-            {
                 "Team": "Fiorentina",
                 "Winning Chance (%)": 24.62
+            },
+            {
+                "Team": "Cremonese",
+                "Winning Chance (%)": 23.7
             },
             {
                 "Team": "Lecce",
@@ -1042,12 +1042,12 @@
                 "Winning Chance (%)": 40.4
             },
             {
-                "Team": "Chennaiyin",
+                "Team": "Odisha",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Odisha",
-                "Winning Chance (%)": 13.33
+                "Team": "Chennaiyin",
+                "Winning Chance (%)": 8.89
             },
             {
                 "Team": "NorthEast Utd",
