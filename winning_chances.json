@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 03:44 PM UTC",
-        "IST": "Sunday, 01 March 2026, 09:14 PM IST"
+        "UTC": "Sunday, 01 March 2026, 04:21 PM UTC",
+        "IST": "Sunday, 01 March 2026, 09:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -269,7 +269,7 @@
             },
             {
                 "Team": "Atalanta",
-                "Winning Chance (%)": 49.24
+                "Winning Chance (%)": 49.64
             },
             {
                 "Team": "Sassuolo",
@@ -347,7 +347,7 @@
             },
             {
                 "Team": "Lille",
-                "Winning Chance (%)": 44.9
+                "Winning Chance (%)": 44.22
             },
             {
                 "Team": "Monaco",
@@ -359,7 +359,7 @@
             },
             {
                 "Team": "Lorient",
-                "Winning Chance (%)": 37.1
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Toulouse",
@@ -367,7 +367,7 @@
             },
             {
                 "Team": "Brest",
-                "Winning Chance (%)": 34.78
+                "Winning Chance (%)": 34.44
             },
             {
                 "Team": "Angers",
@@ -387,15 +387,15 @@
             },
             {
                 "Team": "Auxerre",
-                "Winning Chance (%)": 19.71
+                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Nantes",
-                "Winning Chance (%)": 19.71
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Metz",
-                "Winning Chance (%)": 15.07
+                "Winning Chance (%)": 15.56
             }
         ],
         "Champions League": [
@@ -894,16 +894,16 @@
                 "Winning Chance (%)": 23.33
             },
             {
-                "Team": "Tondela",
-                "Winning Chance (%)": 23.33
-            },
-            {
                 "Team": "Rio Ave",
                 "Winning Chance (%)": 23.19
             },
             {
+                "Team": "Tondela",
+                "Winning Chance (%)": 21.11
+            },
+            {
                 "Team": "Santa Clara",
-                "Winning Chance (%)": 20.0
+                "Winning Chance (%)": 21.11
             },
             {
                 "Team": "AVS",
@@ -1022,12 +1022,12 @@
                 "Winning Chance (%)": 63.42
             },
             {
-                "Team": "East Bengal",
-                "Winning Chance (%)": 55.33
+                "Team": "Mumbai City",
+                "Winning Chance (%)": 63.02
             },
             {
-                "Team": "Mumbai City",
-                "Winning Chance (%)": 53.73
+                "Team": "East Bengal",
+                "Winning Chance (%)": 55.33
             },
             {
                 "Team": "Inter Kashi",
@@ -1038,16 +1038,16 @@
                 "Winning Chance (%)": 35.56
             },
             {
-                "Team": "NorthEast Utd",
-                "Winning Chance (%)": 35.56
-            },
-            {
                 "Team": "Punjab FC",
                 "Winning Chance (%)": 40.4
             },
             {
                 "Team": "Odisha",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "NorthEast Utd",
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Chennaiyin",
