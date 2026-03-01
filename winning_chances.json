@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 06:26 PM UTC",
-        "IST": "Sunday, 01 March 2026, 11:56 PM IST"
+        "UTC": "Sunday, 01 March 2026, 06:56 PM UTC",
+        "IST": "Monday, 02 March 2026, 12:26 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 50.95
+                "Winning Chance (%)": 50.55
             },
             {
                 "Team": "Celta de Vigo",
@@ -187,7 +187,7 @@
             },
             {
                 "Team": "RB Leipzig",
-                "Winning Chance (%)": 52.34
+                "Winning Chance (%)": 49.96
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -206,12 +206,12 @@
                 "Winning Chance (%)": 34.44
             },
             {
-                "Team": "Union Berlin",
-                "Winning Chance (%)": 31.11
+                "Team": "Hamburg",
+                "Winning Chance (%)": 33.62
             },
             {
-                "Team": "Hamburg",
-                "Winning Chance (%)": 31.52
+                "Team": "Union Berlin",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
@@ -862,12 +862,12 @@
                 "Winning Chance (%)": 43.78
             },
             {
-                "Team": "Moreirense",
-                "Winning Chance (%)": 37.78
-            },
-            {
                 "Team": "Estoril",
                 "Winning Chance (%)": 38.27
+            },
+            {
+                "Team": "Moreirense",
+                "Winning Chance (%)": 36.67
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
@@ -882,12 +882,12 @@
                 "Winning Chance (%)": 28.89
             },
             {
-                "Team": "Estrela Amadora",
-                "Winning Chance (%)": 26.67
+                "Team": "Casa Pia",
+                "Winning Chance (%)": 27.78
             },
             {
-                "Team": "Casa Pia",
-                "Winning Chance (%)": 25.56
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Nacional",
