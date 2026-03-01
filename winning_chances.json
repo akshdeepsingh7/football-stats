@@ -1,13 +1,13 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 04:50 PM UTC",
-        "IST": "Sunday, 01 March 2026, 10:20 PM IST"
+        "UTC": "Sunday, 01 March 2026, 05:18 PM UTC",
+        "IST": "Sunday, 01 March 2026, 10:48 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 71.01
+                "Winning Chance (%)": 73.25
             },
             {
                 "Team": "Manchester City",
@@ -27,7 +27,7 @@
             },
             {
                 "Team": "Chelsea",
-                "Winning Chance (%)": 50.61
+                "Winning Chance (%)": 49.26
             },
             {
                 "Team": "Brentford",
@@ -281,7 +281,7 @@
             },
             {
                 "Team": "Lazio",
-                "Winning Chance (%)": 35.27
+                "Winning Chance (%)": 34.97
             },
             {
                 "Team": "Parma",
@@ -297,7 +297,7 @@
             },
             {
                 "Team": "Torino",
-                "Winning Chance (%)": 27.69
+                "Winning Chance (%)": 27.65
             },
             {
                 "Team": "Genoa",
@@ -894,16 +894,16 @@
                 "Winning Chance (%)": 23.33
             },
             {
+                "Team": "Tondela",
+                "Winning Chance (%)": 23.33
+            },
+            {
                 "Team": "Rio Ave",
                 "Winning Chance (%)": 23.19
             },
             {
-                "Team": "Tondela",
-                "Winning Chance (%)": 21.11
-            },
-            {
                 "Team": "Santa Clara",
-                "Winning Chance (%)": 21.11
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "AVS",
