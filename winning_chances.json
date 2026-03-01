@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 06:56 PM UTC",
-        "IST": "Monday, 02 March 2026, 12:26 AM IST"
+        "UTC": "Sunday, 01 March 2026, 07:20 PM UTC",
+        "IST": "Monday, 02 March 2026, 12:50 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 50.55
+                "Winning Chance (%)": 48.1
             },
             {
                 "Team": "Celta de Vigo",
@@ -128,20 +128,20 @@
                 "Winning Chance (%)": 33.85
             },
             {
+                "Team": "Sevilla",
+                "Winning Chance (%)": 30.77
+            },
+            {
                 "Team": "Girona",
                 "Winning Chance (%)": 32.0
             },
             {
-                "Team": "Sevilla",
+                "Team": "Valencia",
                 "Winning Chance (%)": 29.74
             },
             {
                 "Team": "Getafe",
                 "Winning Chance (%)": 30.93
-            },
-            {
-                "Team": "Valencia",
-                "Winning Chance (%)": 29.74
             },
             {
                 "Team": "Rayo Vallecano",
@@ -187,7 +187,7 @@
             },
             {
                 "Team": "RB Leipzig",
-                "Winning Chance (%)": 49.96
+                "Winning Chance (%)": 51.47
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -206,12 +206,12 @@
                 "Winning Chance (%)": 34.44
             },
             {
-                "Team": "Hamburg",
-                "Winning Chance (%)": 33.62
-            },
-            {
                 "Team": "Union Berlin",
                 "Winning Chance (%)": 31.11
+            },
+            {
+                "Team": "Hamburg",
+                "Winning Chance (%)": 31.3
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
