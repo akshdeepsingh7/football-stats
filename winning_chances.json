@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 03:18 PM UTC",
-        "IST": "Sunday, 01 March 2026, 08:48 PM IST"
+        "UTC": "Sunday, 01 March 2026, 03:44 PM UTC",
+        "IST": "Sunday, 01 March 2026, 09:14 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -14,12 +14,12 @@
                 "Winning Chance (%)": 68.99
             },
             {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 51.77
+                "Team": "Manchester United",
+                "Winning Chance (%)": 53.37
             },
             {
-                "Team": "Manchester United",
-                "Winning Chance (%)": 51.07
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 51.77
             },
             {
                 "Team": "Liverpool FC",
@@ -34,11 +34,11 @@
                 "Winning Chance (%)": 42.55
             },
             {
-                "Team": "Fulham",
+                "Team": "Everton",
                 "Winning Chance (%)": 38.1
             },
             {
-                "Team": "Everton",
+                "Team": "Fulham",
                 "Winning Chance (%)": 38.1
             },
             {
@@ -59,7 +59,7 @@
             },
             {
                 "Team": "Crystal Palace",
-                "Winning Chance (%)": 34.29
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Leeds United",
@@ -125,7 +125,7 @@
             },
             {
                 "Team": "Osasuna",
-                "Winning Chance (%)": 35.6
+                "Winning Chance (%)": 35.27
             },
             {
                 "Team": "Girona",
@@ -148,12 +148,12 @@
                 "Winning Chance (%)": 27.69
             },
             {
-                "Team": "Elche",
-                "Winning Chance (%)": 26.67
+                "Team": "Valencia",
+                "Winning Chance (%)": 27.69
             },
             {
-                "Team": "Valencia",
-                "Winning Chance (%)": 27.73
+                "Team": "Elche",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Mallorca",
@@ -269,7 +269,7 @@
             },
             {
                 "Team": "Atalanta",
-                "Winning Chance (%)": 49.64
+                "Winning Chance (%)": 49.24
             },
             {
                 "Team": "Sassuolo",
@@ -894,16 +894,16 @@
                 "Winning Chance (%)": 23.33
             },
             {
+                "Team": "Tondela",
+                "Winning Chance (%)": 23.33
+            },
+            {
                 "Team": "Rio Ave",
                 "Winning Chance (%)": 23.19
             },
             {
-                "Team": "Tondela",
-                "Winning Chance (%)": 20.87
-            },
-            {
                 "Team": "Santa Clara",
-                "Winning Chance (%)": 20.87
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "AVS",
