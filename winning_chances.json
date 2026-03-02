@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 02 March 2026, 08:31 PM UTC",
-        "IST": "Tuesday, 03 March 2026, 02:01 AM IST"
+        "UTC": "Monday, 02 March 2026, 09:30 PM UTC",
+        "IST": "Tuesday, 03 March 2026, 03:00 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -93,7 +93,7 @@
             },
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 75.76
+                "Winning Chance (%)": 74.34
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
@@ -128,11 +128,11 @@
                 "Winning Chance (%)": 33.85
             },
             {
-                "Team": "Sevilla",
-                "Winning Chance (%)": 30.77
+                "Team": "Getafe",
+                "Winning Chance (%)": 32.82
             },
             {
-                "Team": "Getafe",
+                "Team": "Sevilla",
                 "Winning Chance (%)": 30.77
             },
             {
