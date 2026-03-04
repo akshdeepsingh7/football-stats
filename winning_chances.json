@@ -1,33 +1,33 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 04 March 2026, 07:34 PM UTC",
-        "IST": "Thursday, 05 March 2026, 01:04 AM IST"
+        "UTC": "Wednesday, 04 March 2026, 08:27 PM UTC",
+        "IST": "Thursday, 05 March 2026, 01:57 AM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 72.18
+                "Winning Chance (%)": 74.36
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 67.97
-            },
-            {
-                "Team": "Aston Villa",
-                "Winning Chance (%)": 51.02
+                "Winning Chance (%)": 70.21
             },
             {
                 "Team": "Manchester United",
-                "Winning Chance (%)": 53.37
+                "Winning Chance (%)": 52.62
+            },
+            {
+                "Team": "Aston Villa",
+                "Winning Chance (%)": 49.7
+            },
+            {
+                "Team": "Chelsea",
+                "Winning Chance (%)": 50.94
             },
             {
                 "Team": "Liverpool FC",
                 "Winning Chance (%)": 47.74
-            },
-            {
-                "Team": "Chelsea",
-                "Winning Chance (%)": 48.7
             },
             {
                 "Team": "Brentford",
@@ -51,11 +51,11 @@
             },
             {
                 "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 36.14
+                "Winning Chance (%)": 34.82
             },
             {
                 "Team": "Newcastle United",
-                "Winning Chance (%)": 34.29
+                "Winning Chance (%)": 34.02
             },
             {
                 "Team": "Crystal Palace",
@@ -71,7 +71,7 @@
             },
             {
                 "Team": "Nottingham Forest",
-                "Winning Chance (%)": 25.75
+                "Winning Chance (%)": 24.83
             },
             {
                 "Team": "West Ham United",
