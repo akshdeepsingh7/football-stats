@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 04:49 PM UTC",
-        "IST": "Saturday, 07 March 2026, 10:19 PM IST"
+        "UTC": "Saturday, 07 March 2026, 05:17 PM UTC",
+        "IST": "Saturday, 07 March 2026, 10:47 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -132,16 +132,16 @@
                 "Winning Chance (%)": 32.82
             },
             {
+                "Team": "Girona",
+                "Winning Chance (%)": 30.62
+            },
+            {
                 "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 30.77
             },
             {
                 "Team": "Sevilla",
                 "Winning Chance (%)": 30.77
-            },
-            {
-                "Team": "Girona",
-                "Winning Chance (%)": 29.63
             },
             {
                 "Team": "Valencia",
@@ -161,7 +161,7 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 23.7
+                "Winning Chance (%)": 21.73
             },
             {
                 "Team": "Real Oviedo",
@@ -269,7 +269,7 @@
             },
             {
                 "Team": "Atalanta",
-                "Winning Chance (%)": 49.64
+                "Winning Chance (%)": 49.01
             },
             {
                 "Team": "Bologna",
@@ -281,7 +281,7 @@
             },
             {
                 "Team": "Udinese",
-                "Winning Chance (%)": 34.57
+                "Winning Chance (%)": 34.29
             },
             {
                 "Team": "Lazio",
@@ -366,12 +366,12 @@
                 "Winning Chance (%)": 36.67
             },
             {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 36.44
+                "Team": "Angers",
+                "Winning Chance (%)": 34.13
             },
             {
-                "Team": "Angers",
-                "Winning Chance (%)": 32.0
+                "Team": "Toulouse",
+                "Winning Chance (%)": 36.44
             },
             {
                 "Team": "Le Havre",
@@ -391,7 +391,7 @@
             },
             {
                 "Team": "Nantes",
-                "Winning Chance (%)": 19.2
+                "Winning Chance (%)": 18.13
             },
             {
                 "Team": "Metz",
@@ -863,7 +863,7 @@
             },
             {
                 "Team": "Moreirense",
-                "Winning Chance (%)": 39.47
+                "Winning Chance (%)": 37.33
             },
             {
                 "Team": "Estoril",
@@ -891,7 +891,7 @@
             },
             {
                 "Team": "Nacional",
-                "Winning Chance (%)": 22.4
+                "Winning Chance (%)": 23.47
             },
             {
                 "Team": "Rio Ave",
@@ -969,7 +969,7 @@
             },
             {
                 "Team": "Stoke City",
-                "Winning Chance (%)": 36.41
+                "Winning Chance (%)": 36.01
             },
             {
                 "Team": "Queens Park Rangers",
