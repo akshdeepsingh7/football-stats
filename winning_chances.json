@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 12:36 PM UTC",
-        "IST": "Saturday, 07 March 2026, 06:06 PM IST"
+        "UTC": "Saturday, 07 March 2026, 01:35 PM UTC",
+        "IST": "Saturday, 07 March 2026, 07:05 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -125,7 +125,7 @@
             },
             {
                 "Team": "Osasuna",
-                "Winning Chance (%)": 33.85
+                "Winning Chance (%)": 33.58
             },
             {
                 "Team": "Getafe",
@@ -157,7 +157,7 @@
             },
             {
                 "Team": "Mallorca",
-                "Winning Chance (%)": 24.62
+                "Winning Chance (%)": 24.69
             },
             {
                 "Team": "Levante",
@@ -1026,12 +1026,12 @@
                 "Winning Chance (%)": 48.67
             },
             {
-                "Team": "Bengaluru",
-                "Winning Chance (%)": 47.47
-            },
-            {
                 "Team": "Mumbai City",
                 "Winning Chance (%)": 63.02
+            },
+            {
+                "Team": "Bengaluru",
+                "Winning Chance (%)": 47.07
             },
             {
                 "Team": "Inter Kashi",
