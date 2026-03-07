@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 11:16 AM UTC",
-        "IST": "Saturday, 07 March 2026, 04:46 PM IST"
+        "UTC": "Saturday, 07 March 2026, 11:41 AM UTC",
+        "IST": "Saturday, 07 March 2026, 05:11 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1030,12 +1030,12 @@
                 "Winning Chance (%)": 63.02
             },
             {
-                "Team": "Inter Kashi",
+                "Team": "Bengaluru",
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Bengaluru",
-                "Winning Chance (%)": 35.56
+                "Team": "Inter Kashi",
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Punjab FC",
@@ -1054,15 +1054,15 @@
                 "Winning Chance (%)": 8.89
             },
             {
+                "Team": "Mohammedan",
+                "Winning Chance (%)": 6.67
+            },
+            {
                 "Team": "Kerala Blasters",
                 "Winning Chance (%)": 0.0
             },
             {
                 "Team": "SC Delhi",
-                "Winning Chance (%)": 0.0
-            },
-            {
-                "Team": "Mohammedan",
                 "Winning Chance (%)": 0.0
             }
         ],
