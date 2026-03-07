@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 09:16 PM UTC",
-        "IST": "Sunday, 08 March 2026, 02:46 AM IST"
+        "UTC": "Saturday, 07 March 2026, 09:42 PM UTC",
+        "IST": "Sunday, 08 March 2026, 03:12 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 82.2
+                "Winning Chance (%)": 84.57
             },
             {
                 "Team": "Real Madrid",
@@ -116,11 +116,11 @@
                 "Winning Chance (%)": 36.92
             },
             {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 35.56
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 34.57
             },
             {
-                "Team": "Real Sociedad",
+                "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 34.57
             },
             {
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Juventus",
-                "Winning Chance (%)": 55.62
+                "Winning Chance (%)": 56.42
             },
             {
                 "Team": "Atalanta",
