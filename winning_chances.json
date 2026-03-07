@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 02:19 PM UTC",
-        "IST": "Saturday, 07 March 2026, 07:49 PM IST"
+        "UTC": "Saturday, 07 March 2026, 02:47 PM UTC",
+        "IST": "Saturday, 07 March 2026, 08:17 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -148,12 +148,12 @@
                 "Winning Chance (%)": 29.74
             },
             {
-                "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 27.69
-            },
-            {
                 "Team": "Mallorca",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 27.69
             },
             {
                 "Team": "Elche",
@@ -179,19 +179,19 @@
             },
             {
                 "Team": "Hoffenheim",
-                "Winning Chance (%)": 58.31
+                "Winning Chance (%)": 57.33
             },
             {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 57.51
+                "Winning Chance (%)": 56.53
             },
             {
                 "Team": "RB Leipzig",
-                "Winning Chance (%)": 54.09
+                "Winning Chance (%)": 53.2
             },
             {
                 "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 54.18
+                "Winning Chance (%)": 53.33
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -199,11 +199,11 @@
             },
             {
                 "Team": "SC Freiburg",
-                "Winning Chance (%)": 36.67
+                "Winning Chance (%)": 36.27
             },
             {
                 "Team": "Augsburg",
-                "Winning Chance (%)": 34.44
+                "Winning Chance (%)": 34.13
             },
             {
                 "Team": "Union Berlin",
@@ -211,7 +211,7 @@
             },
             {
                 "Team": "Hamburg",
-                "Winning Chance (%)": 28.89
+                "Winning Chance (%)": 28.8
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
@@ -223,7 +223,7 @@
             },
             {
                 "Team": "Mainz 05",
-                "Winning Chance (%)": 25.56
+                "Winning Chance (%)": 25.6
             },
             {
                 "Team": "St. Pauli",
@@ -235,11 +235,11 @@
             },
             {
                 "Team": "VfL Wolfsburg",
-                "Winning Chance (%)": 22.22
+                "Winning Chance (%)": 22.4
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 15.56
+                "Winning Chance (%)": 16.0
             }
         ],
         "Serie A": [
@@ -980,16 +980,16 @@
                 "Winning Chance (%)": 35.49
             },
             {
-                "Team": "Portsmouth",
-                "Winning Chance (%)": 32.0
-            },
-            {
                 "Team": "Charlton Athletic",
                 "Winning Chance (%)": 31.24
             },
             {
+                "Team": "Portsmouth",
+                "Winning Chance (%)": 30.48
+            },
+            {
                 "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 28.15
+                "Winning Chance (%)": 28.89
             },
             {
                 "Team": "Oxford United",
@@ -1038,6 +1038,10 @@
                 "Winning Chance (%)": 33.33
             },
             {
+                "Team": "Chennaiyin",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Punjab FC",
                 "Winning Chance (%)": 40.4
             },
@@ -1046,16 +1050,12 @@
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Chennaiyin",
-                "Winning Chance (%)": 13.33
-            },
-            {
                 "Team": "Odisha",
                 "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Kerala Blasters",
-                "Winning Chance (%)": 6.67
+                "Winning Chance (%)": 0.0
             },
             {
                 "Team": "SC Delhi",
