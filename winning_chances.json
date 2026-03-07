@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 08:46 PM UTC",
-        "IST": "Sunday, 08 March 2026, 02:16 AM IST"
+        "UTC": "Saturday, 07 March 2026, 09:16 PM UTC",
+        "IST": "Sunday, 08 March 2026, 02:46 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Juventus",
-                "Winning Chance (%)": 52.91
+                "Winning Chance (%)": 55.62
             },
             {
                 "Team": "Atalanta",
@@ -316,12 +316,12 @@
                 "Winning Chance (%)": 23.7
             },
             {
-                "Team": "Pisa",
-                "Winning Chance (%)": 15.24
-            },
-            {
                 "Team": "Hellas Verona",
                 "Winning Chance (%)": 14.81
+            },
+            {
+                "Team": "Pisa",
+                "Winning Chance (%)": 14.29
             }
         ],
         "Ligue 1": [
