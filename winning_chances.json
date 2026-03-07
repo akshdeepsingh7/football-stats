@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 11:41 AM UTC",
-        "IST": "Saturday, 07 March 2026, 05:11 PM IST"
+        "UTC": "Saturday, 07 March 2026, 12:36 PM UTC",
+        "IST": "Saturday, 07 March 2026, 06:06 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -925,11 +925,11 @@
             },
             {
                 "Team": "Millwall",
-                "Winning Chance (%)": 50.04
+                "Winning Chance (%)": 49.47
             },
             {
                 "Team": "Hull City",
-                "Winning Chance (%)": 48.51
+                "Winning Chance (%)": 47.99
             },
             {
                 "Team": "Wrexham",
@@ -985,11 +985,11 @@
             },
             {
                 "Team": "Portsmouth",
-                "Winning Chance (%)": 30.59
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 28.95
+                "Winning Chance (%)": 28.89
             },
             {
                 "Team": "Oxford United",
@@ -1026,12 +1026,12 @@
                 "Winning Chance (%)": 48.67
             },
             {
-                "Team": "Mumbai City",
-                "Winning Chance (%)": 63.02
+                "Team": "Bengaluru",
+                "Winning Chance (%)": 47.47
             },
             {
-                "Team": "Bengaluru",
-                "Winning Chance (%)": 33.33
+                "Team": "Mumbai City",
+                "Winning Chance (%)": 63.02
             },
             {
                 "Team": "Inter Kashi",
@@ -1054,15 +1054,15 @@
                 "Winning Chance (%)": 8.89
             },
             {
-                "Team": "Mohammedan",
-                "Winning Chance (%)": 6.67
-            },
-            {
                 "Team": "Kerala Blasters",
                 "Winning Chance (%)": 0.0
             },
             {
                 "Team": "SC Delhi",
+                "Winning Chance (%)": 0.0
+            },
+            {
+                "Team": "Mohammedan",
                 "Winning Chance (%)": 0.0
             }
         ],
