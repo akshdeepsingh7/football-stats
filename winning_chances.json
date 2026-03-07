@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 08:19 PM UTC",
-        "IST": "Sunday, 08 March 2026, 01:49 AM IST"
+        "UTC": "Saturday, 07 March 2026, 08:46 PM UTC",
+        "IST": "Sunday, 08 March 2026, 02:16 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -334,12 +334,12 @@
                 "Winning Chance (%)": 68.49
             },
             {
-                "Team": "Lyon",
-                "Winning Chance (%)": 55.2
+                "Team": "Marseille",
+                "Winning Chance (%)": 56.67
             },
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 54.13
+                "Team": "Lyon",
+                "Winning Chance (%)": 55.2
             },
             {
                 "Team": "Monaco",
@@ -366,12 +366,12 @@
                 "Winning Chance (%)": 36.67
             },
             {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 36.13
-            },
-            {
                 "Team": "Angers",
                 "Winning Chance (%)": 34.13
+            },
+            {
+                "Team": "Toulouse",
+                "Winning Chance (%)": 34.67
             },
             {
                 "Team": "Le Havre",
@@ -867,7 +867,7 @@
             },
             {
                 "Team": "Estoril",
-                "Winning Chance (%)": 38.27
+                "Winning Chance (%)": 37.87
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
@@ -887,7 +887,7 @@
             },
             {
                 "Team": "Casa Pia",
-                "Winning Chance (%)": 25.56
+                "Winning Chance (%)": 25.6
             },
             {
                 "Team": "Nacional",
