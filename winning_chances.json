@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 07:42 PM UTC",
-        "IST": "Sunday, 08 March 2026, 01:12 AM IST"
+        "UTC": "Saturday, 07 March 2026, 08:19 PM UTC",
+        "IST": "Sunday, 08 March 2026, 01:49 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 83.64
+                "Winning Chance (%)": 82.2
             },
             {
                 "Team": "Real Madrid",
@@ -116,12 +116,12 @@
                 "Winning Chance (%)": 36.92
             },
             {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 34.57
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 35.9
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 34.57
             },
             {
                 "Team": "Osasuna",
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Juventus",
-                "Winning Chance (%)": 53.62
+                "Winning Chance (%)": 52.91
             },
             {
                 "Team": "Atalanta",
@@ -317,7 +317,7 @@
             },
             {
                 "Team": "Pisa",
-                "Winning Chance (%)": 14.81
+                "Winning Chance (%)": 15.24
             },
             {
                 "Team": "Hellas Verona",
@@ -339,7 +339,7 @@
             },
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 54.98
+                "Winning Chance (%)": 54.13
             },
             {
                 "Team": "Monaco",
@@ -366,12 +366,12 @@
                 "Winning Chance (%)": 36.67
             },
             {
-                "Team": "Angers",
-                "Winning Chance (%)": 34.13
+                "Team": "Toulouse",
+                "Winning Chance (%)": 36.13
             },
             {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 36.44
+                "Team": "Angers",
+                "Winning Chance (%)": 34.13
             },
             {
                 "Team": "Le Havre",
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 88.27
+                "Winning Chance (%)": 86.13
             },
             {
                 "Team": "Benfica",
@@ -851,7 +851,7 @@
             },
             {
                 "Team": "Braga",
-                "Winning Chance (%)": 58.4
+                "Winning Chance (%)": 59.87
             },
             {
                 "Team": "Gil Vicente",
