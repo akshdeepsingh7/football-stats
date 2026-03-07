@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 01:35 PM UTC",
-        "IST": "Saturday, 07 March 2026, 07:05 PM IST"
+        "UTC": "Saturday, 07 March 2026, 02:19 PM UTC",
+        "IST": "Saturday, 07 March 2026, 07:49 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -125,7 +125,7 @@
             },
             {
                 "Team": "Osasuna",
-                "Winning Chance (%)": 33.58
+                "Winning Chance (%)": 32.59
             },
             {
                 "Team": "Getafe",
@@ -152,12 +152,12 @@
                 "Winning Chance (%)": 27.69
             },
             {
-                "Team": "Elche",
+                "Team": "Mallorca",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Mallorca",
-                "Winning Chance (%)": 24.69
+                "Team": "Elche",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Levante",
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 57.01
+                "Winning Chance (%)": 58.57
             },
             {
                 "Team": "Juventus",
@@ -293,7 +293,7 @@
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 29.63
+                "Winning Chance (%)": 28.57
             },
             {
                 "Team": "Torino",
@@ -920,16 +920,16 @@
                 "Winning Chance (%)": 57.89
             },
             {
+                "Team": "Millwall",
+                "Winning Chance (%)": 51.75
+            },
+            {
                 "Team": "Ipswich Town",
                 "Winning Chance (%)": 59.81
             },
             {
-                "Team": "Millwall",
-                "Winning Chance (%)": 49.47
-            },
-            {
                 "Team": "Hull City",
-                "Winning Chance (%)": 47.99
+                "Winning Chance (%)": 46.44
             },
             {
                 "Team": "Wrexham",
@@ -980,16 +980,16 @@
                 "Winning Chance (%)": 35.49
             },
             {
+                "Team": "Portsmouth",
+                "Winning Chance (%)": 32.0
+            },
+            {
                 "Team": "Charlton Athletic",
                 "Winning Chance (%)": 31.24
             },
             {
-                "Team": "Portsmouth",
-                "Winning Chance (%)": 30.48
-            },
-            {
                 "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 28.89
+                "Winning Chance (%)": 28.15
             },
             {
                 "Team": "Oxford United",
@@ -1046,16 +1046,16 @@
                 "Winning Chance (%)": 17.78
             },
             {
+                "Team": "Chennaiyin",
+                "Winning Chance (%)": 13.33
+            },
+            {
                 "Team": "Odisha",
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "Chennaiyin",
-                "Winning Chance (%)": 8.89
-            },
-            {
                 "Team": "Kerala Blasters",
-                "Winning Chance (%)": 0.0
+                "Winning Chance (%)": 6.67
             },
             {
                 "Team": "SC Delhi",
