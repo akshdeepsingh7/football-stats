@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 March 2026, 07:43 PM UTC",
-        "IST": "Monday, 09 March 2026, 01:13 AM IST"
+        "UTC": "Sunday, 08 March 2026, 08:20 PM UTC",
+        "IST": "Monday, 09 March 2026, 01:50 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -144,12 +144,12 @@
                 "Winning Chance (%)": 30.62
             },
             {
-                "Team": "Valencia",
-                "Winning Chance (%)": 29.74
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 29.63
             },
             {
-                "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 27.69
+                "Team": "Valencia",
+                "Winning Chance (%)": 28.64
             },
             {
                 "Team": "Elche",
@@ -245,11 +245,11 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 83.37
+                "Winning Chance (%)": 81.96
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 65.5
+                "Winning Chance (%)": 64.44
             },
             {
                 "Team": "Napoli",
@@ -339,7 +339,7 @@
             },
             {
                 "Team": "Lyon",
-                "Winning Chance (%)": 55.2
+                "Winning Chance (%)": 54.27
             },
             {
                 "Team": "Rennes",
@@ -375,7 +375,7 @@
             },
             {
                 "Team": "Paris FC",
-                "Winning Chance (%)": 28.89
+                "Winning Chance (%)": 28.8
             },
             {
                 "Team": "Le Havre",
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 88.53
+                "Winning Chance (%)": 86.0
             },
             {
                 "Team": "Sporting CP",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 76.27
+                "Winning Chance (%)": 77.73
             },
             {
                 "Team": "Braga",
