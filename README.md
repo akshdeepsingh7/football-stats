@@ -10,7 +10,7 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Sunday, 08 March 2026, 06:03 AM UTC (Sunday, 08 March 2026, 11:33 AM IST)
+**Last Updated:** Sunday, 08 March 2026, 07:05 AM UTC (Sunday, 08 March 2026, 12:35 PM IST)
 
 _Charts are sorted by Winning Chance (%)_
 
@@ -37,6 +37,10 @@ _Charts are sorted by Winning Chance (%)_
 ### Champions League
 
 ![Champions League Winning Chances](images/Champions_League_winning_chances.png)
+
+### Europa League
+
+![Europa League Winning Chances](images/Europa_League_winning_chances.png)
 
 ### Europa Conference League
 
