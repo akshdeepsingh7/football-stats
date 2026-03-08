@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 March 2026, 11:42 AM UTC",
-        "IST": "Sunday, 08 March 2026, 05:12 PM IST"
+        "UTC": "Sunday, 08 March 2026, 12:38 PM UTC",
+        "IST": "Sunday, 08 March 2026, 06:08 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -304,16 +304,16 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 23.81
-            },
-            {
                 "Team": "Lecce",
-                "Winning Chance (%)": 23.81
+                "Winning Chance (%)": 25.71
             },
             {
                 "Team": "Fiorentina",
                 "Winning Chance (%)": 23.7
+            },
+            {
+                "Team": "Cremonese",
+                "Winning Chance (%)": 22.86
             },
             {
                 "Team": "Hellas Verona",
