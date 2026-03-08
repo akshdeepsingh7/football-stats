@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 March 2026, 02:48 PM UTC",
-        "IST": "Sunday, 08 March 2026, 08:18 PM IST"
+        "UTC": "Sunday, 08 March 2026, 03:19 PM UTC",
+        "IST": "Sunday, 08 March 2026, 08:49 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 48.1
+                "Winning Chance (%)": 47.46
             },
             {
                 "Team": "Celta de Vigo",
@@ -129,7 +129,7 @@
             },
             {
                 "Team": "Getafe",
-                "Winning Chance (%)": 32.82
+                "Winning Chance (%)": 32.59
             },
             {
                 "Team": "Girona",
@@ -273,7 +273,7 @@
             },
             {
                 "Team": "Bologna",
-                "Winning Chance (%)": 39.7
+                "Winning Chance (%)": 38.34
             },
             {
                 "Team": "Sassuolo",
@@ -317,7 +317,7 @@
             },
             {
                 "Team": "Hellas Verona",
-                "Winning Chance (%)": 15.24
+                "Winning Chance (%)": 17.14
             },
             {
                 "Team": "Pisa",
@@ -331,7 +331,7 @@
             },
             {
                 "Team": "Lens",
-                "Winning Chance (%)": 69.73
+                "Winning Chance (%)": 70.53
             },
             {
                 "Team": "Marseille",
@@ -1019,7 +1019,7 @@
             },
             {
                 "Team": "Mumbai City",
-                "Winning Chance (%)": 68.27
+                "Winning Chance (%)": 67.87
             },
             {
                 "Team": "FC Goa",
@@ -1058,11 +1058,11 @@
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "Mohammedan",
+                "Team": "SC Delhi",
                 "Winning Chance (%)": 0.0
             },
             {
-                "Team": "SC Delhi",
+                "Team": "Mohammedan",
                 "Winning Chance (%)": 0.0
             }
         ],
