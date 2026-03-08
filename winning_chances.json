@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 March 2026, 05:46 PM UTC",
-        "IST": "Sunday, 08 March 2026, 11:16 PM IST"
+        "UTC": "Sunday, 08 March 2026, 06:26 PM UTC",
+        "IST": "Sunday, 08 March 2026, 11:56 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -342,12 +342,12 @@
                 "Winning Chance (%)": 55.2
             },
             {
-                "Team": "Lille",
+                "Team": "Rennes",
                 "Winning Chance (%)": 48.67
             },
             {
-                "Team": "Rennes",
-                "Winning Chance (%)": 47.87
+                "Team": "Lille",
+                "Winning Chance (%)": 46.13
             },
             {
                 "Team": "Monaco",
@@ -363,7 +363,7 @@
             },
             {
                 "Team": "Lorient",
-                "Winning Chance (%)": 35.2
+                "Winning Chance (%)": 36.27
             },
             {
                 "Team": "Angers",
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 87.82
+                "Winning Chance (%)": 88.53
             },
             {
                 "Team": "Sporting CP",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 79.24
+                "Winning Chance (%)": 76.27
             },
             {
                 "Team": "Braga",
@@ -917,7 +917,7 @@
             },
             {
                 "Team": "Middlesbrough",
-                "Winning Chance (%)": 59.11
+                "Winning Chance (%)": 60.31
             },
             {
                 "Team": "Millwall",
