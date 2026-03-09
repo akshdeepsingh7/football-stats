@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 09 March 2026, 07:37 PM UTC",
-        "IST": "Tuesday, 10 March 2026, 01:07 AM IST"
+        "UTC": "Monday, 09 March 2026, 08:28 PM UTC",
+        "IST": "Tuesday, 10 March 2026, 01:58 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -113,7 +113,7 @@
             },
             {
                 "Team": "Espanyol",
-                "Winning Chance (%)": 36.92
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Real Sociedad",
@@ -165,7 +165,7 @@
             },
             {
                 "Team": "Real Oviedo",
-                "Winning Chance (%)": 17.44
+                "Winning Chance (%)": 19.75
             }
         ],
         "Bundesliga": [
@@ -277,7 +277,7 @@
             },
             {
                 "Team": "Sassuolo",
-                "Winning Chance (%)": 37.53
+                "Winning Chance (%)": 37.14
             },
             {
                 "Team": "Udinese",
@@ -285,7 +285,7 @@
             },
             {
                 "Team": "Lazio",
-                "Winning Chance (%)": 33.58
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Parma",
@@ -899,11 +899,11 @@
             },
             {
                 "Team": "Rio Ave",
-                "Winning Chance (%)": 23.33
+                "Winning Chance (%)": 23.47
             },
             {
                 "Team": "Tondela",
-                "Winning Chance (%)": 21.11
+                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "AVS",
