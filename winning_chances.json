@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 09 March 2026, 09:38 PM UTC",
-        "IST": "Tuesday, 10 March 2026, 03:08 AM IST"
+        "UTC": "Monday, 09 March 2026, 10:23 PM UTC",
+        "IST": "Tuesday, 10 March 2026, 03:53 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -886,6 +886,10 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Rio Ave",
+                "Winning Chance (%)": 25.6
+            },
+            {
                 "Team": "Casa Pia",
                 "Winning Chance (%)": 25.6
             },
@@ -898,12 +902,8 @@
                 "Winning Chance (%)": 23.47
             },
             {
-                "Team": "Rio Ave",
-                "Winning Chance (%)": 23.47
-            },
-            {
                 "Team": "Tondela",
-                "Winning Chance (%)": 21.33
+                "Winning Chance (%)": 20.27
             },
             {
                 "Team": "AVS",
