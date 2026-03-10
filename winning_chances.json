@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 10 March 2026, 07:34 PM UTC",
-        "IST": "Wednesday, 11 March 2026, 01:04 AM IST"
+        "UTC": "Tuesday, 10 March 2026, 08:28 PM UTC",
+        "IST": "Wednesday, 11 March 2026, 01:58 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -921,23 +921,23 @@
             },
             {
                 "Team": "Millwall",
-                "Winning Chance (%)": 51.75
+                "Winning Chance (%)": 51.17
             },
             {
                 "Team": "Ipswich Town",
-                "Winning Chance (%)": 59.16
+                "Winning Chance (%)": 58.55
             },
             {
                 "Team": "Hull City",
-                "Winning Chance (%)": 46.44
+                "Winning Chance (%)": 47.81
             },
             {
                 "Team": "Wrexham",
-                "Winning Chance (%)": 47.03
+                "Winning Chance (%)": 45.42
             },
             {
                 "Team": "Derby County",
-                "Winning Chance (%)": 42.8
+                "Winning Chance (%)": 42.44
             },
             {
                 "Team": "Southampton",
@@ -945,11 +945,15 @@
             },
             {
                 "Team": "Watford",
-                "Winning Chance (%)": 40.46
+                "Winning Chance (%)": 40.12
+            },
+            {
+                "Team": "Swansea City",
+                "Winning Chance (%)": 37.88
             },
             {
                 "Team": "Bristol City",
-                "Winning Chance (%)": 37.84
+                "Winning Chance (%)": 36.04
             },
             {
                 "Team": "Sheffield United",
@@ -964,12 +968,8 @@
                 "Winning Chance (%)": 36.3
             },
             {
-                "Team": "Swansea City",
-                "Winning Chance (%)": 36.3
-            },
-            {
                 "Team": "Stoke City",
-                "Winning Chance (%)": 36.01
+                "Winning Chance (%)": 35.79
             },
             {
                 "Team": "Queens Park Rangers",
@@ -985,19 +985,19 @@
             },
             {
                 "Team": "Portsmouth",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 29.63
             },
             {
                 "Team": "Blackburn Rovers",
                 "Winning Chance (%)": 28.89
             },
             {
-                "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 26.67
+                "Team": "Leicester City",
+                "Winning Chance (%)": 27.39
             },
             {
-                "Team": "Leicester City",
-                "Winning Chance (%)": 25.93
+                "Team": "West Bromwich Albion",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Oxford United",
