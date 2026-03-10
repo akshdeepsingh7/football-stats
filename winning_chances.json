@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 10 March 2026, 08:28 PM UTC",
-        "IST": "Wednesday, 11 March 2026, 01:58 AM IST"
+        "UTC": "Tuesday, 10 March 2026, 08:58 PM UTC",
+        "IST": "Wednesday, 11 March 2026, 02:28 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -921,11 +921,11 @@
             },
             {
                 "Team": "Millwall",
-                "Winning Chance (%)": 51.17
+                "Winning Chance (%)": 53.01
             },
             {
                 "Team": "Ipswich Town",
-                "Winning Chance (%)": 58.55
+                "Winning Chance (%)": 57.01
             },
             {
                 "Team": "Hull City",
@@ -937,7 +937,7 @@
             },
             {
                 "Team": "Derby County",
-                "Winning Chance (%)": 42.44
+                "Winning Chance (%)": 41.32
             },
             {
                 "Team": "Southampton",
@@ -950,6 +950,10 @@
             {
                 "Team": "Swansea City",
                 "Winning Chance (%)": 37.88
+            },
+            {
+                "Team": "Stoke City",
+                "Winning Chance (%)": 38.04
             },
             {
                 "Team": "Bristol City",
@@ -966,10 +970,6 @@
             {
                 "Team": "Preston North End",
                 "Winning Chance (%)": 36.3
-            },
-            {
-                "Team": "Stoke City",
-                "Winning Chance (%)": 35.79
             },
             {
                 "Team": "Queens Park Rangers",
