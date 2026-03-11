@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 11 March 2026, 09:55 PM UTC",
-        "IST": "Thursday, 12 March 2026, 03:25 AM IST"
+        "UTC": "Wednesday, 11 March 2026, 10:22 PM UTC",
+        "IST": "Thursday, 12 March 2026, 03:52 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1108,6 +1108,10 @@
                 "Winning Chance (%)": 45.24
             },
             {
+                "Team": "Atl\u00e9tico Mineiro",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Santos",
                 "Winning Chance (%)": 26.67
             },
@@ -1132,12 +1136,8 @@
                 "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Atl\u00e9tico Mineiro",
-                "Winning Chance (%)": 13.33
-            },
-            {
                 "Team": "Internacional",
-                "Winning Chance (%)": 13.33
+                "Winning Chance (%)": 10.67
             },
             {
                 "Team": "Cruzeiro",
