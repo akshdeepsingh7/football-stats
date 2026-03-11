@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 11 March 2026, 07:56 PM UTC",
-        "IST": "Thursday, 12 March 2026, 01:26 AM IST"
+        "UTC": "Wednesday, 11 March 2026, 08:30 PM UTC",
+        "IST": "Thursday, 12 March 2026, 02:00 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 69.21
+                "Winning Chance (%)": 70.3
             },
             {
                 "Team": "Middlesbrough",
@@ -948,6 +948,10 @@
                 "Winning Chance (%)": 40.12
             },
             {
+                "Team": "Sheffield United",
+                "Winning Chance (%)": 38.68
+            },
+            {
                 "Team": "Birmingham City",
                 "Winning Chance (%)": 37.48
             },
@@ -956,16 +960,12 @@
                 "Winning Chance (%)": 37.48
             },
             {
-                "Team": "Sheffield United",
-                "Winning Chance (%)": 36.84
-            },
-            {
                 "Team": "Bristol City",
                 "Winning Chance (%)": 36.04
             },
             {
                 "Team": "Preston North End",
-                "Winning Chance (%)": 36.3
+                "Winning Chance (%)": 35.32
             },
             {
                 "Team": "Stoke City",
@@ -977,7 +977,7 @@
             },
             {
                 "Team": "Norwich City",
-                "Winning Chance (%)": 35.27
+                "Winning Chance (%)": 34.13
             },
             {
                 "Team": "Charlton Athletic",
@@ -989,19 +989,19 @@
             },
             {
                 "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 28.83
+                "Winning Chance (%)": 28.11
             },
             {
                 "Team": "Leicester City",
                 "Winning Chance (%)": 27.39
             },
             {
-                "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 26.67
+                "Team": "Oxford United",
+                "Winning Chance (%)": 27.39
             },
             {
-                "Team": "Oxford United",
-                "Winning Chance (%)": 25.95
+                "Team": "West Bromwich Albion",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Sheffield Wednesday",
