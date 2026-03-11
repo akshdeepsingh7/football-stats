@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 11 March 2026, 01:28 AM UTC",
-        "IST": "Wednesday, 11 March 2026, 06:58 AM IST"
+        "UTC": "Wednesday, 11 March 2026, 03:41 AM UTC",
+        "IST": "Wednesday, 11 March 2026, 09:11 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1076,10 +1076,6 @@
                 "Winning Chance (%)": 68.27
             },
             {
-                "Team": "Mirassol",
-                "Winning Chance (%)": 54.13
-            },
-            {
                 "Team": "Corinthians",
                 "Winning Chance (%)": 47.47
             },
@@ -1104,8 +1100,16 @@
                 "Winning Chance (%)": 40.0
             },
             {
+                "Team": "Mirassol",
+                "Winning Chance (%)": 40.4
+            },
+            {
                 "Team": "Chapecoense",
                 "Winning Chance (%)": 45.24
+            },
+            {
+                "Team": "Santos",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Flamengo",
@@ -1114,10 +1118,6 @@
             {
                 "Team": "Coritiba",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Santos",
-                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Botafogo",
