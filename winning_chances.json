@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 12 March 2026, 09:55 PM UTC",
-        "IST": "Friday, 13 March 2026, 03:25 AM IST"
+        "UTC": "Thursday, 12 March 2026, 10:21 PM UTC",
+        "IST": "Friday, 13 March 2026, 03:51 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1076,6 +1076,10 @@
                 "Winning Chance (%)": 68.27
             },
             {
+                "Team": "Fluminense",
+                "Winning Chance (%)": 54.13
+            },
+            {
                 "Team": "Bahia",
                 "Winning Chance (%)": 54.13
             },
@@ -1086,10 +1090,6 @@
             {
                 "Team": "Coritiba",
                 "Winning Chance (%)": 37.73
-            },
-            {
-                "Team": "Fluminense",
-                "Winning Chance (%)": 47.07
             },
             {
                 "Team": "Athletico Paranaense",
@@ -1133,7 +1133,7 @@
             },
             {
                 "Team": "Remo",
-                "Winning Chance (%)": 20.0
+                "Winning Chance (%)": 16.0
             },
             {
                 "Team": "Internacional",
