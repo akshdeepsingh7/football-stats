@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 13 March 2026, 07:06 PM UTC",
-        "IST": "Saturday, 14 March 2026, 12:36 AM IST"
+        "UTC": "Friday, 13 March 2026, 07:54 PM UTC",
+        "IST": "Saturday, 14 March 2026, 01:24 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -222,15 +222,15 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "St. Pauli",
+                "Winning Chance (%)": 25.64
+            },
+            {
                 "Team": "K\u00f6ln",
                 "Winning Chance (%)": 25.6
             },
             {
                 "Team": "Mainz 05",
-                "Winning Chance (%)": 25.6
-            },
-            {
-                "Team": "St. Pauli",
                 "Winning Chance (%)": 25.6
             },
             {
@@ -289,7 +289,11 @@
             },
             {
                 "Team": "Parma",
-                "Winning Chance (%)": 32.38
+                "Winning Chance (%)": 31.26
+            },
+            {
+                "Team": "Torino",
+                "Winning Chance (%)": 30.34
             },
             {
                 "Team": "Genoa",
@@ -297,10 +301,6 @@
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 28.57
-            },
-            {
-                "Team": "Torino",
                 "Winning Chance (%)": 28.57
             },
             {
@@ -335,7 +335,7 @@
             },
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 56.67
+                "Winning Chance (%)": 55.81
             },
             {
                 "Team": "Lyon",
@@ -387,7 +387,7 @@
             },
             {
                 "Team": "Auxerre",
-                "Winning Chance (%)": 20.27
+                "Winning Chance (%)": 20.51
             },
             {
                 "Team": "Nantes",
