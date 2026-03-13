@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 12 March 2026, 11:49 PM UTC",
-        "IST": "Friday, 13 March 2026, 05:19 AM IST"
+        "UTC": "Friday, 13 March 2026, 01:43 AM UTC",
+        "IST": "Friday, 13 March 2026, 07:13 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1068,16 +1068,20 @@
         ],
         "Brasileir\u00e3o": [
             {
-                "Team": "Palmeiras",
-                "Winning Chance (%)": 72.53
+                "Team": "S\u00e3o Paulo",
+                "Winning Chance (%)": 71.73
             },
             {
-                "Team": "S\u00e3o Paulo",
-                "Winning Chance (%)": 60.27
+                "Team": "Palmeiras",
+                "Winning Chance (%)": 55.73
             },
             {
                 "Team": "Fluminense",
                 "Winning Chance (%)": 54.53
+            },
+            {
+                "Team": "Gr\u00eamio",
+                "Winning Chance (%)": 48.4
             },
             {
                 "Team": "Bahia",
@@ -1101,19 +1105,15 @@
             },
             {
                 "Team": "RB Bragantino",
-                "Winning Chance (%)": 46.67
-            },
-            {
-                "Team": "Gr\u00eamio",
-                "Winning Chance (%)": 40.0
-            },
-            {
-                "Team": "Chapecoense",
-                "Winning Chance (%)": 40.8
+                "Winning Chance (%)": 37.33
             },
             {
                 "Team": "Mirassol",
                 "Winning Chance (%)": 40.4
+            },
+            {
+                "Team": "Chapecoense",
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
@@ -1122,6 +1122,10 @@
             {
                 "Team": "Santos",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Vasco da Gama",
+                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Vit\u00f3ria",
@@ -1142,10 +1146,6 @@
             {
                 "Team": "Cruzeiro",
                 "Winning Chance (%)": 10.67
-            },
-            {
-                "Team": "Vasco da Gama",
-                "Winning Chance (%)": 5.33
             }
         ]
     }
