@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 13 March 2026, 08:29 PM UTC",
-        "IST": "Saturday, 14 March 2026, 01:59 AM IST"
+        "UTC": "Friday, 13 March 2026, 09:01 PM UTC",
+        "IST": "Saturday, 14 March 2026, 02:31 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -96,12 +96,12 @@
                 "Winning Chance (%)": 75.42
             },
             {
-                "Team": "Villarreal",
-                "Winning Chance (%)": 59.58
-            },
-            {
                 "Team": "Atl\u00e9tico de Madrid",
                 "Winning Chance (%)": 61.73
+            },
+            {
+                "Team": "Villarreal",
+                "Winning Chance (%)": 58.23
             },
             {
                 "Team": "Real Betis",
@@ -149,7 +149,7 @@
             },
             {
                 "Team": "Alav\u00e9s",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 28.57
             },
             {
                 "Team": "Elche",
