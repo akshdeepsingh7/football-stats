@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 13 March 2026, 07:54 PM UTC",
-        "IST": "Saturday, 14 March 2026, 01:24 AM IST"
+        "UTC": "Friday, 13 March 2026, 08:29 PM UTC",
+        "IST": "Saturday, 14 March 2026, 01:59 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -96,12 +96,12 @@
                 "Winning Chance (%)": 75.42
             },
             {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 61.73
+                "Team": "Villarreal",
+                "Winning Chance (%)": 59.58
             },
             {
-                "Team": "Villarreal",
-                "Winning Chance (%)": 60.53
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 61.73
             },
             {
                 "Team": "Real Betis",
@@ -215,15 +215,11 @@
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 28.72
             },
             {
                 "Team": "Werder Bremen",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "St. Pauli",
-                "Winning Chance (%)": 25.64
             },
             {
                 "Team": "K\u00f6ln",
@@ -232,6 +228,10 @@
             {
                 "Team": "Mainz 05",
                 "Winning Chance (%)": 25.6
+            },
+            {
+                "Team": "St. Pauli",
+                "Winning Chance (%)": 24.62
             },
             {
                 "Team": "VfL Wolfsburg",
@@ -289,11 +289,11 @@
             },
             {
                 "Team": "Parma",
-                "Winning Chance (%)": 31.26
+                "Winning Chance (%)": 32.18
             },
             {
                 "Team": "Torino",
-                "Winning Chance (%)": 30.34
+                "Winning Chance (%)": 28.51
             },
             {
                 "Team": "Genoa",
@@ -933,7 +933,7 @@
             },
             {
                 "Team": "Wrexham",
-                "Winning Chance (%)": 45.42
+                "Winning Chance (%)": 46.84
             },
             {
                 "Team": "Southampton",
@@ -953,7 +953,7 @@
             },
             {
                 "Team": "Swansea City",
-                "Winning Chance (%)": 37.48
+                "Winning Chance (%)": 36.49
             },
             {
                 "Team": "Bristol City",
