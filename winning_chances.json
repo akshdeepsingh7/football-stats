@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 March 2026, 05:50 PM UTC",
-        "IST": "Saturday, 14 March 2026, 11:20 PM IST"
+        "UTC": "Saturday, 14 March 2026, 06:30 PM UTC",
+        "IST": "Sunday, 15 March 2026, 12:00 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -137,7 +137,7 @@
             },
             {
                 "Team": "Valencia",
-                "Winning Chance (%)": 31.43
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Sevilla",
@@ -165,7 +165,7 @@
             },
             {
                 "Team": "Real Oviedo",
-                "Winning Chance (%)": 18.1
+                "Winning Chance (%)": 20.0
             }
         ],
         "Bundesliga": [
@@ -253,7 +253,7 @@
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 56.69
+                "Winning Chance (%)": 60.25
             },
             {
                 "Team": "Como",
@@ -305,7 +305,7 @@
             },
             {
                 "Team": "Lecce",
-                "Winning Chance (%)": 27.59
+                "Winning Chance (%)": 24.83
             },
             {
                 "Team": "Fiorentina",
@@ -367,7 +367,7 @@
             },
             {
                 "Team": "Angers",
-                "Winning Chance (%)": 34.13
+                "Winning Chance (%)": 33.85
             },
             {
                 "Team": "Toulouse",
@@ -383,7 +383,7 @@
             },
             {
                 "Team": "Nice",
-                "Winning Chance (%)": 25.6
+                "Winning Chance (%)": 25.64
             },
             {
                 "Team": "Auxerre",
@@ -854,12 +854,12 @@
                 "Winning Chance (%)": 59.87
             },
             {
-                "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 47.08
+                "Team": "Gil Vicente",
+                "Winning Chance (%)": 47.88
             },
             {
-                "Team": "Gil Vicente",
-                "Winning Chance (%)": 48.53
+                "Team": "Famalic\u00e3o",
+                "Winning Chance (%)": 47.08
             },
             {
                 "Team": "Moreirense",
@@ -875,7 +875,7 @@
             },
             {
                 "Team": "Alverca",
-                "Winning Chance (%)": 29.87
+                "Winning Chance (%)": 29.74
             },
             {
                 "Team": "Arouca",
