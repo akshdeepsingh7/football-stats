@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 March 2026, 02:23 PM UTC",
-        "IST": "Saturday, 14 March 2026, 07:53 PM IST"
+        "UTC": "Saturday, 14 March 2026, 02:52 PM UTC",
+        "IST": "Saturday, 14 March 2026, 08:22 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -171,15 +171,19 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 90.4
+                "Winning Chance (%)": 87.69
             },
             {
                 "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 69.47
+                "Winning Chance (%)": 70.69
             },
             {
                 "Team": "Hoffenheim",
-                "Winning Chance (%)": 60.27
+                "Winning Chance (%)": 59.28
+            },
+            {
+                "Team": "Bayer Leverkusen",
+                "Winning Chance (%)": 55.01
             },
             {
                 "Team": "VfB Stuttgart",
@@ -190,12 +194,8 @@
                 "Winning Chance (%)": 55.73
             },
             {
-                "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 53.33
-            },
-            {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 37.33
+                "Winning Chance (%)": 36.92
             },
             {
                 "Team": "SC Freiburg",
@@ -203,7 +203,7 @@
             },
             {
                 "Team": "Augsburg",
-                "Winning Chance (%)": 33.07
+                "Winning Chance (%)": 31.79
             },
             {
                 "Team": "Hamburg",
@@ -235,17 +235,17 @@
             },
             {
                 "Team": "VfL Wolfsburg",
-                "Winning Chance (%)": 21.33
+                "Winning Chance (%)": 21.54
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 14.93
+                "Winning Chance (%)": 15.38
             }
         ],
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 79.33
+                "Winning Chance (%)": 81.57
             },
             {
                 "Team": "Milan",
@@ -269,7 +269,7 @@
             },
             {
                 "Team": "Atalanta",
-                "Winning Chance (%)": 48.42
+                "Winning Chance (%)": 47.1
             },
             {
                 "Team": "Bologna",
