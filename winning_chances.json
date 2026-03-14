@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 March 2026, 11:45 AM UTC",
-        "IST": "Saturday, 14 March 2026, 05:15 PM IST"
+        "UTC": "Saturday, 14 March 2026, 12:39 PM UTC",
+        "IST": "Saturday, 14 March 2026, 06:09 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -913,11 +913,11 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 71.1
+                "Winning Chance (%)": 70.34
             },
             {
                 "Team": "Middlesbrough",
-                "Winning Chance (%)": 58.53
+                "Winning Chance (%)": 57.92
             },
             {
                 "Team": "Millwall",
@@ -937,7 +937,7 @@
             },
             {
                 "Team": "Southampton",
-                "Winning Chance (%)": 44.4
+                "Winning Chance (%)": 44.04
             },
             {
                 "Team": "Derby County",
@@ -957,7 +957,7 @@
             },
             {
                 "Team": "Bristol City",
-                "Winning Chance (%)": 36.04
+                "Winning Chance (%)": 35.79
             },
             {
                 "Team": "Sheffield United",
@@ -977,7 +977,7 @@
             },
             {
                 "Team": "Charlton Athletic",
-                "Winning Chance (%)": 33.87
+                "Winning Chance (%)": 33.68
             },
             {
                 "Team": "Queens Park Rangers",
@@ -988,15 +988,15 @@
                 "Winning Chance (%)": 29.63
             },
             {
+                "Team": "Oxford United",
+                "Winning Chance (%)": 27.37
+            },
+            {
                 "Team": "Blackburn Rovers",
                 "Winning Chance (%)": 28.11
             },
             {
                 "Team": "Leicester City",
-                "Winning Chance (%)": 27.39
-            },
-            {
-                "Team": "Oxford United",
                 "Winning Chance (%)": 27.39
             },
             {
