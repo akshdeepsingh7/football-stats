@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 March 2026, 12:39 PM UTC",
-        "IST": "Saturday, 14 March 2026, 06:09 PM IST"
+        "UTC": "Saturday, 14 March 2026, 01:41 PM UTC",
+        "IST": "Saturday, 14 March 2026, 07:11 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -125,26 +125,26 @@
             },
             {
                 "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 34.57
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 33.58
             },
             {
-                "Team": "Valencia",
-                "Winning Chance (%)": 31.6
+                "Team": "Girona",
+                "Winning Chance (%)": 32.38
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 30.62
+                "Team": "Valencia",
+                "Winning Chance (%)": 31.6
             },
             {
                 "Team": "Sevilla",
                 "Winning Chance (%)": 30.62
             },
             {
-                "Team": "Girona",
+                "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 30.62
             },
             {
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 70.34
+                "Winning Chance (%)": 69.24
             },
             {
                 "Team": "Middlesbrough",
@@ -937,7 +937,7 @@
             },
             {
                 "Team": "Southampton",
-                "Winning Chance (%)": 44.04
+                "Winning Chance (%)": 45.88
             },
             {
                 "Team": "Derby County",
@@ -1019,7 +1019,7 @@
             },
             {
                 "Team": "East Bengal",
-                "Winning Chance (%)": 55.73
+                "Winning Chance (%)": 44.67
             },
             {
                 "Team": "FC Goa",
@@ -1054,12 +1054,12 @@
                 "Winning Chance (%)": 17.78
             },
             {
-                "Team": "SC Delhi",
-                "Winning Chance (%)": 6.67
+                "Team": "Kerala Blasters",
+                "Winning Chance (%)": 5.33
             },
             {
-                "Team": "Kerala Blasters",
-                "Winning Chance (%)": 0.0
+                "Team": "SC Delhi",
+                "Winning Chance (%)": 6.67
             },
             {
                 "Team": "Mohammedan",
