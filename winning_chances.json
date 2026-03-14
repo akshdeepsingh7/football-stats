@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 March 2026, 04:55 PM UTC",
-        "IST": "Saturday, 14 March 2026, 10:25 PM IST"
+        "UTC": "Saturday, 14 March 2026, 05:23 PM UTC",
+        "IST": "Saturday, 14 March 2026, 10:53 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -253,7 +253,7 @@
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 58.93
+                "Winning Chance (%)": 56.69
             },
             {
                 "Team": "Como",
@@ -305,7 +305,7 @@
             },
             {
                 "Team": "Lecce",
-                "Winning Chance (%)": 25.71
+                "Winning Chance (%)": 27.59
             },
             {
                 "Team": "Fiorentina",
@@ -331,7 +331,7 @@
             },
             {
                 "Team": "Lens",
-                "Winning Chance (%)": 67.84
+                "Winning Chance (%)": 69.26
             },
             {
                 "Team": "Marseille",
@@ -354,16 +354,16 @@
                 "Winning Chance (%)": 45.07
             },
             {
-                "Team": "Lorient",
-                "Winning Chance (%)": 37.95
-            },
-            {
                 "Team": "Strasbourg",
                 "Winning Chance (%)": 42.0
             },
             {
                 "Team": "Brest",
                 "Winning Chance (%)": 38.4
+            },
+            {
+                "Team": "Lorient",
+                "Winning Chance (%)": 35.9
             },
             {
                 "Team": "Angers",
@@ -929,7 +929,7 @@
             },
             {
                 "Team": "Hull City",
-                "Winning Chance (%)": 45.81
+                "Winning Chance (%)": 45.41
             },
             {
                 "Team": "Wrexham",
