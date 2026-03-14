@@ -10,7 +10,7 @@ Access the raw data here:
 ## 📊 Winning Chances  
 
 <!-- START_WINNING_CHANCES -->
-**Last Updated:** Saturday, 14 March 2026, 11:25 PM UTC (Sunday, 15 March 2026, 04:55 AM IST)
+**Last Updated:** Saturday, 14 March 2026, 11:49 PM UTC (Sunday, 15 March 2026, 05:19 AM IST)
 
 _Charts are sorted by Winning Chance (%)_
 
@@ -45,6 +45,10 @@ _Charts are sorted by Winning Chance (%)_
 ### Europa Conference League
 
 ![Europa Conference League Winning Chances](images/Europa_Conference_League_winning_chances.png)
+
+### Liga Portugal
+
+![Liga Portugal Winning Chances](images/Liga_Portugal_winning_chances.png)
 
 ### EFL Championship
 
