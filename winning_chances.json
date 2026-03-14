@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 March 2026, 08:22 PM UTC",
-        "IST": "Sunday, 15 March 2026, 01:52 AM IST"
+        "UTC": "Saturday, 14 March 2026, 08:51 PM UTC",
+        "IST": "Sunday, 15 March 2026, 02:21 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -93,7 +93,7 @@
             },
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 74.15
+                "Winning Chance (%)": 76.86
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
@@ -153,7 +153,7 @@
             },
             {
                 "Team": "Elche",
-                "Winning Chance (%)": 25.71
+                "Winning Chance (%)": 24.76
             },
             {
                 "Team": "Mallorca",
@@ -256,16 +256,16 @@
                 "Winning Chance (%)": 60.25
             },
             {
+                "Team": "Juventus",
+                "Winning Chance (%)": 57.94
+            },
+            {
                 "Team": "Como",
                 "Winning Chance (%)": 58.57
             },
             {
                 "Team": "Roma",
                 "Winning Chance (%)": 55.37
-            },
-            {
-                "Team": "Juventus",
-                "Winning Chance (%)": 55.7
             },
             {
                 "Team": "Atalanta",
@@ -285,7 +285,7 @@
             },
             {
                 "Team": "Udinese",
-                "Winning Chance (%)": 34.02
+                "Winning Chance (%)": 33.1
             },
             {
                 "Team": "Parma",
@@ -342,20 +342,16 @@
                 "Winning Chance (%)": 54.27
             },
             {
+                "Team": "Monaco",
+                "Winning Chance (%)": 46.9
+            },
+            {
                 "Team": "Rennes",
                 "Winning Chance (%)": 48.67
             },
             {
-                "Team": "Monaco",
-                "Winning Chance (%)": 44.45
-            },
-            {
                 "Team": "Lille",
                 "Winning Chance (%)": 46.13
-            },
-            {
-                "Team": "Brest",
-                "Winning Chance (%)": 37.95
             },
             {
                 "Team": "Lorient",
@@ -364,6 +360,10 @@
             {
                 "Team": "Strasbourg",
                 "Winning Chance (%)": 42.0
+            },
+            {
+                "Team": "Brest",
+                "Winning Chance (%)": 36.92
             },
             {
                 "Team": "Angers",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 77.73
+                "Winning Chance (%)": 74.91
             },
             {
                 "Team": "Braga",
@@ -874,12 +874,12 @@
                 "Winning Chance (%)": 32.82
             },
             {
-                "Team": "Alverca",
+                "Team": "Arouca",
                 "Winning Chance (%)": 29.74
             },
             {
-                "Team": "Arouca",
-                "Winning Chance (%)": 27.73
+                "Team": "Alverca",
+                "Winning Chance (%)": 29.74
             },
             {
                 "Team": "Estrela Amadora",
