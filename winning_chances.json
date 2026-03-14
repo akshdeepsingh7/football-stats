@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 March 2026, 09:21 PM UTC",
-        "IST": "Sunday, 15 March 2026, 02:51 AM IST"
+        "UTC": "Saturday, 14 March 2026, 09:48 PM UTC",
+        "IST": "Sunday, 15 March 2026, 03:18 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -93,7 +93,7 @@
             },
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 76.86
+                "Winning Chance (%)": 77.26
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
@@ -343,7 +343,7 @@
             },
             {
                 "Team": "Monaco",
-                "Winning Chance (%)": 46.9
+                "Winning Chance (%)": 47.3
             },
             {
                 "Team": "Rennes",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 74.91
+                "Winning Chance (%)": 76.34
             },
             {
                 "Team": "Braga",
@@ -874,12 +874,12 @@
                 "Winning Chance (%)": 32.82
             },
             {
-                "Team": "Arouca",
+                "Team": "Alverca",
                 "Winning Chance (%)": 29.74
             },
             {
-                "Team": "Alverca",
-                "Winning Chance (%)": 29.74
+                "Team": "Arouca",
+                "Winning Chance (%)": 27.69
             },
             {
                 "Team": "Estrela Amadora",
@@ -1112,24 +1112,24 @@
                 "Winning Chance (%)": 40.4
             },
             {
-                "Team": "Chapecoense",
-                "Winning Chance (%)": 33.33
-            },
-            {
                 "Team": "Atl\u00e9tico Mineiro",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Chapecoense",
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Santos",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Vasco da Gama",
-                "Winning Chance (%)": 21.33
-            },
-            {
                 "Team": "Vit\u00f3ria",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Vasco da Gama",
+                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Botafogo",
