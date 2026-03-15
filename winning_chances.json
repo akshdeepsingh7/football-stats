@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 March 2026, 04:26 PM UTC",
-        "IST": "Sunday, 15 March 2026, 09:56 PM IST"
+        "UTC": "Sunday, 15 March 2026, 04:56 PM UTC",
+        "IST": "Sunday, 15 March 2026, 10:26 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -18,16 +18,16 @@
                 "Winning Chance (%)": 53.2
             },
             {
+                "Team": "Liverpool FC",
+                "Winning Chance (%)": 49.33
+            },
+            {
                 "Team": "Aston Villa",
                 "Winning Chance (%)": 46.53
             },
             {
                 "Team": "Chelsea",
                 "Winning Chance (%)": 49.87
-            },
-            {
-                "Team": "Liverpool FC",
-                "Winning Chance (%)": 47.74
             },
             {
                 "Team": "Brentford",
@@ -67,7 +67,7 @@
             },
             {
                 "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 25.78
             },
             {
                 "Team": "Nottingham Forest",
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 85.87
+                "Winning Chance (%)": 86.67
             },
             {
                 "Team": "Real Madrid",
@@ -199,7 +199,7 @@
             },
             {
                 "Team": "SC Freiburg",
-                "Winning Chance (%)": 36.27
+                "Winning Chance (%)": 35.9
             },
             {
                 "Team": "Augsburg",
@@ -211,7 +211,7 @@
             },
             {
                 "Team": "Union Berlin",
-                "Winning Chance (%)": 29.87
+                "Winning Chance (%)": 29.74
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
@@ -367,7 +367,7 @@
             },
             {
                 "Team": "Toulouse",
-                "Winning Chance (%)": 36.87
+                "Winning Chance (%)": 34.42
             },
             {
                 "Team": "Angers",
@@ -395,7 +395,7 @@
             },
             {
                 "Team": "Metz",
-                "Winning Chance (%)": 13.33
+                "Winning Chance (%)": 14.36
             }
         ],
         "Champions League": [
