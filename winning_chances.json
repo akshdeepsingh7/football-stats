@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 March 2026, 12:40 PM UTC",
-        "IST": "Sunday, 15 March 2026, 06:10 PM IST"
+        "UTC": "Sunday, 15 March 2026, 01:42 PM UTC",
+        "IST": "Sunday, 15 March 2026, 07:12 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -108,12 +108,12 @@
                 "Winning Chance (%)": 45.67
             },
             {
-                "Team": "Celta de Vigo",
-                "Winning Chance (%)": 42.31
+                "Team": "Espanyol",
+                "Winning Chance (%)": 38.1
             },
             {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 36.54
+                "Team": "Celta de Vigo",
+                "Winning Chance (%)": 42.31
             },
             {
                 "Team": "Real Sociedad",
@@ -157,7 +157,7 @@
             },
             {
                 "Team": "Mallorca",
-                "Winning Chance (%)": 24.69
+                "Winning Chance (%)": 23.81
             },
             {
                 "Team": "Levante",
@@ -292,12 +292,12 @@
                 "Winning Chance (%)": 31.26
             },
             {
-                "Team": "Torino",
+                "Team": "Genoa",
                 "Winning Chance (%)": 30.34
             },
             {
-                "Team": "Genoa",
-                "Winning Chance (%)": 28.51
+                "Team": "Torino",
+                "Winning Chance (%)": 30.34
             },
             {
                 "Team": "Cagliari",
@@ -317,7 +317,7 @@
             },
             {
                 "Team": "Hellas Verona",
-                "Winning Chance (%)": 17.47
+                "Winning Chance (%)": 16.55
             },
             {
                 "Team": "Pisa",
@@ -1015,7 +1015,7 @@
             },
             {
                 "Team": "Jamshedpur",
-                "Winning Chance (%)": 70.93
+                "Winning Chance (%)": 65.2
             },
             {
                 "Team": "East Bengal",
@@ -1034,6 +1034,10 @@
                 "Winning Chance (%)": 43.07
             },
             {
+                "Team": "NorthEast Utd",
+                "Winning Chance (%)": 32.0
+            },
+            {
                 "Team": "Inter Kashi",
                 "Winning Chance (%)": 33.33
             },
@@ -1044,10 +1048,6 @@
             {
                 "Team": "Chennaiyin",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "NorthEast Utd",
-                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Odisha",
