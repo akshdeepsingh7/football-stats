@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 March 2026, 04:56 PM UTC",
-        "IST": "Sunday, 15 March 2026, 10:26 PM IST"
+        "UTC": "Sunday, 15 March 2026, 05:24 PM UTC",
+        "IST": "Sunday, 15 March 2026, 10:54 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 86.67
+                "Winning Chance (%)": 86.27
             },
             {
                 "Team": "Real Madrid",
@@ -256,16 +256,16 @@
                 "Winning Chance (%)": 60.25
             },
             {
+                "Team": "Roma",
+                "Winning Chance (%)": 56.86
+            },
+            {
                 "Team": "Juventus",
                 "Winning Chance (%)": 57.94
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 58.57
-            },
-            {
-                "Team": "Roma",
-                "Winning Chance (%)": 55.37
+                "Winning Chance (%)": 56.5
             },
             {
                 "Team": "Atalanta",
@@ -367,7 +367,7 @@
             },
             {
                 "Team": "Toulouse",
-                "Winning Chance (%)": 34.42
+                "Winning Chance (%)": 36.87
             },
             {
                 "Team": "Angers",
@@ -395,7 +395,7 @@
             },
             {
                 "Team": "Metz",
-                "Winning Chance (%)": 14.36
+                "Winning Chance (%)": 13.33
             }
         ],
         "Champions League": [
@@ -886,16 +886,16 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 25.64
+            },
+            {
                 "Team": "Rio Ave",
                 "Winning Chance (%)": 25.6
             },
             {
                 "Team": "Casa Pia",
                 "Winning Chance (%)": 25.6
-            },
-            {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 23.59
             },
             {
                 "Team": "Nacional",
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 11.28
+                "Winning Chance (%)": 10.26
             }
         ],
         "EFL Championship": [
