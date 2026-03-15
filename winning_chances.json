@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 March 2026, 03:51 PM UTC",
-        "IST": "Sunday, 15 March 2026, 09:21 PM IST"
+        "UTC": "Sunday, 15 March 2026, 04:26 PM UTC",
+        "IST": "Sunday, 15 March 2026, 09:56 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -339,7 +339,7 @@
             },
             {
                 "Team": "Lyon",
-                "Winning Chance (%)": 54.27
+                "Winning Chance (%)": 53.41
             },
             {
                 "Team": "Monaco",
@@ -366,24 +366,24 @@
                 "Winning Chance (%)": 36.92
             },
             {
-                "Team": "Angers",
-                "Winning Chance (%)": 32.82
+                "Team": "Toulouse",
+                "Winning Chance (%)": 36.87
             },
             {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 34.67
+                "Team": "Angers",
+                "Winning Chance (%)": 32.82
             },
             {
                 "Team": "Paris FC",
                 "Winning Chance (%)": 28.72
             },
             {
-                "Team": "Nice",
+                "Team": "Le Havre",
                 "Winning Chance (%)": 27.69
             },
             {
-                "Team": "Le Havre",
-                "Winning Chance (%)": 27.73
+                "Team": "Nice",
+                "Winning Chance (%)": 27.69
             },
             {
                 "Team": "Auxerre",
@@ -395,7 +395,7 @@
             },
             {
                 "Team": "Metz",
-                "Winning Chance (%)": 13.87
+                "Winning Chance (%)": 13.33
             }
         ],
         "Champions League": [
