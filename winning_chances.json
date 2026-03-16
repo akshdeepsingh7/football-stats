@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 16 March 2026, 07:51 PM UTC",
-        "IST": "Tuesday, 17 March 2026, 01:21 AM IST"
+        "UTC": "Monday, 16 March 2026, 08:33 PM UTC",
+        "IST": "Tuesday, 17 March 2026, 02:03 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -31,7 +31,7 @@
             },
             {
                 "Team": "Brentford",
-                "Winning Chance (%)": 42.06
+                "Winning Chance (%)": 43.78
             },
             {
                 "Team": "Everton",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 14.22
+                "Winning Chance (%)": 13.76
             }
         ],
         "La Liga": [
@@ -136,16 +136,16 @@
                 "Winning Chance (%)": 32.38
             },
             {
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 30.48
+            },
+            {
                 "Team": "Valencia",
                 "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Sevilla",
                 "Winning Chance (%)": 29.52
-            },
-            {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 30.62
             },
             {
                 "Team": "Mallorca",
@@ -161,7 +161,7 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 21.73
+                "Winning Chance (%)": 21.9
             },
             {
                 "Team": "Real Oviedo",
@@ -304,16 +304,16 @@
                 "Winning Chance (%)": 27.59
             },
             {
+                "Team": "Fiorentina",
+                "Winning Chance (%)": 25.75
+            },
+            {
                 "Team": "Lecce",
                 "Winning Chance (%)": 24.83
             },
             {
-                "Team": "Fiorentina",
-                "Winning Chance (%)": 23.91
-            },
-            {
                 "Team": "Cremonese",
-                "Winning Chance (%)": 22.99
+                "Winning Chance (%)": 22.07
             },
             {
                 "Team": "Pisa",
@@ -941,7 +941,7 @@
             },
             {
                 "Team": "Derby County",
-                "Winning Chance (%)": 41.32
+                "Winning Chance (%)": 42.8
             },
             {
                 "Team": "Birmingham City",
@@ -989,7 +989,7 @@
             },
             {
                 "Team": "Portsmouth",
-                "Winning Chance (%)": 29.63
+                "Winning Chance (%)": 28.83
             },
             {
                 "Team": "West Bromwich Albion",
