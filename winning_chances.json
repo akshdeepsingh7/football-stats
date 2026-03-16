@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 16 March 2026, 08:33 PM UTC",
-        "IST": "Tuesday, 17 March 2026, 02:03 AM IST"
+        "UTC": "Monday, 16 March 2026, 09:34 PM UTC",
+        "IST": "Tuesday, 17 March 2026, 03:04 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -136,15 +136,15 @@
                 "Winning Chance (%)": 32.38
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 30.48
-            },
-            {
                 "Team": "Valencia",
                 "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Sevilla",
+                "Winning Chance (%)": 29.52
+            },
+            {
+                "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 29.52
             },
             {
@@ -161,7 +161,7 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 21.9
+                "Winning Chance (%)": 23.81
             },
             {
                 "Team": "Real Oviedo",
