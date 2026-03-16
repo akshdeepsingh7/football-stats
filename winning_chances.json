@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 16 March 2026, 09:34 PM UTC",
-        "IST": "Tuesday, 17 March 2026, 03:04 AM IST"
+        "UTC": "Monday, 16 March 2026, 10:27 PM UTC",
+        "IST": "Tuesday, 17 March 2026, 03:57 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -31,7 +31,7 @@
             },
             {
                 "Team": "Brentford",
-                "Winning Chance (%)": 43.78
+                "Winning Chance (%)": 41.6
             },
             {
                 "Team": "Everton",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 13.76
+                "Winning Chance (%)": 14.62
             }
         ],
         "La Liga": [
@@ -136,15 +136,15 @@
                 "Winning Chance (%)": 32.38
             },
             {
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 30.48
+            },
+            {
                 "Team": "Valencia",
                 "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Sevilla",
-                "Winning Chance (%)": 29.52
-            },
-            {
-                "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 29.52
             },
             {
@@ -161,7 +161,7 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 23.81
+                "Winning Chance (%)": 21.9
             },
             {
                 "Team": "Real Oviedo",
