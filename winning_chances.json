@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 16 March 2026, 01:58 PM UTC",
-        "IST": "Monday, 16 March 2026, 07:28 PM IST"
+        "UTC": "Monday, 16 March 2026, 03:02 PM UTC",
+        "IST": "Monday, 16 March 2026, 08:32 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1027,11 +1027,15 @@
             },
             {
                 "Team": "FC Goa",
-                "Winning Chance (%)": 54.53
+                "Winning Chance (%)": 43.47
             },
             {
                 "Team": "Bengaluru",
                 "Winning Chance (%)": 43.07
+            },
+            {
+                "Team": "Punjab FC",
+                "Winning Chance (%)": 47.47
             },
             {
                 "Team": "NorthEast Utd",
@@ -1040,10 +1044,6 @@
             {
                 "Team": "Inter Kashi",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Punjab FC",
-                "Winning Chance (%)": 35.96
             },
             {
                 "Team": "Chennaiyin",
