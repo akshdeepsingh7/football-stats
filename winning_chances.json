@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 16 March 2026, 11:32 PM UTC",
-        "IST": "Tuesday, 17 March 2026, 05:02 AM IST"
+        "UTC": "Tuesday, 17 March 2026, 01:45 AM UTC",
+        "IST": "Tuesday, 17 March 2026, 07:15 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1092,8 +1092,8 @@
                 "Winning Chance (%)": 45.24
             },
             {
-                "Team": "Chapecoense",
-                "Winning Chance (%)": 43.07
+                "Team": "Gr\u00eamio",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Corinthians",
@@ -1108,12 +1108,12 @@
                 "Winning Chance (%)": 37.33
             },
             {
-                "Team": "Gr\u00eamio",
-                "Winning Chance (%)": 31.11
-            },
-            {
                 "Team": "Vit\u00f3ria",
                 "Winning Chance (%)": 37.33
+            },
+            {
+                "Team": "Chapecoense",
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Mirassol",
