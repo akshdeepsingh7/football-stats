@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 18 March 2026, 09:05 PM UTC",
-        "IST": "Thursday, 19 March 2026, 02:35 AM IST"
+        "UTC": "Wednesday, 18 March 2026, 10:01 PM UTC",
+        "IST": "Thursday, 19 March 2026, 03:31 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1073,7 +1073,7 @@
             },
             {
                 "Team": "Palmeiras",
-                "Winning Chance (%)": 60.58
+                "Winning Chance (%)": 56.13
             },
             {
                 "Team": "Fluminense",
@@ -1081,7 +1081,7 @@
             },
             {
                 "Team": "Bahia",
-                "Winning Chance (%)": 59.87
+                "Winning Chance (%)": 54.53
             },
             {
                 "Team": "Flamengo",
@@ -1092,15 +1092,15 @@
                 "Winning Chance (%)": 45.24
             },
             {
+                "Team": "RB Bragantino",
+                "Winning Chance (%)": 34.29
+            },
+            {
                 "Team": "Gr\u00eamio",
                 "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Corinthians",
-                "Winning Chance (%)": 35.56
-            },
-            {
-                "Team": "RB Bragantino",
                 "Winning Chance (%)": 35.56
             },
             {
@@ -1133,7 +1133,7 @@
             },
             {
                 "Team": "Botafogo",
-                "Winning Chance (%)": 20.0
+                "Winning Chance (%)": 21.33
             },
             {
                 "Team": "Remo",
