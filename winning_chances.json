@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 20 March 2026, 01:58 PM UTC",
-        "IST": "Friday, 20 March 2026, 07:28 PM IST"
+        "UTC": "Friday, 20 March 2026, 02:43 PM UTC",
+        "IST": "Friday, 20 March 2026, 08:13 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1010,16 +1010,16 @@
         ],
         "Indian Super League": [
             {
+                "Team": "Mumbai City",
+                "Winning Chance (%)": 63.82
+            },
+            {
                 "Team": "Mohun Bagan SG",
-                "Winning Chance (%)": 74.13
+                "Winning Chance (%)": 62.18
             },
             {
                 "Team": "Jamshedpur",
                 "Winning Chance (%)": 58.98
-            },
-            {
-                "Team": "Mumbai City",
-                "Winning Chance (%)": 59.87
             },
             {
                 "Team": "FC Goa",
