@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 20 March 2026, 07:34 PM UTC",
-        "IST": "Saturday, 21 March 2026, 01:04 AM IST"
+        "UTC": "Friday, 20 March 2026, 08:26 PM UTC",
+        "IST": "Saturday, 21 March 2026, 01:56 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -15,7 +15,7 @@
             },
             {
                 "Team": "Manchester United",
-                "Winning Chance (%)": 53.2
+                "Winning Chance (%)": 52.51
             },
             {
                 "Team": "Aston Villa",
@@ -43,7 +43,7 @@
             },
             {
                 "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 36.44
+                "Winning Chance (%)": 36.13
             },
             {
                 "Team": "Fulham",
@@ -96,12 +96,12 @@
                 "Winning Chance (%)": 77.26
             },
             {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 63.09
+                "Team": "Villarreal",
+                "Winning Chance (%)": 61.73
             },
             {
-                "Team": "Villarreal",
-                "Winning Chance (%)": 59.58
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 63.09
             },
             {
                 "Team": "Real Betis",
@@ -113,7 +113,7 @@
             },
             {
                 "Team": "Real Sociedad",
-                "Winning Chance (%)": 36.59
+                "Winning Chance (%)": 34.94
             },
             {
                 "Team": "Espanyol",
@@ -178,16 +178,16 @@
                 "Winning Chance (%)": 71.09
             },
             {
-                "Team": "Hoffenheim",
-                "Winning Chance (%)": 58.37
+                "Team": "RB Leipzig",
+                "Winning Chance (%)": 56.18
             },
             {
                 "Team": "VfB Stuttgart",
                 "Winning Chance (%)": 58.08
             },
             {
-                "Team": "RB Leipzig",
-                "Winning Chance (%)": 52.61
+                "Team": "Hoffenheim",
+                "Winning Chance (%)": 55.78
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -285,7 +285,7 @@
             },
             {
                 "Team": "Udinese",
-                "Winning Chance (%)": 33.1
+                "Winning Chance (%)": 32.89
             },
             {
                 "Team": "Parma",
@@ -293,7 +293,7 @@
             },
             {
                 "Team": "Genoa",
-                "Winning Chance (%)": 30.34
+                "Winning Chance (%)": 30.22
             },
             {
                 "Team": "Torino",
@@ -326,12 +326,12 @@
         ],
         "Ligue 1": [
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 73.6
+                "Team": "Lens",
+                "Winning Chance (%)": 69.87
             },
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 67.84
+                "Team": "PSG",
+                "Winning Chance (%)": 73.6
             },
             {
                 "Team": "Marseille",
@@ -371,7 +371,7 @@
             },
             {
                 "Team": "Angers",
-                "Winning Chance (%)": 32.82
+                "Winning Chance (%)": 31.6
             },
             {
                 "Team": "Paris FC",
@@ -882,12 +882,12 @@
                 "Winning Chance (%)": 27.69
             },
             {
-                "Team": "Arouca",
-                "Winning Chance (%)": 26.67
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 25.68
             },
             {
-                "Team": "Estrela Amadora",
-                "Winning Chance (%)": 25.64
+                "Team": "Arouca",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Santa Clara",
@@ -895,7 +895,7 @@
             },
             {
                 "Team": "Casa Pia",
-                "Winning Chance (%)": 25.6
+                "Winning Chance (%)": 25.64
             },
             {
                 "Team": "Nacional",
@@ -952,15 +952,15 @@
                 "Winning Chance (%)": 37.19
             },
             {
+                "Team": "Stoke City",
+                "Winning Chance (%)": 37.56
+            },
+            {
                 "Team": "Swansea City",
                 "Winning Chance (%)": 36.49
             },
             {
                 "Team": "Norwich City",
-                "Winning Chance (%)": 37.79
-            },
-            {
-                "Team": "Stoke City",
                 "Winning Chance (%)": 37.79
             },
             {
@@ -972,12 +972,12 @@
                 "Winning Chance (%)": 35.49
             },
             {
-                "Team": "Queens Park Rangers",
-                "Winning Chance (%)": 35.09
+                "Team": "Preston North End",
+                "Winning Chance (%)": 34.19
             },
             {
-                "Team": "Preston North End",
-                "Winning Chance (%)": 34.39
+                "Team": "Queens Park Rangers",
+                "Winning Chance (%)": 35.09
             },
             {
                 "Team": "Charlton Athletic",
