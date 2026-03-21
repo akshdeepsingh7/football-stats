@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 06:29 PM UTC",
-        "IST": "Saturday, 21 March 2026, 11:59 PM IST"
+        "UTC": "Saturday, 21 March 2026, 07:01 PM UTC",
+        "IST": "Sunday, 22 March 2026, 12:31 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -27,11 +27,11 @@
             },
             {
                 "Team": "Chelsea",
-                "Winning Chance (%)": 48.09
+                "Winning Chance (%)": 47.69
             },
             {
                 "Team": "Everton",
-                "Winning Chance (%)": 39.57
+                "Winning Chance (%)": 39.97
             },
             {
                 "Team": "Brentford",
@@ -161,11 +161,11 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 22.07
+                "Winning Chance (%)": 23.91
             },
             {
                 "Team": "Real Oviedo",
-                "Winning Chance (%)": 20.23
+                "Winning Chance (%)": 19.31
             }
         ],
         "Bundesliga": [
@@ -249,7 +249,7 @@
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 66.0
+                "Winning Chance (%)": 65.6
             },
             {
                 "Team": "Napoli",
