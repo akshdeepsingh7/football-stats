@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 04:23 PM UTC",
-        "IST": "Saturday, 21 March 2026, 09:53 PM IST"
+        "UTC": "Saturday, 21 March 2026, 04:52 PM UTC",
+        "IST": "Saturday, 21 March 2026, 10:22 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -34,6 +34,10 @@
                 "Winning Chance (%)": 41.6
             },
             {
+                "Team": "Fulham",
+                "Winning Chance (%)": 37.85
+            },
+            {
                 "Team": "Brighton & Hove Albion",
                 "Winning Chance (%)": 38.59
             },
@@ -48,10 +52,6 @@
             {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 36.13
-            },
-            {
-                "Team": "Fulham",
-                "Winning Chance (%)": 35.27
             },
             {
                 "Team": "Sunderland",
@@ -79,7 +79,7 @@
             },
             {
                 "Team": "Burnley",
-                "Winning Chance (%)": 19.78
+                "Winning Chance (%)": 17.2
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -937,7 +937,7 @@
             },
             {
                 "Team": "Wrexham",
-                "Winning Chance (%)": 44.91
+                "Winning Chance (%)": 46.68
             },
             {
                 "Team": "Derby County",
@@ -972,12 +972,12 @@
                 "Winning Chance (%)": 36.07
             },
             {
-                "Team": "Sheffield United",
-                "Winning Chance (%)": 35.27
-            },
-            {
                 "Team": "Bristol City",
                 "Winning Chance (%)": 34.87
+            },
+            {
+                "Team": "Sheffield United",
+                "Winning Chance (%)": 34.19
             },
             {
                 "Team": "Charlton Athletic",
