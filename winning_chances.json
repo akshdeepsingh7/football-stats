@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 03:21 PM UTC",
-        "IST": "Saturday, 21 March 2026, 08:51 PM IST"
+        "UTC": "Saturday, 21 March 2026, 03:46 PM UTC",
+        "IST": "Saturday, 21 March 2026, 09:16 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -191,7 +191,7 @@
             },
             {
                 "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 54.61
+                "Winning Chance (%)": 54.21
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -202,12 +202,12 @@
                 "Winning Chance (%)": 34.87
             },
             {
-                "Team": "Union Berlin",
-                "Winning Chance (%)": 30.62
-            },
-            {
                 "Team": "Augsburg",
                 "Winning Chance (%)": 31.79
+            },
+            {
+                "Team": "Union Berlin",
+                "Winning Chance (%)": 30.62
             },
             {
                 "Team": "Hamburg",
@@ -854,12 +854,12 @@
                 "Winning Chance (%)": 59.87
             },
             {
-                "Team": "Gil Vicente",
-                "Winning Chance (%)": 47.88
+                "Team": "Famalic\u00e3o",
+                "Winning Chance (%)": 46.47
             },
             {
-                "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 47.08
+                "Team": "Gil Vicente",
+                "Winning Chance (%)": 47.88
             },
             {
                 "Team": "Estoril",
@@ -867,7 +867,7 @@
             },
             {
                 "Team": "Moreirense",
-                "Winning Chance (%)": 35.9
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
@@ -882,12 +882,12 @@
                 "Winning Chance (%)": 27.65
             },
             {
-                "Team": "Rio Ave",
-                "Winning Chance (%)": 27.69
-            },
-            {
                 "Team": "Arouca",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Rio Ave",
+                "Winning Chance (%)": 27.69
             },
             {
                 "Team": "Santa Clara",
@@ -899,7 +899,7 @@
             },
             {
                 "Team": "Nacional",
-                "Winning Chance (%)": 22.56
+                "Winning Chance (%)": 22.72
             },
             {
                 "Team": "Tondela",
@@ -960,10 +960,6 @@
                 "Winning Chance (%)": 36.24
             },
             {
-                "Team": "Bristol City",
-                "Winning Chance (%)": 35.56
-            },
-            {
                 "Team": "Swansea City",
                 "Winning Chance (%)": 36.49
             },
@@ -980,6 +976,10 @@
                 "Winning Chance (%)": 35.27
             },
             {
+                "Team": "Bristol City",
+                "Winning Chance (%)": 34.87
+            },
+            {
                 "Team": "Charlton Athletic",
                 "Winning Chance (%)": 32.82
             },
@@ -989,7 +989,7 @@
             },
             {
                 "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 28.03
+                "Winning Chance (%)": 29.4
             },
             {
                 "Team": "Portsmouth",
@@ -1031,7 +1031,7 @@
             },
             {
                 "Team": "Punjab FC",
-                "Winning Chance (%)": 44.27
+                "Winning Chance (%)": 43.87
             },
             {
                 "Team": "Bengaluru",
