@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 01:38 PM UTC",
-        "IST": "Saturday, 21 March 2026, 07:08 PM IST"
+        "UTC": "Saturday, 21 March 2026, 02:22 PM UTC",
+        "IST": "Saturday, 21 March 2026, 07:52 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -23,7 +23,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 46.61
+                "Winning Chance (%)": 45.35
             },
             {
                 "Team": "Chelsea",
@@ -32,6 +32,10 @@
             {
                 "Team": "Brentford",
                 "Winning Chance (%)": 41.6
+            },
+            {
+                "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 38.59
             },
             {
                 "Team": "Everton",
@@ -44,10 +48,6 @@
             {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 36.13
-            },
-            {
-                "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 36.47
             },
             {
                 "Team": "Fulham",
@@ -289,7 +289,7 @@
             },
             {
                 "Team": "Parma",
-                "Winning Chance (%)": 31.26
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Torino",
@@ -313,7 +313,7 @@
             },
             {
                 "Team": "Cremonese",
-                "Winning Chance (%)": 22.07
+                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Pisa",
@@ -1030,16 +1030,16 @@
                 "Winning Chance (%)": 44.67
             },
             {
+                "Team": "Punjab FC",
+                "Winning Chance (%)": 43.87
+            },
+            {
                 "Team": "Bengaluru",
                 "Winning Chance (%)": 43.07
             },
             {
                 "Team": "NorthEast Utd",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Punjab FC",
-                "Winning Chance (%)": 33.73
             },
             {
                 "Team": "Odisha",
@@ -1059,7 +1059,7 @@
             },
             {
                 "Team": "Kerala Blasters",
-                "Winning Chance (%)": 5.33
+                "Winning Chance (%)": 4.44
             },
             {
                 "Team": "Mohammedan",
