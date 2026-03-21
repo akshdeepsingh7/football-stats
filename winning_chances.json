@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 03:46 PM UTC",
-        "IST": "Saturday, 21 March 2026, 09:16 PM IST"
+        "UTC": "Saturday, 21 March 2026, 04:23 PM UTC",
+        "IST": "Saturday, 21 March 2026, 09:53 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -51,7 +51,7 @@
             },
             {
                 "Team": "Fulham",
-                "Winning Chance (%)": 36.13
+                "Winning Chance (%)": 35.27
             },
             {
                 "Team": "Sunderland",
@@ -79,7 +79,7 @@
             },
             {
                 "Team": "Burnley",
-                "Winning Chance (%)": 18.06
+                "Winning Chance (%)": 19.78
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -116,12 +116,12 @@
                 "Winning Chance (%)": 34.94
             },
             {
-                "Team": "Espanyol",
+                "Team": "Getafe",
                 "Winning Chance (%)": 34.94
             },
             {
-                "Team": "Getafe",
-                "Winning Chance (%)": 33.1
+                "Team": "Espanyol",
+                "Winning Chance (%)": 34.02
             },
             {
                 "Team": "Athletic Bilbao",
@@ -191,7 +191,7 @@
             },
             {
                 "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 54.21
+                "Winning Chance (%)": 51.83
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -218,6 +218,10 @@
                 "Winning Chance (%)": 28.64
             },
             {
+                "Team": "Werder Bremen",
+                "Winning Chance (%)": 27.65
+            },
+            {
                 "Team": "Mainz 05",
                 "Winning Chance (%)": 27.69
             },
@@ -226,20 +230,16 @@
                 "Winning Chance (%)": 25.68
             },
             {
-                "Team": "Werder Bremen",
-                "Winning Chance (%)": 25.68
-            },
-            {
                 "Team": "St. Pauli",
                 "Winning Chance (%)": 24.62
             },
             {
                 "Team": "VfL Wolfsburg",
-                "Winning Chance (%)": 21.73
+                "Winning Chance (%)": 20.74
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 13.83
+                "Winning Chance (%)": 14.81
             }
         ],
         "Serie A": [
@@ -354,12 +354,12 @@
                 "Winning Chance (%)": 46.5
             },
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 41.55
+                "Team": "Lorient",
+                "Winning Chance (%)": 37.53
             },
             {
-                "Team": "Lorient",
-                "Winning Chance (%)": 37.95
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 41.55
             },
             {
                 "Team": "Brest",
@@ -367,7 +367,7 @@
             },
             {
                 "Team": "Toulouse",
-                "Winning Chance (%)": 36.87
+                "Winning Chance (%)": 36.57
             },
             {
                 "Team": "Angers",
@@ -929,7 +929,7 @@
             },
             {
                 "Team": "Hull City",
-                "Winning Chance (%)": 44.96
+                "Winning Chance (%)": 47.13
             },
             {
                 "Team": "Southampton",
