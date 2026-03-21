@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 07:44 PM UTC",
-        "IST": "Sunday, 22 March 2026, 01:14 AM IST"
+        "UTC": "Saturday, 21 March 2026, 08:20 PM UTC",
+        "IST": "Sunday, 22 March 2026, 01:50 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -30,12 +30,12 @@
                 "Winning Chance (%)": 47.29
             },
             {
-                "Team": "Everton",
-                "Winning Chance (%)": 40.37
+                "Team": "Brentford",
+                "Winning Chance (%)": 41.17
             },
             {
-                "Team": "Brentford",
-                "Winning Chance (%)": 41.6
+                "Team": "Everton",
+                "Winning Chance (%)": 40.37
             },
             {
                 "Team": "Fulham",
@@ -63,7 +63,7 @@
             },
             {
                 "Team": "Leeds United",
-                "Winning Chance (%)": 28.44
+                "Winning Chance (%)": 28.39
             },
             {
                 "Team": "Tottenham Hotspur",
@@ -136,16 +136,16 @@
                 "Winning Chance (%)": 31.26
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 30.48
-            },
-            {
                 "Team": "Valencia",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 30.34
             },
             {
                 "Team": "Sevilla",
-                "Winning Chance (%)": 29.52
+                "Winning Chance (%)": 29.43
+            },
+            {
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Elche",
@@ -256,12 +256,12 @@
                 "Winning Chance (%)": 61.51
             },
             {
-                "Team": "Como",
-                "Winning Chance (%)": 60.06
+                "Team": "Juventus",
+                "Winning Chance (%)": 59.38
             },
             {
-                "Team": "Juventus",
-                "Winning Chance (%)": 57.94
+                "Team": "Como",
+                "Winning Chance (%)": 60.06
             },
             {
                 "Team": "Roma",
@@ -285,7 +285,7 @@
             },
             {
                 "Team": "Sassuolo",
-                "Winning Chance (%)": 34.94
+                "Winning Chance (%)": 33.78
             },
             {
                 "Team": "Parma",
@@ -331,7 +331,7 @@
             },
             {
                 "Team": "PSG",
-                "Winning Chance (%)": 73.6
+                "Winning Chance (%)": 72.29
             },
             {
                 "Team": "Marseille",
@@ -378,11 +378,11 @@
                 "Winning Chance (%)": 28.72
             },
             {
-                "Team": "Le Havre",
-                "Winning Chance (%)": 27.69
+                "Team": "Nice",
+                "Winning Chance (%)": 27.65
             },
             {
-                "Team": "Nice",
+                "Team": "Le Havre",
                 "Winning Chance (%)": 27.69
             },
             {
@@ -859,7 +859,7 @@
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 47.27
+                "Winning Chance (%)": 45.88
             },
             {
                 "Team": "Estoril",
@@ -886,12 +886,12 @@
                 "Winning Chance (%)": 27.65
             },
             {
-                "Team": "Rio Ave",
-                "Winning Chance (%)": 27.69
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 27.65
             },
             {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 25.68
+                "Team": "Rio Ave",
+                "Winning Chance (%)": 27.69
             },
             {
                 "Team": "Casa Pia",
