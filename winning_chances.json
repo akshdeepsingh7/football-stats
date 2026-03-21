@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 08:20 PM UTC",
-        "IST": "Sunday, 22 March 2026, 01:50 AM IST"
+        "UTC": "Saturday, 21 March 2026, 08:49 PM UTC",
+        "IST": "Sunday, 22 March 2026, 02:19 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -132,20 +132,20 @@
                 "Winning Chance (%)": 33.33
             },
             {
+                "Team": "Valencia",
+                "Winning Chance (%)": 32.18
+            },
+            {
                 "Team": "Girona",
                 "Winning Chance (%)": 31.26
             },
             {
-                "Team": "Valencia",
-                "Winning Chance (%)": 30.34
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Sevilla",
-                "Winning Chance (%)": 29.43
-            },
-            {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 28.51
             },
             {
                 "Team": "Elche",
@@ -326,12 +326,12 @@
         ],
         "Ligue 1": [
             {
-                "Team": "Lens",
-                "Winning Chance (%)": 70.27
+                "Team": "PSG",
+                "Winning Chance (%)": 74.74
             },
             {
-                "Team": "PSG",
-                "Winning Chance (%)": 72.29
+                "Team": "Lens",
+                "Winning Chance (%)": 70.27
             },
             {
                 "Team": "Marseille",
@@ -378,12 +378,12 @@
                 "Winning Chance (%)": 28.72
             },
             {
-                "Team": "Nice",
-                "Winning Chance (%)": 27.65
-            },
-            {
                 "Team": "Le Havre",
                 "Winning Chance (%)": 27.69
+            },
+            {
+                "Team": "Nice",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Auxerre",
@@ -903,11 +903,11 @@
             },
             {
                 "Team": "Tondela",
-                "Winning Chance (%)": 20.27
+                "Winning Chance (%)": 20.51
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 10.26
+                "Winning Chance (%)": 10.86
             }
         ],
         "EFL Championship": [
@@ -1104,10 +1104,6 @@
                 "Winning Chance (%)": 34.29
             },
             {
-                "Team": "RB Bragantino",
-                "Winning Chance (%)": 30.0
-            },
-            {
                 "Team": "Vasco da Gama",
                 "Winning Chance (%)": 30.48
             },
@@ -1116,12 +1112,20 @@
                 "Winning Chance (%)": 30.48
             },
             {
+                "Team": "RB Bragantino",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "Vit\u00f3ria",
                 "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Chapecoense",
                 "Winning Chance (%)": 31.11
+            },
+            {
+                "Team": "Botafogo",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Mirassol",
@@ -1134,10 +1138,6 @@
             {
                 "Team": "Internacional",
                 "Winning Chance (%)": 19.05
-            },
-            {
-                "Team": "Botafogo",
-                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Cruzeiro",
