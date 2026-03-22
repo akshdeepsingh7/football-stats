@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 11:44 AM UTC",
-        "IST": "Sunday, 22 March 2026, 05:14 PM IST"
+        "UTC": "Sunday, 22 March 2026, 12:39 PM UTC",
+        "IST": "Sunday, 22 March 2026, 06:09 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -38,6 +38,10 @@
                 "Winning Chance (%)": 40.37
             },
             {
+                "Team": "Newcastle United",
+                "Winning Chance (%)": 39.11
+            },
+            {
                 "Team": "Fulham",
                 "Winning Chance (%)": 37.85
             },
@@ -46,16 +50,12 @@
                 "Winning Chance (%)": 38.59
             },
             {
-                "Team": "Newcastle United",
-                "Winning Chance (%)": 37.33
-            },
-            {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 36.13
             },
             {
                 "Team": "Sunderland",
-                "Winning Chance (%)": 35.56
+                "Winning Chance (%)": 34.41
             },
             {
                 "Team": "Crystal Palace",
@@ -257,7 +257,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 61.47
+                "Winning Chance (%)": 62.27
             },
             {
                 "Team": "Juventus",
@@ -1023,7 +1023,7 @@
             },
             {
                 "Team": "FC Goa",
-                "Winning Chance (%)": 45.64
+                "Winning Chance (%)": 40.8
             },
             {
                 "Team": "East Bengal",
@@ -1038,6 +1038,10 @@
                 "Winning Chance (%)": 43.07
             },
             {
+                "Team": "Chennaiyin",
+                "Winning Chance (%)": 37.33
+            },
+            {
                 "Team": "NorthEast Utd",
                 "Winning Chance (%)": 26.67
             },
@@ -1047,10 +1051,6 @@
             },
             {
                 "Team": "Inter Kashi",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Chennaiyin",
                 "Winning Chance (%)": 26.67
             },
             {
