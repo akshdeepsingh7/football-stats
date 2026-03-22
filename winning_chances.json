@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 02:51 PM UTC",
-        "IST": "Sunday, 22 March 2026, 08:21 PM IST"
+        "UTC": "Sunday, 22 March 2026, 03:21 PM UTC",
+        "IST": "Sunday, 22 March 2026, 08:51 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -66,11 +66,11 @@
                 "Winning Chance (%)": 28.39
             },
             {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 26.67
+                "Team": "Nottingham Forest",
+                "Winning Chance (%)": 27.53
             },
             {
-                "Team": "Nottingham Forest",
+                "Team": "Tottenham Hotspur",
                 "Winning Chance (%)": 25.81
             },
             {
@@ -109,7 +109,7 @@
             },
             {
                 "Team": "Celta de Vigo",
-                "Winning Chance (%)": 41.85
+                "Winning Chance (%)": 41.42
             },
             {
                 "Team": "Real Sociedad",
