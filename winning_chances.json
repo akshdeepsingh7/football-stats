@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 08:50 PM UTC",
-        "IST": "Monday, 23 March 2026, 02:20 AM IST"
+        "UTC": "Sunday, 22 March 2026, 09:21 PM UTC",
+        "IST": "Monday, 23 March 2026, 02:51 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -93,15 +93,15 @@
             },
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 74.69
-            },
-            {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 64.37
+                "Winning Chance (%)": 78.25
             },
             {
                 "Team": "Villarreal",
                 "Winning Chance (%)": 61.33
+            },
+            {
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 60.81
             },
             {
                 "Team": "Real Betis",
@@ -355,7 +355,7 @@
             },
             {
                 "Team": "Strasbourg",
-                "Winning Chance (%)": 41.13
+                "Winning Chance (%)": 39.74
             },
             {
                 "Team": "Toulouse",
@@ -391,7 +391,7 @@
             },
             {
                 "Team": "Nantes",
-                "Winning Chance (%)": 18.46
+                "Winning Chance (%)": 20.51
             },
             {
                 "Team": "Metz",
@@ -1081,7 +1081,7 @@
             },
             {
                 "Team": "Bahia",
-                "Winning Chance (%)": 54.53
+                "Winning Chance (%)": 54.13
             },
             {
                 "Team": "Flamengo",
