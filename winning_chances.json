@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 06:30 PM UTC",
-        "IST": "Monday, 23 March 2026, 12:00 AM IST"
+        "UTC": "Sunday, 22 March 2026, 07:02 PM UTC",
+        "IST": "Monday, 23 March 2026, 12:32 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -178,12 +178,12 @@
                 "Winning Chance (%)": 72.25
             },
             {
-                "Team": "RB Leipzig",
-                "Winning Chance (%)": 56.58
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 60.35
             },
             {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 58.08
+                "Team": "RB Leipzig",
+                "Winning Chance (%)": 56.58
             },
             {
                 "Team": "Hoffenheim",
@@ -202,11 +202,11 @@
                 "Winning Chance (%)": 36.54
             },
             {
-                "Team": "Augsburg",
-                "Winning Chance (%)": 31.79
+                "Team": "Union Berlin",
+                "Winning Chance (%)": 30.62
             },
             {
-                "Team": "Union Berlin",
+                "Team": "Augsburg",
                 "Winning Chance (%)": 30.62
             },
             {
@@ -842,12 +842,12 @@
                 "Winning Chance (%)": 87.57
             },
             {
-                "Team": "Benfica",
-                "Winning Chance (%)": 80.6
+                "Team": "Sporting CP",
+                "Winning Chance (%)": 86.67
             },
             {
-                "Team": "Sporting CP",
-                "Winning Chance (%)": 84.62
+                "Team": "Benfica",
+                "Winning Chance (%)": 80.6
             },
             {
                 "Team": "Braga",
@@ -874,15 +874,15 @@
                 "Winning Chance (%)": 31.6
             },
             {
-                "Team": "Alverca",
-                "Winning Chance (%)": 29.63
-            },
-            {
                 "Team": "Rio Ave",
                 "Winning Chance (%)": 29.63
             },
             {
                 "Team": "Arouca",
+                "Winning Chance (%)": 28.64
+            },
+            {
+                "Team": "Alverca",
                 "Winning Chance (%)": 28.64
             },
             {
@@ -1084,20 +1084,20 @@
                 "Winning Chance (%)": 64.22
             },
             {
+                "Team": "Coritiba",
+                "Winning Chance (%)": 47.87
+            },
+            {
                 "Team": "Flamengo",
                 "Winning Chance (%)": 60.98
             },
             {
-                "Team": "Coritiba",
-                "Winning Chance (%)": 50.72
-            },
-            {
                 "Team": "Gr\u00eamio",
-                "Winning Chance (%)": 42.7
+                "Winning Chance (%)": 40.8
             },
             {
                 "Team": "Athletico Paranaense",
-                "Winning Chance (%)": 44.84
+                "Winning Chance (%)": 42.3
             },
             {
                 "Team": "Corinthians",
@@ -1105,7 +1105,7 @@
             },
             {
                 "Team": "Vasco da Gama",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
