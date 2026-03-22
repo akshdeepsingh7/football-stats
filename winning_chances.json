@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 03:47 PM UTC",
-        "IST": "Sunday, 22 March 2026, 09:17 PM IST"
+        "UTC": "Sunday, 22 March 2026, 04:24 PM UTC",
+        "IST": "Sunday, 22 March 2026, 09:54 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -195,7 +195,7 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 38.52
+                "Winning Chance (%)": 37.53
             },
             {
                 "Team": "SC Freiburg",
@@ -210,16 +210,16 @@
                 "Winning Chance (%)": 30.62
             },
             {
+                "Team": "Mainz 05",
+                "Winning Chance (%)": 29.63
+            },
+            {
                 "Team": "Hamburg",
                 "Winning Chance (%)": 29.63
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Winning Chance (%)": 28.64
-            },
-            {
-                "Team": "Mainz 05",
-                "Winning Chance (%)": 27.65
             },
             {
                 "Team": "Werder Bremen",
@@ -335,7 +335,7 @@
             },
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 58.26
+                "Winning Chance (%)": 57.38
             },
             {
                 "Team": "Lyon",
@@ -347,11 +347,11 @@
             },
             {
                 "Team": "Lille",
-                "Winning Chance (%)": 47.93
+                "Winning Chance (%)": 47.24
             },
             {
                 "Team": "Rennes",
-                "Winning Chance (%)": 46.5
+                "Winning Chance (%)": 45.86
             },
             {
                 "Team": "Strasbourg",
@@ -375,11 +375,11 @@
             },
             {
                 "Team": "Paris FC",
-                "Winning Chance (%)": 28.72
+                "Winning Chance (%)": 28.64
             },
             {
                 "Team": "Le Havre",
-                "Winning Chance (%)": 27.69
+                "Winning Chance (%)": 27.65
             },
             {
                 "Team": "Nice",
@@ -395,7 +395,7 @@
             },
             {
                 "Team": "Metz",
-                "Winning Chance (%)": 13.33
+                "Winning Chance (%)": 13.83
             }
         ],
         "Champions League": [
@@ -863,7 +863,7 @@
             },
             {
                 "Team": "Estoril",
-                "Winning Chance (%)": 39.53
+                "Winning Chance (%)": 41.91
             },
             {
                 "Team": "Moreirense",
@@ -882,16 +882,16 @@
                 "Winning Chance (%)": 29.74
             },
             {
-                "Team": "Rio Ave",
-                "Winning Chance (%)": 27.65
-            },
-            {
                 "Team": "Estrela Amadora",
                 "Winning Chance (%)": 27.65
             },
             {
                 "Team": "Santa Clara",
                 "Winning Chance (%)": 27.65
+            },
+            {
+                "Team": "Rio Ave",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Casa Pia",
@@ -1023,7 +1023,7 @@
             },
             {
                 "Team": "Bengaluru",
-                "Winning Chance (%)": 49.69
+                "Winning Chance (%)": 50.09
             },
             {
                 "Team": "FC Goa",
@@ -1046,12 +1046,12 @@
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "Inter Kashi",
-                "Winning Chance (%)": 22.22
-            },
-            {
                 "Team": "Chennaiyin",
                 "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Inter Kashi",
+                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "SC Delhi",
