@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 05:49 PM UTC",
-        "IST": "Sunday, 22 March 2026, 11:19 PM IST"
+        "UTC": "Sunday, 22 March 2026, 06:30 PM UTC",
+        "IST": "Monday, 23 March 2026, 12:00 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 44.58
+                "Winning Chance (%)": 42.86
             },
             {
                 "Team": "Celta de Vigo",
@@ -120,16 +120,16 @@
                 "Winning Chance (%)": 34.94
             },
             {
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 34.94
+            },
+            {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 34.02
             },
             {
                 "Team": "Espanyol",
                 "Winning Chance (%)": 34.02
-            },
-            {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 33.1
             },
             {
                 "Team": "Valencia",
@@ -199,7 +199,7 @@
             },
             {
                 "Team": "SC Freiburg",
-                "Winning Chance (%)": 33.58
+                "Winning Chance (%)": 36.54
             },
             {
                 "Team": "Augsburg",
@@ -226,12 +226,12 @@
                 "Winning Chance (%)": 27.65
             },
             {
-                "Team": "St. Pauli",
-                "Winning Chance (%)": 26.67
-            },
-            {
                 "Team": "K\u00f6ln",
                 "Winning Chance (%)": 25.68
+            },
+            {
+                "Team": "St. Pauli",
+                "Winning Chance (%)": 23.7
             },
             {
                 "Team": "VfL Wolfsburg",
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 52.62
+                "Winning Chance (%)": 54.8
             },
             {
                 "Team": "Atalanta",
@@ -308,11 +308,11 @@
                 "Winning Chance (%)": 25.75
             },
             {
-                "Team": "Lecce",
-                "Winning Chance (%)": 24.89
+                "Team": "Cremonese",
+                "Winning Chance (%)": 24.0
             },
             {
-                "Team": "Cremonese",
+                "Team": "Lecce",
                 "Winning Chance (%)": 24.0
             },
             {
@@ -335,19 +335,19 @@
             },
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 57.38
+                "Winning Chance (%)": 56.0
             },
             {
                 "Team": "Lyon",
                 "Winning Chance (%)": 51.22
             },
             {
-                "Team": "Monaco",
-                "Winning Chance (%)": 49.03
+                "Team": "Lille",
+                "Winning Chance (%)": 49.62
             },
             {
-                "Team": "Lille",
-                "Winning Chance (%)": 47.24
+                "Team": "Monaco",
+                "Winning Chance (%)": 49.03
             },
             {
                 "Team": "Rennes",
@@ -847,7 +847,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 86.13
+                "Winning Chance (%)": 84.62
             },
             {
                 "Team": "Braga",
@@ -874,16 +874,16 @@
                 "Winning Chance (%)": 31.6
             },
             {
+                "Team": "Alverca",
+                "Winning Chance (%)": 29.63
+            },
+            {
                 "Team": "Rio Ave",
                 "Winning Chance (%)": 29.63
             },
             {
                 "Team": "Arouca",
                 "Winning Chance (%)": 28.64
-            },
-            {
-                "Team": "Alverca",
-                "Winning Chance (%)": 29.74
             },
             {
                 "Team": "Estrela Amadora",
