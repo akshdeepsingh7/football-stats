@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 11:19 AM UTC",
-        "IST": "Sunday, 22 March 2026, 04:49 PM IST"
+        "UTC": "Sunday, 22 March 2026, 11:44 AM UTC",
+        "IST": "Sunday, 22 March 2026, 05:14 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -257,7 +257,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 60.06
+                "Winning Chance (%)": 61.47
             },
             {
                 "Team": "Juventus",
@@ -316,12 +316,12 @@
                 "Winning Chance (%)": 24.0
             },
             {
-                "Team": "Pisa",
+                "Team": "Hellas Verona",
                 "Winning Chance (%)": 16.55
             },
             {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 16.55
+                "Team": "Pisa",
+                "Winning Chance (%)": 16.0
             }
         ],
         "Ligue 1": [
@@ -1023,7 +1023,7 @@
             },
             {
                 "Team": "FC Goa",
-                "Winning Chance (%)": 49.2
+                "Winning Chance (%)": 45.64
             },
             {
                 "Team": "East Bengal",
