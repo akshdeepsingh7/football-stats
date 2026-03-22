@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 07:45 PM UTC",
-        "IST": "Monday, 23 March 2026, 01:15 AM IST"
+        "UTC": "Sunday, 22 March 2026, 08:21 PM UTC",
+        "IST": "Monday, 23 March 2026, 01:51 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -93,15 +93,15 @@
             },
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 77.26
+                "Winning Chance (%)": 76.01
+            },
+            {
+                "Team": "Atl\u00e9tico de Madrid",
+                "Winning Chance (%)": 62.13
             },
             {
                 "Team": "Villarreal",
                 "Winning Chance (%)": 61.33
-            },
-            {
-                "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 63.09
             },
             {
                 "Team": "Real Betis",
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 79.33
+                "Winning Chance (%)": 80.31
             },
             {
                 "Team": "Milan",
@@ -305,7 +305,7 @@
             },
             {
                 "Team": "Fiorentina",
-                "Winning Chance (%)": 25.75
+                "Winning Chance (%)": 24.89
             },
             {
                 "Team": "Cremonese",
@@ -355,7 +355,7 @@
             },
             {
                 "Team": "Strasbourg",
-                "Winning Chance (%)": 41.55
+                "Winning Chance (%)": 39.74
             },
             {
                 "Team": "Toulouse",
@@ -391,7 +391,7 @@
             },
             {
                 "Team": "Nantes",
-                "Winning Chance (%)": 18.13
+                "Winning Chance (%)": 20.51
             },
             {
                 "Team": "Metz",
@@ -1072,10 +1072,6 @@
                 "Winning Chance (%)": 66.93
             },
             {
-                "Team": "Bahia",
-                "Winning Chance (%)": 67.16
-            },
-            {
                 "Team": "S\u00e3o Paulo",
                 "Winning Chance (%)": 55.33
             },
@@ -1084,16 +1080,20 @@
                 "Winning Chance (%)": 54.93
             },
             {
+                "Team": "Bahia",
+                "Winning Chance (%)": 59.14
+            },
+            {
                 "Team": "Flamengo",
                 "Winning Chance (%)": 60.98
             },
             {
                 "Team": "Athletico Paranaense",
-                "Winning Chance (%)": 50.32
+                "Winning Chance (%)": 50.72
             },
             {
                 "Team": "Coritiba",
-                "Winning Chance (%)": 44.13
+                "Winning Chance (%)": 43.73
             },
             {
                 "Team": "Gr\u00eamio",
@@ -1145,7 +1145,7 @@
             },
             {
                 "Team": "Remo",
-                "Winning Chance (%)": 10.0
+                "Winning Chance (%)": 13.33
             }
         ]
     }
