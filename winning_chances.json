@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 04:24 PM UTC",
-        "IST": "Sunday, 22 March 2026, 09:54 PM IST"
+        "UTC": "Sunday, 22 March 2026, 04:53 PM UTC",
+        "IST": "Sunday, 22 March 2026, 10:23 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -104,12 +104,12 @@
                 "Winning Chance (%)": 63.09
             },
             {
-                "Team": "Celta de Vigo",
-                "Winning Chance (%)": 44.06
-            },
-            {
                 "Team": "Real Betis",
                 "Winning Chance (%)": 45.1
+            },
+            {
+                "Team": "Celta de Vigo",
+                "Winning Chance (%)": 41.42
             },
             {
                 "Team": "Real Sociedad",
@@ -152,11 +152,11 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Mallorca",
-                "Winning Chance (%)": 25.75
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Alav\u00e9s",
+                "Team": "Mallorca",
                 "Winning Chance (%)": 25.75
             },
             {
@@ -199,7 +199,7 @@
             },
             {
                 "Team": "SC Freiburg",
-                "Winning Chance (%)": 34.87
+                "Winning Chance (%)": 34.57
             },
             {
                 "Team": "Augsburg",
@@ -231,7 +231,7 @@
             },
             {
                 "Team": "St. Pauli",
-                "Winning Chance (%)": 24.62
+                "Winning Chance (%)": 24.69
             },
             {
                 "Team": "VfL Wolfsburg",
@@ -375,11 +375,11 @@
             },
             {
                 "Team": "Paris FC",
-                "Winning Chance (%)": 28.64
+                "Winning Chance (%)": 30.62
             },
             {
                 "Team": "Le Havre",
-                "Winning Chance (%)": 27.65
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Nice",
@@ -863,7 +863,7 @@
             },
             {
                 "Team": "Estoril",
-                "Winning Chance (%)": 41.91
+                "Winning Chance (%)": 39.53
             },
             {
                 "Team": "Moreirense",
@@ -882,16 +882,16 @@
                 "Winning Chance (%)": 29.74
             },
             {
+                "Team": "Rio Ave",
+                "Winning Chance (%)": 27.65
+            },
+            {
                 "Team": "Estrela Amadora",
                 "Winning Chance (%)": 27.65
             },
             {
                 "Team": "Santa Clara",
                 "Winning Chance (%)": 27.65
-            },
-            {
-                "Team": "Rio Ave",
-                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Casa Pia",
