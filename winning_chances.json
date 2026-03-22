@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 02:22 PM UTC",
-        "IST": "Sunday, 22 March 2026, 07:52 PM IST"
+        "UTC": "Sunday, 22 March 2026, 02:51 PM UTC",
+        "IST": "Sunday, 22 March 2026, 08:21 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -19,7 +19,7 @@
             },
             {
                 "Team": "Aston Villa",
-                "Winning Chance (%)": 45.93
+                "Winning Chance (%)": 48.05
             },
             {
                 "Team": "Liverpool FC",
@@ -75,7 +75,7 @@
             },
             {
                 "Team": "West Ham United",
-                "Winning Chance (%)": 25.81
+                "Winning Chance (%)": 24.95
             },
             {
                 "Team": "Burnley",
@@ -195,7 +195,7 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 38.97
+                "Winning Chance (%)": 38.52
             },
             {
                 "Team": "SC Freiburg",
@@ -218,12 +218,12 @@
                 "Winning Chance (%)": 28.64
             },
             {
-                "Team": "Werder Bremen",
+                "Team": "Mainz 05",
                 "Winning Chance (%)": 27.65
             },
             {
-                "Team": "Mainz 05",
-                "Winning Chance (%)": 27.69
+                "Team": "Werder Bremen",
+                "Winning Chance (%)": 27.65
             },
             {
                 "Team": "K\u00f6ln",
@@ -269,7 +269,7 @@
             },
             {
                 "Team": "Atalanta",
-                "Winning Chance (%)": 47.87
+                "Winning Chance (%)": 50.04
             },
             {
                 "Team": "Bologna",
@@ -317,7 +317,7 @@
             },
             {
                 "Team": "Hellas Verona",
-                "Winning Chance (%)": 16.89
+                "Winning Chance (%)": 16.0
             },
             {
                 "Team": "Pisa",
@@ -334,20 +334,20 @@
                 "Winning Chance (%)": 70.27
             },
             {
+                "Team": "Lyon",
+                "Winning Chance (%)": 54.98
+            },
+            {
                 "Team": "Marseille",
                 "Winning Chance (%)": 58.26
             },
             {
-                "Team": "Lyon",
-                "Winning Chance (%)": 52.61
+                "Team": "Lille",
+                "Winning Chance (%)": 47.93
             },
             {
                 "Team": "Monaco",
-                "Winning Chance (%)": 46.66
-            },
-            {
-                "Team": "Lille",
-                "Winning Chance (%)": 47.93
+                "Winning Chance (%)": 45.27
             },
             {
                 "Team": "Rennes",
@@ -1022,12 +1022,12 @@
                 "Winning Chance (%)": 58.98
             },
             {
-                "Team": "Bengaluru",
-                "Winning Chance (%)": 49.69
-            },
-            {
                 "Team": "FC Goa",
                 "Winning Chance (%)": 45.64
+            },
+            {
+                "Team": "Bengaluru",
+                "Winning Chance (%)": 40.4
             },
             {
                 "Team": "East Bengal",
@@ -1038,16 +1038,16 @@
                 "Winning Chance (%)": 43.87
             },
             {
+                "Team": "Inter Kashi",
+                "Winning Chance (%)": 26.67
+            },
+            {
                 "Team": "NorthEast Utd",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Odisha",
                 "Winning Chance (%)": 33.33
-            },
-            {
-                "Team": "Inter Kashi",
-                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Chennaiyin",
