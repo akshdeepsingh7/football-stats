@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 01 April 2026, 11:32 PM UTC",
-        "IST": "Thursday, 02 April 2026, 05:02 AM IST"
+        "UTC": "Thursday, 02 April 2026, 01:53 AM UTC",
+        "IST": "Thursday, 02 April 2026, 07:23 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1072,20 +1072,20 @@
                 "Winning Chance (%)": 66.93
             },
             {
-                "Team": "Bahia",
-                "Winning Chance (%)": 57.87
-            },
-            {
-                "Team": "Athletico Paranaense",
-                "Winning Chance (%)": 49.41
-            },
-            {
                 "Team": "Fluminense",
-                "Winning Chance (%)": 54.93
+                "Winning Chance (%)": 58.7
+            },
+            {
+                "Team": "Bahia",
+                "Winning Chance (%)": 58.67
             },
             {
                 "Team": "S\u00e3o Paulo",
-                "Winning Chance (%)": 49.01
+                "Winning Chance (%)": 52.37
+            },
+            {
+                "Team": "Athletico Paranaense",
+                "Winning Chance (%)": 48.61
             },
             {
                 "Team": "Flamengo",
@@ -1093,31 +1093,31 @@
             },
             {
                 "Team": "Coritiba",
-                "Winning Chance (%)": 43.73
+                "Winning Chance (%)": 41.88
+            },
+            {
+                "Team": "Vasco da Gama",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Gr\u00eamio",
                 "Winning Chance (%)": 37.07
             },
             {
-                "Team": "Vasco da Gama",
-                "Winning Chance (%)": 36.67
-            },
-            {
-                "Team": "Internacional",
-                "Winning Chance (%)": 32.59
-            },
-            {
                 "Team": "Vit\u00f3ria",
-                "Winning Chance (%)": 36.67
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Corinthians",
-                "Winning Chance (%)": 33.33
+                "Winning Chance (%)": 29.63
             },
             {
                 "Team": "Botafogo",
                 "Winning Chance (%)": 30.0
+            },
+            {
+                "Team": "Internacional",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
@@ -1136,16 +1136,16 @@
                 "Winning Chance (%)": 23.33
             },
             {
+                "Team": "Cruzeiro",
+                "Winning Chance (%)": 20.74
+            },
+            {
                 "Team": "Mirassol",
                 "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Remo",
                 "Winning Chance (%)": 20.0
-            },
-            {
-                "Team": "Cruzeiro",
-                "Winning Chance (%)": 14.81
             }
         ]
     }
