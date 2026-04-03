@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 03 April 2026, 07:57 PM UTC",
-        "IST": "Saturday, 04 April 2026, 01:27 AM IST"
+        "UTC": "Friday, 03 April 2026, 08:38 PM UTC",
+        "IST": "Saturday, 04 April 2026, 02:08 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -132,16 +132,16 @@
                 "Winning Chance (%)": 34.02
             },
             {
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 31.11
+            },
+            {
                 "Team": "Valencia",
                 "Winning Chance (%)": 32.18
             },
             {
                 "Team": "Girona",
                 "Winning Chance (%)": 31.26
-            },
-            {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Sevilla",
@@ -153,7 +153,7 @@
             },
             {
                 "Team": "Elche",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 25.78
             },
             {
                 "Team": "Mallorca",
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "PSG",
-                "Winning Chance (%)": 77.02
+                "Winning Chance (%)": 77.42
             },
             {
                 "Team": "Lens",
@@ -359,7 +359,7 @@
             },
             {
                 "Team": "Toulouse",
-                "Winning Chance (%)": 37.24
+                "Winning Chance (%)": 36.84
             },
             {
                 "Team": "Lorient",
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 85.19
+                "Winning Chance (%)": 87.16
             },
             {
                 "Team": "Benfica",
@@ -878,10 +878,6 @@
                 "Winning Chance (%)": 29.63
             },
             {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 27.62
-            },
-            {
                 "Team": "Arouca",
                 "Winning Chance (%)": 28.64
             },
@@ -892,6 +888,10 @@
             {
                 "Team": "Estrela Amadora",
                 "Winning Chance (%)": 27.65
+            },
+            {
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Casa Pia",
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 70.4
+                "Winning Chance (%)": 72.13
             },
             {
                 "Team": "Millwall",
@@ -941,7 +941,7 @@
             },
             {
                 "Team": "Derby County",
-                "Winning Chance (%)": 43.87
+                "Winning Chance (%)": 42.8
             },
             {
                 "Team": "Watford",
