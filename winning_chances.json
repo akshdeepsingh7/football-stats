@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 03 April 2026, 07:10 PM UTC",
-        "IST": "Saturday, 04 April 2026, 12:40 AM IST"
+        "UTC": "Friday, 03 April 2026, 07:57 PM UTC",
+        "IST": "Saturday, 04 April 2026, 01:27 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 86.67
+                "Winning Chance (%)": 85.19
             },
             {
                 "Team": "Benfica",
@@ -878,6 +878,10 @@
                 "Winning Chance (%)": 29.63
             },
             {
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 27.62
+            },
+            {
                 "Team": "Arouca",
                 "Winning Chance (%)": 28.64
             },
@@ -887,10 +891,6 @@
             },
             {
                 "Team": "Estrela Amadora",
-                "Winning Chance (%)": 27.65
-            },
-            {
-                "Team": "Santa Clara",
                 "Winning Chance (%)": 27.65
             },
             {
