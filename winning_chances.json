@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 April 2026, 05:54 PM UTC",
-        "IST": "Saturday, 04 April 2026, 11:24 PM IST"
+        "UTC": "Saturday, 04 April 2026, 06:35 PM UTC",
+        "IST": "Sunday, 05 April 2026, 12:05 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -175,15 +175,15 @@
             },
             {
                 "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 71.05
-            },
-            {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 59.43
+                "Winning Chance (%)": 73.75
             },
             {
                 "Team": "RB Leipzig",
                 "Winning Chance (%)": 58.08
+            },
+            {
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 57.68
             },
             {
                 "Team": "Hoffenheim",
@@ -346,12 +346,12 @@
                 "Winning Chance (%)": 49.62
             },
             {
-                "Team": "Rennes",
-                "Winning Chance (%)": 47.56
-            },
-            {
                 "Team": "Monaco",
                 "Winning Chance (%)": 49.03
+            },
+            {
+                "Team": "Rennes",
+                "Winning Chance (%)": 45.26
             },
             {
                 "Team": "Strasbourg",
@@ -367,7 +367,7 @@
             },
             {
                 "Team": "Brest",
-                "Winning Chance (%)": 34.29
+                "Winning Chance (%)": 35.24
             },
             {
                 "Team": "Angers",
