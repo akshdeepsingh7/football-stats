@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 April 2026, 12:43 PM UTC",
-        "IST": "Saturday, 04 April 2026, 06:13 PM IST"
+        "UTC": "Saturday, 04 April 2026, 01:49 PM UTC",
+        "IST": "Saturday, 04 April 2026, 07:19 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -109,7 +109,7 @@
             },
             {
                 "Team": "Real Sociedad",
-                "Winning Chance (%)": 36.44
+                "Winning Chance (%)": 36.84
             },
             {
                 "Team": "Celta de Vigo",
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 89.14
+                "Winning Chance (%)": 87.62
             },
             {
                 "Team": "Borussia Dortmund",
@@ -183,15 +183,15 @@
             },
             {
                 "Team": "RB Leipzig",
-                "Winning Chance (%)": 56.58
+                "Winning Chance (%)": 58.08
             },
             {
                 "Team": "Hoffenheim",
-                "Winning Chance (%)": 55.38
+                "Winning Chance (%)": 53.22
             },
             {
                 "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 51.83
+                "Winning Chance (%)": 49.81
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -199,31 +199,31 @@
             },
             {
                 "Team": "SC Freiburg",
-                "Winning Chance (%)": 36.54
+                "Winning Chance (%)": 36.19
+            },
+            {
+                "Team": "Mainz 05",
+                "Winning Chance (%)": 31.43
+            },
+            {
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "Augsburg",
+                "Winning Chance (%)": 30.48
+            },
+            {
+                "Team": "Hamburg",
+                "Winning Chance (%)": 29.52
             },
             {
                 "Team": "Union Berlin",
                 "Winning Chance (%)": 30.62
             },
             {
-                "Team": "Augsburg",
-                "Winning Chance (%)": 30.62
-            },
-            {
-                "Team": "Mainz 05",
-                "Winning Chance (%)": 29.63
-            },
-            {
-                "Team": "Hamburg",
-                "Winning Chance (%)": 29.63
-            },
-            {
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 28.64
-            },
-            {
                 "Team": "Werder Bremen",
-                "Winning Chance (%)": 27.65
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "K\u00f6ln",
@@ -235,11 +235,11 @@
             },
             {
                 "Team": "VfL Wolfsburg",
-                "Winning Chance (%)": 20.74
+                "Winning Chance (%)": 22.86
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 14.81
+                "Winning Chance (%)": 14.29
             }
         ],
         "Serie A": [
@@ -280,12 +280,12 @@
                 "Winning Chance (%)": 38.13
             },
             {
-                "Team": "Sassuolo",
+                "Team": "Udinese",
                 "Winning Chance (%)": 34.67
             },
             {
-                "Team": "Udinese",
-                "Winning Chance (%)": 34.67
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 33.55
             },
             {
                 "Team": "Parma",
@@ -301,7 +301,7 @@
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 28.39
             },
             {
                 "Team": "Fiorentina",
@@ -1011,7 +1011,7 @@
         "Indian Super League": [
             {
                 "Team": "Mohun Bagan SG",
-                "Winning Chance (%)": 65.75
+                "Winning Chance (%)": 57.73
             },
             {
                 "Team": "Mumbai City",
@@ -1019,7 +1019,7 @@
             },
             {
                 "Team": "Jamshedpur",
-                "Winning Chance (%)": 50.32
+                "Winning Chance (%)": 54.53
             },
             {
                 "Team": "East Bengal",
