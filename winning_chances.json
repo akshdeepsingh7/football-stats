@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 April 2026, 04:29 PM UTC",
-        "IST": "Saturday, 04 April 2026, 09:59 PM IST"
+        "UTC": "Saturday, 04 April 2026, 05:02 PM UTC",
+        "IST": "Saturday, 04 April 2026, 10:32 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 43.26
+                "Winning Chance (%)": 42.8
             },
             {
                 "Team": "Real Sociedad",
@@ -120,15 +120,15 @@
                 "Winning Chance (%)": 34.94
             },
             {
+                "Team": "Espanyol",
+                "Winning Chance (%)": 33.78
+            },
+            {
                 "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 34.94
             },
             {
                 "Team": "Osasuna",
-                "Winning Chance (%)": 34.02
-            },
-            {
-                "Team": "Espanyol",
                 "Winning Chance (%)": 34.02
             },
             {
@@ -175,11 +175,11 @@
             },
             {
                 "Team": "Borussia Dortmund",
-                "Winning Chance (%)": 72.25
+                "Winning Chance (%)": 71.05
             },
             {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 60.35
+                "Winning Chance (%)": 59.43
             },
             {
                 "Team": "RB Leipzig",
@@ -351,11 +351,11 @@
             },
             {
                 "Team": "Rennes",
-                "Winning Chance (%)": 45.86
+                "Winning Chance (%)": 45.26
             },
             {
                 "Team": "Strasbourg",
-                "Winning Chance (%)": 46.15
+                "Winning Chance (%)": 45.75
             },
             {
                 "Team": "Toulouse",
@@ -367,7 +367,7 @@
             },
             {
                 "Team": "Brest",
-                "Winning Chance (%)": 35.56
+                "Winning Chance (%)": 35.24
             },
             {
                 "Team": "Angers",
@@ -851,7 +851,7 @@
             },
             {
                 "Team": "Braga",
-                "Winning Chance (%)": 57.58
+                "Winning Chance (%)": 56.82
             },
             {
                 "Team": "Gil Vicente",
@@ -867,7 +867,7 @@
             },
             {
                 "Team": "Moreirense",
-                "Winning Chance (%)": 34.57
+                "Winning Chance (%)": 34.29
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
@@ -875,14 +875,14 @@
             },
             {
                 "Team": "Rio Ave",
-                "Winning Chance (%)": 29.63
-            },
-            {
-                "Team": "Arouca",
-                "Winning Chance (%)": 28.64
+                "Winning Chance (%)": 29.52
             },
             {
                 "Team": "Alverca",
+                "Winning Chance (%)": 28.57
+            },
+            {
+                "Team": "Arouca",
                 "Winning Chance (%)": 28.64
             },
             {
