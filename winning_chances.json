@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 April 2026, 11:36 AM UTC",
-        "IST": "Saturday, 04 April 2026, 05:06 PM IST"
+        "UTC": "Saturday, 04 April 2026, 12:43 PM UTC",
+        "IST": "Saturday, 04 April 2026, 06:13 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -108,12 +108,12 @@
                 "Winning Chance (%)": 43.26
             },
             {
-                "Team": "Celta de Vigo",
-                "Winning Chance (%)": 40.1
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 36.44
             },
             {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 34.94
+                "Team": "Celta de Vigo",
+                "Winning Chance (%)": 40.1
             },
             {
                 "Team": "Getafe",
@@ -161,7 +161,7 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 23.91
+                "Winning Chance (%)": 23.11
             },
             {
                 "Team": "Real Oviedo",
@@ -1011,7 +1011,7 @@
         "Indian Super League": [
             {
                 "Team": "Mohun Bagan SG",
-                "Winning Chance (%)": 57.73
+                "Winning Chance (%)": 65.75
             },
             {
                 "Team": "Mumbai City",
@@ -1019,7 +1019,7 @@
             },
             {
                 "Team": "Jamshedpur",
-                "Winning Chance (%)": 54.53
+                "Winning Chance (%)": 50.32
             },
             {
                 "Team": "East Bengal",
