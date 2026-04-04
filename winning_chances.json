@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 April 2026, 03:00 PM UTC",
-        "IST": "Saturday, 04 April 2026, 08:30 PM IST"
+        "UTC": "Saturday, 04 April 2026, 03:53 PM UTC",
+        "IST": "Saturday, 04 April 2026, 09:23 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 86.67
+                "Winning Chance (%)": 89.52
             },
             {
                 "Team": "Borussia Dortmund",
@@ -183,31 +183,31 @@
             },
             {
                 "Team": "RB Leipzig",
-                "Winning Chance (%)": 58.48
+                "Winning Chance (%)": 58.08
             },
             {
                 "Team": "Hoffenheim",
-                "Winning Chance (%)": 54.57
+                "Winning Chance (%)": 53.22
             },
             {
                 "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 51.16
-            },
-            {
-                "Team": "SC Freiburg",
-                "Winning Chance (%)": 38.1
+                "Winning Chance (%)": 54.27
             },
             {
                 "Team": "Eintracht Frankfurt",
                 "Winning Chance (%)": 37.53
             },
             {
-                "Team": "Augsburg",
-                "Winning Chance (%)": 30.48
+                "Team": "SC Freiburg",
+                "Winning Chance (%)": 35.24
             },
             {
                 "Team": "Mainz 05",
-                "Winning Chance (%)": 29.52
+                "Winning Chance (%)": 31.43
+            },
+            {
+                "Team": "Augsburg",
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Hamburg",
@@ -219,7 +219,7 @@
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 27.62
+                "Winning Chance (%)": 28.57
             },
             {
                 "Team": "Werder Bremen",
@@ -235,11 +235,11 @@
             },
             {
                 "Team": "VfL Wolfsburg",
-                "Winning Chance (%)": 20.95
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 17.14
+                "Winning Chance (%)": 15.24
             }
         ],
         "Serie A": [
@@ -355,7 +355,7 @@
             },
             {
                 "Team": "Strasbourg",
-                "Winning Chance (%)": 43.51
+                "Winning Chance (%)": 46.15
             },
             {
                 "Team": "Toulouse",
@@ -383,7 +383,7 @@
             },
             {
                 "Team": "Nice",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 25.71
             },
             {
                 "Team": "Auxerre",
