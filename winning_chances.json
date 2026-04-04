@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 April 2026, 01:49 PM UTC",
-        "IST": "Saturday, 04 April 2026, 07:19 PM IST"
+        "UTC": "Saturday, 04 April 2026, 02:29 PM UTC",
+        "IST": "Saturday, 04 April 2026, 07:59 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -93,7 +93,7 @@
             },
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 78.25
+                "Winning Chance (%)": 77.02
             },
             {
                 "Team": "Villarreal",
@@ -152,12 +152,12 @@
                 "Winning Chance (%)": 28.51
             },
             {
-                "Team": "Elche",
+                "Team": "Mallorca",
                 "Winning Chance (%)": 25.78
             },
             {
-                "Team": "Mallorca",
-                "Winning Chance (%)": 25.75
+                "Team": "Elche",
+                "Winning Chance (%)": 25.78
             },
             {
                 "Team": "Levante",
@@ -187,7 +187,7 @@
             },
             {
                 "Team": "Hoffenheim",
-                "Winning Chance (%)": 53.22
+                "Winning Chance (%)": 54.57
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -202,24 +202,24 @@
                 "Winning Chance (%)": 36.19
             },
             {
-                "Team": "Mainz 05",
-                "Winning Chance (%)": 31.43
-            },
-            {
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 30.48
-            },
-            {
                 "Team": "Augsburg",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 32.38
             },
             {
-                "Team": "Hamburg",
+                "Team": "Mainz 05",
                 "Winning Chance (%)": 29.52
             },
             {
                 "Team": "Union Berlin",
                 "Winning Chance (%)": 30.62
+            },
+            {
+                "Team": "Hamburg",
+                "Winning Chance (%)": 28.57
+            },
+            {
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Winning Chance (%)": 28.57
             },
             {
                 "Team": "Werder Bremen",
@@ -239,7 +239,7 @@
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 14.29
+                "Winning Chance (%)": 15.24
             }
         ],
         "Serie A": [
@@ -280,12 +280,12 @@
                 "Winning Chance (%)": 38.13
             },
             {
-                "Team": "Udinese",
-                "Winning Chance (%)": 34.67
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 34.41
             },
             {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 33.55
+                "Team": "Udinese",
+                "Winning Chance (%)": 34.67
             },
             {
                 "Team": "Parma",
@@ -301,7 +301,7 @@
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 28.39
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Fiorentina",
@@ -1014,6 +1014,10 @@
                 "Winning Chance (%)": 57.73
             },
             {
+                "Team": "Bengaluru",
+                "Winning Chance (%)": 54.93
+            },
+            {
                 "Team": "Mumbai City",
                 "Winning Chance (%)": 63.82
             },
@@ -1030,12 +1034,8 @@
                 "Winning Chance (%)": 50.49
             },
             {
-                "Team": "Bengaluru",
-                "Winning Chance (%)": 50.09
-            },
-            {
                 "Team": "FC Goa",
-                "Winning Chance (%)": 45.64
+                "Winning Chance (%)": 38.9
             },
             {
                 "Team": "NorthEast Utd",
