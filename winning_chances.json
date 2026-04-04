@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 April 2026, 11:00 AM UTC",
-        "IST": "Saturday, 04 April 2026, 04:30 PM IST"
+        "UTC": "Saturday, 04 April 2026, 11:36 AM UTC",
+        "IST": "Saturday, 04 April 2026, 05:06 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1010,16 +1010,16 @@
         ],
         "Indian Super League": [
             {
+                "Team": "Mohun Bagan SG",
+                "Winning Chance (%)": 57.73
+            },
+            {
                 "Team": "Mumbai City",
                 "Winning Chance (%)": 63.82
             },
             {
-                "Team": "Mohun Bagan SG",
-                "Winning Chance (%)": 62.18
-            },
-            {
                 "Team": "Jamshedpur",
-                "Winning Chance (%)": 58.98
+                "Winning Chance (%)": 54.53
             },
             {
                 "Team": "East Bengal",
