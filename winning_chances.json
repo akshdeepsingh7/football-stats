@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 April 2026, 05:25 PM UTC",
-        "IST": "Sunday, 05 April 2026, 10:55 PM IST"
+        "UTC": "Sunday, 05 April 2026, 05:55 PM UTC",
+        "IST": "Sunday, 05 April 2026, 11:25 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -288,12 +288,12 @@
                 "Winning Chance (%)": 34.67
             },
             {
-                "Team": "Parma",
-                "Winning Chance (%)": 30.11
+                "Team": "Torino",
+                "Winning Chance (%)": 30.97
             },
             {
-                "Team": "Torino",
-                "Winning Chance (%)": 29.25
+                "Team": "Parma",
+                "Winning Chance (%)": 30.11
             },
             {
                 "Team": "Genoa",
@@ -316,11 +316,11 @@
                 "Winning Chance (%)": 23.23
             },
             {
-                "Team": "Pisa",
-                "Winning Chance (%)": 16.34
+                "Team": "Hellas Verona",
+                "Winning Chance (%)": 15.48
             },
             {
-                "Team": "Hellas Verona",
+                "Team": "Pisa",
                 "Winning Chance (%)": 15.48
             }
         ],
