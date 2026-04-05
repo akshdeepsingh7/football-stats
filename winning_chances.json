@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 April 2026, 11:51 AM UTC",
-        "IST": "Sunday, 05 April 2026, 05:21 PM IST"
+        "UTC": "Sunday, 05 April 2026, 12:45 PM UTC",
+        "IST": "Sunday, 05 April 2026, 06:15 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -108,16 +108,16 @@
                 "Winning Chance (%)": 42.8
             },
             {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 36.84
-            },
-            {
                 "Team": "Celta de Vigo",
                 "Winning Chance (%)": 40.1
             },
             {
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 36.84
+            },
+            {
                 "Team": "Getafe",
-                "Winning Chance (%)": 34.94
+                "Winning Chance (%)": 36.44
             },
             {
                 "Team": "Espanyol",
@@ -125,7 +125,7 @@
             },
             {
                 "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 34.94
+                "Winning Chance (%)": 33.78
             },
             {
                 "Team": "Osasuna",
@@ -1055,11 +1055,11 @@
             },
             {
                 "Team": "SC Delhi",
-                "Winning Chance (%)": 13.33
+                "Winning Chance (%)": 22.22
             },
             {
                 "Team": "Kerala Blasters",
-                "Winning Chance (%)": 7.62
+                "Winning Chance (%)": 3.81
             },
             {
                 "Team": "Mohammedan",
