@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 April 2026, 12:45 PM UTC",
-        "IST": "Sunday, 05 April 2026, 06:15 PM IST"
+        "UTC": "Sunday, 05 April 2026, 01:51 PM UTC",
+        "IST": "Sunday, 05 April 2026, 07:21 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -206,16 +206,16 @@
                 "Winning Chance (%)": 31.43
             },
             {
+                "Team": "Union Berlin",
+                "Winning Chance (%)": 30.48
+            },
+            {
                 "Team": "Augsburg",
                 "Winning Chance (%)": 30.48
             },
             {
                 "Team": "Hamburg",
                 "Winning Chance (%)": 29.52
-            },
-            {
-                "Team": "Union Berlin",
-                "Winning Chance (%)": 30.62
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
@@ -231,7 +231,7 @@
             },
             {
                 "Team": "St. Pauli",
-                "Winning Chance (%)": 23.7
+                "Winning Chance (%)": 23.81
             },
             {
                 "Team": "VfL Wolfsburg",
@@ -272,12 +272,12 @@
                 "Winning Chance (%)": 50.04
             },
             {
-                "Team": "Lazio",
-                "Winning Chance (%)": 39.05
+                "Team": "Bologna",
+                "Winning Chance (%)": 40.31
             },
             {
-                "Team": "Bologna",
-                "Winning Chance (%)": 38.13
+                "Team": "Lazio",
+                "Winning Chance (%)": 39.05
             },
             {
                 "Team": "Sassuolo",
@@ -308,12 +308,12 @@
                 "Winning Chance (%)": 25.81
             },
             {
-                "Team": "Cremonese",
+                "Team": "Lecce",
                 "Winning Chance (%)": 24.0
             },
             {
-                "Team": "Lecce",
-                "Winning Chance (%)": 24.0
+                "Team": "Cremonese",
+                "Winning Chance (%)": 23.23
             },
             {
                 "Team": "Pisa",
@@ -343,7 +343,7 @@
             },
             {
                 "Team": "Lyon",
-                "Winning Chance (%)": 51.22
+                "Winning Chance (%)": 50.51
             },
             {
                 "Team": "Rennes",
@@ -371,7 +371,7 @@
             },
             {
                 "Team": "Angers",
-                "Winning Chance (%)": 31.6
+                "Winning Chance (%)": 31.43
             },
             {
                 "Team": "Paris FC",
