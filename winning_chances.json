@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 April 2026, 07:30 PM UTC",
-        "IST": "Monday, 06 April 2026, 01:00 AM IST"
+        "UTC": "Sunday, 05 April 2026, 07:56 PM UTC",
+        "IST": "Monday, 06 April 2026, 01:26 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -121,7 +121,7 @@
             },
             {
                 "Team": "Osasuna",
-                "Winning Chance (%)": 35.56
+                "Winning Chance (%)": 33.78
             },
             {
                 "Team": "Espanyol",
@@ -144,11 +144,11 @@
                 "Winning Chance (%)": 31.26
             },
             {
-                "Team": "Mallorca",
-                "Winning Chance (%)": 27.56
+                "Team": "Alav\u00e9s",
+                "Winning Chance (%)": 28.44
             },
             {
-                "Team": "Alav\u00e9s",
+                "Team": "Mallorca",
                 "Winning Chance (%)": 27.56
             },
             {
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 77.02
+                "Winning Chance (%)": 79.14
             },
             {
                 "Team": "Milan",
@@ -260,12 +260,12 @@
                 "Winning Chance (%)": 63.07
             },
             {
-                "Team": "Roma",
-                "Winning Chance (%)": 54.11
-            },
-            {
                 "Team": "Juventus",
                 "Winning Chance (%)": 57.2
+            },
+            {
+                "Team": "Roma",
+                "Winning Chance (%)": 52.85
             },
             {
                 "Team": "Atalanta",
