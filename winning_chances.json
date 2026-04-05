@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 April 2026, 07:56 PM UTC",
-        "IST": "Monday, 06 April 2026, 01:26 AM IST"
+        "UTC": "Sunday, 05 April 2026, 08:32 PM UTC",
+        "IST": "Monday, 06 April 2026, 02:02 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 79.14
+                "Winning Chance (%)": 79.94
             },
             {
                 "Team": "Milan",
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 52.85
+                "Winning Chance (%)": 52.05
             },
             {
                 "Team": "Atalanta",
@@ -334,20 +334,20 @@
                 "Winning Chance (%)": 66.99
             },
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 55.22
-            },
-            {
                 "Team": "Lille",
                 "Winning Chance (%)": 52.02
             },
             {
-                "Team": "Lyon",
-                "Winning Chance (%)": 50.51
+                "Team": "Marseille",
+                "Winning Chance (%)": 53.87
             },
             {
                 "Team": "Monaco",
-                "Winning Chance (%)": 48.36
+                "Winning Chance (%)": 50.67
+            },
+            {
+                "Team": "Lyon",
+                "Winning Chance (%)": 50.51
             },
             {
                 "Team": "Rennes",
@@ -1085,27 +1085,27 @@
             },
             {
                 "Team": "Athletico Paranaense",
-                "Winning Chance (%)": 48.61
+                "Winning Chance (%)": 46.53
+            },
+            {
+                "Team": "Flamengo",
+                "Winning Chance (%)": 46.44
             },
             {
                 "Team": "Coritiba",
                 "Winning Chance (%)": 40.4
             },
             {
-                "Team": "Flamengo",
-                "Winning Chance (%)": 48.67
-            },
-            {
                 "Team": "Botafogo",
                 "Winning Chance (%)": 35.56
             },
             {
-                "Team": "Vasco da Gama",
-                "Winning Chance (%)": 32.0
+                "Team": "Atl\u00e9tico Mineiro",
+                "Winning Chance (%)": 32.4
             },
             {
-                "Team": "Atl\u00e9tico Mineiro",
-                "Winning Chance (%)": 32.99
+                "Team": "Vasco da Gama",
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Gr\u00eamio",
@@ -1121,7 +1121,7 @@
             },
             {
                 "Team": "Santos",
-                "Winning Chance (%)": 29.63
+                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Corinthians",
