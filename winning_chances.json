@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 06 April 2026, 02:41 PM UTC",
-        "IST": "Monday, 06 April 2026, 08:11 PM IST"
+        "UTC": "Monday, 06 April 2026, 03:41 PM UTC",
+        "IST": "Monday, 06 April 2026, 09:11 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -916,16 +916,16 @@
                 "Winning Chance (%)": 72.13
             },
             {
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 60.83
+            },
+            {
                 "Team": "Millwall",
                 "Winning Chance (%)": 50.43
             },
             {
                 "Team": "Middlesbrough",
                 "Winning Chance (%)": 55.73
-            },
-            {
-                "Team": "Ipswich Town",
-                "Winning Chance (%)": 57.98
             },
             {
                 "Team": "Hull City",
@@ -941,7 +941,7 @@
             },
             {
                 "Team": "Derby County",
-                "Winning Chance (%)": 42.47
+                "Winning Chance (%)": 44.18
             },
             {
                 "Team": "Norwich City",
@@ -960,16 +960,16 @@
                 "Winning Chance (%)": 37.07
             },
             {
-                "Team": "Birmingham City",
-                "Winning Chance (%)": 36.42
-            },
-            {
                 "Team": "Stoke City",
-                "Winning Chance (%)": 37.77
+                "Winning Chance (%)": 36.72
             },
             {
                 "Team": "Preston North End",
                 "Winning Chance (%)": 35.12
+            },
+            {
+                "Team": "Birmingham City",
+                "Winning Chance (%)": 34.47
             },
             {
                 "Team": "Swansea City",
