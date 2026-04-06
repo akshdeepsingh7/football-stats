@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 06 April 2026, 12:03 PM UTC",
-        "IST": "Monday, 06 April 2026, 05:33 PM IST"
+        "UTC": "Monday, 06 April 2026, 01:50 PM UTC",
+        "IST": "Monday, 06 April 2026, 07:20 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -269,7 +269,7 @@
             },
             {
                 "Team": "Atalanta",
-                "Winning Chance (%)": 50.04
+                "Winning Chance (%)": 51.59
             },
             {
                 "Team": "Bologna",
@@ -308,11 +308,11 @@
                 "Winning Chance (%)": 25.81
             },
             {
-                "Team": "Lecce",
-                "Winning Chance (%)": 24.0
+                "Team": "Cremonese",
+                "Winning Chance (%)": 23.23
             },
             {
-                "Team": "Cremonese",
+                "Team": "Lecce",
                 "Winning Chance (%)": 23.23
             },
             {
@@ -917,7 +917,7 @@
             },
             {
                 "Team": "Millwall",
-                "Winning Chance (%)": 51.48
+                "Winning Chance (%)": 50.43
             },
             {
                 "Team": "Middlesbrough",
@@ -945,7 +945,7 @@
             },
             {
                 "Team": "Norwich City",
-                "Winning Chance (%)": 38.82
+                "Winning Chance (%)": 40.52
             },
             {
                 "Team": "Watford",
@@ -993,15 +993,15 @@
             },
             {
                 "Team": "Portsmouth",
-                "Winning Chance (%)": 29.33
+                "Winning Chance (%)": 28.0
+            },
+            {
+                "Team": "Oxford United",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Leicester City",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Oxford United",
-                "Winning Chance (%)": 26.02
             },
             {
                 "Team": "Sheffield Wednesday",
