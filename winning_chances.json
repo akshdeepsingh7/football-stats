@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 April 2026, 11:37 PM UTC",
-        "IST": "Monday, 06 April 2026, 05:07 AM IST"
+        "UTC": "Monday, 06 April 2026, 02:01 AM UTC",
+        "IST": "Monday, 06 April 2026, 07:31 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1100,6 +1100,10 @@
                 "Winning Chance (%)": 38.13
             },
             {
+                "Team": "RB Bragantino",
+                "Winning Chance (%)": 37.33
+            },
+            {
                 "Team": "Botafogo",
                 "Winning Chance (%)": 35.56
             },
@@ -1112,7 +1116,7 @@
                 "Winning Chance (%)": 32.0
             },
             {
-                "Team": "RB Bragantino",
+                "Team": "Internacional",
                 "Winning Chance (%)": 32.0
             },
             {
@@ -1120,24 +1124,16 @@
                 "Winning Chance (%)": 32.59
             },
             {
-                "Team": "Corinthians",
-                "Winning Chance (%)": 29.33
-            },
-            {
-                "Team": "Internacional",
+                "Team": "Santos",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Santos",
+                "Team": "Corinthians",
                 "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Chapecoense",
                 "Winning Chance (%)": 23.7
-            },
-            {
-                "Team": "Mirassol",
-                "Winning Chance (%)": 20.74
             },
             {
                 "Team": "Remo",
@@ -1146,6 +1142,10 @@
             {
                 "Team": "Cruzeiro",
                 "Winning Chance (%)": 18.67
+            },
+            {
+                "Team": "Mirassol",
+                "Winning Chance (%)": 17.78
             }
         ]
     }
