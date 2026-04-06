@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 06 April 2026, 05:40 PM UTC",
-        "IST": "Monday, 06 April 2026, 11:10 PM IST"
+        "UTC": "Monday, 06 April 2026, 06:51 PM UTC",
+        "IST": "Tuesday, 07 April 2026, 12:21 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -249,11 +249,11 @@
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 65.6
+                "Winning Chance (%)": 64.65
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 61.51
+                "Winning Chance (%)": 60.59
             },
             {
                 "Team": "Como",
@@ -863,7 +863,7 @@
             },
             {
                 "Team": "Estoril",
-                "Winning Chance (%)": 38.14
+                "Winning Chance (%)": 37.79
             },
             {
                 "Team": "Moreirense",
@@ -878,12 +878,12 @@
                 "Winning Chance (%)": 30.48
             },
             {
-                "Team": "Rio Ave",
+                "Team": "Arouca",
                 "Winning Chance (%)": 28.57
             },
             {
-                "Team": "Arouca",
-                "Winning Chance (%)": 28.64
+                "Team": "Rio Ave",
+                "Winning Chance (%)": 28.57
             },
             {
                 "Team": "Estrela Amadora",
@@ -920,12 +920,12 @@
                 "Winning Chance (%)": 60.83
             },
             {
-                "Team": "Millwall",
-                "Winning Chance (%)": 50.43
+                "Team": "Middlesbrough",
+                "Winning Chance (%)": 55.23
             },
             {
-                "Team": "Middlesbrough",
-                "Winning Chance (%)": 54.18
+                "Team": "Millwall",
+                "Winning Chance (%)": 50.43
             },
             {
                 "Team": "Hull City",
@@ -960,15 +960,15 @@
                 "Winning Chance (%)": 37.07
             },
             {
-                "Team": "Swansea City",
-                "Winning Chance (%)": 36.42
-            },
-            {
                 "Team": "Stoke City",
                 "Winning Chance (%)": 36.32
             },
             {
                 "Team": "Preston North End",
+                "Winning Chance (%)": 35.12
+            },
+            {
+                "Team": "Swansea City",
                 "Winning Chance (%)": 35.12
             },
             {
