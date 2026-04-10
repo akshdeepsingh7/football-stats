@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 10 April 2026, 07:39 PM UTC",
-        "IST": "Saturday, 11 April 2026, 01:09 AM IST"
+        "UTC": "Friday, 10 April 2026, 08:30 PM UTC",
+        "IST": "Saturday, 11 April 2026, 02:00 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -70,12 +70,12 @@
                 "Winning Chance (%)": 27.53
             },
             {
-                "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 25.81
+                "Team": "West Ham United",
+                "Winning Chance (%)": 26.67
             },
             {
-                "Team": "West Ham United",
-                "Winning Chance (%)": 25.0
+                "Team": "Tottenham Hotspur",
+                "Winning Chance (%)": 25.81
             },
             {
                 "Team": "Burnley",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 15.0
+                "Winning Chance (%)": 14.17
             }
         ],
         "La Liga": [
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 53.9
+                "Winning Chance (%)": 54.3
             },
             {
                 "Team": "Atalanta",
@@ -855,19 +855,19 @@
             },
             {
                 "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 48.21
+                "Winning Chance (%)": 46.3
             },
             {
                 "Team": "Gil Vicente",
                 "Winning Chance (%)": 48.46
             },
             {
-                "Team": "Estoril",
-                "Winning Chance (%)": 36.44
+                "Team": "Moreirense",
+                "Winning Chance (%)": 34.94
             },
             {
-                "Team": "Moreirense",
-                "Winning Chance (%)": 33.33
+                "Team": "Estoril",
+                "Winning Chance (%)": 36.44
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
