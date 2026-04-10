@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 10 April 2026, 05:43 PM UTC",
-        "IST": "Friday, 10 April 2026, 11:13 PM IST"
+        "UTC": "Friday, 10 April 2026, 06:43 PM UTC",
+        "IST": "Saturday, 11 April 2026, 12:13 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -187,7 +187,7 @@
             },
             {
                 "Team": "Hoffenheim",
-                "Winning Chance (%)": 53.22
+                "Winning Chance (%)": 51.18
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -202,15 +202,15 @@
                 "Winning Chance (%)": 35.24
             },
             {
+                "Team": "Augsburg",
+                "Winning Chance (%)": 32.18
+            },
+            {
                 "Team": "Mainz 05",
                 "Winning Chance (%)": 31.43
             },
             {
                 "Team": "Union Berlin",
-                "Winning Chance (%)": 30.48
-            },
-            {
-                "Team": "Augsburg",
                 "Winning Chance (%)": 30.48
             },
             {
@@ -343,7 +343,7 @@
             },
             {
                 "Team": "Monaco",
-                "Winning Chance (%)": 48.26
+                "Winning Chance (%)": 47.86
             },
             {
                 "Team": "Lyon",
