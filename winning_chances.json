@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 10 April 2026, 09:05 PM UTC",
-        "IST": "Saturday, 11 April 2026, 02:35 AM IST"
+        "UTC": "Friday, 10 April 2026, 10:01 PM UTC",
+        "IST": "Saturday, 11 April 2026, 03:31 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -855,19 +855,19 @@
             },
             {
                 "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 46.3
+                "Winning Chance (%)": 47.62
             },
             {
                 "Team": "Gil Vicente",
                 "Winning Chance (%)": 48.46
             },
             {
-                "Team": "Moreirense",
-                "Winning Chance (%)": 34.94
-            },
-            {
                 "Team": "Estoril",
                 "Winning Chance (%)": 36.44
+            },
+            {
+                "Team": "Moreirense",
+                "Winning Chance (%)": 33.1
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
