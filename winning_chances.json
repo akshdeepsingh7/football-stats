@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 10 April 2026, 06:43 PM UTC",
-        "IST": "Saturday, 11 April 2026, 12:13 AM IST"
+        "UTC": "Friday, 10 April 2026, 07:39 PM UTC",
+        "IST": "Saturday, 11 April 2026, 01:09 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -75,7 +75,7 @@
             },
             {
                 "Team": "West Ham United",
-                "Winning Chance (%)": 24.95
+                "Winning Chance (%)": 25.0
             },
             {
                 "Team": "Burnley",
@@ -83,7 +83,7 @@
             },
             {
                 "Team": "Wolverhampton Wanderers",
-                "Winning Chance (%)": 14.62
+                "Winning Chance (%)": 15.0
             }
         ],
         "La Liga": [
@@ -93,7 +93,7 @@
             },
             {
                 "Team": "Real Madrid",
-                "Winning Chance (%)": 75.73
+                "Winning Chance (%)": 74.62
             },
             {
                 "Team": "Villarreal",
@@ -133,7 +133,7 @@
             },
             {
                 "Team": "Girona",
-                "Winning Chance (%)": 32.89
+                "Winning Chance (%)": 32.69
             },
             {
                 "Team": "Rayo Vallecano",
@@ -187,7 +187,7 @@
             },
             {
                 "Team": "Hoffenheim",
-                "Winning Chance (%)": 51.18
+                "Winning Chance (%)": 52.5
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -202,12 +202,12 @@
                 "Winning Chance (%)": 35.24
             },
             {
-                "Team": "Augsburg",
-                "Winning Chance (%)": 32.18
-            },
-            {
                 "Team": "Mainz 05",
                 "Winning Chance (%)": 31.43
+            },
+            {
+                "Team": "Augsburg",
+                "Winning Chance (%)": 30.34
             },
             {
                 "Team": "Union Berlin",
@@ -265,7 +265,7 @@
             },
             {
                 "Team": "Roma",
-                "Winning Chance (%)": 52.05
+                "Winning Chance (%)": 53.9
             },
             {
                 "Team": "Atalanta",
@@ -321,7 +321,7 @@
             },
             {
                 "Team": "Pisa",
-                "Winning Chance (%)": 15.48
+                "Winning Chance (%)": 15.0
             }
         ],
         "Ligue 1": [
@@ -334,12 +334,12 @@
                 "Winning Chance (%)": 66.99
             },
             {
-                "Team": "LOSC",
-                "Winning Chance (%)": 52.02
+                "Team": "Marseille",
+                "Winning Chance (%)": 55.42
             },
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 53.87
+                "Team": "LOSC",
+                "Winning Chance (%)": 52.02
             },
             {
                 "Team": "Monaco",
@@ -395,7 +395,7 @@
             },
             {
                 "Team": "Metz",
-                "Winning Chance (%)": 14.29
+                "Winning Chance (%)": 13.79
             }
         ],
         "Champions League": [
@@ -916,16 +916,16 @@
                 "Winning Chance (%)": 71.43
             },
             {
+                "Team": "Millwall",
+                "Winning Chance (%)": 49.95
+            },
+            {
                 "Team": "Ipswich Town",
                 "Winning Chance (%)": 60.83
             },
             {
                 "Team": "Middlesbrough",
                 "Winning Chance (%)": 55.23
-            },
-            {
-                "Team": "Millwall",
-                "Winning Chance (%)": 50.43
             },
             {
                 "Team": "Hull City",
@@ -989,7 +989,7 @@
             },
             {
                 "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 29.27
+                "Winning Chance (%)": 29.21
             },
             {
                 "Team": "Portsmouth",
