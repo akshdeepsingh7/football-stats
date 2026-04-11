@@ -1,13 +1,13 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 11 April 2026, 11:01 AM UTC",
-        "IST": "Saturday, 11 April 2026, 04:31 PM IST"
+        "UTC": "Saturday, 11 April 2026, 11:51 AM UTC",
+        "IST": "Saturday, 11 April 2026, 05:21 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 75.82
+                "Winning Chance (%)": 73.53
             },
             {
                 "Team": "Manchester City",
@@ -38,6 +38,10 @@
                 "Winning Chance (%)": 40.37
             },
             {
+                "Team": "AFC Bournemouth",
+                "Winning Chance (%)": 37.5
+            },
+            {
                 "Team": "Fulham",
                 "Winning Chance (%)": 37.85
             },
@@ -51,10 +55,6 @@
             },
             {
                 "Team": "Newcastle United",
-                "Winning Chance (%)": 36.13
-            },
-            {
-                "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 36.13
             },
             {
@@ -913,15 +913,15 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 71.43
+                "Winning Chance (%)": 70.77
+            },
+            {
+                "Team": "Ipswich Town",
+                "Winning Chance (%)": 62.0
             },
             {
                 "Team": "Millwall",
                 "Winning Chance (%)": 49.95
-            },
-            {
-                "Team": "Ipswich Town",
-                "Winning Chance (%)": 60.83
             },
             {
                 "Team": "Middlesbrough",
@@ -945,19 +945,19 @@
             },
             {
                 "Team": "Norwich City",
-                "Winning Chance (%)": 40.52
+                "Winning Chance (%)": 39.23
+            },
+            {
+                "Team": "Bristol City",
+                "Winning Chance (%)": 37.23
+            },
+            {
+                "Team": "Queens Park Rangers",
+                "Winning Chance (%)": 36.83
             },
             {
                 "Team": "Watford",
                 "Winning Chance (%)": 38.27
-            },
-            {
-                "Team": "Bristol City",
-                "Winning Chance (%)": 37.47
-            },
-            {
-                "Team": "Queens Park Rangers",
-                "Winning Chance (%)": 37.07
             },
             {
                 "Team": "Stoke City",
@@ -1018,6 +1018,10 @@
                 "Winning Chance (%)": 51.2
             },
             {
+                "Team": "East Bengal",
+                "Winning Chance (%)": 58.53
+            },
+            {
                 "Team": "Mohun Bagan SG",
                 "Winning Chance (%)": 57.73
             },
@@ -1028,10 +1032,6 @@
             {
                 "Team": "FC Goa",
                 "Winning Chance (%)": 44.53
-            },
-            {
-                "Team": "East Bengal",
-                "Winning Chance (%)": 53.69
             },
             {
                 "Team": "Punjab FC",
@@ -1050,12 +1050,12 @@
                 "Winning Chance (%)": 22.86
             },
             {
-                "Team": "Chennaiyin",
+                "Team": "Odisha",
                 "Winning Chance (%)": 22.22
             },
             {
-                "Team": "Odisha",
-                "Winning Chance (%)": 22.22
+                "Team": "Chennaiyin",
+                "Winning Chance (%)": 19.05
             },
             {
                 "Team": "Kerala Blasters",
