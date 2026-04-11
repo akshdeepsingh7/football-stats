@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 11 April 2026, 03:56 PM UTC",
-        "IST": "Saturday, 11 April 2026, 09:26 PM IST"
+        "UTC": "Saturday, 11 April 2026, 04:35 PM UTC",
+        "IST": "Saturday, 11 April 2026, 10:05 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -23,7 +23,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 45.35
+                "Winning Chance (%)": 44.87
             },
             {
                 "Team": "Chelsea",
@@ -47,7 +47,7 @@
             },
             {
                 "Team": "Fulham",
-                "Winning Chance (%)": 37.85
+                "Winning Chance (%)": 37.5
             },
             {
                 "Team": "Sunderland",
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 87.56
+                "Winning Chance (%)": 86.24
             },
             {
                 "Team": "Real Madrid",
@@ -120,11 +120,11 @@
                 "Winning Chance (%)": 36.44
             },
             {
-                "Team": "Osasuna",
-                "Winning Chance (%)": 33.78
+                "Team": "Espanyol",
+                "Winning Chance (%)": 33.55
             },
             {
-                "Team": "Espanyol",
+                "Team": "Osasuna",
                 "Winning Chance (%)": 33.78
             },
             {
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 89.52
+                "Winning Chance (%)": 88.05
             },
             {
                 "Team": "Borussia Dortmund",
@@ -231,7 +231,7 @@
             },
             {
                 "Team": "St. Pauli",
-                "Winning Chance (%)": 23.81
+                "Winning Chance (%)": 23.91
             },
             {
                 "Team": "VfL Wolfsburg",
@@ -253,7 +253,7 @@
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 63.39
+                "Winning Chance (%)": 61.3
             },
             {
                 "Team": "Como",
@@ -280,12 +280,12 @@
                 "Winning Chance (%)": 39.05
             },
             {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 36.13
+                "Team": "Udinese",
+                "Winning Chance (%)": 35.83
             },
             {
-                "Team": "Udinese",
-                "Winning Chance (%)": 34.41
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 36.13
             },
             {
                 "Team": "Torino",
