@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 11 April 2026, 05:57 PM UTC",
-        "IST": "Saturday, 11 April 2026, 11:27 PM IST"
+        "UTC": "Saturday, 11 April 2026, 06:43 PM UTC",
+        "IST": "Sunday, 12 April 2026, 12:13 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -874,6 +874,10 @@
                 "Winning Chance (%)": 33.1
             },
             {
+                "Team": "Rio Ave",
+                "Winning Chance (%)": 30.34
+            },
+            {
                 "Team": "Arouca",
                 "Winning Chance (%)": 30.48
             },
@@ -882,16 +886,12 @@
                 "Winning Chance (%)": 30.48
             },
             {
-                "Team": "Rio Ave",
-                "Winning Chance (%)": 28.51
+                "Team": "Estrela Amadora",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Santa Clara",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Estrela Amadora",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 25.75
             },
             {
                 "Team": "Nacional",
