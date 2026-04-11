@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 11 April 2026, 02:32 PM UTC",
-        "IST": "Saturday, 11 April 2026, 08:02 PM IST"
+        "UTC": "Saturday, 11 April 2026, 03:28 PM UTC",
+        "IST": "Saturday, 11 April 2026, 08:58 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -38,12 +38,12 @@
                 "Winning Chance (%)": 39.97
             },
             {
-                "Team": "AFC Bournemouth",
-                "Winning Chance (%)": 37.5
+                "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 40.33
             },
             {
-                "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 38.27
+                "Team": "AFC Bournemouth",
+                "Winning Chance (%)": 37.5
             },
             {
                 "Team": "Fulham",
@@ -79,7 +79,7 @@
             },
             {
                 "Team": "Burnley",
-                "Winning Chance (%)": 17.5
+                "Winning Chance (%)": 16.67
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -179,7 +179,7 @@
             },
             {
                 "Team": "RB Leipzig",
-                "Winning Chance (%)": 57.26
+                "Winning Chance (%)": 59.49
             },
             {
                 "Team": "VfB Stuttgart",
@@ -195,7 +195,7 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 39.02
+                "Winning Chance (%)": 38.62
             },
             {
                 "Team": "SC Freiburg",
@@ -219,7 +219,7 @@
             },
             {
                 "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 28.51
+                "Winning Chance (%)": 27.59
             },
             {
                 "Team": "Werder Bremen",
@@ -871,7 +871,7 @@
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 33.33
+                "Winning Chance (%)": 33.1
             },
             {
                 "Team": "Arouca",
@@ -907,7 +907,7 @@
             },
             {
                 "Team": "AVS",
-                "Winning Chance (%)": 10.48
+                "Winning Chance (%)": 11.03
             }
         ],
         "EFL Championship": [
@@ -961,15 +961,15 @@
             },
             {
                 "Team": "Preston North End",
-                "Winning Chance (%)": 34.92
+                "Winning Chance (%)": 36.19
             },
             {
                 "Team": "Swansea City",
-                "Winning Chance (%)": 34.92
+                "Winning Chance (%)": 36.19
             },
             {
                 "Team": "Stoke City",
-                "Winning Chance (%)": 35.09
+                "Winning Chance (%)": 36.12
             },
             {
                 "Team": "Birmingham City",
@@ -981,11 +981,11 @@
             },
             {
                 "Team": "Charlton Athletic",
-                "Winning Chance (%)": 31.75
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 31.75
+                "Winning Chance (%)": 30.48
             },
             {
                 "Team": "West Bromwich Albion",
@@ -1001,7 +1001,7 @@
             },
             {
                 "Team": "Leicester City",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 26.03
             },
             {
                 "Team": "Sheffield Wednesday",
@@ -1015,7 +1015,7 @@
             },
             {
                 "Team": "Bengaluru",
-                "Winning Chance (%)": 59.07
+                "Winning Chance (%)": 52.0
             },
             {
                 "Team": "Jamshedpur",
@@ -1059,7 +1059,7 @@
             },
             {
                 "Team": "Kerala Blasters",
-                "Winning Chance (%)": 3.33
+                "Winning Chance (%)": 6.67
             },
             {
                 "Team": "Mohammedan",
