@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 11 April 2026, 04:35 PM UTC",
-        "IST": "Saturday, 11 April 2026, 10:05 PM IST"
+        "UTC": "Saturday, 11 April 2026, 05:26 PM UTC",
+        "IST": "Saturday, 11 April 2026, 10:56 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -23,7 +23,7 @@
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 44.87
+                "Winning Chance (%)": 47.33
             },
             {
                 "Team": "Chelsea",
@@ -47,7 +47,7 @@
             },
             {
                 "Team": "Fulham",
-                "Winning Chance (%)": 37.5
+                "Winning Chance (%)": 36.67
             },
             {
                 "Team": "Sunderland",
@@ -89,7 +89,7 @@
         "La Liga": [
             {
                 "Team": "Barcelona",
-                "Winning Chance (%)": 86.24
+                "Winning Chance (%)": 87.96
             },
             {
                 "Team": "Real Madrid",
@@ -120,12 +120,12 @@
                 "Winning Chance (%)": 36.44
             },
             {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 33.55
-            },
-            {
                 "Team": "Osasuna",
                 "Winning Chance (%)": 33.78
+            },
+            {
+                "Team": "Espanyol",
+                "Winning Chance (%)": 32.69
             },
             {
                 "Team": "Athletic Bilbao",
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 88.05
+                "Winning Chance (%)": 89.89
             },
             {
                 "Team": "Borussia Dortmund",
@@ -231,7 +231,7 @@
             },
             {
                 "Team": "St. Pauli",
-                "Winning Chance (%)": 23.91
+                "Winning Chance (%)": 22.99
             },
             {
                 "Team": "VfL Wolfsburg",
@@ -253,7 +253,7 @@
             },
             {
                 "Team": "Milan",
-                "Winning Chance (%)": 61.3
+                "Winning Chance (%)": 60.9
             },
             {
                 "Team": "Como",
@@ -387,11 +387,11 @@
             },
             {
                 "Team": "Auxerre",
-                "Winning Chance (%)": 21.9
+                "Winning Chance (%)": 22.07
             },
             {
                 "Team": "Nantes",
-                "Winning Chance (%)": 17.78
+                "Winning Chance (%)": 18.1
             },
             {
                 "Team": "Metz",
@@ -883,14 +883,14 @@
             },
             {
                 "Team": "Rio Ave",
-                "Winning Chance (%)": 28.57
-            },
-            {
-                "Team": "Estrela Amadora",
-                "Winning Chance (%)": 26.67
+                "Winning Chance (%)": 28.51
             },
             {
                 "Team": "Santa Clara",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Estrela Amadora",
                 "Winning Chance (%)": 26.67
             },
             {
