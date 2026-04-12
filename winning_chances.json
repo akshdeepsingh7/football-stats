@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 12 April 2026, 01:14 PM UTC",
-        "IST": "Sunday, 12 April 2026, 06:44 PM IST"
+        "UTC": "Sunday, 12 April 2026, 02:07 PM UTC",
+        "IST": "Sunday, 12 April 2026, 07:37 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -42,6 +42,10 @@
                 "Winning Chance (%)": 40.73
             },
             {
+                "Team": "Newcastle United",
+                "Winning Chance (%)": 37.5
+            },
+            {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 37.5
             },
@@ -54,12 +58,8 @@
                 "Winning Chance (%)": 36.67
             },
             {
-                "Team": "Newcastle United",
-                "Winning Chance (%)": 35.83
-            },
-            {
                 "Team": "Crystal Palace",
-                "Winning Chance (%)": 34.41
+                "Winning Chance (%)": 33.55
             },
             {
                 "Team": "Leeds United",
@@ -218,16 +218,16 @@
                 "Winning Chance (%)": 29.52
             },
             {
+                "Team": "K\u00f6ln",
+                "Winning Chance (%)": 27.59
+            },
+            {
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Winning Chance (%)": 27.59
             },
             {
                 "Team": "Werder Bremen",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "K\u00f6ln",
-                "Winning Chance (%)": 25.71
+                "Winning Chance (%)": 25.75
             },
             {
                 "Team": "St. Pauli",
@@ -1014,16 +1014,16 @@
                 "Winning Chance (%)": 62.0
             },
             {
+                "Team": "Mohun Bagan SG",
+                "Winning Chance (%)": 54.4
+            },
+            {
                 "Team": "Jamshedpur",
                 "Winning Chance (%)": 51.2
             },
             {
                 "Team": "East Bengal",
                 "Winning Chance (%)": 58.93
-            },
-            {
-                "Team": "Mohun Bagan SG",
-                "Winning Chance (%)": 57.73
             },
             {
                 "Team": "Bengaluru",
@@ -1035,7 +1035,7 @@
             },
             {
                 "Team": "Punjab FC",
-                "Winning Chance (%)": 50.49
+                "Winning Chance (%)": 47.31
             },
             {
                 "Team": "Inter Kashi",
@@ -1089,7 +1089,7 @@
             },
             {
                 "Team": "Athletico Paranaense",
-                "Winning Chance (%)": 43.47
+                "Winning Chance (%)": 42.01
             },
             {
                 "Team": "Coritiba",
@@ -1133,7 +1133,7 @@
             },
             {
                 "Team": "Chapecoense",
-                "Winning Chance (%)": 23.7
+                "Winning Chance (%)": 24.0
             },
             {
                 "Team": "Remo",
