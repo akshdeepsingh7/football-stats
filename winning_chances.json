@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 12 April 2026, 10:00 PM UTC",
-        "IST": "Monday, 13 April 2026, 03:30 AM IST"
+        "UTC": "Sunday, 12 April 2026, 10:43 PM UTC",
+        "IST": "Monday, 13 April 2026, 04:13 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1096,12 +1096,12 @@
                 "Winning Chance (%)": 39.19
             },
             {
-                "Team": "RB Bragantino",
-                "Winning Chance (%)": 36.36
-            },
-            {
                 "Team": "Atl\u00e9tico Mineiro",
                 "Winning Chance (%)": 34.34
+            },
+            {
+                "Team": "RB Bragantino",
+                "Winning Chance (%)": 33.94
             },
             {
                 "Team": "Vit\u00f3ria",
@@ -1132,11 +1132,11 @@
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Remo",
-                "Winning Chance (%)": 19.39
+                "Team": "Cruzeiro",
+                "Winning Chance (%)": 24.24
             },
             {
-                "Team": "Cruzeiro",
+                "Team": "Remo",
                 "Winning Chance (%)": 19.39
             },
             {
