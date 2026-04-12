@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 12 April 2026, 11:59 AM UTC",
-        "IST": "Sunday, 12 April 2026, 05:29 PM IST"
+        "UTC": "Sunday, 12 April 2026, 01:14 PM UTC",
+        "IST": "Sunday, 12 April 2026, 06:44 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -19,7 +19,7 @@
             },
             {
                 "Team": "Aston Villa",
-                "Winning Chance (%)": 48.45
+                "Winning Chance (%)": 47.83
             },
             {
                 "Team": "Liverpool FC",
@@ -51,15 +51,15 @@
             },
             {
                 "Team": "Sunderland",
-                "Winning Chance (%)": 36.99
+                "Winning Chance (%)": 36.67
             },
             {
                 "Team": "Newcastle United",
-                "Winning Chance (%)": 36.13
+                "Winning Chance (%)": 35.83
             },
             {
                 "Team": "Crystal Palace",
-                "Winning Chance (%)": 34.67
+                "Winning Chance (%)": 34.41
             },
             {
                 "Team": "Leeds United",
@@ -67,7 +67,7 @@
             },
             {
                 "Team": "Nottingham Forest",
-                "Winning Chance (%)": 27.53
+                "Winning Chance (%)": 27.5
             },
             {
                 "Team": "West Ham United",
@@ -75,7 +75,7 @@
             },
             {
                 "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 25.81
+                "Winning Chance (%)": 25.83
             },
             {
                 "Team": "Burnley",
@@ -105,7 +105,7 @@
             },
             {
                 "Team": "Real Betis",
-                "Winning Chance (%)": 42.8
+                "Winning Chance (%)": 42.37
             },
             {
                 "Team": "Celta de Vigo",
@@ -121,7 +121,7 @@
             },
             {
                 "Team": "Osasuna",
-                "Winning Chance (%)": 33.78
+                "Winning Chance (%)": 33.55
             },
             {
                 "Team": "Espanyol",
@@ -249,7 +249,7 @@
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 62.71
+                "Winning Chance (%)": 60.57
             },
             {
                 "Team": "Milan",
@@ -280,12 +280,12 @@
                 "Winning Chance (%)": 39.05
             },
             {
-                "Team": "Sassuolo",
+                "Team": "Udinese",
                 "Winning Chance (%)": 35.83
             },
             {
-                "Team": "Udinese",
-                "Winning Chance (%)": 35.83
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 35.0
             },
             {
                 "Team": "Torino",
@@ -293,11 +293,11 @@
             },
             {
                 "Team": "Parma",
-                "Winning Chance (%)": 30.11
+                "Winning Chance (%)": 31.67
             },
             {
                 "Team": "Genoa",
-                "Winning Chance (%)": 28.33
+                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Cagliari",
@@ -937,7 +937,7 @@
             },
             {
                 "Team": "Wrexham",
-                "Winning Chance (%)": 43.27
+                "Winning Chance (%)": 41.83
             },
             {
                 "Team": "Derby County",
@@ -968,15 +968,15 @@
                 "Winning Chance (%)": 36.19
             },
             {
+                "Team": "Birmingham City",
+                "Winning Chance (%)": 35.56
+            },
+            {
                 "Team": "Stoke City",
                 "Winning Chance (%)": 36.12
             },
             {
                 "Team": "Sheffield United",
-                "Winning Chance (%)": 34.29
-            },
-            {
-                "Team": "Birmingham City",
                 "Winning Chance (%)": 34.29
             },
             {
