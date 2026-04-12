@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 12 April 2026, 07:57 PM UTC",
-        "IST": "Monday, 13 April 2026, 01:27 AM IST"
+        "UTC": "Sunday, 12 April 2026, 08:38 PM UTC",
+        "IST": "Monday, 13 April 2026, 02:08 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 78.83
+                "Winning Chance (%)": 80.9
             },
             {
                 "Team": "Napoli",
@@ -261,7 +261,7 @@
             },
             {
                 "Team": "Como",
-                "Winning Chance (%)": 61.57
+                "Winning Chance (%)": 60.33
             },
             {
                 "Team": "Roma",
@@ -343,7 +343,7 @@
             },
             {
                 "Team": "Lyon",
-                "Winning Chance (%)": 52.1
+                "Winning Chance (%)": 52.5
             },
             {
                 "Team": "Rennes",
@@ -1088,12 +1088,12 @@
                 "Winning Chance (%)": 47.66
             },
             {
-                "Team": "Coritiba",
-                "Winning Chance (%)": 44.44
-            },
-            {
                 "Team": "Flamengo",
                 "Winning Chance (%)": 53.17
+            },
+            {
+                "Team": "Coritiba",
+                "Winning Chance (%)": 39.19
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
@@ -1106,6 +1106,10 @@
             {
                 "Team": "Vit\u00f3ria",
                 "Winning Chance (%)": 37.33
+            },
+            {
+                "Team": "Botafogo",
+                "Winning Chance (%)": 34.67
             },
             {
                 "Team": "Gr\u00eamio",
@@ -1122,10 +1126,6 @@
             {
                 "Team": "Santos",
                 "Winning Chance (%)": 31.52
-            },
-            {
-                "Team": "Botafogo",
-                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Corinthians",
