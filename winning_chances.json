@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 12 April 2026, 07:12 PM UTC",
-        "IST": "Monday, 13 April 2026, 12:42 AM IST"
+        "UTC": "Sunday, 12 April 2026, 07:57 PM UTC",
+        "IST": "Monday, 13 April 2026, 01:27 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -97,7 +97,7 @@
             },
             {
                 "Team": "Villarreal",
-                "Winning Chance (%)": 58.35
+                "Winning Chance (%)": 60.87
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
@@ -124,15 +124,15 @@
                 "Winning Chance (%)": 33.55
             },
             {
-                "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 33.55
+                "Team": "Espanyol",
+                "Winning Chance (%)": 32.69
             },
             {
                 "Team": "Girona",
                 "Winning Chance (%)": 32.69
             },
             {
-                "Team": "Espanyol",
+                "Team": "Athletic Bilbao",
                 "Winning Chance (%)": 32.69
             },
             {
@@ -342,12 +342,12 @@
                 "Winning Chance (%)": 55.82
             },
             {
-                "Team": "Rennes",
-                "Winning Chance (%)": 49.18
+                "Team": "Lyon",
+                "Winning Chance (%)": 52.1
             },
             {
-                "Team": "Lyon",
-                "Winning Chance (%)": 49.86
+                "Team": "Rennes",
+                "Winning Chance (%)": 49.18
             },
             {
                 "Team": "Monaco",
@@ -359,7 +359,7 @@
             },
             {
                 "Team": "Lorient",
-                "Winning Chance (%)": 35.86
+                "Winning Chance (%)": 34.94
             },
             {
                 "Team": "Toulouse",
@@ -839,7 +839,7 @@
         "Liga Portugal": [
             {
                 "Team": "Porto",
-                "Winning Chance (%)": 86.72
+                "Winning Chance (%)": 87.89
             },
             {
                 "Team": "Sporting CP",
@@ -863,7 +863,7 @@
             },
             {
                 "Team": "Estoril",
-                "Winning Chance (%)": 36.44
+                "Winning Chance (%)": 34.42
             },
             {
                 "Team": "Moreirense",
@@ -1088,12 +1088,12 @@
                 "Winning Chance (%)": 47.66
             },
             {
-                "Team": "Flamengo",
-                "Winning Chance (%)": 53.17
+                "Team": "Coritiba",
+                "Winning Chance (%)": 44.44
             },
             {
-                "Team": "Coritiba",
-                "Winning Chance (%)": 39.19
+                "Team": "Flamengo",
+                "Winning Chance (%)": 53.17
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
@@ -1106,10 +1106,6 @@
             {
                 "Team": "Vit\u00f3ria",
                 "Winning Chance (%)": 37.33
-            },
-            {
-                "Team": "Botafogo",
-                "Winning Chance (%)": 34.67
             },
             {
                 "Team": "Gr\u00eamio",
@@ -1126,6 +1122,10 @@
             {
                 "Team": "Santos",
                 "Winning Chance (%)": 31.52
+            },
+            {
+                "Team": "Botafogo",
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Corinthians",
