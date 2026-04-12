@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 12 April 2026, 10:34 AM UTC",
-        "IST": "Sunday, 12 April 2026, 04:04 PM IST"
+        "UTC": "Sunday, 12 April 2026, 11:30 AM UTC",
+        "IST": "Sunday, 12 April 2026, 05:00 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -280,24 +280,24 @@
                 "Winning Chance (%)": 39.05
             },
             {
-                "Team": "Sassuolo",
+                "Team": "Udinese",
                 "Winning Chance (%)": 35.83
             },
             {
-                "Team": "Udinese",
-                "Winning Chance (%)": 35.83
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 35.0
             },
             {
                 "Team": "Torino",
                 "Winning Chance (%)": 32.5
             },
             {
-                "Team": "Parma",
-                "Winning Chance (%)": 30.11
+                "Team": "Genoa",
+                "Winning Chance (%)": 30.0
             },
             {
-                "Team": "Genoa",
-                "Winning Chance (%)": 28.33
+                "Team": "Parma",
+                "Winning Chance (%)": 30.11
             },
             {
                 "Team": "Cagliari",
@@ -937,7 +937,7 @@
             },
             {
                 "Team": "Wrexham",
-                "Winning Chance (%)": 43.63
+                "Winning Chance (%)": 43.27
             },
             {
                 "Team": "Derby County",
@@ -977,7 +977,7 @@
             },
             {
                 "Team": "Birmingham City",
-                "Winning Chance (%)": 34.47
+                "Winning Chance (%)": 34.29
             },
             {
                 "Team": "Charlton Athletic",
