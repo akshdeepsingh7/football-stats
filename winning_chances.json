@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 13 April 2026, 05:36 PM UTC",
-        "IST": "Monday, 13 April 2026, 11:06 PM IST"
+        "UTC": "Monday, 13 April 2026, 07:07 PM UTC",
+        "IST": "Tuesday, 14 April 2026, 12:37 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -15,7 +15,7 @@
             },
             {
                 "Team": "Manchester United",
-                "Winning Chance (%)": 52.51
+                "Winning Chance (%)": 50.63
             },
             {
                 "Team": "Aston Villa",
@@ -63,7 +63,7 @@
             },
             {
                 "Team": "Leeds United",
-                "Winning Chance (%)": 28.39
+                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Nottingham Forest",
@@ -117,7 +117,7 @@
             },
             {
                 "Team": "Getafe",
-                "Winning Chance (%)": 36.44
+                "Winning Chance (%)": 36.13
             },
             {
                 "Team": "Osasuna",
@@ -160,12 +160,12 @@
                 "Winning Chance (%)": 27.53
             },
             {
-                "Team": "Real Oviedo",
+                "Team": "Levante",
                 "Winning Chance (%)": 23.23
             },
             {
-                "Team": "Levante",
-                "Winning Chance (%)": 23.11
+                "Team": "Real Oviedo",
+                "Winning Chance (%)": 23.23
             }
         ],
         "Bundesliga": [
@@ -277,7 +277,7 @@
             },
             {
                 "Team": "Lazio",
-                "Winning Chance (%)": 39.05
+                "Winning Chance (%)": 38.7
             },
             {
                 "Team": "Udinese",
@@ -305,7 +305,7 @@
             },
             {
                 "Team": "Fiorentina",
-                "Winning Chance (%)": 27.53
+                "Winning Chance (%)": 27.5
             },
             {
                 "Team": "Cremonese",
