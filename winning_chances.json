@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 14 April 2026, 07:06 PM UTC",
-        "IST": "Wednesday, 15 April 2026, 12:36 AM IST"
+        "UTC": "Tuesday, 14 April 2026, 08:29 PM UTC",
+        "IST": "Wednesday, 15 April 2026, 01:59 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -917,19 +917,19 @@
             },
             {
                 "Team": "Ipswich Town",
-                "Winning Chance (%)": 61.83
+                "Winning Chance (%)": 60.38
             },
             {
                 "Team": "Millwall",
                 "Winning Chance (%)": 49.95
             },
             {
-                "Team": "Middlesbrough",
-                "Winning Chance (%)": 53.71
+                "Team": "Southampton",
+                "Winning Chance (%)": 54.51
             },
             {
-                "Team": "Southampton",
-                "Winning Chance (%)": 52.44
+                "Team": "Middlesbrough",
+                "Winning Chance (%)": 53.71
             },
             {
                 "Team": "Hull City",
@@ -984,15 +984,15 @@
                 "Winning Chance (%)": 31.11
             },
             {
+                "Team": "Portsmouth",
+                "Winning Chance (%)": 30.48
+            },
+            {
                 "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 30.39
+                "Winning Chance (%)": 29.77
             },
             {
                 "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 29.21
-            },
-            {
-                "Team": "Portsmouth",
                 "Winning Chance (%)": 29.21
             },
             {
