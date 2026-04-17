@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 17 April 2026, 11:28 AM UTC",
-        "IST": "Friday, 17 April 2026, 04:58 PM IST"
+        "UTC": "Friday, 17 April 2026, 12:09 PM UTC",
+        "IST": "Friday, 17 April 2026, 05:39 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1043,7 +1043,11 @@
             },
             {
                 "Team": "SC Delhi",
-                "Winning Chance (%)": 30.48
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "Chennaiyin",
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "NorthEast Utd",
@@ -1052,10 +1056,6 @@
             {
                 "Team": "Odisha",
                 "Winning Chance (%)": 22.22
-            },
-            {
-                "Team": "Chennaiyin",
-                "Winning Chance (%)": 19.05
             },
             {
                 "Team": "Kerala Blasters",
