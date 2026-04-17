@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 17 April 2026, 07:55 PM UTC",
-        "IST": "Saturday, 18 April 2026, 01:25 AM IST"
+        "UTC": "Friday, 17 April 2026, 08:40 PM UTC",
+        "IST": "Saturday, 18 April 2026, 02:10 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 79.81
+                "Winning Chance (%)": 82.23
             },
             {
                 "Team": "Napoli",
@@ -305,7 +305,7 @@
             },
             {
                 "Team": "Cagliari",
-                "Winning Chance (%)": 27.47
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Cremonese",
@@ -331,7 +331,7 @@
             },
             {
                 "Team": "Lens",
-                "Winning Chance (%)": 64.25
+                "Winning Chance (%)": 68.21
             },
             {
                 "Team": "LOSC",
@@ -358,12 +358,12 @@
                 "Winning Chance (%)": 45.75
             },
             {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 36.36
-            },
-            {
                 "Team": "Lorient",
                 "Winning Chance (%)": 34.94
+            },
+            {
+                "Team": "Toulouse",
+                "Winning Chance (%)": 32.89
             },
             {
                 "Team": "Brest",
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 70.13
+                "Winning Chance (%)": 69.11
             },
             {
                 "Team": "Ipswich Town",
@@ -980,12 +980,12 @@
                 "Winning Chance (%)": 34.29
             },
             {
-                "Team": "Charlton Athletic",
-                "Winning Chance (%)": 31.11
+                "Team": "Blackburn Rovers",
+                "Winning Chance (%)": 30.91
             },
             {
-                "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 29.7
+                "Team": "Charlton Athletic",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Portsmouth",
