@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 17 April 2026, 08:40 PM UTC",
-        "IST": "Saturday, 18 April 2026, 02:10 AM IST"
+        "UTC": "Friday, 17 April 2026, 09:37 PM UTC",
+        "IST": "Saturday, 18 April 2026, 03:07 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -245,7 +245,7 @@
         "Serie A": [
             {
                 "Team": "Inter",
-                "Winning Chance (%)": 82.23
+                "Winning Chance (%)": 82.63
             },
             {
                 "Team": "Napoli",
@@ -913,7 +913,7 @@
         "EFL Championship": [
             {
                 "Team": "Coventry City",
-                "Winning Chance (%)": 69.11
+                "Winning Chance (%)": 70.13
             },
             {
                 "Team": "Ipswich Town",
@@ -980,12 +980,12 @@
                 "Winning Chance (%)": 34.29
             },
             {
-                "Team": "Blackburn Rovers",
-                "Winning Chance (%)": 30.91
-            },
-            {
                 "Team": "Charlton Athletic",
                 "Winning Chance (%)": 31.11
+            },
+            {
+                "Team": "Blackburn Rovers",
+                "Winning Chance (%)": 29.7
             },
             {
                 "Team": "Portsmouth",
