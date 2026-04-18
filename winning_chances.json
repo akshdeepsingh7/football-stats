@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 April 2026, 04:49 PM UTC",
-        "IST": "Saturday, 18 April 2026, 10:19 PM IST"
+        "UTC": "Saturday, 18 April 2026, 05:32 PM UTC",
+        "IST": "Saturday, 18 April 2026, 11:02 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -249,7 +249,7 @@
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 59.73
+                "Winning Chance (%)": 59.33
             },
             {
                 "Team": "Milan",
@@ -277,7 +277,7 @@
             },
             {
                 "Team": "Lazio",
-                "Winning Chance (%)": 39.18
+                "Winning Chance (%)": 39.58
             },
             {
                 "Team": "Sassuolo",
@@ -375,7 +375,7 @@
             },
             {
                 "Team": "Angers",
-                "Winning Chance (%)": 30.34
+                "Winning Chance (%)": 30.22
             },
             {
                 "Team": "Le Havre",
@@ -886,6 +886,10 @@
                 "Winning Chance (%)": 29.43
             },
             {
+                "Team": "Santa Clara",
+                "Winning Chance (%)": 25.78
+            },
+            {
                 "Team": "Nacional",
                 "Winning Chance (%)": 24.89
             },
@@ -894,12 +898,8 @@
                 "Winning Chance (%)": 25.75
             },
             {
-                "Team": "Santa Clara",
-                "Winning Chance (%)": 25.75
-            },
-            {
                 "Team": "Casa Pia",
-                "Winning Chance (%)": 23.81
+                "Winning Chance (%)": 23.91
             },
             {
                 "Team": "Tondela",
