@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 April 2026, 03:04 PM UTC",
-        "IST": "Saturday, 18 April 2026, 08:34 PM IST"
+        "UTC": "Saturday, 18 April 2026, 03:59 PM UTC",
+        "IST": "Saturday, 18 April 2026, 09:29 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -191,7 +191,7 @@
             },
             {
                 "Team": "Bayer Leverkusen",
-                "Winning Chance (%)": 55.11
+                "Winning Chance (%)": 53.82
             },
             {
                 "Team": "Eintracht Frankfurt",
@@ -203,7 +203,7 @@
             },
             {
                 "Team": "Augsburg",
-                "Winning Chance (%)": 30.22
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Mainz 05",
@@ -334,12 +334,12 @@
                 "Winning Chance (%)": 68.21
             },
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 55.11
-            },
-            {
                 "Team": "LOSC",
                 "Winning Chance (%)": 54.74
+            },
+            {
+                "Team": "Marseille",
+                "Winning Chance (%)": 53.82
             },
             {
                 "Team": "Lyon",
@@ -359,7 +359,7 @@
             },
             {
                 "Team": "Lorient",
-                "Winning Chance (%)": 34.67
+                "Winning Chance (%)": 36.44
             },
             {
                 "Team": "Toulouse",
@@ -925,7 +925,7 @@
             },
             {
                 "Team": "Southampton",
-                "Winning Chance (%)": 53.45
+                "Winning Chance (%)": 56.11
             },
             {
                 "Team": "Middlesbrough",
@@ -933,7 +933,7 @@
             },
             {
                 "Team": "Hull City",
-                "Winning Chance (%)": 46.03
+                "Winning Chance (%)": 44.39
             },
             {
                 "Team": "Wrexham",
@@ -944,40 +944,40 @@
                 "Winning Chance (%)": 44.53
             },
             {
-                "Team": "Bristol City",
-                "Winning Chance (%)": 38.63
-            },
-            {
-                "Team": "Swansea City",
-                "Winning Chance (%)": 37.21
-            },
-            {
                 "Team": "Norwich City",
-                "Winning Chance (%)": 37.57
+                "Winning Chance (%)": 40.63
             },
             {
-                "Team": "Watford",
-                "Winning Chance (%)": 36.37
+                "Team": "Bristol City",
+                "Winning Chance (%)": 35.97
             },
             {
                 "Team": "Queens Park Rangers",
                 "Winning Chance (%)": 35.97
             },
             {
-                "Team": "Preston North End",
+                "Team": "Sheffield United",
+                "Winning Chance (%)": 36.15
+            },
+            {
+                "Team": "Watford",
                 "Winning Chance (%)": 35.35
             },
             {
                 "Team": "Birmingham City",
-                "Winning Chance (%)": 34.73
+                "Winning Chance (%)": 35.35
+            },
+            {
+                "Team": "Swansea City",
+                "Winning Chance (%)": 35.35
+            },
+            {
+                "Team": "Preston North End",
+                "Winning Chance (%)": 35.35
             },
             {
                 "Team": "Stoke City",
                 "Winning Chance (%)": 34.51
-            },
-            {
-                "Team": "Sheffield United",
-                "Winning Chance (%)": 34.11
             },
             {
                 "Team": "Portsmouth",
