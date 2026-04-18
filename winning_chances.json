@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 April 2026, 03:59 PM UTC",
-        "IST": "Saturday, 18 April 2026, 09:29 PM IST"
+        "UTC": "Saturday, 18 April 2026, 04:49 PM UTC",
+        "IST": "Saturday, 18 April 2026, 10:19 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -38,12 +38,12 @@
                 "Winning Chance (%)": 38.79
             },
             {
-                "Team": "Everton",
-                "Winning Chance (%)": 39.97
+                "Team": "Brighton & Hove Albion",
+                "Winning Chance (%)": 40.38
             },
             {
-                "Team": "Brighton & Hove Albion",
-                "Winning Chance (%)": 40.73
+                "Team": "Everton",
+                "Winning Chance (%)": 39.97
             },
             {
                 "Team": "Sunderland",
@@ -75,7 +75,7 @@
             },
             {
                 "Team": "Tottenham Hotspur",
-                "Winning Chance (%)": 25.0
+                "Winning Chance (%)": 25.05
             },
             {
                 "Team": "Burnley",
@@ -178,12 +178,12 @@
                 "Winning Chance (%)": 68.89
             },
             {
-                "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 60.29
+                "Team": "RB Leipzig",
+                "Winning Chance (%)": 58.67
             },
             {
-                "Team": "RB Leipzig",
-                "Winning Chance (%)": 59.49
+                "Team": "VfB Stuttgart",
+                "Winning Chance (%)": 60.29
             },
             {
                 "Team": "Hoffenheim",
@@ -195,7 +195,7 @@
             },
             {
                 "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 38.62
+                "Winning Chance (%)": 38.22
             },
             {
                 "Team": "SC Freiburg",
@@ -249,7 +249,7 @@
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 61.8
+                "Winning Chance (%)": 59.73
             },
             {
                 "Team": "Milan",
@@ -276,12 +276,12 @@
                 "Winning Chance (%)": 42.0
             },
             {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 36.36
+                "Team": "Lazio",
+                "Winning Chance (%)": 39.18
             },
             {
-                "Team": "Lazio",
-                "Winning Chance (%)": 37.47
+                "Team": "Sassuolo",
+                "Winning Chance (%)": 36.36
             },
             {
                 "Team": "Udinese",
@@ -339,7 +339,7 @@
             },
             {
                 "Team": "Marseille",
-                "Winning Chance (%)": 53.82
+                "Winning Chance (%)": 53.42
             },
             {
                 "Team": "Lyon",
@@ -866,16 +866,16 @@
                 "Winning Chance (%)": 34.42
             },
             {
-                "Team": "Alverca",
-                "Winning Chance (%)": 32.0
-            },
-            {
                 "Team": "Moreirense",
                 "Winning Chance (%)": 33.1
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
                 "Winning Chance (%)": 33.1
+            },
+            {
+                "Team": "Alverca",
+                "Winning Chance (%)": 31.11
             },
             {
                 "Team": "Rio Ave",
@@ -886,16 +886,16 @@
                 "Winning Chance (%)": 29.43
             },
             {
+                "Team": "Nacional",
+                "Winning Chance (%)": 24.89
+            },
+            {
                 "Team": "Estrela Amadora",
                 "Winning Chance (%)": 25.75
             },
             {
                 "Team": "Santa Clara",
                 "Winning Chance (%)": 25.75
-            },
-            {
-                "Team": "Nacional",
-                "Winning Chance (%)": 23.11
             },
             {
                 "Team": "Casa Pia",
