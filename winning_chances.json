@@ -1,17 +1,17 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 April 2026, 02:40 PM UTC",
-        "IST": "Sunday, 19 April 2026, 08:10 PM IST"
+        "UTC": "Sunday, 19 April 2026, 03:33 PM UTC",
+        "IST": "Sunday, 19 April 2026, 09:03 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 73.53
+                "Winning Chance (%)": 72.57
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 69.05
+                "Winning Chance (%)": 68.17
             },
             {
                 "Team": "Manchester United",
@@ -19,11 +19,11 @@
             },
             {
                 "Team": "Aston Villa",
-                "Winning Chance (%)": 49.67
+                "Winning Chance (%)": 49.27
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 46.83
+                "Winning Chance (%)": 48.84
             },
             {
                 "Team": "Chelsea",
@@ -34,16 +34,16 @@
                 "Winning Chance (%)": 40.39
             },
             {
-                "Team": "Everton",
-                "Winning Chance (%)": 39.59
-            },
-            {
                 "Team": "AFC Bournemouth",
                 "Winning Chance (%)": 38.79
             },
             {
                 "Team": "Brighton & Hove Albion",
                 "Winning Chance (%)": 40.38
+            },
+            {
+                "Team": "Everton",
+                "Winning Chance (%)": 38.38
             },
             {
                 "Team": "Sunderland",
@@ -171,7 +171,7 @@
         "Bundesliga": [
             {
                 "Team": "Bayern Munich",
-                "Winning Chance (%)": 89.89
+                "Winning Chance (%)": 88.44
             },
             {
                 "Team": "Borussia Dortmund",
@@ -183,7 +183,7 @@
             },
             {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 60.29
+                "Winning Chance (%)": 59.47
             },
             {
                 "Team": "Hoffenheim",
@@ -347,7 +347,7 @@
             },
             {
                 "Team": "Rennes",
-                "Winning Chance (%)": 49.18
+                "Winning Chance (%)": 48.53
             },
             {
                 "Team": "Monaco",
@@ -355,7 +355,7 @@
             },
             {
                 "Team": "Strasbourg",
-                "Winning Chance (%)": 45.75
+                "Winning Chance (%)": 45.26
             },
             {
                 "Team": "Lorient",
@@ -367,11 +367,11 @@
             },
             {
                 "Team": "Brest",
-                "Winning Chance (%)": 34.29
+                "Winning Chance (%)": 33.1
             },
             {
                 "Team": "Paris FC",
-                "Winning Chance (%)": 32.18
+                "Winning Chance (%)": 32.0
             },
             {
                 "Team": "Angers",
@@ -391,11 +391,11 @@
             },
             {
                 "Team": "Nantes",
-                "Winning Chance (%)": 18.1
+                "Winning Chance (%)": 20.23
             },
             {
                 "Team": "Metz",
-                "Winning Chance (%)": 13.79
+                "Winning Chance (%)": 14.22
             }
         ],
         "Champions League": [
