@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 April 2026, 12:51 PM UTC",
-        "IST": "Sunday, 19 April 2026, 06:21 PM IST"
+        "UTC": "Sunday, 19 April 2026, 01:57 PM UTC",
+        "IST": "Sunday, 19 April 2026, 07:27 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -19,11 +19,11 @@
             },
             {
                 "Team": "Aston Villa",
-                "Winning Chance (%)": 47.83
+                "Winning Chance (%)": 49.27
             },
             {
                 "Team": "Liverpool FC",
-                "Winning Chance (%)": 47.33
+                "Winning Chance (%)": 48.84
             },
             {
                 "Team": "Chelsea",
@@ -43,11 +43,11 @@
             },
             {
                 "Team": "Everton",
-                "Winning Chance (%)": 39.97
+                "Winning Chance (%)": 38.38
             },
             {
                 "Team": "Sunderland",
-                "Winning Chance (%)": 38.33
+                "Winning Chance (%)": 37.17
             },
             {
                 "Team": "Fulham",
@@ -67,7 +67,7 @@
             },
             {
                 "Team": "Nottingham Forest",
-                "Winning Chance (%)": 27.5
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "West Ham United",
@@ -79,7 +79,7 @@
             },
             {
                 "Team": "Burnley",
-                "Winning Chance (%)": 16.67
+                "Winning Chance (%)": 18.59
             },
             {
                 "Team": "Wolverhampton Wanderers",
@@ -194,12 +194,12 @@
                 "Winning Chance (%)": 53.82
             },
             {
-                "Team": "Eintracht Frankfurt",
-                "Winning Chance (%)": 37.33
+                "Team": "SC Freiburg",
+                "Winning Chance (%)": 38.22
             },
             {
-                "Team": "SC Freiburg",
-                "Winning Chance (%)": 36.78
+                "Team": "Eintracht Frankfurt",
+                "Winning Chance (%)": 37.33
             },
             {
                 "Team": "Augsburg",
@@ -239,7 +239,7 @@
             },
             {
                 "Team": "Heidenheim",
-                "Winning Chance (%)": 17.47
+                "Winning Chance (%)": 16.89
             }
         ],
         "Serie A": [
@@ -248,12 +248,12 @@
                 "Winning Chance (%)": 82.63
             },
             {
-                "Team": "Napoli",
-                "Winning Chance (%)": 59.33
+                "Team": "Milan",
+                "Winning Chance (%)": 61.73
             },
             {
-                "Team": "Milan",
-                "Winning Chance (%)": 60.5
+                "Team": "Napoli",
+                "Winning Chance (%)": 59.33
             },
             {
                 "Team": "Juventus",
@@ -316,12 +316,12 @@
                 "Winning Chance (%)": 22.5
             },
             {
-                "Team": "Hellas Verona",
+                "Team": "Pisa",
                 "Winning Chance (%)": 15.0
             },
             {
-                "Team": "Pisa",
-                "Winning Chance (%)": 15.0
+                "Team": "Hellas Verona",
+                "Winning Chance (%)": 14.55
             }
         ],
         "Ligue 1": [
@@ -351,7 +351,7 @@
             },
             {
                 "Team": "Monaco",
-                "Winning Chance (%)": 47.86
+                "Winning Chance (%)": 45.56
             },
             {
                 "Team": "Strasbourg",
@@ -387,7 +387,7 @@
             },
             {
                 "Team": "Auxerre",
-                "Winning Chance (%)": 22.07
+                "Winning Chance (%)": 24.0
             },
             {
                 "Team": "Nantes",
