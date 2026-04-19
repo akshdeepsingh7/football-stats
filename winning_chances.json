@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 April 2026, 05:31 PM UTC",
-        "IST": "Sunday, 19 April 2026, 11:01 PM IST"
+        "UTC": "Sunday, 19 April 2026, 06:40 PM UTC",
+        "IST": "Monday, 20 April 2026, 12:10 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -207,7 +207,11 @@
             },
             {
                 "Team": "Mainz 05",
-                "Winning Chance (%)": 30.22
+                "Winning Chance (%)": 29.33
+            },
+            {
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Winning Chance (%)": 29.33
             },
             {
                 "Team": "Union Berlin",
@@ -215,10 +219,6 @@
             },
             {
                 "Team": "K\u00f6ln",
-                "Winning Chance (%)": 27.56
-            },
-            {
-                "Team": "Borussia M\u00f6nchengladbach",
                 "Winning Chance (%)": 27.56
             },
             {
@@ -842,12 +842,12 @@
                 "Winning Chance (%)": 87.89
             },
             {
-                "Team": "Sporting CP",
-                "Winning Chance (%)": 86.21
+                "Team": "Benfica",
+                "Winning Chance (%)": 81.6
             },
             {
-                "Team": "Benfica",
-                "Winning Chance (%)": 79.42
+                "Team": "Sporting CP",
+                "Winning Chance (%)": 85.29
             },
             {
                 "Team": "Braga",
