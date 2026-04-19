@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 April 2026, 09:30 PM UTC",
-        "IST": "Monday, 20 April 2026, 03:00 AM IST"
+        "UTC": "Sunday, 19 April 2026, 10:29 PM UTC",
+        "IST": "Monday, 20 April 2026, 03:59 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -851,11 +851,11 @@
             },
             {
                 "Team": "Braga",
-                "Winning Chance (%)": 58.62
+                "Winning Chance (%)": 59.94
             },
             {
                 "Team": "Famalic\u00e3o",
-                "Winning Chance (%)": 49.24
+                "Winning Chance (%)": 47.07
             },
             {
                 "Team": "Gil Vicente",
@@ -1069,7 +1069,7 @@
         "Brasileir\u00e3o": [
             {
                 "Team": "Palmeiras",
-                "Winning Chance (%)": 64.4
+                "Winning Chance (%)": 69.24
             },
             {
                 "Team": "Fluminense",
@@ -1089,7 +1089,7 @@
             },
             {
                 "Team": "Athletico Paranaense",
-                "Winning Chance (%)": 46.04
+                "Winning Chance (%)": 43.42
             },
             {
                 "Team": "Coritiba",
@@ -1104,16 +1104,16 @@
                 "Winning Chance (%)": 35.56
             },
             {
+                "Team": "RB Bragantino",
+                "Winning Chance (%)": 33.33
+            },
+            {
                 "Team": "Vit\u00f3ria",
                 "Winning Chance (%)": 36.36
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
                 "Winning Chance (%)": 31.11
-            },
-            {
-                "Team": "RB Bragantino",
-                "Winning Chance (%)": 33.94
             },
             {
                 "Team": "Gr\u00eamio",
@@ -1141,7 +1141,7 @@
             },
             {
                 "Team": "Remo",
-                "Winning Chance (%)": 19.39
+                "Winning Chance (%)": 20.0
             },
             {
                 "Team": "Chapecoense",
