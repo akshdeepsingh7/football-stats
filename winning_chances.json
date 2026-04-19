@@ -1,17 +1,17 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 April 2026, 04:34 PM UTC",
-        "IST": "Sunday, 19 April 2026, 10:04 PM IST"
+        "UTC": "Sunday, 19 April 2026, 05:31 PM UTC",
+        "IST": "Sunday, 19 April 2026, 11:01 PM IST"
     },
     "winning_chances": {
         "Premier League": [
             {
                 "Team": "Arsenal",
-                "Winning Chance (%)": 72.57
+                "Winning Chance (%)": 71.37
             },
             {
                 "Team": "Manchester City",
-                "Winning Chance (%)": 68.17
+                "Winning Chance (%)": 70.23
             },
             {
                 "Team": "Manchester United",
@@ -207,7 +207,7 @@
             },
             {
                 "Team": "Mainz 05",
-                "Winning Chance (%)": 30.34
+                "Winning Chance (%)": 30.22
             },
             {
                 "Team": "Union Berlin",
@@ -218,16 +218,16 @@
                 "Winning Chance (%)": 27.56
             },
             {
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Winning Chance (%)": 27.56
+            },
+            {
                 "Team": "Hamburg",
                 "Winning Chance (%)": 27.56
             },
             {
                 "Team": "Werder Bremen",
                 "Winning Chance (%)": 27.56
-            },
-            {
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Winning Chance (%)": 27.59
             },
             {
                 "Team": "St. Pauli",
@@ -292,12 +292,12 @@
                 "Winning Chance (%)": 32.32
             },
             {
-                "Team": "Parma",
+                "Team": "Genoa",
                 "Winning Chance (%)": 31.52
             },
             {
-                "Team": "Genoa",
-                "Winning Chance (%)": 29.09
+                "Team": "Parma",
+                "Winning Chance (%)": 31.52
             },
             {
                 "Team": "Fiorentina",
@@ -316,11 +316,11 @@
                 "Winning Chance (%)": 22.5
             },
             {
-                "Team": "Pisa",
-                "Winning Chance (%)": 16.97
+                "Team": "Hellas Verona",
+                "Winning Chance (%)": 14.55
             },
             {
-                "Team": "Hellas Verona",
+                "Team": "Pisa",
                 "Winning Chance (%)": 14.55
             }
         ],
@@ -362,16 +362,16 @@
                 "Winning Chance (%)": 36.44
             },
             {
+                "Team": "Paris FC",
+                "Winning Chance (%)": 33.78
+            },
+            {
                 "Team": "Toulouse",
                 "Winning Chance (%)": 32.89
             },
             {
                 "Team": "Brest",
-                "Winning Chance (%)": 33.1
-            },
-            {
-                "Team": "Paris FC",
-                "Winning Chance (%)": 32.0
+                "Winning Chance (%)": 34.02
             },
             {
                 "Team": "Angers",
@@ -391,11 +391,11 @@
             },
             {
                 "Team": "Nantes",
-                "Winning Chance (%)": 20.23
+                "Winning Chance (%)": 18.39
             },
             {
                 "Team": "Metz",
-                "Winning Chance (%)": 14.22
+                "Winning Chance (%)": 13.33
             }
         ],
         "Champions League": [
@@ -843,11 +843,11 @@
             },
             {
                 "Team": "Sporting CP",
-                "Winning Chance (%)": 87.62
+                "Winning Chance (%)": 86.21
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 80.65
+                "Winning Chance (%)": 79.42
             },
             {
                 "Team": "Braga",
