@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 20 April 2026, 06:02 PM UTC",
-        "IST": "Monday, 20 April 2026, 11:32 PM IST"
+        "UTC": "Monday, 20 April 2026, 07:38 PM UTC",
+        "IST": "Tuesday, 21 April 2026, 01:08 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -55,7 +55,7 @@
             },
             {
                 "Team": "Crystal Palace",
-                "Winning Chance (%)": 36.13
+                "Winning Chance (%)": 35.83
             },
             {
                 "Team": "Newcastle United",
@@ -301,7 +301,7 @@
             },
             {
                 "Team": "Fiorentina",
-                "Winning Chance (%)": 29.17
+                "Winning Chance (%)": 30.71
             },
             {
                 "Team": "Cagliari",
@@ -313,7 +313,7 @@
             },
             {
                 "Team": "Lecce",
-                "Winning Chance (%)": 22.5
+                "Winning Chance (%)": 21.82
             },
             {
                 "Team": "Hellas Verona",
@@ -862,16 +862,16 @@
                 "Winning Chance (%)": 46.09
             },
             {
+                "Team": "Moreirense",
+                "Winning Chance (%)": 34.67
+            },
+            {
                 "Team": "Vit\u00f3ria S.C.",
                 "Winning Chance (%)": 34.67
             },
             {
                 "Team": "Estoril",
-                "Winning Chance (%)": 34.42
-            },
-            {
-                "Team": "Moreirense",
-                "Winning Chance (%)": 33.1
+                "Winning Chance (%)": 32.89
             },
             {
                 "Team": "Arouca",
