@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 21 April 2026, 04:08 PM UTC",
-        "IST": "Tuesday, 21 April 2026, 09:38 PM IST"
+        "UTC": "Tuesday, 21 April 2026, 05:33 PM UTC",
+        "IST": "Tuesday, 21 April 2026, 11:03 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -120,32 +120,32 @@
                 "Winning Chance (%)": 35.27
             },
             {
-                "Team": "Osasuna",
-                "Winning Chance (%)": 33.55
+                "Team": "Athletic Bilbao",
+                "Winning Chance (%)": 34.17
             },
             {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 32.69
+                "Team": "Osasuna",
+                "Winning Chance (%)": 32.5
             },
             {
                 "Team": "Girona",
                 "Winning Chance (%)": 32.69
             },
             {
-                "Team": "Athletic Bilbao",
+                "Team": "Espanyol",
                 "Winning Chance (%)": 32.69
+            },
+            {
+                "Team": "Valencia",
+                "Winning Chance (%)": 30.0
+            },
+            {
+                "Team": "Mallorca",
+                "Winning Chance (%)": 29.17
             },
             {
                 "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 30.11
-            },
-            {
-                "Team": "Valencia",
-                "Winning Chance (%)": 30.11
-            },
-            {
-                "Team": "Mallorca",
-                "Winning Chance (%)": 29.25
             },
             {
                 "Team": "Sevilla",
