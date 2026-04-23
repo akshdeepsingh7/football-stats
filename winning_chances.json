@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 23 April 2026, 04:58 PM UTC",
-        "IST": "Thursday, 23 April 2026, 10:28 PM IST"
+        "UTC": "Thursday, 23 April 2026, 06:07 PM UTC",
+        "IST": "Thursday, 23 April 2026, 11:37 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -128,12 +128,16 @@
                 "Winning Chance (%)": 32.5
             },
             {
+                "Team": "Espanyol",
+                "Winning Chance (%)": 32.5
+            },
+            {
                 "Team": "Girona",
                 "Winning Chance (%)": 31.67
             },
             {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 32.69
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Valencia",
@@ -148,12 +152,8 @@
                 "Winning Chance (%)": 29.17
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 30.11
-            },
-            {
                 "Team": "Sevilla",
-                "Winning Chance (%)": 29.25
+                "Winning Chance (%)": 28.33
             },
             {
                 "Team": "Alav\u00e9s",
@@ -161,7 +161,7 @@
             },
             {
                 "Team": "Levante",
-                "Winning Chance (%)": 24.95
+                "Winning Chance (%)": 26.67
             },
             {
                 "Team": "Real Oviedo",
@@ -851,7 +851,7 @@
             },
             {
                 "Team": "Braga",
-                "Winning Chance (%)": 59.94
+                "Winning Chance (%)": 59.2
             },
             {
                 "Team": "Famalic\u00e3o",
@@ -899,7 +899,7 @@
             },
             {
                 "Team": "Casa Pia",
-                "Winning Chance (%)": 23.91
+                "Winning Chance (%)": 24.0
             },
             {
                 "Team": "Tondela",
