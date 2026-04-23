@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 23 April 2026, 07:48 PM UTC",
-        "IST": "Friday, 24 April 2026, 01:18 AM IST"
+        "UTC": "Thursday, 23 April 2026, 08:46 PM UTC",
+        "IST": "Friday, 24 April 2026, 02:16 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -128,16 +128,16 @@
                 "Winning Chance (%)": 32.5
             },
             {
+                "Team": "Rayo Vallecano",
+                "Winning Chance (%)": 31.67
+            },
+            {
                 "Team": "Espanyol",
-                "Winning Chance (%)": 32.5
+                "Winning Chance (%)": 31.67
             },
             {
                 "Team": "Girona",
                 "Winning Chance (%)": 31.67
-            },
-            {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 30.0
             },
             {
                 "Team": "Valencia",
