@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 23 April 2026, 01:15 PM UTC",
-        "IST": "Thursday, 23 April 2026, 06:45 PM IST"
+        "UTC": "Thursday, 23 April 2026, 03:25 PM UTC",
+        "IST": "Thursday, 23 April 2026, 08:55 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -242,88 +242,7 @@
                 "Winning Chance (%)": 16.89
             }
         ],
-        "Serie A": [
-            {
-                "Team": "Inter",
-                "Winning Chance (%)": 82.63
-            },
-            {
-                "Team": "Milan",
-                "Winning Chance (%)": 61.73
-            },
-            {
-                "Team": "Napoli",
-                "Winning Chance (%)": 59.33
-            },
-            {
-                "Team": "Juventus",
-                "Winning Chance (%)": 62.11
-            },
-            {
-                "Team": "Como",
-                "Winning Chance (%)": 58.47
-            },
-            {
-                "Team": "Roma",
-                "Winning Chance (%)": 53.67
-            },
-            {
-                "Team": "Atalanta",
-                "Winning Chance (%)": 50.04
-            },
-            {
-                "Team": "Bologna",
-                "Winning Chance (%)": 39.99
-            },
-            {
-                "Team": "Lazio",
-                "Winning Chance (%)": 39.58
-            },
-            {
-                "Team": "Sassuolo",
-                "Winning Chance (%)": 36.36
-            },
-            {
-                "Team": "Udinese",
-                "Winning Chance (%)": 34.75
-            },
-            {
-                "Team": "Torino",
-                "Winning Chance (%)": 32.32
-            },
-            {
-                "Team": "Genoa",
-                "Winning Chance (%)": 31.52
-            },
-            {
-                "Team": "Parma",
-                "Winning Chance (%)": 31.52
-            },
-            {
-                "Team": "Fiorentina",
-                "Winning Chance (%)": 29.09
-            },
-            {
-                "Team": "Cagliari",
-                "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Cremonese",
-                "Winning Chance (%)": 22.63
-            },
-            {
-                "Team": "Lecce",
-                "Winning Chance (%)": 22.63
-            },
-            {
-                "Team": "Hellas Verona",
-                "Winning Chance (%)": 14.55
-            },
-            {
-                "Team": "Pisa",
-                "Winning Chance (%)": 14.55
-            }
-        ],
+        "Serie A": [],
         "Ligue 1": [
             {
                 "Team": "PSG",
@@ -1046,20 +965,20 @@
                 "Winning Chance (%)": 26.67
             },
             {
+                "Team": "Kerala Blasters",
+                "Winning Chance (%)": 21.82
+            },
+            {
                 "Team": "SC Delhi",
                 "Winning Chance (%)": 26.67
             },
             {
-                "Team": "Kerala Blasters",
-                "Winning Chance (%)": 21.33
+                "Team": "Odisha",
+                "Winning Chance (%)": 23.33
             },
             {
                 "Team": "NorthEast Utd",
                 "Winning Chance (%)": 20.74
-            },
-            {
-                "Team": "Odisha",
-                "Winning Chance (%)": 22.86
             },
             {
                 "Team": "Mohammedan",
