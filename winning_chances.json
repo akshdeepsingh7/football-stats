@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 24 April 2026, 05:28 PM UTC",
-        "IST": "Friday, 24 April 2026, 10:58 PM IST"
+        "UTC": "Friday, 24 April 2026, 06:05 PM UTC",
+        "IST": "Friday, 24 April 2026, 11:35 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -980,16 +980,16 @@
                 "Winning Chance (%)": 33.33
             },
             {
-                "Team": "West Bromwich Albion",
-                "Winning Chance (%)": 31.52
-            },
-            {
                 "Team": "Blackburn Rovers",
                 "Winning Chance (%)": 30.81
             },
             {
                 "Team": "Portsmouth",
                 "Winning Chance (%)": 30.91
+            },
+            {
+                "Team": "West Bromwich Albion",
+                "Winning Chance (%)": 30.3
             },
             {
                 "Team": "Charlton Athletic",
