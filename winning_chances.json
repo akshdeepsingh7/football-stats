@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 24 April 2026, 07:27 PM UTC",
-        "IST": "Saturday, 25 April 2026, 12:57 AM IST"
+        "UTC": "Friday, 24 April 2026, 08:06 PM UTC",
+        "IST": "Saturday, 25 April 2026, 01:36 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -179,7 +179,7 @@
             },
             {
                 "Team": "RB Leipzig",
-                "Winning Chance (%)": 62.93
+                "Winning Chance (%)": 63.33
             },
             {
                 "Team": "VfB Stuttgart",
@@ -249,7 +249,7 @@
             },
             {
                 "Team": "Napoli",
-                "Winning Chance (%)": 60.52
+                "Winning Chance (%)": 61.72
             },
             {
                 "Team": "Milan",
@@ -870,16 +870,16 @@
                 "Winning Chance (%)": 34.67
             },
             {
+                "Team": "Alverca",
+                "Winning Chance (%)": 32.69
+            },
+            {
                 "Team": "Estoril",
                 "Winning Chance (%)": 32.89
             },
             {
                 "Team": "Arouca",
-                "Winning Chance (%)": 30.97
-            },
-            {
-                "Team": "Alverca",
-                "Winning Chance (%)": 30.97
+                "Winning Chance (%)": 30.11
             },
             {
                 "Team": "Rio Ave",
