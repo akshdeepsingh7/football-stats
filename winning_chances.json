@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 April 2026, 08:49 PM UTC",
-        "IST": "Sunday, 26 April 2026, 02:19 AM IST"
+        "UTC": "Saturday, 25 April 2026, 09:32 PM UTC",
+        "IST": "Sunday, 26 April 2026, 03:02 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -346,12 +346,12 @@
                 "Winning Chance (%)": 51.51
             },
             {
-                "Team": "Monaco",
-                "Winning Chance (%)": 48.79
-            },
-            {
                 "Team": "Marseille",
                 "Winning Chance (%)": 53.42
+            },
+            {
+                "Team": "Monaco",
+                "Winning Chance (%)": 46.67
             },
             {
                 "Team": "Strasbourg",
@@ -362,16 +362,16 @@
                 "Winning Chance (%)": 36.44
             },
             {
+                "Team": "Toulouse",
+                "Winning Chance (%)": 32.69
+            },
+            {
                 "Team": "Brest",
                 "Winning Chance (%)": 33.78
             },
             {
                 "Team": "Paris FC",
                 "Winning Chance (%)": 33.78
-            },
-            {
-                "Team": "Toulouse",
-                "Winning Chance (%)": 31.83
             },
             {
                 "Team": "Angers",
@@ -863,7 +863,7 @@
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
-                "Winning Chance (%)": 34.41
+                "Winning Chance (%)": 36.13
             },
             {
                 "Team": "Moreirense",
@@ -883,7 +883,7 @@
             },
             {
                 "Team": "Rio Ave",
-                "Winning Chance (%)": 30.11
+                "Winning Chance (%)": 29.25
             },
             {
                 "Team": "Nacional",
@@ -1101,7 +1101,7 @@
             },
             {
                 "Team": "Botafogo",
-                "Winning Chance (%)": 38.79
+                "Winning Chance (%)": 37.78
             },
             {
                 "Team": "Vasco da Gama",
@@ -1116,11 +1116,11 @@
                 "Winning Chance (%)": 31.11
             },
             {
-                "Team": "Gr\u00eamio",
-                "Winning Chance (%)": 28.89
+                "Team": "Internacional",
+                "Winning Chance (%)": 28.72
             },
             {
-                "Team": "Internacional",
+                "Team": "Gr\u00eamio",
                 "Winning Chance (%)": 28.89
             },
             {
