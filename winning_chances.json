@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 April 2026, 06:02 PM UTC",
-        "IST": "Saturday, 25 April 2026, 11:32 PM IST"
+        "UTC": "Saturday, 25 April 2026, 07:24 PM UTC",
+        "IST": "Sunday, 26 April 2026, 12:54 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -101,27 +101,27 @@
             },
             {
                 "Team": "Atl\u00e9tico de Madrid",
-                "Winning Chance (%)": 54.7
+                "Winning Chance (%)": 52.86
             },
             {
                 "Team": "Real Betis",
                 "Winning Chance (%)": 43.6
             },
             {
-                "Team": "Getafe",
-                "Winning Chance (%)": 35.56
-            },
-            {
                 "Team": "Celta de Vigo",
                 "Winning Chance (%)": 37.87
             },
             {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 35.0
+                "Team": "Getafe",
+                "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Athletic Bilbao",
-                "Winning Chance (%)": 34.17
+                "Winning Chance (%)": 35.56
+            },
+            {
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 35.0
             },
             {
                 "Team": "Osasuna",
@@ -309,7 +309,7 @@
             },
             {
                 "Team": "Lecce",
-                "Winning Chance (%)": 22.63
+                "Winning Chance (%)": 22.75
             },
             {
                 "Team": "Cremonese",
@@ -317,7 +317,7 @@
             },
             {
                 "Team": "Hellas Verona",
-                "Winning Chance (%)": 14.55
+                "Winning Chance (%)": 14.9
             },
             {
                 "Team": "Pisa",
@@ -327,7 +327,7 @@
         "Ligue 1": [
             {
                 "Team": "PSG",
-                "Winning Chance (%)": 78.13
+                "Winning Chance (%)": 78.53
             },
             {
                 "Team": "Lens",
@@ -346,12 +346,12 @@
                 "Winning Chance (%)": 51.51
             },
             {
-                "Team": "Marseille",
-                "Winning Chance (%)": 53.42
+                "Team": "Monaco",
+                "Winning Chance (%)": 49.19
             },
             {
-                "Team": "Monaco",
-                "Winning Chance (%)": 47.24
+                "Team": "Marseille",
+                "Winning Chance (%)": 53.42
             },
             {
                 "Team": "Strasbourg",
@@ -371,7 +371,7 @@
             },
             {
                 "Team": "Toulouse",
-                "Winning Chance (%)": 32.89
+                "Winning Chance (%)": 31.83
             },
             {
                 "Team": "Angers",
@@ -843,7 +843,7 @@
             },
             {
                 "Team": "Benfica",
-                "Winning Chance (%)": 82.52
+                "Winning Chance (%)": 83.32
             },
             {
                 "Team": "Sporting CP",
