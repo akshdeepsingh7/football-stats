@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 April 2026, 12:55 PM UTC",
-        "IST": "Sunday, 26 April 2026, 06:25 PM IST"
+        "UTC": "Sunday, 26 April 2026, 02:02 PM UTC",
+        "IST": "Sunday, 26 April 2026, 07:32 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -108,16 +108,16 @@
                 "Winning Chance (%)": 43.6
             },
             {
+                "Team": "Real Sociedad",
+                "Winning Chance (%)": 36.76
+            },
+            {
                 "Team": "Getafe",
                 "Winning Chance (%)": 35.56
             },
             {
                 "Team": "Celta de Vigo",
                 "Winning Chance (%)": 37.87
-            },
-            {
-                "Team": "Real Sociedad",
-                "Winning Chance (%)": 34.75
             },
             {
                 "Team": "Athletic Bilbao",
@@ -128,20 +128,20 @@
                 "Winning Chance (%)": 32.5
             },
             {
-                "Team": "Rayo Vallecano",
-                "Winning Chance (%)": 31.52
-            },
-            {
                 "Team": "Valencia",
                 "Winning Chance (%)": 31.52
             },
             {
-                "Team": "Girona",
+                "Team": "Rayo Vallecano",
                 "Winning Chance (%)": 30.71
             },
             {
                 "Team": "Espanyol",
                 "Winning Chance (%)": 31.67
+            },
+            {
+                "Team": "Girona",
+                "Winning Chance (%)": 30.71
             },
             {
                 "Team": "Alav\u00e9s",
@@ -187,7 +187,7 @@
             },
             {
                 "Team": "VfB Stuttgart",
-                "Winning Chance (%)": 57.78
+                "Winning Chance (%)": 55.77
             },
             {
                 "Team": "Bayer Leverkusen",
@@ -210,6 +210,10 @@
                 "Winning Chance (%)": 29.25
             },
             {
+                "Team": "Werder Bremen",
+                "Winning Chance (%)": 29.25
+            },
+            {
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Winning Chance (%)": 27.53
             },
@@ -224,10 +228,6 @@
             {
                 "Team": "Hamburg",
                 "Winning Chance (%)": 26.67
-            },
-            {
-                "Team": "Werder Bremen",
-                "Winning Chance (%)": 27.56
             },
             {
                 "Team": "St. Pauli",
@@ -260,12 +260,12 @@
                 "Winning Chance (%)": 62.11
             },
             {
-                "Team": "Roma",
-                "Winning Chance (%)": 55.44
+                "Team": "Como",
+                "Winning Chance (%)": 59.84
             },
             {
-                "Team": "Como",
-                "Winning Chance (%)": 58.47
+                "Team": "Roma",
+                "Winning Chance (%)": 55.44
             },
             {
                 "Team": "Atalanta",
@@ -297,7 +297,7 @@
             },
             {
                 "Team": "Genoa",
-                "Winning Chance (%)": 31.52
+                "Winning Chance (%)": 30.59
             },
             {
                 "Team": "Fiorentina",
@@ -354,12 +354,12 @@
                 "Winning Chance (%)": 46.67
             },
             {
-                "Team": "Strasbourg",
-                "Winning Chance (%)": 43.14
+                "Team": "Lorient",
+                "Winning Chance (%)": 37.85
             },
             {
-                "Team": "Lorient",
-                "Winning Chance (%)": 36.44
+                "Team": "Strasbourg",
+                "Winning Chance (%)": 41.42
             },
             {
                 "Team": "Toulouse",
@@ -1038,15 +1038,15 @@
                 "Winning Chance (%)": 49.07
             },
             {
-                "Team": "SC Delhi",
-                "Winning Chance (%)": 32.59
-            },
-            {
                 "Team": "Inter Kashi",
                 "Winning Chance (%)": 32.59
             },
             {
                 "Team": "Kerala Blasters",
+                "Winning Chance (%)": 26.67
+            },
+            {
+                "Team": "SC Delhi",
                 "Winning Chance (%)": 26.67
             },
             {
@@ -1063,7 +1063,7 @@
             },
             {
                 "Team": "Mohammedan",
-                "Winning Chance (%)": 5.33
+                "Winning Chance (%)": 8.0
             }
         ],
         "Brasileir\u00e3o": [
