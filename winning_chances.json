@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 27 April 2026, 12:02 AM UTC",
-        "IST": "Monday, 27 April 2026, 05:32 AM IST"
+        "UTC": "Monday, 27 April 2026, 04:05 AM UTC",
+        "IST": "Monday, 27 April 2026, 09:35 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1073,11 +1073,11 @@
             },
             {
                 "Team": "Flamengo",
-                "Winning Chance (%)": 62.58
+                "Winning Chance (%)": 63.38
             },
             {
                 "Team": "Fluminense",
-                "Winning Chance (%)": 51.63
+                "Winning Chance (%)": 56.13
             },
             {
                 "Team": "S\u00e3o Paulo",
@@ -1140,12 +1140,12 @@
                 "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Chapecoense",
-                "Winning Chance (%)": 20.0
-            },
-            {
                 "Team": "Remo",
                 "Winning Chance (%)": 16.41
+            },
+            {
+                "Team": "Chapecoense",
+                "Winning Chance (%)": 17.78
             }
         ]
     }
