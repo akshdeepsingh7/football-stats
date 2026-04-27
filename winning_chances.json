@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 April 2026, 11:04 PM UTC",
-        "IST": "Monday, 27 April 2026, 04:34 AM IST"
+        "UTC": "Monday, 27 April 2026, 12:02 AM UTC",
+        "IST": "Monday, 27 April 2026, 05:32 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1073,23 +1073,23 @@
             },
             {
                 "Team": "Flamengo",
-                "Winning Chance (%)": 59.76
+                "Winning Chance (%)": 62.58
             },
             {
                 "Team": "Fluminense",
-                "Winning Chance (%)": 53.51
+                "Winning Chance (%)": 51.63
             },
             {
                 "Team": "S\u00e3o Paulo",
                 "Winning Chance (%)": 49.58
             },
             {
-                "Team": "Bahia",
-                "Winning Chance (%)": 47.87
+                "Team": "Athletico Paranaense",
+                "Winning Chance (%)": 47.13
             },
             {
-                "Team": "Athletico Paranaense",
-                "Winning Chance (%)": 42.23
+                "Team": "Bahia",
+                "Winning Chance (%)": 47.87
             },
             {
                 "Team": "Coritiba",
@@ -1112,12 +1112,12 @@
                 "Winning Chance (%)": 32.82
             },
             {
-                "Team": "Vit\u00f3ria",
-                "Winning Chance (%)": 35.56
-            },
-            {
                 "Team": "Cruzeiro",
                 "Winning Chance (%)": 32.82
+            },
+            {
+                "Team": "Vit\u00f3ria",
+                "Winning Chance (%)": 33.33
             },
             {
                 "Team": "Corinthians",
@@ -1125,7 +1125,7 @@
             },
             {
                 "Team": "Atl\u00e9tico Mineiro",
-                "Winning Chance (%)": 31.11
+                "Winning Chance (%)": 28.72
             },
             {
                 "Team": "Internacional",
@@ -1140,12 +1140,12 @@
                 "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Remo",
-                "Winning Chance (%)": 16.41
+                "Team": "Chapecoense",
+                "Winning Chance (%)": 20.0
             },
             {
-                "Team": "Chapecoense",
-                "Winning Chance (%)": 19.39
+                "Team": "Remo",
+                "Winning Chance (%)": 16.41
             }
         ]
     }
