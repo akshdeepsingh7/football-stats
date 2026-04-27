@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 27 April 2026, 06:47 PM UTC",
-        "IST": "Tuesday, 28 April 2026, 12:17 AM IST"
+        "UTC": "Monday, 27 April 2026, 08:05 PM UTC",
+        "IST": "Tuesday, 28 April 2026, 01:35 AM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -15,7 +15,7 @@
             },
             {
                 "Team": "Manchester United",
-                "Winning Chance (%)": 52.07
+                "Winning Chance (%)": 53.84
             },
             {
                 "Team": "Liverpool FC",
@@ -39,7 +39,7 @@
             },
             {
                 "Team": "Brentford",
-                "Winning Chance (%)": 40.39
+                "Winning Chance (%)": 38.45
             },
             {
                 "Team": "Fulham",
@@ -136,12 +136,12 @@
                 "Winning Chance (%)": 31.52
             },
             {
-                "Team": "Elche",
-                "Winning Chance (%)": 30.71
+                "Team": "Espanyol",
+                "Winning Chance (%)": 31.52
             },
             {
-                "Team": "Espanyol",
-                "Winning Chance (%)": 31.67
+                "Team": "Elche",
+                "Winning Chance (%)": 30.71
             },
             {
                 "Team": "Girona",
@@ -859,7 +859,7 @@
             },
             {
                 "Team": "Gil Vicente",
-                "Winning Chance (%)": 46.09
+                "Winning Chance (%)": 47.75
             },
             {
                 "Team": "Vit\u00f3ria S.C.",
@@ -899,7 +899,7 @@
             },
             {
                 "Team": "Casa Pia",
-                "Winning Chance (%)": 23.11
+                "Winning Chance (%)": 22.37
             },
             {
                 "Team": "Tondela",
