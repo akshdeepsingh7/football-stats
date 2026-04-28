@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 28 April 2026, 12:11 PM UTC",
-        "IST": "Tuesday, 28 April 2026, 05:41 PM IST"
+        "UTC": "Tuesday, 28 April 2026, 05:10 PM UTC",
+        "IST": "Tuesday, 28 April 2026, 10:40 PM IST"
     },
     "winning_chances": {
         "Premier League": [
@@ -1022,16 +1022,16 @@
                 "Winning Chance (%)": 51.87
             },
             {
+                "Team": "East Bengal",
+                "Winning Chance (%)": 60.13
+            },
+            {
                 "Team": "Jamshedpur",
                 "Winning Chance (%)": 49.6
             },
             {
                 "Team": "Bengaluru",
                 "Winning Chance (%)": 44.27
-            },
-            {
-                "Team": "East Bengal",
-                "Winning Chance (%)": 55.6
             },
             {
                 "Team": "Punjab FC",
@@ -1059,7 +1059,7 @@
             },
             {
                 "Team": "Odisha",
-                "Winning Chance (%)": 20.0
+                "Winning Chance (%)": 17.78
             },
             {
                 "Team": "Mohammedan",
