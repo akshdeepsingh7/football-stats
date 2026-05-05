@@ -1,18 +1,10 @@
-# ⚽ Football Winning Chances  
+# 🚧 Work in Progress
 
-Automatically scrapes football league data and generates **Winning Chance (%)** graphs.  
+This repo is currently broken and not working as expected.
+I'm actively working on fixing it and will push an update once it's ready.
 
-## 📄 JSON API  
+- ❌ Currently not working
+- 🔧 Fix in progress
+- 📢 Will be updated once done
 
-Access the raw data here:  
-[winning_chances.json](https://raw.githubusercontent.com/akshdeepsingh7/football-stats/refs/heads/main/winning_chances.json)
-
-## 📊 Winning Chances  
-
-<!-- START_WINNING_CHANCES -->
-**Last Updated:** Tuesday, 05 May 2026, 09:29 AM UTC (Tuesday, 05 May 2026, 02:59 PM IST)
-
-_Charts are sorted by Winning Chance (%)_
-
-
-<!-- END_WINNING_CHANCES -->
+Thanks for your patience!
