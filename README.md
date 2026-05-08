@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-08 19:39:44 UTC
+> **Last updated:** 2026-05-08 21:09:44 UTC
 
 ---
 
@@ -139,7 +139,7 @@
 | 7 | 2025-26 LALIGA | **Getafe** | 34 | 13 | 5 | 16 | 28 | 36 | -8 | **44** |
 | 8 | 2025-26 LALIGA | **Athletic Club** | 34 | 13 | 5 | 16 | 40 | 50 | -10 | **44** |
 | 9 | 2025-26 LALIGA | **Real Sociedad** | 34 | 11 | 10 | 13 | 52 | 53 | -1 | **43** |
-| 10 | 2025-26 LALIGA | **Osasuna** | 34 | 11 | 9 | 14 | 40 | 42 | -2 | **42** |
+| 10 | 2025-26 LALIGA | **Osasuna** | 35 | 11 | 9 | 15 | 42 | 45 | -3 | **42** |
 | 11 | 2025-26 LALIGA | **Rayo Vallecano** | 34 | 10 | 12 | 12 | 35 | 41 | -6 | **42** |
 | 12 | 2025-26 LALIGA | **Valencia** | 34 | 10 | 9 | 15 | 37 | 50 | -13 | **39** |
 | 13 | 2025-26 LALIGA | **Espanyol** | 34 | 10 | 9 | 15 | 37 | 51 | -14 | **39** |
@@ -147,8 +147,8 @@
 | 15 | 2025-26 LALIGA | **Mallorca** | 34 | 10 | 8 | 16 | 42 | 51 | -9 | **38** |
 | 16 | 2025-26 LALIGA | **Girona** | 34 | 9 | 11 | 14 | 36 | 51 | -15 | **38** |
 | 17 | 2025-26 LALIGA | **Sevilla** | 34 | 10 | 7 | 17 | 41 | 55 | -14 | **37** |
-| 18 | 2025-26 LALIGA | **Alavés** | 34 | 9 | 9 | 16 | 40 | 53 | -13 | **36** |
-| 19 | 2025-26 LALIGA | **Levante** | 34 | 8 | 9 | 17 | 38 | 55 | -17 | **33** |
+| 18 | 2025-26 LALIGA | **Levante** | 35 | 9 | 9 | 17 | 41 | 57 | -16 | **36** |
+| 19 | 2025-26 LALIGA | **Alavés** | 34 | 9 | 9 | 16 | 40 | 53 | -13 | **36** |
 | 20 | 2025-26 LALIGA | **Real Oviedo** | 34 | 6 | 10 | 18 | 26 | 54 | -28 | **28** |
 
 #### Points Table
@@ -200,10 +200,10 @@
 | 7 | 2025-2026 Italian Serie A | **Atalanta** | 35 | 14 | 13 | 8 | 47 | 32 | +15 | **55** |
 | 8 | 2025-2026 Italian Serie A | **Lazio** | 35 | 13 | 12 | 10 | 39 | 34 | +5 | **51** |
 | 9 | 2025-2026 Italian Serie A | **Bologna** | 35 | 14 | 7 | 14 | 42 | 41 | +1 | **49** |
-| 10 | 2025-2026 Italian Serie A | **Sassuolo** | 35 | 14 | 7 | 14 | 43 | 44 | -1 | **49** |
+| 10 | 2025-2026 Italian Serie A | **Sassuolo** | 36 | 14 | 7 | 15 | 44 | 46 | -2 | **49** |
 | 11 | 2025-2026 Italian Serie A | **Udinese** | 35 | 13 | 8 | 14 | 43 | 46 | -3 | **47** |
-| 12 | 2025-2026 Italian Serie A | **Parma** | 35 | 10 | 12 | 13 | 25 | 42 | -17 | **42** |
-| 13 | 2025-2026 Italian Serie A | **Torino** | 35 | 11 | 8 | 16 | 39 | 58 | -19 | **41** |
+| 12 | 2025-2026 Italian Serie A | **Torino** | 36 | 12 | 8 | 16 | 41 | 59 | -18 | **44** |
+| 13 | 2025-2026 Italian Serie A | **Parma** | 35 | 10 | 12 | 13 | 25 | 42 | -17 | **42** |
 | 14 | 2025-2026 Italian Serie A | **Genoa** | 35 | 10 | 10 | 15 | 40 | 48 | -8 | **40** |
 | 15 | 2025-2026 Italian Serie A | **Cagliari** | 35 | 9 | 10 | 16 | 36 | 49 | -13 | **37** |
 | 16 | 2025-2026 Italian Serie A | **Fiorentina** | 35 | 8 | 13 | 14 | 38 | 49 | -11 | **37** |
@@ -253,13 +253,13 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 2025-26 German Bundesliga | **Bayern Munich** | 32 | 26 | 5 | 1 | 116 | 35 | +81 | **83** |
-| 2 | 2025-26 German Bundesliga | **Borussia Dortmund** | 32 | 20 | 7 | 5 | 65 | 32 | +33 | **67** |
+| 2 | 2025-26 German Bundesliga | **Borussia Dortmund** | 33 | 21 | 7 | 5 | 68 | 34 | +34 | **70** |
 | 3 | 2025-26 German Bundesliga | **RB Leipzig** | 32 | 19 | 5 | 8 | 63 | 42 | +21 | **62** |
 | 4 | 2025-26 German Bundesliga | **Bayer Leverkusen** | 32 | 17 | 7 | 8 | 66 | 43 | +23 | **58** |
 | 5 | 2025-26 German Bundesliga | **VfB Stuttgart** | 32 | 17 | 7 | 8 | 66 | 46 | +20 | **58** |
 | 6 | 2025-26 German Bundesliga | **TSG Hoffenheim** | 32 | 17 | 7 | 8 | 64 | 48 | +16 | **58** |
 | 7 | 2025-26 German Bundesliga | **SC Freiburg** | 32 | 12 | 8 | 12 | 45 | 53 | -8 | **44** |
-| 8 | 2025-26 German Bundesliga | **Eintracht Frankfurt** | 32 | 11 | 10 | 11 | 57 | 60 | -3 | **43** |
+| 8 | 2025-26 German Bundesliga | **Eintracht Frankfurt** | 33 | 11 | 10 | 12 | 59 | 63 | -4 | **43** |
 | 9 | 2025-26 German Bundesliga | **FC Augsburg** | 32 | 11 | 7 | 14 | 42 | 56 | -14 | **40** |
 | 10 | 2025-26 German Bundesliga | **Mainz** | 32 | 9 | 10 | 13 | 41 | 50 | -9 | **37** |
 | 11 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 32 | 8 | 11 | 13 | 37 | 50 | -13 | **35** |
@@ -312,7 +312,7 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | French Ligue 1 2025-26 | **Paris Saint-Germain** | 31 | 22 | 4 | 5 | 70 | 27 | +43 | **70** |
-| 2 | French Ligue 1 2025-26 | **Lens** | 31 | 20 | 4 | 7 | 61 | 33 | +28 | **64** |
+| 2 | French Ligue 1 2025-26 | **Lens** | 32 | 21 | 4 | 7 | 62 | 33 | +29 | **67** |
 | 3 | French Ligue 1 2025-26 | **Lyon** | 32 | 18 | 6 | 8 | 52 | 34 | +18 | **60** |
 | 4 | French Ligue 1 2025-26 | **Lille** | 32 | 17 | 7 | 8 | 51 | 35 | +16 | **58** |
 | 5 | French Ligue 1 2025-26 | **Stade Rennais** | 32 | 16 | 8 | 8 | 56 | 46 | +10 | **56** |
@@ -327,7 +327,7 @@
 | 14 | French Ligue 1 2025-26 | **Le Havre AC** | 32 | 6 | 14 | 12 | 30 | 43 | -13 | **32** |
 | 15 | French Ligue 1 2025-26 | **Nice** | 32 | 7 | 10 | 15 | 36 | 58 | -22 | **31** |
 | 16 | French Ligue 1 2025-26 | **AJ Auxerre** | 32 | 6 | 10 | 16 | 30 | 43 | -13 | **28** |
-| 17 | French Ligue 1 2025-26 | **Nantes** | 32 | 5 | 8 | 19 | 29 | 51 | -22 | **23** |
+| 17 | French Ligue 1 2025-26 | **Nantes** | 33 | 5 | 8 | 20 | 29 | 52 | -23 | **23** |
 | 18 | French Ligue 1 2025-26 | **Metz** | 32 | 3 | 7 | 22 | 32 | 72 | -40 | **16** |
 
 #### Points Table
