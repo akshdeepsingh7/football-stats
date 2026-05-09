@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-09 18:32:51 UTC
+> **Last updated:** 2026-05-09 19:59:35 UTC
 
 ---
 
@@ -30,7 +30,7 @@
 | **UEFA Europa League** | **Lyon** | 21 | **Lyon** | 18 |
 | **Portuguese Primeira Liga** | **FC Porto** | 85 | **Sporting CP** | 82 |
 | **Dutch Eredivisie** | **PSV Eindhoven** | 78 | **PSV Eindhoven** | 92 |
-| **Turkish Super Lig** | **Galatasaray** | 74 | **Galatasaray** | 73 |
+| **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
 | **Scottish Premiership** | **Heart of Midlothian** | 76 | **Rangers** | 69 |
 | **MLS** | **Chicago Fire FC** | 17 | **San Jose Earthquakes** | 26 |
 | **Brazilian Serie A** | **Palmeiras** | 33 | **Flamengo** | 26 |
@@ -642,24 +642,24 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025/2026 Turkish Super L | **Galatasaray** | 32 | 23 | 5 | 4 | 73 | 27 | +46 | **74** |
-| 2 | 2025/2026 Turkish Super L | **Fenerbahce** | 32 | 20 | 10 | 2 | 71 | 34 | +37 | **70** |
-| 3 | 2025/2026 Turkish Super L | **Trabzonspor** | 32 | 19 | 9 | 4 | 59 | 35 | +24 | **66** |
-| 4 | 2025/2026 Turkish Super L | **Besiktas** | 32 | 17 | 8 | 7 | 56 | 36 | +20 | **59** |
-| 5 | 2025/2026 Turkish Super L | **Goztepe** | 32 | 13 | 13 | 6 | 40 | 28 | +12 | **52** |
-| 6 | 2025/2026 Turkish Super L | **Istanbul Basaksehir** | 32 | 14 | 9 | 9 | 53 | 34 | +19 | **51** |
-| 7 | 2025/2026 Turkish Super L | **Samsunspor** | 32 | 12 | 12 | 8 | 43 | 42 | +1 | **48** |
-| 8 | 2025/2026 Turkish Super L | **Caykur Rizespor** | 32 | 10 | 10 | 12 | 44 | 46 | -2 | **40** |
-| 9 | 2025/2026 Turkish Super L | **Konyaspor** | 32 | 10 | 10 | 12 | 42 | 45 | -3 | **40** |
-| 10 | 2025/2026 Turkish Super L | **Kocaelispor** | 32 | 9 | 10 | 13 | 26 | 36 | -10 | **37** |
-| 11 | 2025/2026 Turkish Super L | **Gaziantep FK** | 32 | 9 | 10 | 13 | 41 | 54 | -13 | **37** |
-| 12 | 2025/2026 Turkish Super L | **Alanyaspor** | 32 | 6 | 16 | 10 | 37 | 38 | -1 | **34** |
-| 13 | 2025/2026 Turkish Super L | **Kasimpasa** | 32 | 7 | 11 | 14 | 30 | 46 | -16 | **32** |
-| 14 | 2025/2026 Turkish Super L | **Eyupspor** | 32 | 7 | 8 | 17 | 26 | 45 | -19 | **29** |
-| 15 | 2025/2026 Turkish Super L | **Antalyaspor** | 32 | 7 | 8 | 17 | 30 | 51 | -21 | **29** |
-| 16 | 2025/2026 Turkish Super L | **Genclerbirligi** | 32 | 7 | 7 | 18 | 30 | 45 | -15 | **28** |
-| 17 | 2025/2026 Turkish Super L | **Kayserispor** | 32 | 5 | 12 | 15 | 24 | 58 | -34 | **27** |
-| 18 | 2025/2026 Turkish Super L | **Fatih Karagümrük** | 32 | 6 | 6 | 20 | 28 | 53 | -25 | **24** |
+| 1 | 2025/2026 Turkish Super L | **Galatasaray** | 33 | 24 | 5 | 4 | 77 | 29 | +48 | **77** |
+| 2 | 2025/2026 Turkish Super L | **Fenerbahce** | 33 | 21 | 10 | 2 | 74 | 34 | +40 | **73** |
+| 3 | 2025/2026 Turkish Super L | **Trabzonspor** | 33 | 20 | 9 | 4 | 61 | 36 | +25 | **69** |
+| 4 | 2025/2026 Turkish Super L | **Besiktas** | 33 | 17 | 8 | 8 | 57 | 38 | +19 | **59** |
+| 5 | 2025/2026 Turkish Super L | **Goztepe** | 33 | 14 | 13 | 6 | 42 | 29 | +13 | **55** |
+| 6 | 2025/2026 Turkish Super L | **Istanbul Basaksehir** | 33 | 15 | 9 | 9 | 56 | 34 | +22 | **54** |
+| 7 | 2025/2026 Turkish Super L | **Samsunspor** | 33 | 12 | 12 | 9 | 43 | 45 | -2 | **48** |
+| 8 | 2025/2026 Turkish Super L | **Caykur Rizespor** | 33 | 10 | 10 | 13 | 44 | 50 | -6 | **40** |
+| 9 | 2025/2026 Turkish Super L | **Konyaspor** | 33 | 10 | 10 | 13 | 42 | 48 | -6 | **40** |
+| 10 | 2025/2026 Turkish Super L | **Alanyaspor** | 33 | 7 | 16 | 10 | 40 | 39 | +1 | **37** |
+| 11 | 2025/2026 Turkish Super L | **Kocaelispor** | 33 | 9 | 10 | 14 | 26 | 37 | -11 | **37** |
+| 12 | 2025/2026 Turkish Super L | **Gaziantep FK** | 33 | 9 | 10 | 14 | 42 | 56 | -14 | **37** |
+| 13 | 2025/2026 Turkish Super L | **Eyupspor** | 33 | 8 | 8 | 17 | 30 | 45 | -15 | **32** |
+| 14 | 2025/2026 Turkish Super L | **Kasimpasa** | 33 | 7 | 11 | 15 | 32 | 49 | -17 | **32** |
+| 15 | 2025/2026 Turkish Super L | **Genclerbirligi** | 33 | 8 | 7 | 18 | 33 | 47 | -14 | **31** |
+| 16 | 2025/2026 Turkish Super L | **Antalyaspor** | 33 | 7 | 8 | 18 | 32 | 55 | -23 | **29** |
+| 17 | 2025/2026 Turkish Super L | **Fatih Karagümrük** | 33 | 7 | 6 | 20 | 29 | 53 | -24 | **27** |
+| 18 | 2025/2026 Turkish Super L | **Kayserispor** | 33 | 5 | 12 | 16 | 25 | 61 | -36 | **27** |
 
 #### Points Table
 
