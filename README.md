@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-09 20:58:09 UTC
+> **Last updated:** 2026-05-09 21:56:39 UTC
 
 ---
 
@@ -31,7 +31,7 @@
 | **Portuguese Primeira Liga** | **FC Porto** | 85 | **Sporting CP** | 82 |
 | **Dutch Eredivisie** | **PSV Eindhoven** | 78 | **PSV Eindhoven** | 92 |
 | **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
-| **Scottish Premiership** | **Heart of Midlothian** | 76 | **Rangers** | 69 |
+| **Scottish Premiership** | **Heart of Midlothian** | 77 | **Rangers** | 69 |
 | **MLS** | **Chicago Fire FC** | 17 | **San Jose Earthquakes** | 26 |
 | **Brazilian Serie A** | **Palmeiras** | 33 | **Flamengo** | 26 |
 | **Argentine Liga Profesional** | **Boca Juniors** | 30 | **Independiente Rivadavia** | 29 |
@@ -134,11 +134,11 @@
 | 2 | 2025-26 LALIGA | **Real Madrid** | 34 | 24 | 5 | 5 | 70 | 31 | +39 | **77** |
 | 3 | 2025-26 LALIGA | **Villarreal** | 34 | 21 | 5 | 8 | 64 | 39 | +25 | **68** |
 | 4 | 2025-26 LALIGA | **Atlético Madrid** | 35 | 19 | 6 | 10 | 58 | 38 | +20 | **63** |
-| 5 | 2025-26 LALIGA | **Real Betis** | 34 | 13 | 14 | 7 | 52 | 41 | +11 | **53** |
+| 5 | 2025-26 LALIGA | **Real Betis** | 35 | 13 | 15 | 7 | 54 | 43 | +11 | **54** |
 | 6 | 2025-26 LALIGA | **Celta Vigo** | 35 | 13 | 11 | 11 | 49 | 44 | +5 | **50** |
 | 7 | 2025-26 LALIGA | **Getafe** | 34 | 13 | 5 | 16 | 28 | 36 | -8 | **44** |
-| 8 | 2025-26 LALIGA | **Athletic Club** | 34 | 13 | 5 | 16 | 40 | 50 | -10 | **44** |
-| 9 | 2025-26 LALIGA | **Real Sociedad** | 34 | 11 | 10 | 13 | 52 | 53 | -1 | **43** |
+| 8 | 2025-26 LALIGA | **Real Sociedad** | 35 | 11 | 11 | 13 | 54 | 55 | -1 | **44** |
+| 9 | 2025-26 LALIGA | **Athletic Club** | 34 | 13 | 5 | 16 | 40 | 50 | -10 | **44** |
 | 10 | 2025-26 LALIGA | **Osasuna** | 35 | 11 | 9 | 15 | 42 | 45 | -3 | **42** |
 | 11 | 2025-26 LALIGA | **Rayo Vallecano** | 34 | 10 | 12 | 12 | 35 | 41 | -6 | **42** |
 | 12 | 2025-26 LALIGA | **Sevilla** | 35 | 11 | 7 | 17 | 43 | 56 | -13 | **40** |
@@ -701,10 +701,10 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-26 Scottish Premiers | **Heart of Midlothian** | 35 | 23 | 7 | 5 | 62 | 30 | +32 | **76** |
+| 1 | 2025-26 Scottish Premiers | **Heart of Midlothian** | 36 | 23 | 8 | 5 | 63 | 31 | +32 | **77** |
 | 2 | 2025-26 Scottish Premiers | **Celtic** | 35 | 23 | 4 | 8 | 64 | 37 | +27 | **73** |
 | 3 | 2025-26 Scottish Premiers | **Rangers** | 35 | 19 | 12 | 4 | 69 | 36 | +33 | **69** |
-| 4 | 2025-26 Scottish Premiers | **Motherwell** | 35 | 15 | 12 | 8 | 55 | 32 | +23 | **57** |
+| 4 | 2025-26 Scottish Premiers | **Motherwell** | 36 | 15 | 13 | 8 | 56 | 33 | +23 | **58** |
 | 5 | 2025-26 Scottish Premiers | **Hibernian** | 36 | 14 | 12 | 10 | 56 | 42 | +14 | **54** |
 | 6 | 2025-26 Scottish Premiers | **Falkirk** | 36 | 14 | 7 | 15 | 48 | 54 | -6 | **49** |
 | 7 | 2025-26 Scottish Premiers | **Dundee United** | 36 | 10 | 13 | 13 | 48 | 59 | -11 | **43** |
