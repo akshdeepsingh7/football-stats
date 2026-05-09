@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-09 15:31:02 UTC
+> **Last updated:** 2026-05-09 17:02:45 UTC
 
 ---
 
@@ -71,16 +71,16 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | English Premier League 20 | **Arsenal** | 35 | 23 | 7 | 5 | 67 | 26 | +41 | **76** |
 | 2 | English Premier League 20 | **Manchester City** | 34 | 21 | 8 | 5 | 69 | 32 | +37 | **71** |
-| 3 | English Premier League 20 | **Manchester United** | 35 | 18 | 10 | 7 | 63 | 48 | +15 | **64** |
+| 3 | English Premier League 20 | **Manchester United** | 36 | 18 | 11 | 7 | 63 | 48 | +15 | **65** |
 | 4 | English Premier League 20 | **Liverpool** | 36 | 17 | 8 | 11 | 60 | 48 | +12 | **59** |
 | 5 | English Premier League 20 | **Aston Villa** | 35 | 17 | 7 | 11 | 48 | 44 | +4 | **58** |
-| 6 | English Premier League 20 | **AFC Bournemouth** | 35 | 12 | 16 | 7 | 55 | 52 | +3 | **52** |
-| 7 | English Premier League 20 | **Brentford** | 35 | 14 | 9 | 12 | 52 | 46 | +6 | **51** |
-| 8 | English Premier League 20 | **Brighton & Hove Albion** | 35 | 13 | 11 | 11 | 49 | 42 | +7 | **50** |
+| 6 | English Premier League 20 | **AFC Bournemouth** | 36 | 13 | 16 | 7 | 56 | 52 | +4 | **55** |
+| 7 | English Premier League 20 | **Brighton & Hove Albion** | 36 | 14 | 11 | 11 | 52 | 42 | +10 | **53** |
+| 8 | English Premier League 20 | **Brentford** | 35 | 14 | 9 | 12 | 52 | 46 | +6 | **51** |
 | 9 | English Premier League 20 | **Chelsea** | 36 | 13 | 10 | 13 | 55 | 49 | +6 | **49** |
 | 10 | English Premier League 20 | **Everton** | 35 | 13 | 9 | 13 | 44 | 44 | 0 | **48** |
-| 11 | English Premier League 20 | **Fulham** | 35 | 14 | 6 | 15 | 44 | 49 | -5 | **48** |
-| 12 | English Premier League 20 | **Sunderland** | 35 | 12 | 11 | 12 | 37 | 46 | -9 | **47** |
+| 11 | English Premier League 20 | **Fulham** | 36 | 14 | 6 | 16 | 44 | 50 | -6 | **48** |
+| 12 | English Premier League 20 | **Sunderland** | 36 | 12 | 12 | 12 | 37 | 46 | -9 | **48** |
 | 13 | English Premier League 20 | **Newcastle United** | 35 | 13 | 6 | 16 | 49 | 51 | -2 | **45** |
 | 14 | English Premier League 20 | **Leeds United** | 35 | 10 | 13 | 12 | 47 | 52 | -5 | **43** |
 | 15 | English Premier League 20 | **Crystal Palace** | 34 | 11 | 10 | 13 | 36 | 42 | -6 | **43** |
@@ -88,7 +88,7 @@
 | 17 | English Premier League 20 | **Tottenham Hotspur** | 35 | 9 | 10 | 16 | 45 | 54 | -9 | **37** |
 | 18 | English Premier League 20 | **West Ham United** | 35 | 9 | 9 | 17 | 42 | 61 | -19 | **36** |
 | 19 | English Premier League 20 | **Burnley** | 35 | 4 | 8 | 23 | 35 | 71 | -36 | **20** |
-| 20 | English Premier League 20 | **Wolverhampton Wanderers** | 35 | 3 | 9 | 23 | 25 | 63 | -38 | **18** |
+| 20 | English Premier League 20 | **Wolverhampton Wanderers** | 36 | 3 | 9 | 24 | 25 | 66 | -41 | **18** |
 
 #### Points Table
 
@@ -133,20 +133,20 @@
 | 1 | 2025-26 LALIGA | **Barcelona** | 34 | 29 | 1 | 4 | 89 | 31 | +58 | **88** |
 | 2 | 2025-26 LALIGA | **Real Madrid** | 34 | 24 | 5 | 5 | 70 | 31 | +39 | **77** |
 | 3 | 2025-26 LALIGA | **Villarreal** | 34 | 21 | 5 | 8 | 64 | 39 | +25 | **68** |
-| 4 | 2025-26 LALIGA | **Atlético Madrid** | 34 | 19 | 6 | 9 | 58 | 37 | +21 | **63** |
+| 4 | 2025-26 LALIGA | **Atlético Madrid** | 35 | 19 | 7 | 9 | 58 | 37 | +21 | **64** |
 | 5 | 2025-26 LALIGA | **Real Betis** | 34 | 13 | 14 | 7 | 52 | 41 | +11 | **53** |
-| 6 | 2025-26 LALIGA | **Celta Vigo** | 34 | 12 | 11 | 11 | 48 | 44 | +4 | **47** |
+| 6 | 2025-26 LALIGA | **Celta Vigo** | 35 | 12 | 12 | 11 | 48 | 44 | +4 | **48** |
 | 7 | 2025-26 LALIGA | **Getafe** | 34 | 13 | 5 | 16 | 28 | 36 | -8 | **44** |
 | 8 | 2025-26 LALIGA | **Athletic Club** | 34 | 13 | 5 | 16 | 40 | 50 | -10 | **44** |
 | 9 | 2025-26 LALIGA | **Real Sociedad** | 34 | 11 | 10 | 13 | 52 | 53 | -1 | **43** |
 | 10 | 2025-26 LALIGA | **Osasuna** | 35 | 11 | 9 | 15 | 42 | 45 | -3 | **42** |
 | 11 | 2025-26 LALIGA | **Rayo Vallecano** | 34 | 10 | 12 | 12 | 35 | 41 | -6 | **42** |
-| 12 | 2025-26 LALIGA | **Elche** | 35 | 9 | 12 | 14 | 46 | 54 | -8 | **39** |
-| 13 | 2025-26 LALIGA | **Valencia** | 34 | 10 | 9 | 15 | 37 | 50 | -13 | **39** |
-| 14 | 2025-26 LALIGA | **Espanyol** | 34 | 10 | 9 | 15 | 37 | 51 | -14 | **39** |
-| 15 | 2025-26 LALIGA | **Mallorca** | 34 | 10 | 8 | 16 | 42 | 51 | -9 | **38** |
-| 16 | 2025-26 LALIGA | **Girona** | 34 | 9 | 11 | 14 | 36 | 51 | -15 | **38** |
-| 17 | 2025-26 LALIGA | **Sevilla** | 34 | 10 | 7 | 17 | 41 | 55 | -14 | **37** |
+| 12 | 2025-26 LALIGA | **Sevilla** | 35 | 11 | 7 | 17 | 43 | 56 | -13 | **40** |
+| 13 | 2025-26 LALIGA | **Elche** | 35 | 9 | 12 | 14 | 46 | 54 | -8 | **39** |
+| 14 | 2025-26 LALIGA | **Valencia** | 34 | 10 | 9 | 15 | 37 | 50 | -13 | **39** |
+| 15 | 2025-26 LALIGA | **Espanyol** | 35 | 10 | 9 | 16 | 38 | 53 | -15 | **39** |
+| 16 | 2025-26 LALIGA | **Mallorca** | 34 | 10 | 8 | 16 | 42 | 51 | -9 | **38** |
+| 17 | 2025-26 LALIGA | **Girona** | 34 | 9 | 11 | 14 | 36 | 51 | -15 | **38** |
 | 18 | 2025-26 LALIGA | **Alavés** | 35 | 9 | 10 | 16 | 41 | 54 | -13 | **37** |
 | 19 | 2025-26 LALIGA | **Levante** | 35 | 9 | 9 | 17 | 41 | 57 | -16 | **36** |
 | 20 | 2025-26 LALIGA | **Real Oviedo** | 34 | 6 | 10 | 18 | 26 | 54 | -28 | **28** |
@@ -254,21 +254,21 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 2025-26 German Bundesliga | **Bayern Munich** | 32 | 26 | 5 | 1 | 116 | 35 | +81 | **83** |
 | 2 | 2025-26 German Bundesliga | **Borussia Dortmund** | 33 | 21 | 7 | 5 | 68 | 34 | +34 | **70** |
-| 3 | 2025-26 German Bundesliga | **RB Leipzig** | 32 | 19 | 5 | 8 | 63 | 42 | +21 | **62** |
-| 4 | 2025-26 German Bundesliga | **Bayer Leverkusen** | 32 | 17 | 7 | 8 | 66 | 43 | +23 | **58** |
-| 5 | 2025-26 German Bundesliga | **VfB Stuttgart** | 32 | 17 | 7 | 8 | 66 | 46 | +20 | **58** |
-| 6 | 2025-26 German Bundesliga | **TSG Hoffenheim** | 32 | 17 | 7 | 8 | 64 | 48 | +16 | **58** |
+| 3 | 2025-26 German Bundesliga | **RB Leipzig** | 33 | 20 | 5 | 8 | 65 | 43 | +22 | **65** |
+| 4 | 2025-26 German Bundesliga | **VfB Stuttgart** | 33 | 18 | 7 | 8 | 69 | 47 | +22 | **61** |
+| 5 | 2025-26 German Bundesliga | **TSG Hoffenheim** | 33 | 18 | 7 | 8 | 65 | 48 | +17 | **61** |
+| 6 | 2025-26 German Bundesliga | **Bayer Leverkusen** | 33 | 17 | 7 | 9 | 67 | 46 | +21 | **58** |
 | 7 | 2025-26 German Bundesliga | **SC Freiburg** | 32 | 12 | 8 | 12 | 45 | 53 | -8 | **44** |
 | 8 | 2025-26 German Bundesliga | **Eintracht Frankfurt** | 33 | 11 | 10 | 12 | 59 | 63 | -4 | **43** |
-| 9 | 2025-26 German Bundesliga | **FC Augsburg** | 32 | 11 | 7 | 14 | 42 | 56 | -14 | **40** |
+| 9 | 2025-26 German Bundesliga | **FC Augsburg** | 33 | 12 | 7 | 14 | 45 | 57 | -12 | **43** |
 | 10 | 2025-26 German Bundesliga | **Mainz** | 32 | 9 | 10 | 13 | 41 | 50 | -9 | **37** |
-| 11 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 32 | 8 | 11 | 13 | 37 | 50 | -13 | **35** |
+| 11 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 33 | 8 | 11 | 14 | 38 | 53 | -15 | **35** |
 | 12 | 2025-26 German Bundesliga | **Hamburg SV** | 32 | 8 | 10 | 14 | 36 | 51 | -15 | **34** |
 | 13 | 2025-26 German Bundesliga | **1. FC Union Berlin** | 32 | 8 | 9 | 15 | 37 | 57 | -20 | **33** |
 | 14 | 2025-26 German Bundesliga | **FC Cologne** | 32 | 7 | 11 | 14 | 47 | 55 | -8 | **32** |
-| 15 | 2025-26 German Bundesliga | **Werder Bremen** | 32 | 8 | 8 | 16 | 37 | 57 | -20 | **32** |
+| 15 | 2025-26 German Bundesliga | **Werder Bremen** | 33 | 8 | 8 | 17 | 37 | 58 | -21 | **32** |
 | 16 | 2025-26 German Bundesliga | **VfL Wolfsburg** | 32 | 6 | 8 | 18 | 42 | 67 | -25 | **26** |
-| 17 | 2025-26 German Bundesliga | **St. Pauli** | 32 | 6 | 8 | 18 | 27 | 55 | -28 | **26** |
+| 17 | 2025-26 German Bundesliga | **St. Pauli** | 33 | 6 | 8 | 19 | 28 | 57 | -29 | **26** |
 | 18 | 2025-26 German Bundesliga | **1. FC Heidenheim 1846** | 32 | 5 | 8 | 19 | 38 | 69 | -31 | **23** |
 
 #### Points Table
@@ -705,14 +705,14 @@
 | 2 | 2025-26 Scottish Premiers | **Celtic** | 35 | 23 | 4 | 8 | 64 | 37 | +27 | **73** |
 | 3 | 2025-26 Scottish Premiers | **Rangers** | 35 | 19 | 12 | 4 | 69 | 36 | +33 | **69** |
 | 4 | 2025-26 Scottish Premiers | **Motherwell** | 35 | 15 | 12 | 8 | 55 | 32 | +23 | **57** |
-| 5 | 2025-26 Scottish Premiers | **Hibernian** | 35 | 13 | 12 | 10 | 53 | 41 | +12 | **51** |
-| 6 | 2025-26 Scottish Premiers | **Falkirk** | 35 | 14 | 7 | 14 | 47 | 51 | -4 | **49** |
-| 7 | 2025-26 Scottish Premiers | **Dundee United** | 35 | 10 | 13 | 12 | 48 | 57 | -9 | **43** |
-| 8 | 2025-26 Scottish Premiers | **Aberdeen** | 35 | 10 | 7 | 18 | 36 | 50 | -14 | **37** |
-| 9 | 2025-26 Scottish Premiers | **Dundee** | 35 | 9 | 9 | 17 | 35 | 56 | -21 | **36** |
-| 10 | 2025-26 Scottish Premiers | **Kilmarnock** | 35 | 7 | 10 | 18 | 40 | 66 | -26 | **31** |
-| 11 | 2025-26 Scottish Premiers | **St Mirren** | 35 | 7 | 9 | 19 | 27 | 51 | -24 | **30** |
-| 12 | 2025-26 Scottish Premiers | **Livingston** | 35 | 2 | 14 | 19 | 39 | 68 | -29 | **20** |
+| 5 | 2025-26 Scottish Premiers | **Hibernian** | 36 | 14 | 12 | 10 | 56 | 42 | +14 | **54** |
+| 6 | 2025-26 Scottish Premiers | **Falkirk** | 36 | 14 | 7 | 15 | 48 | 54 | -6 | **49** |
+| 7 | 2025-26 Scottish Premiers | **Dundee United** | 36 | 10 | 13 | 13 | 48 | 59 | -11 | **43** |
+| 8 | 2025-26 Scottish Premiers | **Aberdeen** | 36 | 11 | 7 | 18 | 38 | 50 | -12 | **40** |
+| 9 | 2025-26 Scottish Premiers | **Dundee** | 36 | 10 | 9 | 17 | 38 | 56 | -18 | **39** |
+| 10 | 2025-26 Scottish Premiers | **Kilmarnock** | 36 | 8 | 10 | 18 | 43 | 66 | -23 | **34** |
+| 11 | 2025-26 Scottish Premiers | **St Mirren** | 36 | 7 | 9 | 20 | 27 | 54 | -27 | **30** |
+| 12 | 2025-26 Scottish Premiers | **Livingston** | 36 | 2 | 14 | 20 | 39 | 71 | -32 | **20** |
 
 #### Points Table
 
