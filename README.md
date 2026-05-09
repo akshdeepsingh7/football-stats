@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-09 17:02:45 UTC
+> **Last updated:** 2026-05-09 18:32:51 UTC
 
 ---
 
@@ -21,10 +21,10 @@
 
 | League | Leader | Pts | Best Attack | GF |
 |--------|--------|-----|-------------|-----|
-| **English Premier League** | **Arsenal** | 76 | **Manchester City** | 69 |
+| **English Premier League** | **Arsenal** | 76 | **Manchester City** | 72 |
 | **Spanish La Liga** | **Barcelona** | 88 | **Barcelona** | 89 |
-| **Italian Serie A** | **Internazionale** | 82 | **Internazionale** | 82 |
-| **German Bundesliga** | **Bayern Munich** | 83 | **Bayern Munich** | 116 |
+| **Italian Serie A** | **Internazionale** | 85 | **Internazionale** | 85 |
+| **German Bundesliga** | **Bayern Munich** | 86 | **Bayern Munich** | 117 |
 | **French Ligue 1** | **Paris Saint-Germain** | 70 | **Paris Saint-Germain** | 70 |
 | **UEFA Champions League** | **Arsenal** | 24 | **Arsenal** | 23 |
 | **UEFA Europa League** | **Lyon** | 21 | **Lyon** | 18 |
@@ -70,13 +70,13 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | English Premier League 20 | **Arsenal** | 35 | 23 | 7 | 5 | 67 | 26 | +41 | **76** |
-| 2 | English Premier League 20 | **Manchester City** | 34 | 21 | 8 | 5 | 69 | 32 | +37 | **71** |
+| 2 | English Premier League 20 | **Manchester City** | 35 | 22 | 8 | 5 | 72 | 32 | +40 | **74** |
 | 3 | English Premier League 20 | **Manchester United** | 36 | 18 | 11 | 7 | 63 | 48 | +15 | **65** |
 | 4 | English Premier League 20 | **Liverpool** | 36 | 17 | 8 | 11 | 60 | 48 | +12 | **59** |
 | 5 | English Premier League 20 | **Aston Villa** | 35 | 17 | 7 | 11 | 48 | 44 | +4 | **58** |
 | 6 | English Premier League 20 | **AFC Bournemouth** | 36 | 13 | 16 | 7 | 56 | 52 | +4 | **55** |
 | 7 | English Premier League 20 | **Brighton & Hove Albion** | 36 | 14 | 11 | 11 | 52 | 42 | +10 | **53** |
-| 8 | English Premier League 20 | **Brentford** | 35 | 14 | 9 | 12 | 52 | 46 | +6 | **51** |
+| 8 | English Premier League 20 | **Brentford** | 36 | 14 | 9 | 13 | 52 | 49 | +3 | **51** |
 | 9 | English Premier League 20 | **Chelsea** | 36 | 13 | 10 | 13 | 55 | 49 | +6 | **49** |
 | 10 | English Premier League 20 | **Everton** | 35 | 13 | 9 | 13 | 44 | 44 | 0 | **48** |
 | 11 | English Premier League 20 | **Fulham** | 36 | 14 | 6 | 16 | 44 | 50 | -6 | **48** |
@@ -133,9 +133,9 @@
 | 1 | 2025-26 LALIGA | **Barcelona** | 34 | 29 | 1 | 4 | 89 | 31 | +58 | **88** |
 | 2 | 2025-26 LALIGA | **Real Madrid** | 34 | 24 | 5 | 5 | 70 | 31 | +39 | **77** |
 | 3 | 2025-26 LALIGA | **Villarreal** | 34 | 21 | 5 | 8 | 64 | 39 | +25 | **68** |
-| 4 | 2025-26 LALIGA | **Atlético Madrid** | 35 | 19 | 7 | 9 | 58 | 37 | +21 | **64** |
+| 4 | 2025-26 LALIGA | **Atlético Madrid** | 35 | 19 | 6 | 10 | 58 | 38 | +20 | **63** |
 | 5 | 2025-26 LALIGA | **Real Betis** | 34 | 13 | 14 | 7 | 52 | 41 | +11 | **53** |
-| 6 | 2025-26 LALIGA | **Celta Vigo** | 35 | 12 | 12 | 11 | 48 | 44 | +4 | **48** |
+| 6 | 2025-26 LALIGA | **Celta Vigo** | 35 | 13 | 11 | 11 | 49 | 44 | +5 | **50** |
 | 7 | 2025-26 LALIGA | **Getafe** | 34 | 13 | 5 | 16 | 28 | 36 | -8 | **44** |
 | 8 | 2025-26 LALIGA | **Athletic Club** | 34 | 13 | 5 | 16 | 40 | 50 | -10 | **44** |
 | 9 | 2025-26 LALIGA | **Real Sociedad** | 34 | 11 | 10 | 13 | 52 | 53 | -1 | **43** |
@@ -191,14 +191,14 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-2026 Italian Serie A | **Internazionale** | 35 | 26 | 4 | 5 | 82 | 31 | +51 | **82** |
+| 1 | 2025-2026 Italian Serie A | **Internazionale** | 36 | 27 | 4 | 5 | 85 | 31 | +54 | **85** |
 | 2 | 2025-2026 Italian Serie A | **Napoli** | 35 | 21 | 7 | 7 | 52 | 33 | +19 | **70** |
 | 3 | 2025-2026 Italian Serie A | **AC Milan** | 35 | 19 | 10 | 6 | 48 | 29 | +19 | **67** |
 | 4 | 2025-2026 Italian Serie A | **Juventus** | 35 | 18 | 11 | 6 | 58 | 30 | +28 | **65** |
 | 5 | 2025-2026 Italian Serie A | **AS Roma** | 35 | 20 | 4 | 11 | 52 | 29 | +23 | **64** |
 | 6 | 2025-2026 Italian Serie A | **Como** | 35 | 17 | 11 | 7 | 59 | 28 | +31 | **62** |
 | 7 | 2025-2026 Italian Serie A | **Atalanta** | 35 | 14 | 13 | 8 | 47 | 32 | +15 | **55** |
-| 8 | 2025-2026 Italian Serie A | **Lazio** | 35 | 13 | 12 | 10 | 39 | 34 | +5 | **51** |
+| 8 | 2025-2026 Italian Serie A | **Lazio** | 36 | 13 | 12 | 11 | 39 | 37 | +2 | **51** |
 | 9 | 2025-2026 Italian Serie A | **Udinese** | 36 | 14 | 8 | 14 | 45 | 46 | -1 | **50** |
 | 10 | 2025-2026 Italian Serie A | **Bologna** | 35 | 14 | 7 | 14 | 42 | 41 | +1 | **49** |
 | 11 | 2025-2026 Italian Serie A | **Sassuolo** | 36 | 14 | 7 | 15 | 44 | 46 | -2 | **49** |
@@ -252,7 +252,7 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-26 German Bundesliga | **Bayern Munich** | 32 | 26 | 5 | 1 | 116 | 35 | +81 | **83** |
+| 1 | 2025-26 German Bundesliga | **Bayern Munich** | 33 | 27 | 5 | 1 | 117 | 35 | +82 | **86** |
 | 2 | 2025-26 German Bundesliga | **Borussia Dortmund** | 33 | 21 | 7 | 5 | 68 | 34 | +34 | **70** |
 | 3 | 2025-26 German Bundesliga | **RB Leipzig** | 33 | 20 | 5 | 8 | 65 | 43 | +22 | **65** |
 | 4 | 2025-26 German Bundesliga | **VfB Stuttgart** | 33 | 18 | 7 | 8 | 69 | 47 | +22 | **61** |
@@ -267,7 +267,7 @@
 | 13 | 2025-26 German Bundesliga | **1. FC Union Berlin** | 32 | 8 | 9 | 15 | 37 | 57 | -20 | **33** |
 | 14 | 2025-26 German Bundesliga | **FC Cologne** | 32 | 7 | 11 | 14 | 47 | 55 | -8 | **32** |
 | 15 | 2025-26 German Bundesliga | **Werder Bremen** | 33 | 8 | 8 | 17 | 37 | 58 | -21 | **32** |
-| 16 | 2025-26 German Bundesliga | **VfL Wolfsburg** | 32 | 6 | 8 | 18 | 42 | 67 | -25 | **26** |
+| 16 | 2025-26 German Bundesliga | **VfL Wolfsburg** | 33 | 6 | 8 | 19 | 42 | 68 | -26 | **26** |
 | 17 | 2025-26 German Bundesliga | **St. Pauli** | 33 | 6 | 8 | 19 | 28 | 57 | -29 | **26** |
 | 18 | 2025-26 German Bundesliga | **1. FC Heidenheim 1846** | 32 | 5 | 8 | 19 | 38 | 69 | -31 | **23** |
 
