@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-10 21:25:54 UTC
+> **Last updated:** 2026-05-10 22:24:41 UTC
 
 ---
 
@@ -532,8 +532,8 @@
 | 6 | 2025-2026 Portuguese Liga | **Gil Vicente** | 32 | 13 | 11 | 8 | 46 | 32 | +14 | **50** |
 | 7 | 2025-2026 Portuguese Liga | **Moreirense** | 32 | 12 | 6 | 14 | 37 | 47 | -10 | **42** |
 | 8 | 2025-2026 Portuguese Liga | **Vitória de Guimaraes** | 32 | 12 | 6 | 14 | 39 | 48 | -9 | **42** |
-| 9 | 2025-2026 Portuguese Liga | **Estoril** | 32 | 10 | 8 | 14 | 52 | 53 | -1 | **38** |
-| 10 | 2025-2026 Portuguese Liga | **Alverca** | 32 | 10 | 8 | 14 | 34 | 50 | -16 | **38** |
+| 9 | 2025-2026 Portuguese Liga | **Estoril** | 33 | 10 | 9 | 14 | 53 | 54 | -1 | **39** |
+| 10 | 2025-2026 Portuguese Liga | **Alverca** | 33 | 10 | 9 | 14 | 35 | 51 | -16 | **39** |
 | 11 | 2025-2026 Portuguese Liga | **Arouca** | 32 | 10 | 6 | 16 | 41 | 62 | -21 | **36** |
 | 12 | 2025-2026 Portuguese Liga | **Rio Ave** | 32 | 8 | 11 | 13 | 33 | 52 | -19 | **35** |
 | 13 | 2025-2026 Portuguese Liga | **Santa Clara** | 32 | 8 | 9 | 15 | 30 | 40 | -10 | **33** |
