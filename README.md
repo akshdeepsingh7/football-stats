@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-10 04:07:15 UTC
+> **Last updated:** 2026-05-10 07:13:42 UTC
 
 ---
 
@@ -32,7 +32,7 @@
 | **Dutch Eredivisie** | **PSV Eindhoven** | 78 | **PSV Eindhoven** | 92 |
 | **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
 | **Scottish Premiership** | **Heart of Midlothian** | 77 | **Rangers** | 69 |
-| **MLS** | **Chicago Fire FC** | 17 | **Inter Miami CF** | 26 |
+| **MLS** | **Chicago Fire FC** | 17 | **San Jose Earthquakes** | 27 |
 | **Brazilian Serie A** | **Palmeiras** | 33 | **Flamengo** | 26 |
 | **Argentine Liga Profesional** | **Boca Juniors** | 30 | **Independiente Rivadavia** | 29 |
 | **Mexican Liga MX** | **Pumas UNAM** | 36 | **Pumas UNAM** | 34 |
@@ -756,34 +756,34 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 | 4 | Eastern Conference | **Chicago Fire FC** | 11 | 5 | 2 | 4 | 20 | 14 | +6 | **17** |
 | 12 | Eastern Conference | **Columbus Crew** | 11 | 3 | 3 | 5 | 16 | 16 | 0 | **12** |
-| 3 | Eastern Conference | **New England Revolution** | 10 | 6 | 1 | 3 | 18 | 12 | +6 | **19** |
-| 7 | Eastern Conference | **Red Bull New York** | 12 | 4 | 3 | 5 | 19 | 28 | -9 | **15** |
-| 5 | Eastern Conference | **D.C. United** | 11 | 4 | 3 | 4 | 13 | 15 | -2 | **15** |
+| 2 | Eastern Conference | **New England Revolution** | 11 | 7 | 1 | 3 | 20 | 13 | +7 | **22** |
+| 8 | Eastern Conference | **Red Bull New York** | 12 | 4 | 3 | 5 | 19 | 28 | -9 | **15** |
+| 5 | Eastern Conference | **D.C. United** | 12 | 4 | 4 | 4 | 15 | 17 | -2 | **16** |
 | 9 | Eastern Conference | **Toronto FC** | 12 | 3 | 5 | 4 | 20 | 24 | -4 | **14** |
 | 10 | Eastern Conference | **CF Montréal** | 11 | 4 | 0 | 7 | 16 | 23 | -7 | **12** |
-| 15 | Eastern Conference | **Philadelphia Union** | 11 | 1 | 3 | 7 | 9 | 17 | -8 | **6** |
+| 15 | Eastern Conference | **Philadelphia Union** | 12 | 1 | 3 | 8 | 10 | 19 | -9 | **6** |
 | 14 | Eastern Conference | **Orlando City SC** | 12 | 3 | 1 | 8 | 16 | 34 | -18 | **10** |
 | 11 | Eastern Conference | **New York City FC** | 11 | 3 | 3 | 5 | 19 | 18 | +1 | **12** |
-| 6 | Eastern Conference | **FC Cincinnati** | 11 | 4 | 3 | 4 | 22 | 25 | -3 | **15** |
-| 13 | Eastern Conference | **Atlanta United FC** | 11 | 3 | 1 | 7 | 12 | 18 | -6 | **10** |
-| 1 | Eastern Conference | **Nashville SC** | 10 | 7 | 2 | 1 | 21 | 6 | +15 | **23** |
-| 2 | Eastern Conference | **Inter Miami CF** | 12 | 6 | 4 | 2 | 26 | 21 | +5 | **22** |
-| 8 | Eastern Conference | **Charlotte FC** | 11 | 4 | 2 | 5 | 18 | 19 | -1 | **14** |
-| 9 | Western Conference | **Colorado Rapids** | 11 | 4 | 1 | 6 | 22 | 19 | +3 | **13** |
-| 7 | Western Conference | **FC Dallas** | 11 | 4 | 4 | 3 | 20 | 15 | +5 | **16** |
-| 15 | Western Conference | **Sporting Kansas City** | 10 | 1 | 2 | 7 | 8 | 26 | -18 | **5** |
-| 10 | Western Conference | **LA Galaxy** | 11 | 3 | 4 | 4 | 16 | 17 | -1 | **13** |
-| 1 | Western Conference | **San Jose Earthquakes** | 11 | 9 | 1 | 1 | 26 | 7 | +19 | **28** |
-| 6 | Western Conference | **Real Salt Lake** | 10 | 6 | 1 | 3 | 19 | 14 | +5 | **19** |
-| 8 | Western Conference | **Houston Dynamo FC** | 10 | 5 | 0 | 5 | 13 | 18 | -5 | **15** |
-| 13 | Western Conference | **Portland Timbers** | 10 | 3 | 1 | 6 | 13 | 21 | -8 | **10** |
-| 4 | Western Conference | **Seattle Sounders FC** | 9 | 6 | 2 | 1 | 13 | 5 | +8 | **20** |
-| 2 | Western Conference | **Vancouver Whitecaps** | 10 | 8 | 1 | 1 | 26 | 6 | +20 | **25** |
+| 6 | Eastern Conference | **FC Cincinnati** | 12 | 4 | 4 | 4 | 24 | 27 | -3 | **16** |
+| 13 | Eastern Conference | **Atlanta United FC** | 12 | 3 | 1 | 8 | 13 | 20 | -7 | **10** |
+| 1 | Eastern Conference | **Nashville SC** | 11 | 7 | 3 | 1 | 23 | 8 | +15 | **24** |
+| 3 | Eastern Conference | **Inter Miami CF** | 12 | 6 | 4 | 2 | 26 | 21 | +5 | **22** |
+| 7 | Eastern Conference | **Charlotte FC** | 12 | 4 | 3 | 5 | 20 | 21 | -1 | **15** |
+| 10 | Western Conference | **Colorado Rapids** | 12 | 4 | 1 | 7 | 22 | 20 | +2 | **13** |
+| 7 | Western Conference | **FC Dallas** | 12 | 5 | 4 | 3 | 23 | 16 | +7 | **19** |
+| 15 | Western Conference | **Sporting Kansas City** | 11 | 1 | 2 | 8 | 8 | 32 | -24 | **5** |
+| 8 | Western Conference | **LA Galaxy** | 12 | 4 | 4 | 4 | 18 | 18 | 0 | **16** |
+| 1 | Western Conference | **San Jose Earthquakes** | 12 | 9 | 2 | 1 | 27 | 8 | +19 | **29** |
+| 6 | Western Conference | **Real Salt Lake** | 11 | 6 | 1 | 4 | 20 | 17 | +3 | **19** |
+| 9 | Western Conference | **Houston Dynamo FC** | 10 | 5 | 0 | 5 | 13 | 18 | -5 | **15** |
+| 11 | Western Conference | **Portland Timbers** | 11 | 4 | 1 | 6 | 19 | 21 | -2 | **13** |
+| 4 | Western Conference | **Seattle Sounders FC** | 10 | 6 | 3 | 1 | 14 | 6 | +8 | **21** |
+| 2 | Western Conference | **Vancouver Whitecaps** | 11 | 8 | 2 | 1 | 27 | 7 | +20 | **26** |
 | 5 | Western Conference | **Minnesota United FC** | 11 | 6 | 2 | 3 | 14 | 16 | -2 | **20** |
 | 3 | Western Conference | **LAFC** | 11 | 6 | 3 | 2 | 19 | 8 | +11 | **21** |
-| 11 | Western Conference | **Austin FC** | 11 | 3 | 4 | 4 | 16 | 19 | -3 | **13** |
-| 14 | Western Conference | **St. Louis CITY SC** | 10 | 1 | 3 | 6 | 9 | 18 | -9 | **6** |
-| 12 | Western Conference | **San Diego FC** | 11 | 3 | 3 | 5 | 19 | 19 | 0 | **12** |
+| 13 | Western Conference | **Austin FC** | 11 | 3 | 4 | 4 | 16 | 19 | -3 | **13** |
+| 14 | Western Conference | **St. Louis CITY SC** | 11 | 2 | 3 | 6 | 10 | 18 | -8 | **9** |
+| 12 | Western Conference | **San Diego FC** | 12 | 3 | 4 | 5 | 20 | 20 | 0 | **13** |
 
 #### Points Table
 
