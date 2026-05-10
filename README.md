@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-10 15:00:12 UTC
+> **Last updated:** 2026-05-10 16:04:55 UTC
 
 ---
 
@@ -258,12 +258,12 @@
 | 4 | 2025-26 German Bundesliga | **VfB Stuttgart** | 33 | 18 | 7 | 8 | 69 | 47 | +22 | **61** |
 | 5 | 2025-26 German Bundesliga | **TSG Hoffenheim** | 33 | 18 | 7 | 8 | 65 | 48 | +17 | **61** |
 | 6 | 2025-26 German Bundesliga | **Bayer Leverkusen** | 33 | 17 | 7 | 9 | 67 | 46 | +21 | **58** |
-| 7 | 2025-26 German Bundesliga | **SC Freiburg** | 32 | 12 | 8 | 12 | 45 | 53 | -8 | **44** |
+| 7 | 2025-26 German Bundesliga | **SC Freiburg** | 33 | 12 | 8 | 13 | 47 | 56 | -9 | **44** |
 | 8 | 2025-26 German Bundesliga | **Eintracht Frankfurt** | 33 | 11 | 10 | 12 | 59 | 63 | -4 | **43** |
 | 9 | 2025-26 German Bundesliga | **FC Augsburg** | 33 | 12 | 7 | 14 | 45 | 57 | -12 | **43** |
 | 10 | 2025-26 German Bundesliga | **Mainz** | 32 | 9 | 10 | 13 | 41 | 50 | -9 | **37** |
-| 11 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 33 | 8 | 11 | 14 | 38 | 53 | -15 | **35** |
-| 12 | 2025-26 German Bundesliga | **Hamburg SV** | 32 | 8 | 10 | 14 | 36 | 51 | -15 | **34** |
+| 11 | 2025-26 German Bundesliga | **Hamburg SV** | 33 | 9 | 10 | 14 | 39 | 53 | -14 | **37** |
+| 12 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 33 | 8 | 11 | 14 | 38 | 53 | -15 | **35** |
 | 13 | 2025-26 German Bundesliga | **1. FC Union Berlin** | 32 | 8 | 9 | 15 | 37 | 57 | -20 | **33** |
 | 14 | 2025-26 German Bundesliga | **FC Cologne** | 32 | 7 | 11 | 14 | 47 | 55 | -8 | **32** |
 | 15 | 2025-26 German Bundesliga | **Werder Bremen** | 33 | 8 | 8 | 17 | 37 | 58 | -21 | **32** |
