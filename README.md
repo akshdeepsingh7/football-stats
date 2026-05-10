@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-10 22:24:41 UTC
+> **Last updated:** 2026-05-10 23:29:37 UTC
 
 ---
 
@@ -755,20 +755,20 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 4 | Eastern Conference | **Chicago Fire FC** | 11 | 5 | 2 | 4 | 20 | 14 | +6 | **17** |
-| 12 | Eastern Conference | **Columbus Crew** | 11 | 3 | 3 | 5 | 16 | 16 | 0 | **12** |
+| 12 | Eastern Conference | **Columbus Crew** | 12 | 3 | 3 | 6 | 16 | 19 | -3 | **12** |
 | 2 | Eastern Conference | **New England Revolution** | 11 | 7 | 1 | 3 | 20 | 13 | +7 | **22** |
-| 8 | Eastern Conference | **Red Bull New York** | 12 | 4 | 3 | 5 | 19 | 28 | -9 | **15** |
+| 9 | Eastern Conference | **Red Bull New York** | 12 | 4 | 3 | 5 | 19 | 28 | -9 | **15** |
 | 5 | Eastern Conference | **D.C. United** | 12 | 4 | 4 | 4 | 15 | 17 | -2 | **16** |
-| 9 | Eastern Conference | **Toronto FC** | 12 | 3 | 5 | 4 | 20 | 24 | -4 | **14** |
-| 10 | Eastern Conference | **CF Montréal** | 11 | 4 | 0 | 7 | 16 | 23 | -7 | **12** |
+| 10 | Eastern Conference | **Toronto FC** | 12 | 3 | 5 | 4 | 20 | 24 | -4 | **14** |
+| 11 | Eastern Conference | **CF Montréal** | 11 | 4 | 0 | 7 | 16 | 23 | -7 | **12** |
 | 15 | Eastern Conference | **Philadelphia Union** | 12 | 1 | 3 | 8 | 10 | 19 | -9 | **6** |
 | 14 | Eastern Conference | **Orlando City SC** | 12 | 3 | 1 | 8 | 16 | 34 | -18 | **10** |
-| 11 | Eastern Conference | **New York City FC** | 11 | 3 | 3 | 5 | 19 | 18 | +1 | **12** |
+| 7 | Eastern Conference | **New York City FC** | 12 | 4 | 3 | 5 | 22 | 18 | +4 | **15** |
 | 6 | Eastern Conference | **FC Cincinnati** | 12 | 4 | 4 | 4 | 24 | 27 | -3 | **16** |
 | 13 | Eastern Conference | **Atlanta United FC** | 12 | 3 | 1 | 8 | 13 | 20 | -7 | **10** |
 | 1 | Eastern Conference | **Nashville SC** | 11 | 7 | 3 | 1 | 23 | 8 | +15 | **24** |
 | 3 | Eastern Conference | **Inter Miami CF** | 12 | 6 | 4 | 2 | 26 | 21 | +5 | **22** |
-| 7 | Eastern Conference | **Charlotte FC** | 12 | 4 | 3 | 5 | 20 | 21 | -1 | **15** |
+| 8 | Eastern Conference | **Charlotte FC** | 12 | 4 | 3 | 5 | 20 | 21 | -1 | **15** |
 | 10 | Western Conference | **Colorado Rapids** | 12 | 4 | 1 | 7 | 22 | 20 | +2 | **13** |
 | 7 | Western Conference | **FC Dallas** | 12 | 5 | 4 | 3 | 23 | 16 | +7 | **19** |
 | 15 | Western Conference | **Sporting Kansas City** | 11 | 1 | 2 | 8 | 8 | 32 | -24 | **5** |
