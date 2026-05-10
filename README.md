@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-10 16:04:55 UTC
+> **Last updated:** 2026-05-10 17:30:48 UTC
 
 ---
 
@@ -29,7 +29,7 @@
 | **UEFA Champions League** | **Arsenal** | 24 | **Arsenal** | 23 |
 | **UEFA Europa League** | **Lyon** | 21 | **Lyon** | 18 |
 | **Portuguese Primeira Liga** | **FC Porto** | 85 | **Sporting CP** | 82 |
-| **Dutch Eredivisie** | **PSV Eindhoven** | 78 | **PSV Eindhoven** | 92 |
+| **Dutch Eredivisie** | **PSV Eindhoven** | 81 | **PSV Eindhoven** | 96 |
 | **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
 | **Scottish Premiership** | **Heart of Midlothian** | 77 | **Rangers** | 70 |
 | **MLS** | **Chicago Fire FC** | 17 | **San Jose Earthquakes** | 27 |
@@ -138,14 +138,14 @@
 | 6 | 2025-26 LALIGA | **Celta Vigo** | 35 | 13 | 11 | 11 | 49 | 44 | +5 | **50** |
 | 7 | 2025-26 LALIGA | **Getafe** | 34 | 13 | 5 | 16 | 28 | 36 | -8 | **44** |
 | 8 | 2025-26 LALIGA | **Real Sociedad** | 35 | 11 | 11 | 13 | 54 | 55 | -1 | **44** |
-| 9 | 2025-26 LALIGA | **Athletic Club** | 34 | 13 | 5 | 16 | 40 | 50 | -10 | **44** |
+| 9 | 2025-26 LALIGA | **Athletic Club** | 35 | 13 | 5 | 17 | 40 | 51 | -11 | **44** |
 | 10 | 2025-26 LALIGA | **Osasuna** | 35 | 11 | 9 | 15 | 42 | 45 | -3 | **42** |
 | 11 | 2025-26 LALIGA | **Rayo Vallecano** | 34 | 10 | 12 | 12 | 35 | 41 | -6 | **42** |
-| 12 | 2025-26 LALIGA | **Sevilla** | 35 | 11 | 7 | 17 | 43 | 56 | -13 | **40** |
-| 13 | 2025-26 LALIGA | **Mallorca** | 35 | 10 | 9 | 16 | 43 | 52 | -9 | **39** |
+| 12 | 2025-26 LALIGA | **Valencia** | 35 | 11 | 9 | 15 | 38 | 50 | -12 | **42** |
+| 13 | 2025-26 LALIGA | **Sevilla** | 35 | 11 | 7 | 17 | 43 | 56 | -13 | **40** |
 | 14 | 2025-26 LALIGA | **Espanyol** | 35 | 10 | 9 | 16 | 38 | 53 | -15 | **39** |
-| 15 | 2025-26 LALIGA | **Elche** | 35 | 9 | 12 | 14 | 46 | 54 | -8 | **39** |
-| 16 | 2025-26 LALIGA | **Valencia** | 34 | 10 | 9 | 15 | 37 | 50 | -13 | **39** |
+| 15 | 2025-26 LALIGA | **Mallorca** | 35 | 10 | 9 | 16 | 43 | 52 | -9 | **39** |
+| 16 | 2025-26 LALIGA | **Elche** | 35 | 9 | 12 | 14 | 46 | 54 | -8 | **39** |
 | 17 | 2025-26 LALIGA | **Girona** | 34 | 9 | 11 | 14 | 36 | 51 | -15 | **38** |
 | 18 | 2025-26 LALIGA | **Alavés** | 35 | 9 | 10 | 16 | 41 | 54 | -13 | **37** |
 | 19 | 2025-26 LALIGA | **Levante** | 35 | 9 | 9 | 17 | 41 | 57 | -16 | **36** |
@@ -265,11 +265,11 @@
 | 11 | 2025-26 German Bundesliga | **Hamburg SV** | 33 | 9 | 10 | 14 | 39 | 53 | -14 | **37** |
 | 12 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 33 | 8 | 11 | 14 | 38 | 53 | -15 | **35** |
 | 13 | 2025-26 German Bundesliga | **1. FC Union Berlin** | 32 | 8 | 9 | 15 | 37 | 57 | -20 | **33** |
-| 14 | 2025-26 German Bundesliga | **FC Cologne** | 32 | 7 | 11 | 14 | 47 | 55 | -8 | **32** |
+| 14 | 2025-26 German Bundesliga | **FC Cologne** | 33 | 7 | 11 | 15 | 48 | 58 | -10 | **32** |
 | 15 | 2025-26 German Bundesliga | **Werder Bremen** | 33 | 8 | 8 | 17 | 37 | 58 | -21 | **32** |
 | 16 | 2025-26 German Bundesliga | **VfL Wolfsburg** | 33 | 6 | 8 | 19 | 42 | 68 | -26 | **26** |
-| 17 | 2025-26 German Bundesliga | **St. Pauli** | 33 | 6 | 8 | 19 | 28 | 57 | -29 | **26** |
-| 18 | 2025-26 German Bundesliga | **1. FC Heidenheim 1846** | 32 | 5 | 8 | 19 | 38 | 69 | -31 | **23** |
+| 17 | 2025-26 German Bundesliga | **1. FC Heidenheim 1846** | 33 | 6 | 8 | 19 | 41 | 70 | -29 | **26** |
+| 18 | 2025-26 German Bundesliga | **St. Pauli** | 33 | 6 | 8 | 19 | 28 | 57 | -29 | **26** |
 
 #### Points Table
 
@@ -583,24 +583,24 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-2026 Dutch Eredivisi | **PSV Eindhoven** | 32 | 25 | 3 | 4 | 92 | 43 | +49 | **78** |
-| 2 | 2025-2026 Dutch Eredivisi | **Feyenoord Rotterdam** | 32 | 18 | 7 | 7 | 67 | 43 | +24 | **61** |
-| 3 | 2025-2026 Dutch Eredivisi | **NEC Nijmegen** | 32 | 15 | 11 | 6 | 74 | 50 | +24 | **56** |
-| 4 | 2025-2026 Dutch Eredivisi | **Ajax Amsterdam** | 32 | 14 | 13 | 5 | 61 | 39 | +22 | **55** |
-| 5 | 2025-2026 Dutch Eredivisi | **FC Twente** | 32 | 14 | 13 | 5 | 54 | 35 | +19 | **55** |
-| 6 | 2025-2026 Dutch Eredivisi | **AZ Alkmaar** | 32 | 14 | 8 | 10 | 54 | 47 | +7 | **50** |
-| 7 | 2025-2026 Dutch Eredivisi | **Heerenveen** | 32 | 14 | 8 | 10 | 57 | 51 | +6 | **50** |
-| 8 | 2025-2026 Dutch Eredivisi | **FC Utrecht** | 32 | 13 | 8 | 11 | 51 | 41 | +10 | **47** |
-| 9 | 2025-2026 Dutch Eredivisi | **Sparta Rotterdam** | 32 | 12 | 7 | 13 | 38 | 55 | -17 | **43** |
-| 10 | 2025-2026 Dutch Eredivisi | **FC Groningen** | 32 | 12 | 6 | 14 | 45 | 43 | +2 | **42** |
-| 11 | 2025-2026 Dutch Eredivisi | **Go Ahead Eagles** | 32 | 8 | 14 | 10 | 52 | 47 | +5 | **38** |
-| 12 | 2025-2026 Dutch Eredivisi | **PEC Zwolle** | 32 | 9 | 10 | 13 | 42 | 66 | -24 | **37** |
-| 13 | 2025-2026 Dutch Eredivisi | **Fortuna Sittard** | 32 | 10 | 6 | 16 | 46 | 59 | -13 | **36** |
-| 14 | 2025-2026 Dutch Eredivisi | **Excelsior** | 32 | 9 | 7 | 16 | 39 | 53 | -14 | **34** |
-| 15 | 2025-2026 Dutch Eredivisi | **Telstar** | 32 | 7 | 10 | 15 | 44 | 54 | -10 | **31** |
-| 16 | 2025-2026 Dutch Eredivisi | **FC Volendam** | 32 | 8 | 7 | 17 | 33 | 52 | -19 | **31** |
-| 17 | 2025-2026 Dutch Eredivisi | **NAC Breda** | 32 | 5 | 10 | 17 | 30 | 55 | -25 | **25** |
-| 18 | 2025-2026 Dutch Eredivisi | **Heracles Almelo** | 32 | 5 | 4 | 23 | 34 | 80 | -46 | **19** |
+| 1 | 2025-2026 Dutch Eredivisi | **PSV Eindhoven** | 33 | 26 | 3 | 4 | 96 | 44 | +52 | **81** |
+| 2 | 2025-2026 Dutch Eredivisi | **Feyenoord Rotterdam** | 33 | 18 | 8 | 7 | 68 | 44 | +24 | **62** |
+| 3 | 2025-2026 Dutch Eredivisi | **FC Twente** | 33 | 15 | 13 | 5 | 58 | 35 | +23 | **58** |
+| 4 | 2025-2026 Dutch Eredivisi | **NEC Nijmegen** | 33 | 15 | 11 | 7 | 75 | 52 | +23 | **56** |
+| 5 | 2025-2026 Dutch Eredivisi | **Ajax Amsterdam** | 33 | 14 | 13 | 6 | 62 | 41 | +21 | **55** |
+| 6 | 2025-2026 Dutch Eredivisi | **AZ Alkmaar** | 33 | 14 | 9 | 10 | 55 | 48 | +7 | **51** |
+| 7 | 2025-2026 Dutch Eredivisi | **FC Utrecht** | 33 | 14 | 8 | 11 | 53 | 42 | +11 | **50** |
+| 8 | 2025-2026 Dutch Eredivisi | **Heerenveen** | 33 | 14 | 8 | 11 | 57 | 53 | +4 | **50** |
+| 9 | 2025-2026 Dutch Eredivisi | **FC Groningen** | 33 | 13 | 6 | 14 | 47 | 44 | +3 | **45** |
+| 10 | 2025-2026 Dutch Eredivisi | **Sparta Rotterdam** | 33 | 12 | 7 | 14 | 38 | 59 | -21 | **43** |
+| 11 | 2025-2026 Dutch Eredivisi | **Fortuna Sittard** | 33 | 11 | 6 | 16 | 49 | 61 | -12 | **39** |
+| 12 | 2025-2026 Dutch Eredivisi | **Go Ahead Eagles** | 33 | 8 | 14 | 11 | 53 | 51 | +2 | **38** |
+| 13 | 2025-2026 Dutch Eredivisi | **PEC Zwolle** | 33 | 9 | 10 | 14 | 44 | 69 | -25 | **37** |
+| 14 | 2025-2026 Dutch Eredivisi | **Excelsior** | 33 | 9 | 8 | 16 | 40 | 54 | -14 | **35** |
+| 15 | 2025-2026 Dutch Eredivisi | **Telstar** | 33 | 8 | 10 | 15 | 47 | 54 | -7 | **34** |
+| 16 | 2025-2026 Dutch Eredivisi | **FC Volendam** | 33 | 8 | 8 | 17 | 34 | 53 | -19 | **32** |
+| 17 | 2025-2026 Dutch Eredivisi | **NAC Breda** | 33 | 6 | 10 | 17 | 32 | 55 | -23 | **28** |
+| 18 | 2025-2026 Dutch Eredivisi | **Heracles Almelo** | 33 | 5 | 4 | 24 | 34 | 83 | -49 | **19** |
 
 #### Points Table
 
