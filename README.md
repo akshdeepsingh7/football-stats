@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-10 13:49:34 UTC
+> **Last updated:** 2026-05-10 15:00:12 UTC
 
 ---
 
@@ -73,21 +73,21 @@
 | 2 | English Premier League 20 | **Manchester City** | 35 | 22 | 8 | 5 | 72 | 32 | +40 | **74** |
 | 3 | English Premier League 20 | **Manchester United** | 36 | 18 | 11 | 7 | 63 | 48 | +15 | **65** |
 | 4 | English Premier League 20 | **Liverpool** | 36 | 17 | 8 | 11 | 60 | 48 | +12 | **59** |
-| 5 | English Premier League 20 | **Aston Villa** | 35 | 17 | 7 | 11 | 48 | 44 | +4 | **58** |
+| 5 | English Premier League 20 | **Aston Villa** | 36 | 17 | 8 | 11 | 50 | 46 | +4 | **59** |
 | 6 | English Premier League 20 | **AFC Bournemouth** | 36 | 13 | 16 | 7 | 56 | 52 | +4 | **55** |
 | 7 | English Premier League 20 | **Brighton & Hove Albion** | 36 | 14 | 11 | 11 | 52 | 42 | +10 | **53** |
 | 8 | English Premier League 20 | **Brentford** | 36 | 14 | 9 | 13 | 52 | 49 | +3 | **51** |
 | 9 | English Premier League 20 | **Chelsea** | 36 | 13 | 10 | 13 | 55 | 49 | +6 | **49** |
-| 10 | English Premier League 20 | **Everton** | 35 | 13 | 9 | 13 | 44 | 44 | 0 | **48** |
+| 10 | English Premier League 20 | **Everton** | 36 | 13 | 10 | 13 | 46 | 46 | 0 | **49** |
 | 11 | English Premier League 20 | **Fulham** | 36 | 14 | 6 | 16 | 44 | 50 | -6 | **48** |
 | 12 | English Premier League 20 | **Sunderland** | 36 | 12 | 12 | 12 | 37 | 46 | -9 | **48** |
-| 13 | English Premier League 20 | **Newcastle United** | 35 | 13 | 6 | 16 | 49 | 51 | -2 | **45** |
-| 14 | English Premier League 20 | **Leeds United** | 35 | 10 | 13 | 12 | 47 | 52 | -5 | **43** |
-| 15 | English Premier League 20 | **Crystal Palace** | 34 | 11 | 10 | 13 | 36 | 42 | -6 | **43** |
-| 16 | English Premier League 20 | **Nottingham Forest** | 35 | 11 | 9 | 15 | 44 | 46 | -2 | **42** |
+| 13 | English Premier League 20 | **Newcastle United** | 36 | 13 | 7 | 16 | 50 | 52 | -2 | **46** |
+| 14 | English Premier League 20 | **Crystal Palace** | 35 | 11 | 11 | 13 | 38 | 44 | -6 | **44** |
+| 15 | English Premier League 20 | **Nottingham Forest** | 36 | 11 | 10 | 15 | 45 | 47 | -2 | **43** |
+| 16 | English Premier League 20 | **Leeds United** | 35 | 10 | 13 | 12 | 47 | 52 | -5 | **43** |
 | 17 | English Premier League 20 | **Tottenham Hotspur** | 35 | 9 | 10 | 16 | 45 | 54 | -9 | **37** |
 | 18 | English Premier League 20 | **West Ham United** | 35 | 9 | 9 | 17 | 42 | 61 | -19 | **36** |
-| 19 | English Premier League 20 | **Burnley** | 35 | 4 | 8 | 23 | 35 | 71 | -36 | **20** |
+| 19 | English Premier League 20 | **Burnley** | 36 | 4 | 9 | 23 | 37 | 73 | -36 | **21** |
 | 20 | English Premier League 20 | **Wolverhampton Wanderers** | 36 | 3 | 9 | 24 | 25 | 66 | -41 | **18** |
 
 #### Points Table
@@ -132,7 +132,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 2025-26 LALIGA | **Barcelona** | 34 | 29 | 1 | 4 | 89 | 31 | +58 | **88** |
 | 2 | 2025-26 LALIGA | **Real Madrid** | 34 | 24 | 5 | 5 | 70 | 31 | +39 | **77** |
-| 3 | 2025-26 LALIGA | **Villarreal** | 34 | 21 | 5 | 8 | 64 | 39 | +25 | **68** |
+| 3 | 2025-26 LALIGA | **Villarreal** | 35 | 21 | 6 | 8 | 65 | 40 | +25 | **69** |
 | 4 | 2025-26 LALIGA | **Atlético Madrid** | 35 | 19 | 6 | 10 | 58 | 38 | +20 | **63** |
 | 5 | 2025-26 LALIGA | **Real Betis** | 35 | 13 | 15 | 7 | 54 | 43 | +11 | **54** |
 | 6 | 2025-26 LALIGA | **Celta Vigo** | 35 | 13 | 11 | 11 | 49 | 44 | +5 | **50** |
@@ -142,10 +142,10 @@
 | 10 | 2025-26 LALIGA | **Osasuna** | 35 | 11 | 9 | 15 | 42 | 45 | -3 | **42** |
 | 11 | 2025-26 LALIGA | **Rayo Vallecano** | 34 | 10 | 12 | 12 | 35 | 41 | -6 | **42** |
 | 12 | 2025-26 LALIGA | **Sevilla** | 35 | 11 | 7 | 17 | 43 | 56 | -13 | **40** |
-| 13 | 2025-26 LALIGA | **Elche** | 35 | 9 | 12 | 14 | 46 | 54 | -8 | **39** |
-| 14 | 2025-26 LALIGA | **Valencia** | 34 | 10 | 9 | 15 | 37 | 50 | -13 | **39** |
-| 15 | 2025-26 LALIGA | **Espanyol** | 35 | 10 | 9 | 16 | 38 | 53 | -15 | **39** |
-| 16 | 2025-26 LALIGA | **Mallorca** | 34 | 10 | 8 | 16 | 42 | 51 | -9 | **38** |
+| 13 | 2025-26 LALIGA | **Mallorca** | 35 | 10 | 9 | 16 | 43 | 52 | -9 | **39** |
+| 14 | 2025-26 LALIGA | **Espanyol** | 35 | 10 | 9 | 16 | 38 | 53 | -15 | **39** |
+| 15 | 2025-26 LALIGA | **Elche** | 35 | 9 | 12 | 14 | 46 | 54 | -8 | **39** |
+| 16 | 2025-26 LALIGA | **Valencia** | 34 | 10 | 9 | 15 | 37 | 50 | -13 | **39** |
 | 17 | 2025-26 LALIGA | **Girona** | 34 | 9 | 11 | 14 | 36 | 51 | -15 | **38** |
 | 18 | 2025-26 LALIGA | **Alavés** | 35 | 9 | 10 | 16 | 41 | 54 | -13 | **37** |
 | 19 | 2025-26 LALIGA | **Levante** | 35 | 9 | 9 | 17 | 41 | 57 | -16 | **36** |
@@ -204,13 +204,13 @@
 | 11 | 2025-2026 Italian Serie A | **Sassuolo** | 36 | 14 | 7 | 15 | 44 | 46 | -2 | **49** |
 | 12 | 2025-2026 Italian Serie A | **Torino** | 36 | 12 | 8 | 16 | 41 | 59 | -18 | **44** |
 | 13 | 2025-2026 Italian Serie A | **Parma** | 35 | 10 | 12 | 13 | 25 | 42 | -17 | **42** |
-| 14 | 2025-2026 Italian Serie A | **Genoa** | 35 | 10 | 10 | 15 | 40 | 48 | -8 | **40** |
-| 15 | 2025-2026 Italian Serie A | **Fiorentina** | 35 | 8 | 13 | 14 | 38 | 49 | -11 | **37** |
+| 14 | 2025-2026 Italian Serie A | **Genoa** | 36 | 10 | 11 | 15 | 40 | 48 | -8 | **41** |
+| 15 | 2025-2026 Italian Serie A | **Fiorentina** | 36 | 8 | 14 | 14 | 38 | 49 | -11 | **38** |
 | 16 | 2025-2026 Italian Serie A | **Cagliari** | 36 | 9 | 10 | 17 | 36 | 51 | -15 | **37** |
 | 17 | 2025-2026 Italian Serie A | **Lecce** | 36 | 8 | 8 | 20 | 24 | 48 | -24 | **32** |
-| 18 | 2025-2026 Italian Serie A | **Cremonese** | 35 | 6 | 10 | 19 | 27 | 53 | -26 | **28** |
+| 18 | 2025-2026 Italian Serie A | **Cremonese** | 36 | 7 | 10 | 19 | 30 | 53 | -23 | **31** |
 | 19 | 2025-2026 Italian Serie A | **Hellas Verona** | 36 | 3 | 11 | 22 | 24 | 58 | -34 | **20** |
-| 20 | 2025-2026 Italian Serie A | **Pisa** | 35 | 2 | 12 | 21 | 25 | 63 | -38 | **18** |
+| 20 | 2025-2026 Italian Serie A | **Pisa** | 36 | 2 | 12 | 22 | 25 | 66 | -41 | **18** |
 
 #### Points Table
 
