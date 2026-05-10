@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-10 20:11:30 UTC
+> **Last updated:** 2026-05-10 21:25:54 UTC
 
 ---
 
@@ -22,10 +22,10 @@
 | League | Leader | Pts | Best Attack | GF |
 |--------|--------|-----|-------------|-----|
 | **English Premier League** | **Arsenal** | 79 | **Manchester City** | 72 |
-| **Spanish La Liga** | **Barcelona** | 88 | **Barcelona** | 89 |
+| **Spanish La Liga** | **Barcelona** | 91 | **Barcelona** | 91 |
 | **Italian Serie A** | **Internazionale** | 85 | **Internazionale** | 85 |
 | **German Bundesliga** | **Bayern Munich** | 86 | **Bayern Munich** | 117 |
-| **French Ligue 1** | **Paris Saint-Germain** | 70 | **Paris Saint-Germain** | 70 |
+| **French Ligue 1** | **Paris Saint-Germain** | 73 | **Paris Saint-Germain** | 71 |
 | **UEFA Champions League** | **Arsenal** | 24 | **Arsenal** | 23 |
 | **UEFA Europa League** | **Lyon** | 21 | **Lyon** | 18 |
 | **Portuguese Primeira Liga** | **FC Porto** | 85 | **Sporting CP** | 82 |
@@ -130,8 +130,8 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-26 LALIGA | **Barcelona** | 34 | 29 | 1 | 4 | 89 | 31 | +58 | **88** |
-| 2 | 2025-26 LALIGA | **Real Madrid** | 34 | 24 | 5 | 5 | 70 | 31 | +39 | **77** |
+| 1 | 2025-26 LALIGA | **Barcelona** | 35 | 30 | 1 | 4 | 91 | 31 | +60 | **91** |
+| 2 | 2025-26 LALIGA | **Real Madrid** | 35 | 24 | 5 | 6 | 70 | 33 | +37 | **77** |
 | 3 | 2025-26 LALIGA | **Villarreal** | 35 | 21 | 6 | 8 | 65 | 40 | +25 | **69** |
 | 4 | 2025-26 LALIGA | **Atlético Madrid** | 35 | 19 | 6 | 10 | 58 | 38 | +20 | **63** |
 | 5 | 2025-26 LALIGA | **Real Betis** | 35 | 13 | 15 | 7 | 54 | 43 | +11 | **54** |
@@ -194,10 +194,10 @@
 | 1 | 2025-2026 Italian Serie A | **Internazionale** | 36 | 27 | 4 | 5 | 85 | 31 | +54 | **85** |
 | 2 | 2025-2026 Italian Serie A | **Napoli** | 35 | 21 | 7 | 7 | 52 | 33 | +19 | **70** |
 | 3 | 2025-2026 Italian Serie A | **Juventus** | 36 | 19 | 11 | 6 | 59 | 30 | +29 | **68** |
-| 4 | 2025-2026 Italian Serie A | **AC Milan** | 35 | 19 | 10 | 6 | 48 | 29 | +19 | **67** |
+| 4 | 2025-2026 Italian Serie A | **AC Milan** | 36 | 19 | 10 | 7 | 50 | 32 | +18 | **67** |
 | 5 | 2025-2026 Italian Serie A | **AS Roma** | 36 | 21 | 4 | 11 | 55 | 31 | +24 | **67** |
 | 6 | 2025-2026 Italian Serie A | **Como** | 36 | 18 | 11 | 7 | 60 | 28 | +32 | **65** |
-| 7 | 2025-2026 Italian Serie A | **Atalanta** | 35 | 14 | 13 | 8 | 47 | 32 | +15 | **55** |
+| 7 | 2025-2026 Italian Serie A | **Atalanta** | 36 | 15 | 13 | 8 | 50 | 34 | +16 | **58** |
 | 8 | 2025-2026 Italian Serie A | **Lazio** | 36 | 13 | 12 | 11 | 39 | 37 | +2 | **51** |
 | 9 | 2025-2026 Italian Serie A | **Udinese** | 36 | 14 | 8 | 14 | 45 | 46 | -1 | **50** |
 | 10 | 2025-2026 Italian Serie A | **Bologna** | 35 | 14 | 7 | 14 | 42 | 41 | +1 | **49** |
@@ -311,24 +311,24 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | French Ligue 1 2025-26 | **Paris Saint-Germain** | 31 | 22 | 4 | 5 | 70 | 27 | +43 | **70** |
+| 1 | French Ligue 1 2025-26 | **Paris Saint-Germain** | 32 | 23 | 4 | 5 | 71 | 27 | +44 | **73** |
 | 2 | French Ligue 1 2025-26 | **Lens** | 32 | 21 | 4 | 7 | 62 | 33 | +29 | **67** |
-| 3 | French Ligue 1 2025-26 | **Lyon** | 32 | 18 | 6 | 8 | 52 | 34 | +18 | **60** |
-| 4 | French Ligue 1 2025-26 | **Lille** | 32 | 17 | 7 | 8 | 51 | 35 | +16 | **58** |
-| 5 | French Ligue 1 2025-26 | **Stade Rennais** | 32 | 16 | 8 | 8 | 56 | 46 | +10 | **56** |
-| 6 | French Ligue 1 2025-26 | **AS Monaco** | 32 | 16 | 6 | 10 | 56 | 48 | +8 | **54** |
-| 7 | French Ligue 1 2025-26 | **Marseille** | 32 | 16 | 5 | 11 | 59 | 44 | +15 | **53** |
-| 8 | French Ligue 1 2025-26 | **Strasbourg** | 31 | 13 | 7 | 11 | 50 | 41 | +9 | **46** |
-| 9 | French Ligue 1 2025-26 | **Lorient** | 32 | 10 | 12 | 10 | 44 | 49 | -5 | **42** |
-| 10 | French Ligue 1 2025-26 | **Toulouse** | 32 | 11 | 8 | 13 | 45 | 45 | 0 | **41** |
-| 11 | French Ligue 1 2025-26 | **Paris FC** | 32 | 10 | 11 | 11 | 44 | 47 | -3 | **41** |
-| 12 | French Ligue 1 2025-26 | **Brest** | 31 | 10 | 8 | 13 | 41 | 51 | -10 | **38** |
-| 13 | French Ligue 1 2025-26 | **Angers** | 32 | 9 | 7 | 16 | 27 | 46 | -19 | **34** |
-| 14 | French Ligue 1 2025-26 | **Le Havre AC** | 32 | 6 | 14 | 12 | 30 | 43 | -13 | **32** |
-| 15 | French Ligue 1 2025-26 | **Nice** | 32 | 7 | 10 | 15 | 36 | 58 | -22 | **31** |
-| 16 | French Ligue 1 2025-26 | **AJ Auxerre** | 32 | 6 | 10 | 16 | 30 | 43 | -13 | **28** |
+| 3 | French Ligue 1 2025-26 | **Lille** | 33 | 18 | 7 | 8 | 52 | 35 | +17 | **61** |
+| 4 | French Ligue 1 2025-26 | **Lyon** | 33 | 18 | 6 | 9 | 53 | 36 | +17 | **60** |
+| 5 | French Ligue 1 2025-26 | **Stade Rennais** | 33 | 17 | 8 | 8 | 58 | 47 | +11 | **59** |
+| 6 | French Ligue 1 2025-26 | **Marseille** | 33 | 17 | 5 | 11 | 60 | 44 | +16 | **56** |
+| 7 | French Ligue 1 2025-26 | **AS Monaco** | 33 | 16 | 6 | 11 | 56 | 49 | +7 | **54** |
+| 8 | French Ligue 1 2025-26 | **Strasbourg** | 32 | 13 | 8 | 11 | 51 | 42 | +9 | **47** |
+| 9 | French Ligue 1 2025-26 | **Lorient** | 33 | 11 | 12 | 10 | 48 | 49 | -1 | **45** |
+| 10 | French Ligue 1 2025-26 | **Toulouse** | 33 | 12 | 8 | 13 | 47 | 46 | +1 | **44** |
+| 11 | French Ligue 1 2025-26 | **Paris FC** | 33 | 10 | 11 | 12 | 45 | 49 | -4 | **41** |
+| 12 | French Ligue 1 2025-26 | **Brest** | 32 | 10 | 8 | 14 | 41 | 52 | -11 | **38** |
+| 13 | French Ligue 1 2025-26 | **Angers** | 33 | 9 | 8 | 16 | 28 | 47 | -19 | **35** |
+| 14 | French Ligue 1 2025-26 | **Le Havre AC** | 33 | 6 | 14 | 13 | 30 | 44 | -14 | **32** |
+| 15 | French Ligue 1 2025-26 | **AJ Auxerre** | 33 | 7 | 10 | 16 | 32 | 44 | -12 | **31** |
+| 16 | French Ligue 1 2025-26 | **Nice** | 33 | 7 | 10 | 16 | 37 | 60 | -23 | **31** |
 | 17 | French Ligue 1 2025-26 | **Nantes** | 33 | 5 | 8 | 20 | 29 | 52 | -23 | **23** |
-| 18 | French Ligue 1 2025-26 | **Metz** | 32 | 3 | 7 | 22 | 32 | 72 | -40 | **16** |
+| 18 | French Ligue 1 2025-26 | **Metz** | 33 | 3 | 7 | 23 | 32 | 76 | -44 | **16** |
 
 #### Points Table
 
