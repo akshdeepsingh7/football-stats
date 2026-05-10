@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-10 19:15:06 UTC
+> **Last updated:** 2026-05-10 20:11:30 UTC
 
 ---
 
@@ -261,10 +261,10 @@
 | 7 | 2025-26 German Bundesliga | **SC Freiburg** | 33 | 12 | 8 | 13 | 47 | 56 | -9 | **44** |
 | 8 | 2025-26 German Bundesliga | **Eintracht Frankfurt** | 33 | 11 | 10 | 12 | 59 | 63 | -4 | **43** |
 | 9 | 2025-26 German Bundesliga | **FC Augsburg** | 33 | 12 | 7 | 14 | 45 | 57 | -12 | **43** |
-| 10 | 2025-26 German Bundesliga | **Mainz** | 32 | 9 | 10 | 13 | 41 | 50 | -9 | **37** |
+| 10 | 2025-26 German Bundesliga | **Mainz** | 33 | 9 | 10 | 14 | 42 | 53 | -11 | **37** |
 | 11 | 2025-26 German Bundesliga | **Hamburg SV** | 33 | 9 | 10 | 14 | 39 | 53 | -14 | **37** |
-| 12 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 33 | 8 | 11 | 14 | 38 | 53 | -15 | **35** |
-| 13 | 2025-26 German Bundesliga | **1. FC Union Berlin** | 32 | 8 | 9 | 15 | 37 | 57 | -20 | **33** |
+| 12 | 2025-26 German Bundesliga | **1. FC Union Berlin** | 33 | 9 | 9 | 15 | 40 | 58 | -18 | **36** |
+| 13 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 33 | 8 | 11 | 14 | 38 | 53 | -15 | **35** |
 | 14 | 2025-26 German Bundesliga | **FC Cologne** | 33 | 7 | 11 | 15 | 48 | 58 | -10 | **32** |
 | 15 | 2025-26 German Bundesliga | **Werder Bremen** | 33 | 8 | 8 | 17 | 37 | 58 | -21 | **32** |
 | 16 | 2025-26 German Bundesliga | **VfL Wolfsburg** | 33 | 6 | 8 | 19 | 42 | 68 | -26 | **26** |
@@ -589,8 +589,8 @@
 | 4 | 2025-2026 Dutch Eredivisi | **NEC Nijmegen** | 33 | 15 | 11 | 7 | 75 | 52 | +23 | **56** |
 | 5 | 2025-2026 Dutch Eredivisi | **Ajax Amsterdam** | 33 | 14 | 13 | 6 | 62 | 41 | +21 | **55** |
 | 6 | 2025-2026 Dutch Eredivisi | **AZ Alkmaar** | 33 | 14 | 9 | 10 | 55 | 48 | +7 | **51** |
-| 7 | 2025-2026 Dutch Eredivisi | **FC Utrecht** | 33 | 14 | 8 | 11 | 53 | 42 | +11 | **50** |
-| 8 | 2025-2026 Dutch Eredivisi | **Heerenveen** | 33 | 14 | 8 | 11 | 57 | 53 | +4 | **50** |
+| 7 | 2025-2026 Dutch Eredivisi | **Heerenveen** | 32 | 14 | 8 | 10 | 57 | 51 | +6 | **50** |
+| 8 | 2025-2026 Dutch Eredivisi | **FC Utrecht** | 33 | 14 | 8 | 11 | 53 | 42 | +11 | **50** |
 | 9 | 2025-2026 Dutch Eredivisi | **FC Groningen** | 33 | 13 | 6 | 14 | 47 | 44 | +3 | **45** |
 | 10 | 2025-2026 Dutch Eredivisi | **Sparta Rotterdam** | 33 | 12 | 7 | 14 | 38 | 59 | -21 | **43** |
 | 11 | 2025-2026 Dutch Eredivisi | **Fortuna Sittard** | 33 | 11 | 6 | 16 | 49 | 61 | -12 | **39** |
@@ -599,7 +599,7 @@
 | 14 | 2025-2026 Dutch Eredivisi | **Excelsior** | 33 | 9 | 8 | 16 | 40 | 54 | -14 | **35** |
 | 15 | 2025-2026 Dutch Eredivisi | **Telstar** | 33 | 8 | 10 | 15 | 47 | 54 | -7 | **34** |
 | 16 | 2025-2026 Dutch Eredivisi | **FC Volendam** | 33 | 8 | 8 | 17 | 34 | 53 | -19 | **32** |
-| 17 | 2025-2026 Dutch Eredivisi | **NAC Breda** | 33 | 6 | 10 | 17 | 32 | 55 | -23 | **28** |
+| 17 | 2025-2026 Dutch Eredivisi | **NAC Breda** | 32 | 5 | 10 | 17 | 30 | 55 | -25 | **25** |
 | 18 | 2025-2026 Dutch Eredivisi | **Heracles Almelo** | 33 | 5 | 4 | 24 | 34 | 83 | -49 | **19** |
 
 #### Points Table
