@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-11 20:19:02 UTC
+> **Last updated:** 2026-05-11 21:51:39 UTC
 
 ---
 
@@ -28,7 +28,7 @@
 | **French Ligue 1** | **Paris Saint-Germain** | 73 | **Paris Saint-Germain** | 71 |
 | **UEFA Champions League** | **Arsenal** | 24 | **Arsenal** | 23 |
 | **UEFA Europa League** | **Lyon** | 21 | **Lyon** | 18 |
-| **Portuguese Primeira Liga** | **FC Porto** | 85 | **Sporting CP** | 82 |
+| **Portuguese Primeira Liga** | **FC Porto** | 85 | **Sporting CP** | 86 |
 | **Dutch Eredivisie** | **PSV Eindhoven** | 81 | **PSV Eindhoven** | 96 |
 | **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
 | **Scottish Premiership** | **Heart of Midlothian** | 77 | **Rangers** | 70 |
@@ -82,10 +82,10 @@
 | 11 | English Premier League 20 | **Fulham** | 36 | 14 | 6 | 16 | 44 | 50 | -6 | **48** |
 | 12 | English Premier League 20 | **Sunderland** | 36 | 12 | 12 | 12 | 37 | 46 | -9 | **48** |
 | 13 | English Premier League 20 | **Newcastle United** | 36 | 13 | 7 | 16 | 50 | 52 | -2 | **46** |
-| 14 | English Premier League 20 | **Crystal Palace** | 35 | 11 | 11 | 13 | 38 | 44 | -6 | **44** |
-| 15 | English Premier League 20 | **Nottingham Forest** | 36 | 11 | 10 | 15 | 45 | 47 | -2 | **43** |
-| 16 | English Premier League 20 | **Leeds United** | 35 | 10 | 13 | 12 | 47 | 52 | -5 | **43** |
-| 17 | English Premier League 20 | **Tottenham Hotspur** | 35 | 9 | 10 | 16 | 45 | 54 | -9 | **37** |
+| 14 | English Premier League 20 | **Leeds United** | 36 | 10 | 14 | 12 | 48 | 53 | -5 | **44** |
+| 15 | English Premier League 20 | **Crystal Palace** | 35 | 11 | 11 | 13 | 38 | 44 | -6 | **44** |
+| 16 | English Premier League 20 | **Nottingham Forest** | 36 | 11 | 10 | 15 | 45 | 47 | -2 | **43** |
+| 17 | English Premier League 20 | **Tottenham Hotspur** | 36 | 9 | 11 | 16 | 46 | 55 | -9 | **38** |
 | 18 | English Premier League 20 | **West Ham United** | 36 | 9 | 9 | 18 | 42 | 62 | -20 | **36** |
 | 19 | English Premier League 20 | **Burnley** | 36 | 4 | 9 | 23 | 37 | 73 | -36 | **21** |
 | 20 | English Premier League 20 | **Wolverhampton Wanderers** | 36 | 3 | 9 | 24 | 25 | 66 | -41 | **18** |
@@ -139,14 +139,14 @@
 | 7 | 2025-26 LALIGA | **Getafe** | 35 | 13 | 6 | 16 | 28 | 36 | -8 | **45** |
 | 8 | 2025-26 LALIGA | **Real Sociedad** | 35 | 11 | 11 | 13 | 54 | 55 | -1 | **44** |
 | 9 | 2025-26 LALIGA | **Athletic Club** | 35 | 13 | 5 | 17 | 40 | 51 | -11 | **44** |
-| 10 | 2025-26 LALIGA | **Osasuna** | 35 | 11 | 9 | 15 | 42 | 45 | -3 | **42** |
-| 11 | 2025-26 LALIGA | **Rayo Vallecano** | 34 | 10 | 12 | 12 | 35 | 41 | -6 | **42** |
+| 10 | 2025-26 LALIGA | **Rayo Vallecano** | 35 | 10 | 13 | 12 | 36 | 42 | -6 | **43** |
+| 11 | 2025-26 LALIGA | **Osasuna** | 35 | 11 | 9 | 15 | 42 | 45 | -3 | **42** |
 | 12 | 2025-26 LALIGA | **Valencia** | 35 | 11 | 9 | 15 | 38 | 50 | -12 | **42** |
 | 13 | 2025-26 LALIGA | **Sevilla** | 35 | 11 | 7 | 17 | 43 | 56 | -13 | **40** |
-| 14 | 2025-26 LALIGA | **Espanyol** | 35 | 10 | 9 | 16 | 38 | 53 | -15 | **39** |
+| 14 | 2025-26 LALIGA | **Elche** | 35 | 9 | 12 | 14 | 46 | 54 | -8 | **39** |
 | 15 | 2025-26 LALIGA | **Mallorca** | 35 | 10 | 9 | 16 | 43 | 52 | -9 | **39** |
-| 16 | 2025-26 LALIGA | **Elche** | 35 | 9 | 12 | 14 | 46 | 54 | -8 | **39** |
-| 17 | 2025-26 LALIGA | **Girona** | 34 | 9 | 11 | 14 | 36 | 51 | -15 | **38** |
+| 16 | 2025-26 LALIGA | **Espanyol** | 35 | 10 | 9 | 16 | 38 | 53 | -15 | **39** |
+| 17 | 2025-26 LALIGA | **Girona** | 35 | 9 | 12 | 14 | 37 | 52 | -15 | **39** |
 | 18 | 2025-26 LALIGA | **Alavés** | 35 | 9 | 10 | 16 | 41 | 54 | -13 | **37** |
 | 19 | 2025-26 LALIGA | **Levante** | 35 | 9 | 9 | 17 | 41 | 57 | -16 | **36** |
 | 20 | 2025-26 LALIGA | **Real Oviedo** | 35 | 6 | 11 | 18 | 26 | 54 | -28 | **29** |
@@ -192,15 +192,15 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 2025-2026 Italian Serie A | **Internazionale** | 36 | 27 | 4 | 5 | 85 | 31 | +54 | **85** |
-| 2 | 2025-2026 Italian Serie A | **Napoli** | 35 | 21 | 7 | 7 | 52 | 33 | +19 | **70** |
+| 2 | 2025-2026 Italian Serie A | **Napoli** | 36 | 21 | 7 | 8 | 54 | 36 | +18 | **70** |
 | 3 | 2025-2026 Italian Serie A | **Juventus** | 36 | 19 | 11 | 6 | 59 | 30 | +29 | **68** |
 | 4 | 2025-2026 Italian Serie A | **AC Milan** | 36 | 19 | 10 | 7 | 50 | 32 | +18 | **67** |
 | 5 | 2025-2026 Italian Serie A | **AS Roma** | 36 | 21 | 4 | 11 | 55 | 31 | +24 | **67** |
 | 6 | 2025-2026 Italian Serie A | **Como** | 36 | 18 | 11 | 7 | 60 | 28 | +32 | **65** |
 | 7 | 2025-2026 Italian Serie A | **Atalanta** | 36 | 15 | 13 | 8 | 50 | 34 | +16 | **58** |
-| 8 | 2025-2026 Italian Serie A | **Lazio** | 36 | 13 | 12 | 11 | 39 | 37 | +2 | **51** |
-| 9 | 2025-2026 Italian Serie A | **Udinese** | 36 | 14 | 8 | 14 | 45 | 46 | -1 | **50** |
-| 10 | 2025-2026 Italian Serie A | **Bologna** | 35 | 14 | 7 | 14 | 42 | 41 | +1 | **49** |
+| 8 | 2025-2026 Italian Serie A | **Bologna** | 36 | 15 | 7 | 14 | 45 | 43 | +2 | **52** |
+| 9 | 2025-2026 Italian Serie A | **Lazio** | 36 | 13 | 12 | 11 | 39 | 37 | +2 | **51** |
+| 10 | 2025-2026 Italian Serie A | **Udinese** | 36 | 14 | 8 | 14 | 45 | 46 | -1 | **50** |
 | 11 | 2025-2026 Italian Serie A | **Sassuolo** | 36 | 14 | 7 | 15 | 44 | 46 | -2 | **49** |
 | 12 | 2025-2026 Italian Serie A | **Torino** | 36 | 12 | 8 | 16 | 41 | 59 | -18 | **44** |
 | 13 | 2025-2026 Italian Serie A | **Parma** | 36 | 10 | 12 | 14 | 27 | 45 | -18 | **42** |
@@ -525,22 +525,22 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 2025-2026 Portuguese Liga | **FC Porto** | 33 | 27 | 4 | 2 | 65 | 18 | +47 | **85** |
-| 2 | 2025-2026 Portuguese Liga | **Benfica** | 32 | 22 | 10 | 0 | 69 | 22 | +47 | **76** |
-| 3 | 2025-2026 Portuguese Liga | **Sporting CP** | 32 | 23 | 7 | 2 | 82 | 23 | +59 | **76** |
-| 4 | 2025-2026 Portuguese Liga | **Braga** | 32 | 16 | 9 | 7 | 60 | 32 | +28 | **57** |
-| 5 | 2025-2026 Portuguese Liga | **FC Famalicao** | 32 | 14 | 10 | 8 | 41 | 29 | +12 | **52** |
-| 6 | 2025-2026 Portuguese Liga | **Gil Vicente** | 32 | 13 | 11 | 8 | 46 | 32 | +14 | **50** |
-| 7 | 2025-2026 Portuguese Liga | **Moreirense** | 32 | 12 | 6 | 14 | 37 | 47 | -10 | **42** |
-| 8 | 2025-2026 Portuguese Liga | **Vitória de Guimaraes** | 32 | 12 | 6 | 14 | 39 | 48 | -9 | **42** |
+| 2 | 2025-2026 Portuguese Liga | **Sporting CP** | 33 | 24 | 7 | 2 | 86 | 24 | +62 | **79** |
+| 3 | 2025-2026 Portuguese Liga | **Benfica** | 33 | 22 | 11 | 0 | 71 | 24 | +47 | **77** |
+| 4 | 2025-2026 Portuguese Liga | **Braga** | 33 | 16 | 10 | 7 | 62 | 34 | +28 | **58** |
+| 5 | 2025-2026 Portuguese Liga | **FC Famalicao** | 33 | 14 | 11 | 8 | 41 | 29 | +12 | **53** |
+| 6 | 2025-2026 Portuguese Liga | **Gil Vicente** | 33 | 13 | 11 | 9 | 47 | 35 | +12 | **50** |
+| 7 | 2025-2026 Portuguese Liga | **Moreirense** | 33 | 12 | 6 | 15 | 37 | 49 | -12 | **42** |
+| 8 | 2025-2026 Portuguese Liga | **Vitória de Guimaraes** | 33 | 12 | 6 | 15 | 39 | 49 | -10 | **42** |
 | 9 | 2025-2026 Portuguese Liga | **Estoril** | 33 | 10 | 9 | 14 | 53 | 54 | -1 | **39** |
-| 10 | 2025-2026 Portuguese Liga | **Alverca** | 33 | 10 | 9 | 14 | 35 | 51 | -16 | **39** |
-| 11 | 2025-2026 Portuguese Liga | **Arouca** | 32 | 10 | 6 | 16 | 41 | 62 | -21 | **36** |
-| 12 | 2025-2026 Portuguese Liga | **Rio Ave** | 32 | 8 | 11 | 13 | 33 | 52 | -19 | **35** |
-| 13 | 2025-2026 Portuguese Liga | **Santa Clara** | 32 | 8 | 9 | 15 | 30 | 40 | -10 | **33** |
-| 14 | 2025-2026 Portuguese Liga | **C.D. Nacional** | 32 | 8 | 7 | 17 | 35 | 43 | -8 | **31** |
-| 15 | 2025-2026 Portuguese Liga | **Estrela** | 32 | 6 | 10 | 16 | 36 | 54 | -18 | **28** |
-| 16 | 2025-2026 Portuguese Liga | **Casa Pia** | 32 | 5 | 11 | 16 | 29 | 56 | -27 | **26** |
-| 17 | 2025-2026 Portuguese Liga | **Tondela** | 32 | 5 | 10 | 17 | 24 | 52 | -28 | **25** |
+| 10 | 2025-2026 Portuguese Liga | **Arouca** | 33 | 11 | 6 | 16 | 44 | 63 | -19 | **39** |
+| 11 | 2025-2026 Portuguese Liga | **Alverca** | 33 | 10 | 9 | 14 | 35 | 51 | -16 | **39** |
+| 12 | 2025-2026 Portuguese Liga | **Santa Clara** | 33 | 9 | 9 | 15 | 32 | 40 | -8 | **36** |
+| 13 | 2025-2026 Portuguese Liga | **Rio Ave** | 33 | 8 | 11 | 14 | 34 | 56 | -22 | **35** |
+| 14 | 2025-2026 Portuguese Liga | **C.D. Nacional** | 33 | 8 | 7 | 18 | 35 | 45 | -10 | **31** |
+| 15 | 2025-2026 Portuguese Liga | **Estrela** | 33 | 6 | 11 | 16 | 36 | 54 | -18 | **29** |
+| 16 | 2025-2026 Portuguese Liga | **Casa Pia** | 33 | 6 | 11 | 16 | 30 | 56 | -26 | **29** |
+| 17 | 2025-2026 Portuguese Liga | **Tondela** | 33 | 6 | 10 | 17 | 26 | 52 | -26 | **28** |
 | 18 | 2025-2026 Portuguese Liga | **AVS** | 33 | 3 | 11 | 19 | 27 | 67 | -40 | **20** |
 
 #### Points Table
