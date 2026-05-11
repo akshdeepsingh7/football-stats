@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-11 01:28:00 UTC
+> **Last updated:** 2026-05-11 05:41:11 UTC
 
 ---
 
@@ -33,7 +33,7 @@
 | **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
 | **Scottish Premiership** | **Heart of Midlothian** | 77 | **Rangers** | 70 |
 | **MLS** | **Chicago Fire FC** | 17 | **San Jose Earthquakes** | 27 |
-| **Brazilian Serie A** | **Palmeiras** | 33 | **Flamengo** | 26 |
+| **Brazilian Serie A** | **Palmeiras** | 34 | **Flamengo** | 27 |
 | **Argentine Liga Profesional** | **Boca Juniors** | 30 | **Independiente Rivadavia** | 29 |
 | **Mexican Liga MX** | **Pumas UNAM** | 36 | **Pumas UNAM** | 34 |
 
@@ -769,21 +769,21 @@
 | 1 | Eastern Conference | **Nashville SC** | 11 | 7 | 3 | 1 | 23 | 8 | +15 | **24** |
 | 3 | Eastern Conference | **Inter Miami CF** | 12 | 6 | 4 | 2 | 26 | 21 | +5 | **22** |
 | 8 | Eastern Conference | **Charlotte FC** | 12 | 4 | 3 | 5 | 20 | 21 | -1 | **15** |
-| 10 | Western Conference | **Colorado Rapids** | 12 | 4 | 1 | 7 | 22 | 20 | +2 | **13** |
+| 11 | Western Conference | **Colorado Rapids** | 12 | 4 | 1 | 7 | 22 | 20 | +2 | **13** |
 | 7 | Western Conference | **FC Dallas** | 12 | 5 | 4 | 3 | 23 | 16 | +7 | **19** |
 | 15 | Western Conference | **Sporting Kansas City** | 11 | 1 | 2 | 8 | 8 | 32 | -24 | **5** |
-| 8 | Western Conference | **LA Galaxy** | 12 | 4 | 4 | 4 | 18 | 18 | 0 | **16** |
+| 9 | Western Conference | **LA Galaxy** | 12 | 4 | 4 | 4 | 18 | 18 | 0 | **16** |
 | 1 | Western Conference | **San Jose Earthquakes** | 12 | 9 | 2 | 1 | 27 | 8 | +19 | **29** |
 | 6 | Western Conference | **Real Salt Lake** | 11 | 6 | 1 | 4 | 20 | 17 | +3 | **19** |
-| 9 | Western Conference | **Houston Dynamo FC** | 10 | 5 | 0 | 5 | 13 | 18 | -5 | **15** |
-| 11 | Western Conference | **Portland Timbers** | 11 | 4 | 1 | 6 | 19 | 21 | -2 | **13** |
+| 8 | Western Conference | **Houston Dynamo FC** | 11 | 6 | 0 | 5 | 17 | 19 | -2 | **18** |
+| 12 | Western Conference | **Portland Timbers** | 11 | 4 | 1 | 6 | 19 | 21 | -2 | **13** |
 | 4 | Western Conference | **Seattle Sounders FC** | 10 | 6 | 3 | 1 | 14 | 6 | +8 | **21** |
 | 2 | Western Conference | **Vancouver Whitecaps** | 11 | 8 | 2 | 1 | 27 | 7 | +20 | **26** |
-| 5 | Western Conference | **Minnesota United FC** | 11 | 6 | 2 | 3 | 14 | 16 | -2 | **20** |
-| 3 | Western Conference | **LAFC** | 11 | 6 | 3 | 2 | 19 | 8 | +11 | **21** |
-| 13 | Western Conference | **Austin FC** | 11 | 3 | 4 | 4 | 16 | 19 | -3 | **13** |
+| 5 | Western Conference | **Minnesota United FC** | 12 | 6 | 3 | 3 | 16 | 18 | -2 | **21** |
+| 3 | Western Conference | **LAFC** | 12 | 6 | 3 | 3 | 20 | 12 | +8 | **21** |
+| 10 | Western Conference | **Austin FC** | 12 | 3 | 5 | 4 | 18 | 21 | -3 | **14** |
 | 14 | Western Conference | **St. Louis CITY SC** | 11 | 2 | 3 | 6 | 10 | 18 | -8 | **9** |
-| 12 | Western Conference | **San Diego FC** | 12 | 3 | 4 | 5 | 20 | 20 | 0 | **13** |
+| 13 | Western Conference | **San Diego FC** | 12 | 3 | 4 | 5 | 20 | 20 | 0 | **13** |
 
 #### Points Table
 
@@ -825,26 +825,26 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2026 | **Palmeiras** | 14 | 10 | 3 | 1 | 24 | 11 | +13 | **33** |
-| 2 | 2026 | **Flamengo** | 13 | 8 | 3 | 2 | 26 | 12 | +14 | **27** |
+| 1 | 2026 | **Palmeiras** | 15 | 10 | 4 | 1 | 25 | 12 | +13 | **34** |
+| 2 | 2026 | **Flamengo** | 14 | 9 | 3 | 2 | 27 | 12 | +15 | **30** |
 | 3 | 2026 | **Fluminense** | 15 | 8 | 3 | 4 | 25 | 20 | +5 | **27** |
-| 4 | 2026 | **São Paulo** | 14 | 7 | 3 | 4 | 19 | 13 | +6 | **24** |
-| 5 | 2026 | **Athletico Paranaense** | 14 | 7 | 2 | 5 | 20 | 15 | +5 | **23** |
+| 4 | 2026 | **São Paulo** | 15 | 7 | 3 | 5 | 21 | 16 | +5 | **24** |
+| 5 | 2026 | **Athletico Paranaense** | 15 | 7 | 2 | 6 | 20 | 16 | +4 | **23** |
 | 6 | 2026 | **Bahia** | 14 | 6 | 4 | 4 | 20 | 18 | +2 | **22** |
-| 7 | 2026 | **Red Bull Bragantino** | 14 | 6 | 2 | 6 | 17 | 16 | +1 | **20** |
-| 8 | 2026 | **Coritiba** | 15 | 5 | 5 | 5 | 18 | 19 | -1 | **20** |
-| 9 | 2026 | **Vitória** | 14 | 5 | 4 | 5 | 18 | 20 | -2 | **19** |
-| 10 | 2026 | **Cruzeiro** | 15 | 5 | 4 | 6 | 20 | 25 | -5 | **19** |
-| 11 | 2026 | **Internacional** | 15 | 4 | 6 | 5 | 16 | 16 | 0 | **18** |
-| 12 | 2026 | **Botafogo** | 13 | 5 | 2 | 6 | 25 | 26 | -1 | **17** |
-| 13 | 2026 | **Atlético-MG** | 14 | 5 | 2 | 7 | 17 | 20 | -3 | **17** |
-| 14 | 2026 | **Vasco da Gama** | 14 | 4 | 5 | 5 | 20 | 21 | -1 | **17** |
-| 15 | 2026 | **Grêmio** | 14 | 4 | 5 | 5 | 15 | 16 | -1 | **17** |
-| 16 | 2026 | **Santos** | 14 | 3 | 6 | 5 | 19 | 22 | -3 | **15** |
-| 17 | 2026 | **Corinthians** | 14 | 3 | 6 | 5 | 10 | 13 | -3 | **15** |
-| 18 | 2026 | **Mirassol** | 13 | 3 | 3 | 7 | 15 | 19 | -4 | **12** |
-| 19 | 2026 | **Remo** | 14 | 2 | 5 | 7 | 15 | 24 | -9 | **11** |
-| 20 | 2026 | **Chapecoense** | 13 | 1 | 5 | 7 | 13 | 26 | -13 | **8** |
+| 7 | 2026 | **Red Bull Bragantino** | 15 | 6 | 2 | 7 | 17 | 18 | -1 | **20** |
+| 8 | 2026 | **Vasco da Gama** | 15 | 5 | 5 | 5 | 21 | 21 | 0 | **20** |
+| 9 | 2026 | **Coritiba** | 15 | 5 | 5 | 5 | 18 | 19 | -1 | **20** |
+| 10 | 2026 | **Vitória** | 14 | 5 | 4 | 5 | 18 | 20 | -2 | **19** |
+| 11 | 2026 | **Cruzeiro** | 15 | 5 | 4 | 6 | 20 | 25 | -5 | **19** |
+| 12 | 2026 | **Botafogo** | 14 | 5 | 3 | 6 | 26 | 27 | -1 | **18** |
+| 13 | 2026 | **Atlético-MG** | 15 | 5 | 3 | 7 | 18 | 21 | -3 | **18** |
+| 14 | 2026 | **Internacional** | 15 | 4 | 6 | 5 | 16 | 16 | 0 | **18** |
+| 15 | 2026 | **Santos** | 15 | 4 | 6 | 5 | 21 | 22 | -1 | **18** |
+| 16 | 2026 | **Corinthians** | 15 | 4 | 6 | 5 | 13 | 15 | -2 | **18** |
+| 17 | 2026 | **Grêmio** | 15 | 4 | 5 | 6 | 15 | 17 | -2 | **17** |
+| 18 | 2026 | **Mirassol** | 14 | 3 | 4 | 7 | 16 | 20 | -4 | **13** |
+| 19 | 2026 | **Remo** | 15 | 2 | 6 | 7 | 16 | 25 | -9 | **12** |
+| 20 | 2026 | **Chapecoense** | 14 | 1 | 6 | 7 | 14 | 27 | -13 | **9** |
 
 #### Points Table
 
