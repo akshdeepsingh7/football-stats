@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-11 12:44:01 UTC
+> **Last updated:** 2026-05-11 16:07:42 UTC
 
 ---
 
@@ -589,8 +589,8 @@
 | 4 | 2025-2026 Dutch Eredivisi | **NEC Nijmegen** | 33 | 15 | 11 | 7 | 75 | 52 | +23 | **56** |
 | 5 | 2025-2026 Dutch Eredivisi | **Ajax Amsterdam** | 33 | 14 | 13 | 6 | 62 | 41 | +21 | **55** |
 | 6 | 2025-2026 Dutch Eredivisi | **AZ Alkmaar** | 33 | 14 | 9 | 10 | 55 | 48 | +7 | **51** |
-| 7 | 2025-2026 Dutch Eredivisi | **Heerenveen** | 32 | 14 | 8 | 10 | 57 | 51 | +6 | **50** |
-| 8 | 2025-2026 Dutch Eredivisi | **FC Utrecht** | 33 | 14 | 8 | 11 | 53 | 42 | +11 | **50** |
+| 7 | 2025-2026 Dutch Eredivisi | **FC Utrecht** | 33 | 14 | 8 | 11 | 53 | 42 | +11 | **50** |
+| 8 | 2025-2026 Dutch Eredivisi | **Heerenveen** | 33 | 14 | 8 | 11 | 57 | 53 | +4 | **50** |
 | 9 | 2025-2026 Dutch Eredivisi | **FC Groningen** | 33 | 13 | 6 | 14 | 47 | 44 | +3 | **45** |
 | 10 | 2025-2026 Dutch Eredivisi | **Sparta Rotterdam** | 33 | 12 | 7 | 14 | 38 | 59 | -21 | **43** |
 | 11 | 2025-2026 Dutch Eredivisi | **Fortuna Sittard** | 33 | 11 | 6 | 16 | 49 | 61 | -12 | **39** |
@@ -599,7 +599,7 @@
 | 14 | 2025-2026 Dutch Eredivisi | **Excelsior** | 33 | 9 | 8 | 16 | 40 | 54 | -14 | **35** |
 | 15 | 2025-2026 Dutch Eredivisi | **Telstar** | 33 | 8 | 10 | 15 | 47 | 54 | -7 | **34** |
 | 16 | 2025-2026 Dutch Eredivisi | **FC Volendam** | 33 | 8 | 8 | 17 | 34 | 53 | -19 | **32** |
-| 17 | 2025-2026 Dutch Eredivisi | **NAC Breda** | 32 | 5 | 10 | 17 | 30 | 55 | -25 | **25** |
+| 17 | 2025-2026 Dutch Eredivisi | **NAC Breda** | 33 | 6 | 10 | 17 | 32 | 55 | -23 | **28** |
 | 18 | 2025-2026 Dutch Eredivisi | **Heracles Almelo** | 33 | 5 | 4 | 24 | 34 | 83 | -49 | **19** |
 
 #### Points Table
@@ -651,15 +651,15 @@
 | 7 | 2025/2026 Turkish Super L | **Samsunspor** | 33 | 12 | 12 | 9 | 43 | 45 | -2 | **48** |
 | 8 | 2025/2026 Turkish Super L | **Caykur Rizespor** | 33 | 10 | 10 | 13 | 44 | 50 | -6 | **40** |
 | 9 | 2025/2026 Turkish Super L | **Konyaspor** | 33 | 10 | 10 | 13 | 42 | 48 | -6 | **40** |
-| 10 | 2025/2026 Turkish Super L | **Alanyaspor** | 33 | 7 | 16 | 10 | 40 | 39 | +1 | **37** |
-| 11 | 2025/2026 Turkish Super L | **Kocaelispor** | 33 | 9 | 10 | 14 | 26 | 37 | -11 | **37** |
+| 10 | 2025/2026 Turkish Super L | **Kocaelispor** | 33 | 9 | 10 | 14 | 26 | 37 | -11 | **37** |
+| 11 | 2025/2026 Turkish Super L | **Alanyaspor** | 33 | 7 | 16 | 10 | 40 | 39 | +1 | **37** |
 | 12 | 2025/2026 Turkish Super L | **Gaziantep FK** | 33 | 9 | 10 | 14 | 42 | 56 | -14 | **37** |
 | 13 | 2025/2026 Turkish Super L | **Eyupspor** | 33 | 8 | 8 | 17 | 30 | 45 | -15 | **32** |
 | 14 | 2025/2026 Turkish Super L | **Kasimpasa** | 33 | 7 | 11 | 15 | 32 | 49 | -17 | **32** |
 | 15 | 2025/2026 Turkish Super L | **Genclerbirligi** | 33 | 8 | 7 | 18 | 33 | 47 | -14 | **31** |
 | 16 | 2025/2026 Turkish Super L | **Antalyaspor** | 33 | 7 | 8 | 18 | 32 | 55 | -23 | **29** |
-| 17 | 2025/2026 Turkish Super L | **Fatih Karagümrük** | 33 | 7 | 6 | 20 | 29 | 53 | -24 | **27** |
-| 18 | 2025/2026 Turkish Super L | **Kayserispor** | 33 | 5 | 12 | 16 | 25 | 61 | -36 | **27** |
+| 17 | 2025/2026 Turkish Super L | **Kayserispor** | 33 | 5 | 12 | 16 | 25 | 61 | -36 | **27** |
+| 18 | 2025/2026 Turkish Super L | **Fatih Karagümrük** | 33 | 7 | 6 | 20 | 29 | 53 | -24 | **27** |
 
 #### Points Table
 
