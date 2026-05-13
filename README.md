@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-13 20:20:15 UTC
+> **Last updated:** 2026-05-13 21:55:02 UTC
 
 ---
 
@@ -21,17 +21,17 @@
 
 | League | Leader | Pts | Best Attack | GF |
 |--------|--------|-----|-------------|-----|
-| **English Premier League** | **Arsenal** | 79 | **Manchester City** | 72 |
+| **English Premier League** | **Arsenal** | 79 | **Manchester City** | 75 |
 | **Spanish La Liga** | **Barcelona** | 91 | **Barcelona** | 91 |
 | **Italian Serie A** | **Internazionale** | 85 | **Internazionale** | 85 |
 | **German Bundesliga** | **Bayern Munich** | 86 | **Bayern Munich** | 117 |
-| **French Ligue 1** | **Paris Saint-Germain** | 73 | **Paris Saint-Germain** | 71 |
+| **French Ligue 1** | **Paris Saint-Germain** | 76 | **Paris Saint-Germain** | 73 |
 | **UEFA Champions League** | **Arsenal** | 24 | **Arsenal** | 23 |
 | **UEFA Europa League** | **Lyon** | 21 | **Lyon** | 18 |
 | **Portuguese Primeira Liga** | **FC Porto** | 85 | **Sporting CP** | 86 |
 | **Dutch Eredivisie** | **PSV Eindhoven** | 81 | **PSV Eindhoven** | 96 |
 | **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
-| **Scottish Premiership** | **Heart of Midlothian** | 77 | **Rangers** | 70 |
+| **Scottish Premiership** | **Heart of Midlothian** | 80 | **Rangers** | 71 |
 | **MLS** | **Chicago Fire FC** | 17 | **San Jose Earthquakes** | 27 |
 | **Brazilian Serie A** | **Palmeiras** | 34 | **Flamengo** | 27 |
 | **Argentine Liga Profesional** | **Boca Juniors** | 30 | **Independiente Rivadavia** | 29 |
@@ -70,7 +70,7 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | English Premier League 20 | **Arsenal** | 36 | 24 | 7 | 5 | 68 | 26 | +42 | **79** |
-| 2 | English Premier League 20 | **Manchester City** | 35 | 22 | 8 | 5 | 72 | 32 | +40 | **74** |
+| 2 | English Premier League 20 | **Manchester City** | 36 | 23 | 8 | 5 | 75 | 32 | +43 | **77** |
 | 3 | English Premier League 20 | **Manchester United** | 36 | 18 | 11 | 7 | 63 | 48 | +15 | **65** |
 | 4 | English Premier League 20 | **Liverpool** | 36 | 17 | 8 | 11 | 60 | 48 | +12 | **59** |
 | 5 | English Premier League 20 | **Aston Villa** | 36 | 17 | 8 | 11 | 50 | 46 | +4 | **59** |
@@ -83,7 +83,7 @@
 | 12 | English Premier League 20 | **Sunderland** | 36 | 12 | 12 | 12 | 37 | 46 | -9 | **48** |
 | 13 | English Premier League 20 | **Newcastle United** | 36 | 13 | 7 | 16 | 50 | 52 | -2 | **46** |
 | 14 | English Premier League 20 | **Leeds United** | 36 | 10 | 14 | 12 | 48 | 53 | -5 | **44** |
-| 15 | English Premier League 20 | **Crystal Palace** | 35 | 11 | 11 | 13 | 38 | 44 | -6 | **44** |
+| 15 | English Premier League 20 | **Crystal Palace** | 36 | 11 | 11 | 14 | 38 | 47 | -9 | **44** |
 | 16 | English Premier League 20 | **Nottingham Forest** | 36 | 11 | 10 | 15 | 45 | 47 | -2 | **43** |
 | 17 | English Premier League 20 | **Tottenham Hotspur** | 36 | 9 | 11 | 16 | 46 | 55 | -9 | **38** |
 | 18 | English Premier League 20 | **West Ham United** | 36 | 9 | 9 | 18 | 42 | 62 | -20 | **36** |
@@ -130,13 +130,13 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-26 LALIGA | **Barcelona** | 35 | 30 | 1 | 4 | 91 | 31 | +60 | **91** |
+| 1 | 2025-26 LALIGA | **Barcelona** | 36 | 30 | 1 | 5 | 91 | 32 | +59 | **91** |
 | 2 | 2025-26 LALIGA | **Real Madrid** | 35 | 24 | 5 | 6 | 70 | 33 | +37 | **77** |
 | 3 | 2025-26 LALIGA | **Villarreal** | 36 | 21 | 6 | 9 | 67 | 43 | +24 | **69** |
 | 4 | 2025-26 LALIGA | **Atlético Madrid** | 36 | 20 | 6 | 10 | 60 | 39 | +21 | **66** |
 | 5 | 2025-26 LALIGA | **Real Betis** | 36 | 14 | 15 | 7 | 56 | 44 | +12 | **57** |
 | 6 | 2025-26 LALIGA | **Celta Vigo** | 36 | 13 | 11 | 12 | 51 | 47 | +4 | **50** |
-| 7 | 2025-26 LALIGA | **Getafe** | 35 | 13 | 6 | 16 | 28 | 36 | -8 | **45** |
+| 7 | 2025-26 LALIGA | **Getafe** | 36 | 14 | 6 | 16 | 31 | 37 | -6 | **48** |
 | 8 | 2025-26 LALIGA | **Real Sociedad** | 35 | 11 | 11 | 13 | 54 | 55 | -1 | **44** |
 | 9 | 2025-26 LALIGA | **Athletic Club** | 36 | 13 | 5 | 18 | 40 | 53 | -13 | **44** |
 | 10 | 2025-26 LALIGA | **Sevilla** | 36 | 12 | 7 | 17 | 46 | 58 | -12 | **43** |
@@ -144,11 +144,11 @@
 | 12 | 2025-26 LALIGA | **Osasuna** | 36 | 11 | 9 | 16 | 43 | 47 | -4 | **42** |
 | 13 | 2025-26 LALIGA | **Valencia** | 35 | 11 | 9 | 15 | 38 | 50 | -12 | **42** |
 | 14 | 2025-26 LALIGA | **Espanyol** | 36 | 11 | 9 | 16 | 40 | 53 | -13 | **42** |
-| 15 | 2025-26 LALIGA | **Elche** | 36 | 9 | 12 | 15 | 47 | 56 | -9 | **39** |
-| 16 | 2025-26 LALIGA | **Mallorca** | 35 | 10 | 9 | 16 | 43 | 52 | -9 | **39** |
-| 17 | 2025-26 LALIGA | **Levante** | 36 | 10 | 9 | 17 | 44 | 59 | -15 | **39** |
-| 18 | 2025-26 LALIGA | **Girona** | 35 | 9 | 12 | 14 | 37 | 52 | -15 | **39** |
-| 19 | 2025-26 LALIGA | **Alavés** | 35 | 9 | 10 | 16 | 41 | 54 | -13 | **37** |
+| 15 | 2025-26 LALIGA | **Alavés** | 36 | 10 | 10 | 16 | 42 | 54 | -12 | **40** |
+| 16 | 2025-26 LALIGA | **Elche** | 36 | 9 | 12 | 15 | 47 | 56 | -9 | **39** |
+| 17 | 2025-26 LALIGA | **Mallorca** | 36 | 10 | 9 | 17 | 44 | 55 | -11 | **39** |
+| 18 | 2025-26 LALIGA | **Levante** | 36 | 10 | 9 | 17 | 44 | 59 | -15 | **39** |
+| 19 | 2025-26 LALIGA | **Girona** | 35 | 9 | 12 | 14 | 37 | 52 | -15 | **39** |
 | 20 | 2025-26 LALIGA | **Real Oviedo** | 35 | 6 | 11 | 18 | 26 | 54 | -28 | **29** |
 
 #### Points Table
@@ -311,8 +311,8 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | French Ligue 1 2025-26 | **Paris Saint-Germain** | 32 | 23 | 4 | 5 | 71 | 27 | +44 | **73** |
-| 2 | French Ligue 1 2025-26 | **Lens** | 32 | 21 | 4 | 7 | 62 | 33 | +29 | **67** |
+| 1 | French Ligue 1 2025-26 | **Paris Saint-Germain** | 33 | 24 | 4 | 5 | 73 | 27 | +46 | **76** |
+| 2 | French Ligue 1 2025-26 | **Lens** | 33 | 21 | 4 | 8 | 62 | 35 | +27 | **67** |
 | 3 | French Ligue 1 2025-26 | **Lille** | 33 | 18 | 7 | 8 | 52 | 35 | +17 | **61** |
 | 4 | French Ligue 1 2025-26 | **Lyon** | 33 | 18 | 6 | 9 | 53 | 36 | +17 | **60** |
 | 5 | French Ligue 1 2025-26 | **Stade Rennais** | 33 | 17 | 8 | 8 | 58 | 47 | +11 | **59** |
@@ -701,12 +701,12 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-26 Scottish Premiers | **Heart of Midlothian** | 36 | 23 | 8 | 5 | 63 | 31 | +32 | **77** |
-| 2 | 2025-26 Scottish Premiers | **Celtic** | 36 | 24 | 4 | 8 | 67 | 38 | +29 | **76** |
-| 3 | 2025-26 Scottish Premiers | **Rangers** | 36 | 19 | 12 | 5 | 70 | 39 | +31 | **69** |
-| 4 | 2025-26 Scottish Premiers | **Motherwell** | 36 | 15 | 13 | 8 | 56 | 33 | +23 | **58** |
-| 5 | 2025-26 Scottish Premiers | **Hibernian** | 36 | 14 | 12 | 10 | 56 | 42 | +14 | **54** |
-| 6 | 2025-26 Scottish Premiers | **Falkirk** | 36 | 14 | 7 | 15 | 48 | 54 | -6 | **49** |
+| 1 | 2025-26 Scottish Premiers | **Heart of Midlothian** | 37 | 24 | 8 | 5 | 66 | 31 | +35 | **80** |
+| 2 | 2025-26 Scottish Premiers | **Celtic** | 37 | 25 | 4 | 8 | 70 | 40 | +30 | **79** |
+| 3 | 2025-26 Scottish Premiers | **Rangers** | 37 | 19 | 12 | 6 | 71 | 41 | +30 | **69** |
+| 4 | 2025-26 Scottish Premiers | **Motherwell** | 37 | 15 | 13 | 9 | 58 | 36 | +22 | **58** |
+| 5 | 2025-26 Scottish Premiers | **Hibernian** | 37 | 15 | 12 | 10 | 58 | 43 | +15 | **57** |
+| 6 | 2025-26 Scottish Premiers | **Falkirk** | 37 | 14 | 7 | 16 | 48 | 57 | -9 | **49** |
 | 7 | 2025-26 Scottish Premiers | **Dundee United** | 37 | 10 | 14 | 13 | 48 | 59 | -11 | **44** |
 | 8 | 2025-26 Scottish Premiers | **Aberdeen** | 37 | 11 | 7 | 19 | 38 | 52 | -14 | **40** |
 | 9 | 2025-26 Scottish Premiers | **Dundee** | 37 | 10 | 9 | 18 | 39 | 59 | -20 | **39** |
