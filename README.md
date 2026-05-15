@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-15 17:11:40 UTC
+> **Last updated:** 2026-05-15 19:07:24 UTC
 
 ---
 
@@ -645,11 +645,11 @@
 | 1 | 2025/2026 Turkish Super L | **Galatasaray** | 33 | 24 | 5 | 4 | 77 | 29 | +48 | **77** |
 | 2 | 2025/2026 Turkish Super L | **Fenerbahce** | 33 | 21 | 10 | 2 | 74 | 34 | +40 | **73** |
 | 3 | 2025/2026 Turkish Super L | **Trabzonspor** | 33 | 20 | 9 | 4 | 61 | 36 | +25 | **69** |
-| 4 | 2025/2026 Turkish Super L | **Besiktas** | 33 | 17 | 8 | 8 | 57 | 38 | +19 | **59** |
+| 4 | 2025/2026 Turkish Super L | **Besiktas** | 34 | 17 | 9 | 8 | 59 | 40 | +19 | **60** |
 | 5 | 2025/2026 Turkish Super L | **Goztepe** | 33 | 14 | 13 | 6 | 42 | 29 | +13 | **55** |
 | 6 | 2025/2026 Turkish Super L | **Istanbul Basaksehir** | 33 | 15 | 9 | 9 | 56 | 34 | +22 | **54** |
 | 7 | 2025/2026 Turkish Super L | **Samsunspor** | 33 | 12 | 12 | 9 | 43 | 45 | -2 | **48** |
-| 8 | 2025/2026 Turkish Super L | **Caykur Rizespor** | 33 | 10 | 10 | 13 | 44 | 50 | -6 | **40** |
+| 8 | 2025/2026 Turkish Super L | **Caykur Rizespor** | 34 | 10 | 11 | 13 | 46 | 52 | -6 | **41** |
 | 9 | 2025/2026 Turkish Super L | **Konyaspor** | 33 | 10 | 10 | 13 | 42 | 48 | -6 | **40** |
 | 10 | 2025/2026 Turkish Super L | **Kocaelispor** | 33 | 9 | 10 | 14 | 26 | 37 | -11 | **37** |
 | 11 | 2025/2026 Turkish Super L | **Alanyaspor** | 33 | 7 | 16 | 10 | 40 | 39 | +1 | **37** |
