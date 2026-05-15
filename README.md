@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-15 20:41:46 UTC
+> **Last updated:** 2026-05-15 22:03:43 UTC
 
 ---
 
@@ -72,8 +72,8 @@
 | 1 | English Premier League 20 | **Arsenal** | 36 | 24 | 7 | 5 | 68 | 26 | +42 | **79** |
 | 2 | English Premier League 20 | **Manchester City** | 36 | 23 | 8 | 5 | 75 | 32 | +43 | **77** |
 | 3 | English Premier League 20 | **Manchester United** | 36 | 18 | 11 | 7 | 63 | 48 | +15 | **65** |
-| 4 | English Premier League 20 | **Liverpool** | 36 | 17 | 8 | 11 | 60 | 48 | +12 | **59** |
-| 5 | English Premier League 20 | **Aston Villa** | 36 | 17 | 8 | 11 | 50 | 46 | +4 | **59** |
+| 4 | English Premier League 20 | **Aston Villa** | 37 | 18 | 8 | 11 | 54 | 48 | +6 | **62** |
+| 5 | English Premier League 20 | **Liverpool** | 37 | 17 | 8 | 12 | 62 | 52 | +10 | **59** |
 | 6 | English Premier League 20 | **AFC Bournemouth** | 36 | 13 | 16 | 7 | 56 | 52 | +4 | **55** |
 | 7 | English Premier League 20 | **Brighton & Hove Albion** | 36 | 14 | 11 | 11 | 52 | 42 | +10 | **53** |
 | 8 | English Premier League 20 | **Brentford** | 36 | 14 | 9 | 13 | 52 | 49 | +3 | **51** |
