@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-16 11:57:29 UTC
+> **Last updated:** 2026-05-16 13:52:23 UTC
 
 ---
 
@@ -31,7 +31,7 @@
 | **Portuguese Primeira Liga** | **FC Porto** | 85 | **Sporting CP** | 86 |
 | **Dutch Eredivisie** | **PSV Eindhoven** | 81 | **PSV Eindhoven** | 96 |
 | **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
-| **Scottish Premiership** | **Heart of Midlothian** | 80 | **Rangers** | 71 |
+| **Scottish Premiership** | **Celtic** | 82 | **Rangers** | 76 |
 | **MLS** | **Chicago Fire FC** | 20 | **Inter Miami CF** | 31 |
 | **Brazilian Serie A** | **Palmeiras** | 34 | **Flamengo** | 27 |
 | **Argentine Liga Profesional** | **Boca Juniors** | 30 | **Independiente Rivadavia** | 29 |
@@ -701,12 +701,12 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-26 Scottish Premiers | **Heart of Midlothian** | 37 | 24 | 8 | 5 | 66 | 31 | +35 | **80** |
-| 2 | 2025-26 Scottish Premiers | **Celtic** | 37 | 25 | 4 | 8 | 70 | 40 | +30 | **79** |
-| 3 | 2025-26 Scottish Premiers | **Rangers** | 37 | 19 | 12 | 6 | 71 | 41 | +30 | **69** |
-| 4 | 2025-26 Scottish Premiers | **Motherwell** | 37 | 15 | 13 | 9 | 58 | 36 | +22 | **58** |
-| 5 | 2025-26 Scottish Premiers | **Hibernian** | 37 | 15 | 12 | 10 | 58 | 43 | +15 | **57** |
-| 6 | 2025-26 Scottish Premiers | **Falkirk** | 37 | 14 | 7 | 16 | 48 | 57 | -9 | **49** |
+| 1 | 2025-26 Scottish Premiers | **Celtic** | 38 | 26 | 4 | 8 | 73 | 41 | +32 | **82** |
+| 2 | 2025-26 Scottish Premiers | **Heart of Midlothian** | 38 | 24 | 8 | 6 | 67 | 34 | +33 | **80** |
+| 3 | 2025-26 Scottish Premiers | **Rangers** | 38 | 20 | 12 | 6 | 76 | 43 | +33 | **72** |
+| 4 | 2025-26 Scottish Premiers | **Motherwell** | 38 | 16 | 13 | 9 | 59 | 36 | +23 | **61** |
+| 5 | 2025-26 Scottish Premiers | **Hibernian** | 38 | 15 | 12 | 11 | 58 | 44 | +14 | **57** |
+| 6 | 2025-26 Scottish Premiers | **Falkirk** | 38 | 14 | 7 | 17 | 50 | 62 | -12 | **49** |
 | 7 | 2025-26 Scottish Premiers | **Dundee United** | 37 | 10 | 14 | 13 | 48 | 59 | -11 | **44** |
 | 8 | 2025-26 Scottish Premiers | **Aberdeen** | 37 | 11 | 7 | 19 | 38 | 52 | -14 | **40** |
 | 9 | 2025-26 Scottish Premiers | **Dundee** | 37 | 10 | 9 | 18 | 39 | 59 | -20 | **39** |
