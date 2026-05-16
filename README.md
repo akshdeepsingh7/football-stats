@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-16 22:25:16 UTC
+> **Last updated:** 2026-05-16 23:29:54 UTC
 
 ---
 
@@ -32,7 +32,7 @@
 | **Dutch Eredivisie** | **PSV Eindhoven** | 81 | **PSV Eindhoven** | 96 |
 | **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
 | **Scottish Premiership** | **Celtic** | 82 | **Rangers** | 76 |
-| **MLS** | **Chicago Fire FC** | 20 | **Inter Miami CF** | 31 |
+| **MLS** | **Chicago Fire FC** | 23 | **Inter Miami CF** | 31 |
 | **Brazilian Serie A** | **Palmeiras** | 34 | **Flamengo** | 27 |
 | **Argentine Liga Profesional** | **Boca Juniors** | 30 | **Independiente Rivadavia** | 29 |
 | **Mexican Liga MX** | **Pumas UNAM** | 36 | **Pumas UNAM** | 34 |
@@ -754,13 +754,13 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 4 | Eastern Conference | **Chicago Fire FC** | 12 | 6 | 2 | 4 | 23 | 15 | +8 | **20** |
+| 3 | Eastern Conference | **Chicago Fire FC** | 13 | 7 | 2 | 4 | 25 | 15 | +10 | **23** |
 | 13 | Eastern Conference | **Columbus Crew** | 13 | 3 | 3 | 7 | 18 | 22 | -4 | **12** |
-| 3 | Eastern Conference | **New England Revolution** | 12 | 7 | 1 | 4 | 20 | 16 | +4 | **22** |
+| 4 | Eastern Conference | **New England Revolution** | 12 | 7 | 1 | 4 | 20 | 16 | +4 | **22** |
 | 6 | Eastern Conference | **Red Bull New York** | 13 | 5 | 3 | 5 | 22 | 30 | -8 | **18** |
 | 7 | Eastern Conference | **D.C. United** | 13 | 4 | 4 | 5 | 16 | 20 | -4 | **16** |
 | 10 | Eastern Conference | **Toronto FC** | 12 | 3 | 5 | 4 | 20 | 24 | -4 | **14** |
-| 11 | Eastern Conference | **CF Montréal** | 12 | 4 | 1 | 7 | 18 | 25 | -7 | **13** |
+| 11 | Eastern Conference | **CF Montréal** | 13 | 4 | 1 | 8 | 18 | 27 | -9 | **13** |
 | 15 | Eastern Conference | **Philadelphia Union** | 13 | 1 | 3 | 9 | 13 | 23 | -10 | **6** |
 | 12 | Eastern Conference | **Orlando City SC** | 13 | 4 | 1 | 8 | 20 | 37 | -17 | **13** |
 | 5 | Eastern Conference | **New York City FC** | 13 | 5 | 3 | 5 | 23 | 18 | +5 | **18** |
