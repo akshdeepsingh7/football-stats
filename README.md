@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-16 15:04:04 UTC
+> **Last updated:** 2026-05-16 16:29:57 UTC
 
 ---
 
@@ -24,7 +24,7 @@
 | **English Premier League** | **Arsenal** | 79 | **Manchester City** | 75 |
 | **Spanish La Liga** | **Barcelona** | 91 | **Barcelona** | 91 |
 | **Italian Serie A** | **Internazionale** | 85 | **Internazionale** | 85 |
-| **German Bundesliga** | **Bayern Munich** | 86 | **Bayern Munich** | 117 |
+| **German Bundesliga** | **Bayern Munich** | 89 | **Bayern Munich** | 122 |
 | **French Ligue 1** | **Paris Saint-Germain** | 76 | **Paris Saint-Germain** | 73 |
 | **UEFA Champions League** | **Arsenal** | 24 | **Arsenal** | 23 |
 | **UEFA Europa League** | **Lyon** | 21 | **Lyon** | 18 |
@@ -252,24 +252,24 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-26 German Bundesliga | **Bayern Munich** | 33 | 27 | 5 | 1 | 117 | 35 | +82 | **86** |
-| 2 | 2025-26 German Bundesliga | **Borussia Dortmund** | 33 | 21 | 7 | 5 | 68 | 34 | +34 | **70** |
-| 3 | 2025-26 German Bundesliga | **RB Leipzig** | 33 | 20 | 5 | 8 | 65 | 43 | +22 | **65** |
-| 4 | 2025-26 German Bundesliga | **VfB Stuttgart** | 33 | 18 | 7 | 8 | 69 | 47 | +22 | **61** |
-| 5 | 2025-26 German Bundesliga | **TSG Hoffenheim** | 33 | 18 | 7 | 8 | 65 | 48 | +17 | **61** |
-| 6 | 2025-26 German Bundesliga | **Bayer Leverkusen** | 33 | 17 | 7 | 9 | 67 | 46 | +21 | **58** |
-| 7 | 2025-26 German Bundesliga | **SC Freiburg** | 33 | 12 | 8 | 13 | 47 | 56 | -9 | **44** |
-| 8 | 2025-26 German Bundesliga | **Eintracht Frankfurt** | 33 | 11 | 10 | 12 | 59 | 63 | -4 | **43** |
-| 9 | 2025-26 German Bundesliga | **FC Augsburg** | 33 | 12 | 7 | 14 | 45 | 57 | -12 | **43** |
-| 10 | 2025-26 German Bundesliga | **Mainz** | 33 | 9 | 10 | 14 | 42 | 53 | -11 | **37** |
-| 11 | 2025-26 German Bundesliga | **Hamburg SV** | 33 | 9 | 10 | 14 | 39 | 53 | -14 | **37** |
-| 12 | 2025-26 German Bundesliga | **1. FC Union Berlin** | 33 | 9 | 9 | 15 | 40 | 58 | -18 | **36** |
-| 13 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 33 | 8 | 11 | 14 | 38 | 53 | -15 | **35** |
-| 14 | 2025-26 German Bundesliga | **FC Cologne** | 33 | 7 | 11 | 15 | 48 | 58 | -10 | **32** |
-| 15 | 2025-26 German Bundesliga | **Werder Bremen** | 33 | 8 | 8 | 17 | 37 | 58 | -21 | **32** |
-| 16 | 2025-26 German Bundesliga | **VfL Wolfsburg** | 33 | 6 | 8 | 19 | 42 | 68 | -26 | **26** |
-| 17 | 2025-26 German Bundesliga | **1. FC Heidenheim 1846** | 33 | 6 | 8 | 19 | 41 | 70 | -29 | **26** |
-| 18 | 2025-26 German Bundesliga | **St. Pauli** | 33 | 6 | 8 | 19 | 28 | 57 | -29 | **26** |
+| 1 | 2025-26 German Bundesliga | **Bayern Munich** | 34 | 28 | 5 | 1 | 122 | 36 | +86 | **89** |
+| 2 | 2025-26 German Bundesliga | **Borussia Dortmund** | 34 | 22 | 7 | 5 | 70 | 34 | +36 | **73** |
+| 3 | 2025-26 German Bundesliga | **RB Leipzig** | 34 | 20 | 5 | 9 | 66 | 47 | +19 | **65** |
+| 4 | 2025-26 German Bundesliga | **VfB Stuttgart** | 34 | 18 | 8 | 8 | 71 | 49 | +22 | **62** |
+| 5 | 2025-26 German Bundesliga | **TSG Hoffenheim** | 34 | 18 | 7 | 9 | 65 | 52 | +13 | **61** |
+| 6 | 2025-26 German Bundesliga | **Bayer Leverkusen** | 34 | 17 | 8 | 9 | 68 | 47 | +21 | **59** |
+| 7 | 2025-26 German Bundesliga | **SC Freiburg** | 34 | 13 | 8 | 13 | 51 | 57 | -6 | **47** |
+| 8 | 2025-26 German Bundesliga | **Eintracht Frankfurt** | 34 | 11 | 11 | 12 | 61 | 65 | -4 | **44** |
+| 9 | 2025-26 German Bundesliga | **FC Augsburg** | 34 | 12 | 7 | 15 | 45 | 61 | -16 | **43** |
+| 10 | 2025-26 German Bundesliga | **Mainz** | 34 | 10 | 10 | 14 | 44 | 53 | -9 | **40** |
+| 11 | 2025-26 German Bundesliga | **1. FC Union Berlin** | 34 | 10 | 9 | 15 | 44 | 58 | -14 | **39** |
+| 12 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 34 | 9 | 11 | 14 | 42 | 53 | -11 | **38** |
+| 13 | 2025-26 German Bundesliga | **Hamburg SV** | 34 | 9 | 11 | 14 | 40 | 54 | -14 | **38** |
+| 14 | 2025-26 German Bundesliga | **FC Cologne** | 34 | 7 | 11 | 16 | 49 | 63 | -14 | **32** |
+| 15 | 2025-26 German Bundesliga | **Werder Bremen** | 34 | 8 | 8 | 18 | 37 | 60 | -23 | **32** |
+| 16 | 2025-26 German Bundesliga | **VfL Wolfsburg** | 34 | 7 | 8 | 19 | 45 | 69 | -24 | **29** |
+| 17 | 2025-26 German Bundesliga | **1. FC Heidenheim 1846** | 34 | 6 | 8 | 20 | 41 | 72 | -31 | **26** |
+| 18 | 2025-26 German Bundesliga | **St. Pauli** | 34 | 6 | 8 | 20 | 29 | 60 | -31 | **26** |
 
 #### Points Table
 
@@ -652,14 +652,14 @@
 | 8 | 2025/2026 Turkish Super L | **Caykur Rizespor** | 34 | 10 | 11 | 13 | 46 | 52 | -6 | **41** |
 | 9 | 2025/2026 Turkish Super L | **Konyaspor** | 33 | 10 | 10 | 13 | 42 | 48 | -6 | **40** |
 | 10 | 2025/2026 Turkish Super L | **Kocaelispor** | 33 | 9 | 10 | 14 | 26 | 37 | -11 | **37** |
-| 11 | 2025/2026 Turkish Super L | **Alanyaspor** | 33 | 7 | 16 | 10 | 40 | 39 | +1 | **37** |
+| 11 | 2025/2026 Turkish Super L | **Alanyaspor** | 34 | 7 | 16 | 11 | 41 | 41 | 0 | **37** |
 | 12 | 2025/2026 Turkish Super L | **Gaziantep FK** | 33 | 9 | 10 | 14 | 42 | 56 | -14 | **37** |
 | 13 | 2025/2026 Turkish Super L | **Eyupspor** | 33 | 8 | 8 | 17 | 30 | 45 | -15 | **32** |
 | 14 | 2025/2026 Turkish Super L | **Kasimpasa** | 33 | 7 | 11 | 15 | 32 | 49 | -17 | **32** |
 | 15 | 2025/2026 Turkish Super L | **Genclerbirligi** | 33 | 8 | 7 | 18 | 33 | 47 | -14 | **31** |
-| 16 | 2025/2026 Turkish Super L | **Antalyaspor** | 33 | 7 | 8 | 18 | 32 | 55 | -23 | **29** |
-| 17 | 2025/2026 Turkish Super L | **Kayserispor** | 33 | 5 | 12 | 16 | 25 | 61 | -36 | **27** |
-| 18 | 2025/2026 Turkish Super L | **Fatih Karagümrük** | 33 | 7 | 6 | 20 | 29 | 53 | -24 | **27** |
+| 16 | 2025/2026 Turkish Super L | **Fatih Karagümrük** | 34 | 8 | 6 | 20 | 31 | 54 | -23 | **30** |
+| 17 | 2025/2026 Turkish Super L | **Antalyaspor** | 33 | 7 | 8 | 18 | 32 | 55 | -23 | **29** |
+| 18 | 2025/2026 Turkish Super L | **Kayserispor** | 33 | 5 | 12 | 16 | 25 | 61 | -36 | **27** |
 
 #### Points Table
 
