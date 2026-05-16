@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-16 21:26:20 UTC
+> **Last updated:** 2026-05-16 22:25:16 UTC
 
 ---
 
@@ -28,7 +28,7 @@
 | **French Ligue 1** | **Paris Saint-Germain** | 76 | **Paris Saint-Germain** | 73 |
 | **UEFA Champions League** | **Arsenal** | 24 | **Arsenal** | 23 |
 | **UEFA Europa League** | **Lyon** | 21 | **Lyon** | 18 |
-| **Portuguese Primeira Liga** | **FC Porto** | 88 | **Sporting CP** | 86 |
+| **Portuguese Primeira Liga** | **FC Porto** | 88 | **Sporting CP** | 89 |
 | **Dutch Eredivisie** | **PSV Eindhoven** | 81 | **PSV Eindhoven** | 96 |
 | **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
 | **Scottish Premiership** | **Celtic** | 82 | **Rangers** | 76 |
@@ -525,16 +525,16 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 2025-2026 Portuguese Liga | **FC Porto** | 34 | 28 | 4 | 2 | 66 | 18 | +48 | **88** |
-| 2 | 2025-2026 Portuguese Liga | **Sporting CP** | 33 | 24 | 7 | 2 | 86 | 24 | +62 | **79** |
-| 3 | 2025-2026 Portuguese Liga | **Benfica** | 33 | 22 | 11 | 0 | 71 | 24 | +47 | **77** |
+| 2 | 2025-2026 Portuguese Liga | **Sporting CP** | 34 | 25 | 7 | 2 | 89 | 24 | +65 | **82** |
+| 3 | 2025-2026 Portuguese Liga | **Benfica** | 34 | 23 | 11 | 0 | 74 | 25 | +49 | **80** |
 | 4 | 2025-2026 Portuguese Liga | **Braga** | 34 | 16 | 11 | 7 | 64 | 36 | +28 | **59** |
-| 5 | 2025-2026 Portuguese Liga | **FC Famalicao** | 33 | 14 | 11 | 8 | 41 | 29 | +12 | **53** |
-| 6 | 2025-2026 Portuguese Liga | **Gil Vicente** | 33 | 13 | 11 | 9 | 47 | 35 | +12 | **50** |
+| 5 | 2025-2026 Portuguese Liga | **FC Famalicao** | 34 | 15 | 11 | 8 | 42 | 29 | +13 | **56** |
+| 6 | 2025-2026 Portuguese Liga | **Gil Vicente** | 34 | 13 | 11 | 10 | 47 | 38 | +9 | **50** |
 | 7 | 2025-2026 Portuguese Liga | **Moreirense** | 34 | 12 | 7 | 15 | 37 | 49 | -12 | **43** |
 | 8 | 2025-2026 Portuguese Liga | **Arouca** | 34 | 12 | 6 | 16 | 47 | 64 | -17 | **42** |
 | 9 | 2025-2026 Portuguese Liga | **Vitória de Guimaraes** | 34 | 12 | 6 | 16 | 39 | 51 | -12 | **42** |
-| 10 | 2025-2026 Portuguese Liga | **Estoril** | 33 | 10 | 9 | 14 | 53 | 54 | -1 | **39** |
-| 11 | 2025-2026 Portuguese Liga | **Alverca** | 33 | 10 | 9 | 14 | 35 | 51 | -16 | **39** |
+| 10 | 2025-2026 Portuguese Liga | **Estoril** | 34 | 10 | 9 | 15 | 54 | 57 | -3 | **39** |
+| 11 | 2025-2026 Portuguese Liga | **Alverca** | 34 | 10 | 9 | 15 | 35 | 52 | -17 | **39** |
 | 12 | 2025-2026 Portuguese Liga | **Rio Ave** | 34 | 8 | 12 | 14 | 35 | 57 | -22 | **36** |
 | 13 | 2025-2026 Portuguese Liga | **Santa Clara** | 34 | 9 | 9 | 16 | 32 | 41 | -9 | **36** |
 | 14 | 2025-2026 Portuguese Liga | **C.D. Nacional** | 34 | 9 | 7 | 18 | 37 | 45 | -8 | **34** |
