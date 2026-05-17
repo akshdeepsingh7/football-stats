@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-17 11:40:08 UTC
+> **Last updated:** 2026-05-17 13:47:20 UTC
 
 ---
 
@@ -71,7 +71,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | English Premier League 20 | **Arsenal** | 36 | 24 | 7 | 5 | 68 | 26 | +42 | **79** |
 | 2 | English Premier League 20 | **Manchester City** | 36 | 23 | 8 | 5 | 75 | 32 | +43 | **77** |
-| 3 | English Premier League 20 | **Manchester United** | 36 | 18 | 11 | 7 | 63 | 48 | +15 | **65** |
+| 3 | English Premier League 20 | **Manchester United** | 37 | 19 | 11 | 7 | 66 | 50 | +16 | **68** |
 | 4 | English Premier League 20 | **Aston Villa** | 37 | 18 | 8 | 11 | 54 | 48 | +6 | **62** |
 | 5 | English Premier League 20 | **Liverpool** | 37 | 17 | 8 | 12 | 62 | 52 | +10 | **59** |
 | 6 | English Premier League 20 | **AFC Bournemouth** | 36 | 13 | 16 | 7 | 56 | 52 | +4 | **55** |
@@ -84,7 +84,7 @@
 | 13 | English Premier League 20 | **Newcastle United** | 36 | 13 | 7 | 16 | 50 | 52 | -2 | **46** |
 | 14 | English Premier League 20 | **Leeds United** | 36 | 10 | 14 | 12 | 48 | 53 | -5 | **44** |
 | 15 | English Premier League 20 | **Crystal Palace** | 36 | 11 | 11 | 14 | 38 | 47 | -9 | **44** |
-| 16 | English Premier League 20 | **Nottingham Forest** | 36 | 11 | 10 | 15 | 45 | 47 | -2 | **43** |
+| 16 | English Premier League 20 | **Nottingham Forest** | 37 | 11 | 10 | 16 | 47 | 50 | -3 | **43** |
 | 17 | English Premier League 20 | **Tottenham Hotspur** | 36 | 9 | 11 | 16 | 46 | 55 | -9 | **38** |
 | 18 | English Premier League 20 | **West Ham United** | 36 | 9 | 9 | 18 | 42 | 62 | -20 | **36** |
 | 19 | English Premier League 20 | **Burnley** | 36 | 4 | 9 | 23 | 37 | 73 | -36 | **21** |
@@ -192,25 +192,25 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 2025-2026 Italian Serie A | **Internazionale** | 36 | 27 | 4 | 5 | 85 | 31 | +54 | **85** |
-| 2 | 2025-2026 Italian Serie A | **Napoli** | 36 | 21 | 7 | 8 | 54 | 36 | +18 | **70** |
-| 3 | 2025-2026 Italian Serie A | **Juventus** | 36 | 19 | 11 | 6 | 59 | 30 | +29 | **68** |
-| 4 | 2025-2026 Italian Serie A | **AC Milan** | 36 | 19 | 10 | 7 | 50 | 32 | +18 | **67** |
-| 5 | 2025-2026 Italian Serie A | **AS Roma** | 36 | 21 | 4 | 11 | 55 | 31 | +24 | **67** |
-| 6 | 2025-2026 Italian Serie A | **Como** | 36 | 18 | 11 | 7 | 60 | 28 | +32 | **65** |
+| 2 | 2025-2026 Italian Serie A | **Napoli** | 37 | 22 | 7 | 8 | 57 | 36 | +21 | **73** |
+| 3 | 2025-2026 Italian Serie A | **AC Milan** | 37 | 20 | 10 | 7 | 52 | 33 | +19 | **70** |
+| 4 | 2025-2026 Italian Serie A | **AS Roma** | 37 | 22 | 4 | 11 | 57 | 31 | +26 | **70** |
+| 5 | 2025-2026 Italian Serie A | **Como** | 37 | 19 | 11 | 7 | 61 | 28 | +33 | **68** |
+| 6 | 2025-2026 Italian Serie A | **Juventus** | 37 | 19 | 11 | 7 | 59 | 32 | +27 | **68** |
 | 7 | 2025-2026 Italian Serie A | **Atalanta** | 36 | 15 | 13 | 8 | 50 | 34 | +16 | **58** |
 | 8 | 2025-2026 Italian Serie A | **Bologna** | 36 | 15 | 7 | 14 | 45 | 43 | +2 | **52** |
-| 9 | 2025-2026 Italian Serie A | **Lazio** | 36 | 13 | 12 | 11 | 39 | 37 | +2 | **51** |
+| 9 | 2025-2026 Italian Serie A | **Lazio** | 37 | 13 | 12 | 12 | 39 | 39 | 0 | **51** |
 | 10 | 2025-2026 Italian Serie A | **Udinese** | 36 | 14 | 8 | 14 | 45 | 46 | -1 | **50** |
 | 11 | 2025-2026 Italian Serie A | **Sassuolo** | 36 | 14 | 7 | 15 | 44 | 46 | -2 | **49** |
 | 12 | 2025-2026 Italian Serie A | **Torino** | 36 | 12 | 8 | 16 | 41 | 59 | -18 | **44** |
-| 13 | 2025-2026 Italian Serie A | **Parma** | 36 | 10 | 12 | 14 | 27 | 45 | -18 | **42** |
-| 14 | 2025-2026 Italian Serie A | **Genoa** | 36 | 10 | 11 | 15 | 40 | 48 | -8 | **41** |
-| 15 | 2025-2026 Italian Serie A | **Fiorentina** | 36 | 8 | 14 | 14 | 38 | 49 | -11 | **38** |
+| 13 | 2025-2026 Italian Serie A | **Parma** | 37 | 10 | 12 | 15 | 27 | 46 | -19 | **42** |
+| 14 | 2025-2026 Italian Serie A | **Genoa** | 37 | 10 | 11 | 16 | 41 | 50 | -9 | **41** |
+| 15 | 2025-2026 Italian Serie A | **Fiorentina** | 37 | 9 | 14 | 14 | 40 | 49 | -9 | **41** |
 | 16 | 2025-2026 Italian Serie A | **Cagliari** | 36 | 9 | 10 | 17 | 36 | 51 | -15 | **37** |
 | 17 | 2025-2026 Italian Serie A | **Lecce** | 36 | 8 | 8 | 20 | 24 | 48 | -24 | **32** |
 | 18 | 2025-2026 Italian Serie A | **Cremonese** | 36 | 7 | 10 | 19 | 30 | 53 | -23 | **31** |
 | 19 | 2025-2026 Italian Serie A | **Hellas Verona** | 36 | 3 | 11 | 22 | 24 | 58 | -34 | **20** |
-| 20 | 2025-2026 Italian Serie A | **Pisa** | 36 | 2 | 12 | 22 | 25 | 66 | -41 | **18** |
+| 20 | 2025-2026 Italian Serie A | **Pisa** | 37 | 2 | 12 | 23 | 25 | 69 | -44 | **18** |
 
 #### Points Table
 
