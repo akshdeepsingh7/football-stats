@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-17 19:46:12 UTC
+> **Last updated:** 2026-05-17 21:02:22 UTC
 
 ---
 
@@ -25,7 +25,7 @@
 | **Spanish La Liga** | **Barcelona** | 91 | **Barcelona** | 91 |
 | **Italian Serie A** | **Internazionale** | 86 | **Internazionale** | 86 |
 | **German Bundesliga** | **Bayern Munich** | 89 | **Bayern Munich** | 122 |
-| **French Ligue 1** | **Paris Saint-Germain** | 76 | **Paris Saint-Germain** | 73 |
+| **French Ligue 1** | **Paris Saint-Germain** | 76 | **Paris Saint-Germain** | 74 |
 | **UEFA Champions League** | **Arsenal** | 24 | **Arsenal** | 23 |
 | **UEFA Europa League** | **Lyon** | 21 | **Lyon** | 18 |
 | **Portuguese Primeira Liga** | **FC Porto** | 88 | **Sporting CP** | 89 |
@@ -33,7 +33,7 @@
 | **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
 | **Scottish Premiership** | **Celtic** | 82 | **Rangers** | 76 |
 | **MLS** | **Chicago Fire FC** | 23 | **Inter Miami CF** | 31 |
-| **Brazilian Serie A** | **Palmeiras** | 35 | **Flamengo** | 27 |
+| **Brazilian Serie A** | **Palmeiras** | 35 | **Botafogo** | 29 |
 | **Argentine Liga Profesional** | **Boca Juniors** | 30 | **Independiente Rivadavia** | 29 |
 | **Mexican Liga MX** | **Pumas UNAM** | 36 | **Pumas UNAM** | 34 |
 
@@ -200,15 +200,15 @@
 | 7 | 2025-2026 Italian Serie A | **Atalanta** | 37 | 15 | 13 | 9 | 50 | 35 | +15 | **58** |
 | 8 | 2025-2026 Italian Serie A | **Bologna** | 37 | 16 | 7 | 14 | 46 | 43 | +3 | **55** |
 | 9 | 2025-2026 Italian Serie A | **Lazio** | 37 | 13 | 12 | 12 | 39 | 39 | 0 | **51** |
-| 10 | 2025-2026 Italian Serie A | **Udinese** | 36 | 14 | 8 | 14 | 45 | 46 | -1 | **50** |
-| 11 | 2025-2026 Italian Serie A | **Sassuolo** | 36 | 14 | 7 | 15 | 44 | 46 | -2 | **49** |
-| 12 | 2025-2026 Italian Serie A | **Torino** | 36 | 12 | 8 | 16 | 41 | 59 | -18 | **44** |
+| 10 | 2025-2026 Italian Serie A | **Udinese** | 37 | 14 | 8 | 15 | 45 | 47 | -2 | **50** |
+| 11 | 2025-2026 Italian Serie A | **Sassuolo** | 37 | 14 | 7 | 16 | 46 | 49 | -3 | **49** |
+| 12 | 2025-2026 Italian Serie A | **Torino** | 37 | 12 | 8 | 17 | 42 | 61 | -19 | **44** |
 | 13 | 2025-2026 Italian Serie A | **Parma** | 37 | 10 | 12 | 15 | 27 | 46 | -19 | **42** |
 | 14 | 2025-2026 Italian Serie A | **Genoa** | 37 | 10 | 11 | 16 | 41 | 50 | -9 | **41** |
 | 15 | 2025-2026 Italian Serie A | **Fiorentina** | 37 | 9 | 14 | 14 | 40 | 49 | -9 | **41** |
-| 16 | 2025-2026 Italian Serie A | **Cagliari** | 36 | 9 | 10 | 17 | 36 | 51 | -15 | **37** |
-| 17 | 2025-2026 Italian Serie A | **Lecce** | 36 | 8 | 8 | 20 | 24 | 48 | -24 | **32** |
-| 18 | 2025-2026 Italian Serie A | **Cremonese** | 36 | 7 | 10 | 19 | 30 | 53 | -23 | **31** |
+| 16 | 2025-2026 Italian Serie A | **Cagliari** | 37 | 10 | 10 | 17 | 38 | 52 | -14 | **40** |
+| 17 | 2025-2026 Italian Serie A | **Lecce** | 37 | 9 | 8 | 20 | 27 | 50 | -23 | **35** |
+| 18 | 2025-2026 Italian Serie A | **Cremonese** | 37 | 8 | 10 | 19 | 31 | 53 | -22 | **34** |
 | 19 | 2025-2026 Italian Serie A | **Hellas Verona** | 37 | 3 | 12 | 22 | 25 | 59 | -34 | **21** |
 | 20 | 2025-2026 Italian Serie A | **Pisa** | 37 | 2 | 12 | 23 | 25 | 69 | -44 | **18** |
 
@@ -311,24 +311,24 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | French Ligue 1 2025-26 | **Paris Saint-Germain** | 33 | 24 | 4 | 5 | 73 | 27 | +46 | **76** |
-| 2 | French Ligue 1 2025-26 | **Lens** | 33 | 21 | 4 | 8 | 62 | 35 | +27 | **67** |
-| 3 | French Ligue 1 2025-26 | **Lille** | 33 | 18 | 7 | 8 | 52 | 35 | +17 | **61** |
-| 4 | French Ligue 1 2025-26 | **Lyon** | 33 | 18 | 6 | 9 | 53 | 36 | +17 | **60** |
-| 5 | French Ligue 1 2025-26 | **Stade Rennais** | 33 | 17 | 8 | 8 | 58 | 47 | +11 | **59** |
-| 6 | French Ligue 1 2025-26 | **Marseille** | 33 | 17 | 5 | 11 | 60 | 44 | +16 | **56** |
-| 7 | French Ligue 1 2025-26 | **AS Monaco** | 33 | 16 | 6 | 11 | 56 | 49 | +7 | **54** |
-| 8 | French Ligue 1 2025-26 | **Strasbourg** | 33 | 14 | 8 | 11 | 53 | 43 | +10 | **50** |
-| 9 | French Ligue 1 2025-26 | **Lorient** | 33 | 11 | 12 | 10 | 48 | 49 | -1 | **45** |
+| 1 | French Ligue 1 2025-26 | **Paris Saint-Germain** | 34 | 24 | 4 | 6 | 74 | 29 | +45 | **76** |
+| 2 | French Ligue 1 2025-26 | **Lens** | 34 | 22 | 4 | 8 | 66 | 35 | +31 | **70** |
+| 3 | French Ligue 1 2025-26 | **Lille** | 34 | 18 | 7 | 9 | 52 | 37 | +15 | **61** |
+| 4 | French Ligue 1 2025-26 | **Lyon** | 34 | 18 | 6 | 10 | 53 | 40 | +13 | **60** |
+| 5 | French Ligue 1 2025-26 | **Marseille** | 34 | 18 | 5 | 11 | 63 | 45 | +18 | **59** |
+| 6 | French Ligue 1 2025-26 | **Stade Rennais** | 34 | 17 | 8 | 9 | 59 | 50 | +9 | **59** |
+| 7 | French Ligue 1 2025-26 | **AS Monaco** | 34 | 16 | 6 | 12 | 60 | 54 | +6 | **54** |
+| 8 | French Ligue 1 2025-26 | **Strasbourg** | 34 | 15 | 8 | 11 | 58 | 47 | +11 | **53** |
+| 9 | French Ligue 1 2025-26 | **Lorient** | 34 | 11 | 12 | 11 | 48 | 51 | -3 | **45** |
 | 10 | French Ligue 1 2025-26 | **Toulouse** | 33 | 12 | 8 | 13 | 47 | 46 | +1 | **44** |
-| 11 | French Ligue 1 2025-26 | **Paris FC** | 33 | 10 | 11 | 12 | 45 | 49 | -4 | **41** |
-| 12 | French Ligue 1 2025-26 | **Brest** | 33 | 10 | 8 | 15 | 42 | 54 | -12 | **38** |
-| 13 | French Ligue 1 2025-26 | **Angers** | 33 | 9 | 8 | 16 | 28 | 47 | -19 | **35** |
-| 14 | French Ligue 1 2025-26 | **Le Havre AC** | 33 | 6 | 14 | 13 | 30 | 44 | -14 | **32** |
-| 15 | French Ligue 1 2025-26 | **AJ Auxerre** | 33 | 7 | 10 | 16 | 32 | 44 | -12 | **31** |
-| 16 | French Ligue 1 2025-26 | **Nice** | 33 | 7 | 10 | 16 | 37 | 60 | -23 | **31** |
+| 11 | French Ligue 1 2025-26 | **Paris FC** | 34 | 11 | 11 | 12 | 47 | 50 | -3 | **44** |
+| 12 | French Ligue 1 2025-26 | **Brest** | 34 | 10 | 9 | 15 | 43 | 55 | -12 | **39** |
+| 13 | French Ligue 1 2025-26 | **Angers** | 34 | 9 | 9 | 16 | 29 | 48 | -19 | **36** |
+| 14 | French Ligue 1 2025-26 | **Le Havre AC** | 34 | 7 | 14 | 13 | 32 | 44 | -12 | **35** |
+| 15 | French Ligue 1 2025-26 | **AJ Auxerre** | 34 | 8 | 10 | 16 | 34 | 44 | -10 | **34** |
+| 16 | French Ligue 1 2025-26 | **Nice** | 34 | 7 | 11 | 16 | 37 | 60 | -23 | **32** |
 | 17 | French Ligue 1 2025-26 | **Nantes** | 33 | 5 | 8 | 20 | 29 | 52 | -23 | **23** |
-| 18 | French Ligue 1 2025-26 | **Metz** | 33 | 3 | 7 | 23 | 32 | 76 | -44 | **16** |
+| 18 | French Ligue 1 2025-26 | **Metz** | 34 | 3 | 8 | 23 | 32 | 76 | -44 | **17** |
 
 #### Points Table
 
@@ -830,18 +830,18 @@
 | 3 | 2026 | **Fluminense** | 16 | 9 | 3 | 4 | 27 | 21 | +6 | **30** |
 | 4 | 2026 | **São Paulo** | 16 | 7 | 3 | 6 | 22 | 18 | +4 | **24** |
 | 5 | 2026 | **Athletico Paranaense** | 15 | 7 | 2 | 6 | 20 | 16 | +4 | **23** |
-| 6 | 2026 | **Coritiba** | 16 | 6 | 5 | 5 | 21 | 19 | +2 | **23** |
-| 7 | 2026 | **Bahia** | 14 | 6 | 4 | 4 | 20 | 18 | +2 | **22** |
-| 8 | 2026 | **Atlético-MG** | 16 | 6 | 3 | 7 | 21 | 22 | -1 | **21** |
-| 9 | 2026 | **Internacional** | 16 | 5 | 6 | 5 | 20 | 17 | +3 | **21** |
-| 10 | 2026 | **Red Bull Bragantino** | 15 | 6 | 2 | 7 | 17 | 18 | -1 | **20** |
-| 11 | 2026 | **Vasco da Gama** | 16 | 5 | 5 | 6 | 22 | 25 | -3 | **20** |
-| 12 | 2026 | **Cruzeiro** | 16 | 5 | 5 | 6 | 21 | 26 | -5 | **20** |
-| 13 | 2026 | **Vitória** | 14 | 5 | 4 | 5 | 18 | 20 | -2 | **19** |
-| 14 | 2026 | **Botafogo** | 14 | 5 | 3 | 6 | 26 | 27 | -1 | **18** |
-| 15 | 2026 | **Corinthians** | 15 | 4 | 6 | 5 | 13 | 15 | -2 | **18** |
+| 6 | 2026 | **Bahia** | 15 | 6 | 5 | 4 | 21 | 19 | +2 | **23** |
+| 7 | 2026 | **Coritiba** | 16 | 6 | 5 | 5 | 21 | 19 | +2 | **23** |
+| 8 | 2026 | **Botafogo** | 15 | 6 | 3 | 6 | 29 | 28 | +1 | **21** |
+| 9 | 2026 | **Atlético-MG** | 16 | 6 | 3 | 7 | 21 | 22 | -1 | **21** |
+| 10 | 2026 | **Internacional** | 16 | 5 | 6 | 5 | 20 | 17 | +3 | **21** |
+| 11 | 2026 | **Red Bull Bragantino** | 15 | 6 | 2 | 7 | 17 | 18 | -1 | **20** |
+| 12 | 2026 | **Vasco da Gama** | 16 | 5 | 5 | 6 | 22 | 25 | -3 | **20** |
+| 13 | 2026 | **Cruzeiro** | 16 | 5 | 5 | 6 | 21 | 26 | -5 | **20** |
+| 14 | 2026 | **Vitória** | 14 | 5 | 4 | 5 | 18 | 20 | -2 | **19** |
+| 15 | 2026 | **Grêmio** | 16 | 4 | 6 | 6 | 16 | 18 | -2 | **18** |
 | 16 | 2026 | **Santos** | 16 | 4 | 6 | 6 | 21 | 25 | -4 | **18** |
-| 17 | 2026 | **Grêmio** | 15 | 4 | 5 | 6 | 15 | 17 | -2 | **17** |
+| 17 | 2026 | **Corinthians** | 16 | 4 | 6 | 6 | 14 | 18 | -4 | **18** |
 | 18 | 2026 | **Mirassol** | 15 | 3 | 4 | 8 | 17 | 23 | -6 | **13** |
 | 19 | 2026 | **Remo** | 15 | 2 | 6 | 7 | 16 | 25 | -9 | **12** |
 | 20 | 2026 | **Chapecoense** | 14 | 1 | 6 | 7 | 14 | 27 | -13 | **9** |
