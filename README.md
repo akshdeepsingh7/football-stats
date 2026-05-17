@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-17 15:03:54 UTC
+> **Last updated:** 2026-05-17 16:32:01 UTC
 
 ---
 
@@ -75,20 +75,20 @@
 | 4 | English Premier League 20 | **Aston Villa** | 37 | 18 | 8 | 11 | 54 | 48 | +6 | **62** |
 | 5 | English Premier League 20 | **Liverpool** | 37 | 17 | 8 | 12 | 62 | 52 | +10 | **59** |
 | 6 | English Premier League 20 | **AFC Bournemouth** | 36 | 13 | 16 | 7 | 56 | 52 | +4 | **55** |
-| 7 | English Premier League 20 | **Brighton & Hove Albion** | 36 | 14 | 11 | 11 | 52 | 42 | +10 | **53** |
-| 8 | English Premier League 20 | **Brentford** | 36 | 14 | 9 | 13 | 52 | 49 | +3 | **51** |
-| 9 | English Premier League 20 | **Chelsea** | 36 | 13 | 10 | 13 | 55 | 49 | +6 | **49** |
-| 10 | English Premier League 20 | **Everton** | 36 | 13 | 10 | 13 | 46 | 46 | 0 | **49** |
-| 11 | English Premier League 20 | **Fulham** | 36 | 14 | 6 | 16 | 44 | 50 | -6 | **48** |
-| 12 | English Premier League 20 | **Sunderland** | 36 | 12 | 12 | 12 | 37 | 46 | -9 | **48** |
-| 13 | English Premier League 20 | **Newcastle United** | 36 | 13 | 7 | 16 | 50 | 52 | -2 | **46** |
-| 14 | English Premier League 20 | **Leeds United** | 36 | 10 | 14 | 12 | 48 | 53 | -5 | **44** |
-| 15 | English Premier League 20 | **Crystal Palace** | 36 | 11 | 11 | 14 | 38 | 47 | -9 | **44** |
+| 7 | English Premier League 20 | **Brighton & Hove Albion** | 37 | 14 | 11 | 12 | 52 | 43 | +9 | **53** |
+| 8 | English Premier League 20 | **Brentford** | 37 | 14 | 10 | 13 | 54 | 51 | +3 | **52** |
+| 9 | English Premier League 20 | **Sunderland** | 37 | 13 | 12 | 12 | 40 | 47 | -7 | **51** |
+| 10 | English Premier League 20 | **Chelsea** | 36 | 13 | 10 | 13 | 55 | 49 | +6 | **49** |
+| 11 | English Premier League 20 | **Everton** | 37 | 13 | 10 | 14 | 47 | 49 | -2 | **49** |
+| 12 | English Premier League 20 | **Fulham** | 37 | 14 | 7 | 16 | 45 | 51 | -6 | **49** |
+| 13 | English Premier League 20 | **Leeds United** | 37 | 11 | 14 | 12 | 49 | 53 | -4 | **47** |
+| 14 | English Premier League 20 | **Newcastle United** | 36 | 13 | 7 | 16 | 50 | 52 | -2 | **46** |
+| 15 | English Premier League 20 | **Crystal Palace** | 37 | 11 | 12 | 14 | 40 | 49 | -9 | **45** |
 | 16 | English Premier League 20 | **Nottingham Forest** | 37 | 11 | 10 | 16 | 47 | 50 | -3 | **43** |
 | 17 | English Premier League 20 | **Tottenham Hotspur** | 36 | 9 | 11 | 16 | 46 | 55 | -9 | **38** |
 | 18 | English Premier League 20 | **West Ham United** | 36 | 9 | 9 | 18 | 42 | 62 | -20 | **36** |
 | 19 | English Premier League 20 | **Burnley** | 36 | 4 | 9 | 23 | 37 | 73 | -36 | **21** |
-| 20 | English Premier League 20 | **Wolverhampton Wanderers** | 36 | 3 | 9 | 24 | 25 | 66 | -41 | **18** |
+| 20 | English Premier League 20 | **Wolverhampton Wanderers** | 37 | 3 | 10 | 24 | 26 | 67 | -41 | **19** |
 
 #### Points Table
 
@@ -650,16 +650,16 @@
 | 6 | 2025/2026 Turkish Super L | **Goztepe** | 34 | 14 | 13 | 7 | 42 | 32 | +10 | **55** |
 | 7 | 2025/2026 Turkish Super L | **Samsunspor** | 34 | 13 | 12 | 9 | 46 | 45 | +1 | **51** |
 | 8 | 2025/2026 Turkish Super L | **Caykur Rizespor** | 34 | 10 | 11 | 13 | 46 | 52 | -6 | **41** |
-| 9 | 2025/2026 Turkish Super L | **Konyaspor** | 33 | 10 | 10 | 13 | 42 | 48 | -6 | **40** |
+| 9 | 2025/2026 Turkish Super L | **Konyaspor** | 34 | 10 | 10 | 14 | 43 | 50 | -7 | **40** |
 | 10 | 2025/2026 Turkish Super L | **Kocaelispor** | 33 | 9 | 10 | 14 | 26 | 37 | -11 | **37** |
 | 11 | 2025/2026 Turkish Super L | **Alanyaspor** | 34 | 7 | 16 | 11 | 41 | 41 | 0 | **37** |
 | 12 | 2025/2026 Turkish Super L | **Gaziantep FK** | 34 | 9 | 10 | 15 | 43 | 58 | -15 | **37** |
 | 13 | 2025/2026 Turkish Super L | **Eyupspor** | 33 | 8 | 8 | 17 | 30 | 45 | -15 | **32** |
 | 14 | 2025/2026 Turkish Super L | **Kasimpasa** | 33 | 7 | 11 | 15 | 32 | 49 | -17 | **32** |
 | 15 | 2025/2026 Turkish Super L | **Genclerbirligi** | 33 | 8 | 7 | 18 | 33 | 47 | -14 | **31** |
-| 16 | 2025/2026 Turkish Super L | **Fatih Karagümrük** | 34 | 8 | 6 | 20 | 31 | 54 | -23 | **30** |
-| 17 | 2025/2026 Turkish Super L | **Antalyaspor** | 33 | 7 | 8 | 18 | 32 | 55 | -23 | **29** |
-| 18 | 2025/2026 Turkish Super L | **Kayserispor** | 33 | 5 | 12 | 16 | 25 | 61 | -36 | **27** |
+| 16 | 2025/2026 Turkish Super L | **Kayserispor** | 34 | 6 | 12 | 16 | 27 | 62 | -35 | **30** |
+| 17 | 2025/2026 Turkish Super L | **Fatih Karagümrük** | 34 | 8 | 6 | 20 | 31 | 54 | -23 | **30** |
+| 18 | 2025/2026 Turkish Super L | **Antalyaspor** | 33 | 7 | 8 | 18 | 32 | 55 | -23 | **29** |
 
 #### Points Table
 
@@ -830,17 +830,17 @@
 | 3 | 2026 | **Fluminense** | 16 | 9 | 3 | 4 | 27 | 21 | +6 | **30** |
 | 4 | 2026 | **São Paulo** | 16 | 7 | 3 | 6 | 22 | 18 | +4 | **24** |
 | 5 | 2026 | **Athletico Paranaense** | 15 | 7 | 2 | 6 | 20 | 16 | +4 | **23** |
-| 6 | 2026 | **Bahia** | 14 | 6 | 4 | 4 | 20 | 18 | +2 | **22** |
-| 7 | 2026 | **Atlético-MG** | 16 | 6 | 3 | 7 | 21 | 22 | -1 | **21** |
-| 8 | 2026 | **Internacional** | 16 | 5 | 6 | 5 | 20 | 17 | +3 | **21** |
-| 9 | 2026 | **Red Bull Bragantino** | 15 | 6 | 2 | 7 | 17 | 18 | -1 | **20** |
-| 10 | 2026 | **Coritiba** | 15 | 5 | 5 | 5 | 18 | 19 | -1 | **20** |
+| 6 | 2026 | **Coritiba** | 16 | 6 | 5 | 5 | 21 | 19 | +2 | **23** |
+| 7 | 2026 | **Bahia** | 14 | 6 | 4 | 4 | 20 | 18 | +2 | **22** |
+| 8 | 2026 | **Atlético-MG** | 16 | 6 | 3 | 7 | 21 | 22 | -1 | **21** |
+| 9 | 2026 | **Internacional** | 16 | 5 | 6 | 5 | 20 | 17 | +3 | **21** |
+| 10 | 2026 | **Red Bull Bragantino** | 15 | 6 | 2 | 7 | 17 | 18 | -1 | **20** |
 | 11 | 2026 | **Vasco da Gama** | 16 | 5 | 5 | 6 | 22 | 25 | -3 | **20** |
 | 12 | 2026 | **Cruzeiro** | 16 | 5 | 5 | 6 | 21 | 26 | -5 | **20** |
 | 13 | 2026 | **Vitória** | 14 | 5 | 4 | 5 | 18 | 20 | -2 | **19** |
 | 14 | 2026 | **Botafogo** | 14 | 5 | 3 | 6 | 26 | 27 | -1 | **18** |
-| 15 | 2026 | **Santos** | 15 | 4 | 6 | 5 | 21 | 22 | -1 | **18** |
-| 16 | 2026 | **Corinthians** | 15 | 4 | 6 | 5 | 13 | 15 | -2 | **18** |
+| 15 | 2026 | **Corinthians** | 15 | 4 | 6 | 5 | 13 | 15 | -2 | **18** |
+| 16 | 2026 | **Santos** | 16 | 4 | 6 | 6 | 21 | 25 | -4 | **18** |
 | 17 | 2026 | **Grêmio** | 15 | 4 | 5 | 6 | 15 | 17 | -2 | **17** |
 | 18 | 2026 | **Mirassol** | 15 | 3 | 4 | 8 | 17 | 23 | -6 | **13** |
 | 19 | 2026 | **Remo** | 15 | 2 | 6 | 7 | 16 | 25 | -9 | **12** |
