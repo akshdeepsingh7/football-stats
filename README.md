@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-17 18:02:18 UTC
+> **Last updated:** 2026-05-17 19:46:12 UTC
 
 ---
 
@@ -79,14 +79,14 @@
 | 8 | English Premier League 20 | **Brentford** | 37 | 14 | 10 | 13 | 54 | 51 | +3 | **52** |
 | 9 | English Premier League 20 | **Sunderland** | 37 | 13 | 12 | 12 | 40 | 47 | -7 | **51** |
 | 10 | English Premier League 20 | **Chelsea** | 36 | 13 | 10 | 13 | 55 | 49 | +6 | **49** |
-| 11 | English Premier League 20 | **Everton** | 37 | 13 | 10 | 14 | 47 | 49 | -2 | **49** |
-| 12 | English Premier League 20 | **Fulham** | 37 | 14 | 7 | 16 | 45 | 51 | -6 | **49** |
-| 13 | English Premier League 20 | **Leeds United** | 37 | 11 | 14 | 12 | 49 | 53 | -4 | **47** |
-| 14 | English Premier League 20 | **Newcastle United** | 36 | 13 | 7 | 16 | 50 | 52 | -2 | **46** |
+| 11 | English Premier League 20 | **Newcastle United** | 37 | 14 | 7 | 16 | 53 | 53 | 0 | **49** |
+| 12 | English Premier League 20 | **Everton** | 37 | 13 | 10 | 14 | 47 | 49 | -2 | **49** |
+| 13 | English Premier League 20 | **Fulham** | 37 | 14 | 7 | 16 | 45 | 51 | -6 | **49** |
+| 14 | English Premier League 20 | **Leeds United** | 37 | 11 | 14 | 12 | 49 | 53 | -4 | **47** |
 | 15 | English Premier League 20 | **Crystal Palace** | 37 | 11 | 12 | 14 | 40 | 49 | -9 | **45** |
 | 16 | English Premier League 20 | **Nottingham Forest** | 37 | 11 | 10 | 16 | 47 | 50 | -3 | **43** |
 | 17 | English Premier League 20 | **Tottenham Hotspur** | 36 | 9 | 11 | 16 | 46 | 55 | -9 | **38** |
-| 18 | English Premier League 20 | **West Ham United** | 36 | 9 | 9 | 18 | 42 | 62 | -20 | **36** |
+| 18 | English Premier League 20 | **West Ham United** | 37 | 9 | 9 | 19 | 43 | 65 | -22 | **36** |
 | 19 | English Premier League 20 | **Burnley** | 36 | 4 | 9 | 23 | 37 | 73 | -36 | **21** |
 | 20 | English Premier League 20 | **Wolverhampton Wanderers** | 37 | 3 | 10 | 24 | 26 | 67 | -41 | **19** |
 
@@ -131,25 +131,25 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 2025-26 LALIGA | **Barcelona** | 36 | 30 | 1 | 5 | 91 | 32 | +59 | **91** |
-| 2 | 2025-26 LALIGA | **Real Madrid** | 36 | 25 | 5 | 6 | 72 | 33 | +39 | **80** |
-| 3 | 2025-26 LALIGA | **Villarreal** | 36 | 21 | 6 | 9 | 67 | 43 | +24 | **69** |
-| 4 | 2025-26 LALIGA | **Atlético Madrid** | 36 | 20 | 6 | 10 | 60 | 39 | +21 | **66** |
+| 2 | 2025-26 LALIGA | **Real Madrid** | 37 | 26 | 5 | 6 | 73 | 33 | +40 | **83** |
+| 3 | 2025-26 LALIGA | **Villarreal** | 37 | 21 | 6 | 10 | 67 | 45 | +22 | **69** |
+| 4 | 2025-26 LALIGA | **Atlético Madrid** | 37 | 21 | 6 | 10 | 61 | 39 | +22 | **69** |
 | 5 | 2025-26 LALIGA | **Real Betis** | 36 | 14 | 15 | 7 | 56 | 44 | +12 | **57** |
-| 6 | 2025-26 LALIGA | **Celta Vigo** | 36 | 13 | 11 | 12 | 51 | 47 | +4 | **50** |
-| 7 | 2025-26 LALIGA | **Getafe** | 36 | 14 | 6 | 16 | 31 | 37 | -6 | **48** |
-| 8 | 2025-26 LALIGA | **Real Sociedad** | 36 | 11 | 12 | 13 | 55 | 56 | -1 | **45** |
-| 9 | 2025-26 LALIGA | **Athletic Club** | 36 | 13 | 5 | 18 | 40 | 53 | -13 | **44** |
-| 10 | 2025-26 LALIGA | **Rayo Vallecano** | 36 | 10 | 14 | 12 | 37 | 43 | -6 | **44** |
-| 11 | 2025-26 LALIGA | **Valencia** | 36 | 11 | 10 | 15 | 39 | 51 | -12 | **43** |
-| 12 | 2025-26 LALIGA | **Sevilla** | 36 | 12 | 7 | 17 | 46 | 58 | -12 | **43** |
-| 13 | 2025-26 LALIGA | **Osasuna** | 36 | 11 | 9 | 16 | 43 | 47 | -4 | **42** |
-| 14 | 2025-26 LALIGA | **Espanyol** | 36 | 11 | 9 | 16 | 40 | 53 | -13 | **42** |
-| 15 | 2025-26 LALIGA | **Girona** | 36 | 9 | 13 | 14 | 38 | 53 | -15 | **40** |
-| 16 | 2025-26 LALIGA | **Alavés** | 36 | 10 | 10 | 16 | 42 | 54 | -12 | **40** |
-| 17 | 2025-26 LALIGA | **Elche** | 36 | 9 | 12 | 15 | 47 | 56 | -9 | **39** |
-| 18 | 2025-26 LALIGA | **Mallorca** | 36 | 10 | 9 | 17 | 44 | 55 | -11 | **39** |
-| 19 | 2025-26 LALIGA | **Levante** | 36 | 10 | 9 | 17 | 44 | 59 | -15 | **39** |
-| 20 | 2025-26 LALIGA | **Real Oviedo** | 36 | 6 | 11 | 19 | 26 | 56 | -30 | **29** |
+| 6 | 2025-26 LALIGA | **Celta Vigo** | 37 | 13 | 12 | 12 | 52 | 48 | +4 | **51** |
+| 7 | 2025-26 LALIGA | **Getafe** | 37 | 14 | 6 | 17 | 31 | 38 | -7 | **48** |
+| 8 | 2025-26 LALIGA | **Rayo Vallecano** | 37 | 11 | 14 | 12 | 39 | 43 | -4 | **47** |
+| 9 | 2025-26 LALIGA | **Valencia** | 37 | 12 | 10 | 15 | 43 | 54 | -11 | **46** |
+| 10 | 2025-26 LALIGA | **Real Sociedad** | 37 | 11 | 12 | 14 | 58 | 60 | -2 | **45** |
+| 11 | 2025-26 LALIGA | **Espanyol** | 37 | 12 | 9 | 16 | 42 | 54 | -12 | **45** |
+| 12 | 2025-26 LALIGA | **Athletic Club** | 37 | 13 | 6 | 18 | 41 | 54 | -13 | **45** |
+| 13 | 2025-26 LALIGA | **Sevilla** | 37 | 12 | 7 | 18 | 46 | 59 | -13 | **43** |
+| 14 | 2025-26 LALIGA | **Alavés** | 37 | 11 | 10 | 16 | 43 | 54 | -11 | **43** |
+| 15 | 2025-26 LALIGA | **Levante** | 37 | 11 | 9 | 17 | 46 | 59 | -13 | **42** |
+| 16 | 2025-26 LALIGA | **Osasuna** | 37 | 11 | 9 | 17 | 44 | 49 | -5 | **42** |
+| 17 | 2025-26 LALIGA | **Elche** | 37 | 10 | 12 | 15 | 48 | 56 | -8 | **42** |
+| 18 | 2025-26 LALIGA | **Girona** | 37 | 9 | 13 | 15 | 38 | 54 | -16 | **40** |
+| 19 | 2025-26 LALIGA | **Mallorca** | 37 | 10 | 9 | 18 | 44 | 57 | -13 | **39** |
+| 20 | 2025-26 LALIGA | **Real Oviedo** | 37 | 6 | 11 | 20 | 26 | 57 | -31 | **29** |
 
 #### Points Table
 
@@ -642,24 +642,24 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025/2026 Turkish Super L | **Galatasaray** | 33 | 24 | 5 | 4 | 77 | 29 | +48 | **77** |
-| 2 | 2025/2026 Turkish Super L | **Fenerbahce** | 33 | 21 | 10 | 2 | 74 | 34 | +40 | **73** |
-| 3 | 2025/2026 Turkish Super L | **Trabzonspor** | 33 | 20 | 9 | 4 | 61 | 36 | +25 | **69** |
+| 1 | 2025/2026 Turkish Super L | **Galatasaray** | 34 | 24 | 5 | 5 | 77 | 30 | +47 | **77** |
+| 2 | 2025/2026 Turkish Super L | **Fenerbahce** | 34 | 21 | 11 | 2 | 77 | 37 | +40 | **74** |
+| 3 | 2025/2026 Turkish Super L | **Trabzonspor** | 34 | 20 | 9 | 5 | 61 | 39 | +22 | **69** |
 | 4 | 2025/2026 Turkish Super L | **Besiktas** | 34 | 17 | 9 | 8 | 59 | 40 | +19 | **60** |
 | 5 | 2025/2026 Turkish Super L | **Istanbul Basaksehir** | 34 | 16 | 9 | 9 | 58 | 35 | +23 | **57** |
 | 6 | 2025/2026 Turkish Super L | **Goztepe** | 34 | 14 | 13 | 7 | 42 | 32 | +10 | **55** |
 | 7 | 2025/2026 Turkish Super L | **Samsunspor** | 34 | 13 | 12 | 9 | 46 | 45 | +1 | **51** |
 | 8 | 2025/2026 Turkish Super L | **Caykur Rizespor** | 34 | 10 | 11 | 13 | 46 | 52 | -6 | **41** |
 | 9 | 2025/2026 Turkish Super L | **Konyaspor** | 34 | 10 | 10 | 14 | 43 | 50 | -7 | **40** |
-| 10 | 2025/2026 Turkish Super L | **Kocaelispor** | 33 | 9 | 10 | 14 | 26 | 37 | -11 | **37** |
+| 10 | 2025/2026 Turkish Super L | **Kocaelispor** | 34 | 9 | 10 | 15 | 26 | 38 | -12 | **37** |
 | 11 | 2025/2026 Turkish Super L | **Alanyaspor** | 34 | 7 | 16 | 11 | 41 | 41 | 0 | **37** |
 | 12 | 2025/2026 Turkish Super L | **Gaziantep FK** | 34 | 9 | 10 | 15 | 43 | 58 | -15 | **37** |
-| 13 | 2025/2026 Turkish Super L | **Eyupspor** | 33 | 8 | 8 | 17 | 30 | 45 | -15 | **32** |
-| 14 | 2025/2026 Turkish Super L | **Kasimpasa** | 33 | 7 | 11 | 15 | 32 | 49 | -17 | **32** |
-| 15 | 2025/2026 Turkish Super L | **Genclerbirligi** | 33 | 8 | 7 | 18 | 33 | 47 | -14 | **31** |
-| 16 | 2025/2026 Turkish Super L | **Kayserispor** | 34 | 6 | 12 | 16 | 27 | 62 | -35 | **30** |
-| 17 | 2025/2026 Turkish Super L | **Fatih Karagümrük** | 34 | 8 | 6 | 20 | 31 | 54 | -23 | **30** |
-| 18 | 2025/2026 Turkish Super L | **Antalyaspor** | 33 | 7 | 8 | 18 | 32 | 55 | -23 | **29** |
+| 13 | 2025/2026 Turkish Super L | **Kasimpasa** | 34 | 8 | 11 | 15 | 33 | 49 | -16 | **35** |
+| 14 | 2025/2026 Turkish Super L | **Genclerbirligi** | 34 | 9 | 7 | 18 | 36 | 47 | -11 | **34** |
+| 15 | 2025/2026 Turkish Super L | **Eyupspor** | 34 | 8 | 9 | 17 | 33 | 48 | -15 | **33** |
+| 16 | 2025/2026 Turkish Super L | **Antalyaspor** | 34 | 8 | 8 | 18 | 33 | 55 | -22 | **32** |
+| 17 | 2025/2026 Turkish Super L | **Kayserispor** | 34 | 6 | 12 | 16 | 27 | 62 | -35 | **30** |
+| 18 | 2025/2026 Turkish Super L | **Fatih Karagümrük** | 34 | 8 | 6 | 20 | 31 | 54 | -23 | **30** |
 
 #### Points Table
 
