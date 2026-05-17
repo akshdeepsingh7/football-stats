@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-17 13:47:20 UTC
+> **Last updated:** 2026-05-17 15:03:54 UTC
 
 ---
 
@@ -23,13 +23,13 @@
 |--------|--------|-----|-------------|-----|
 | **English Premier League** | **Arsenal** | 79 | **Manchester City** | 75 |
 | **Spanish La Liga** | **Barcelona** | 91 | **Barcelona** | 91 |
-| **Italian Serie A** | **Internazionale** | 85 | **Internazionale** | 85 |
+| **Italian Serie A** | **Internazionale** | 86 | **Internazionale** | 86 |
 | **German Bundesliga** | **Bayern Munich** | 89 | **Bayern Munich** | 122 |
 | **French Ligue 1** | **Paris Saint-Germain** | 76 | **Paris Saint-Germain** | 73 |
 | **UEFA Champions League** | **Arsenal** | 24 | **Arsenal** | 23 |
 | **UEFA Europa League** | **Lyon** | 21 | **Lyon** | 18 |
 | **Portuguese Primeira Liga** | **FC Porto** | 88 | **Sporting CP** | 89 |
-| **Dutch Eredivisie** | **PSV Eindhoven** | 81 | **PSV Eindhoven** | 96 |
+| **Dutch Eredivisie** | **PSV Eindhoven** | 84 | **PSV Eindhoven** | 101 |
 | **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
 | **Scottish Premiership** | **Celtic** | 82 | **Rangers** | 76 |
 | **MLS** | **Chicago Fire FC** | 23 | **Inter Miami CF** | 31 |
@@ -191,7 +191,7 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-2026 Italian Serie A | **Internazionale** | 36 | 27 | 4 | 5 | 85 | 31 | +54 | **85** |
+| 1 | 2025-2026 Italian Serie A | **Internazionale** | 37 | 27 | 5 | 5 | 86 | 32 | +54 | **86** |
 | 2 | 2025-2026 Italian Serie A | **Napoli** | 37 | 22 | 7 | 8 | 57 | 36 | +21 | **73** |
 | 3 | 2025-2026 Italian Serie A | **AC Milan** | 37 | 20 | 10 | 7 | 52 | 33 | +19 | **70** |
 | 4 | 2025-2026 Italian Serie A | **AS Roma** | 37 | 22 | 4 | 11 | 57 | 31 | +26 | **70** |
@@ -209,7 +209,7 @@
 | 16 | 2025-2026 Italian Serie A | **Cagliari** | 36 | 9 | 10 | 17 | 36 | 51 | -15 | **37** |
 | 17 | 2025-2026 Italian Serie A | **Lecce** | 36 | 8 | 8 | 20 | 24 | 48 | -24 | **32** |
 | 18 | 2025-2026 Italian Serie A | **Cremonese** | 36 | 7 | 10 | 19 | 30 | 53 | -23 | **31** |
-| 19 | 2025-2026 Italian Serie A | **Hellas Verona** | 36 | 3 | 11 | 22 | 24 | 58 | -34 | **20** |
+| 19 | 2025-2026 Italian Serie A | **Hellas Verona** | 37 | 3 | 12 | 22 | 25 | 59 | -34 | **21** |
 | 20 | 2025-2026 Italian Serie A | **Pisa** | 37 | 2 | 12 | 23 | 25 | 69 | -44 | **18** |
 
 #### Points Table
@@ -583,24 +583,24 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-2026 Dutch Eredivisi | **PSV Eindhoven** | 33 | 26 | 3 | 4 | 96 | 44 | +52 | **81** |
-| 2 | 2025-2026 Dutch Eredivisi | **Feyenoord Rotterdam** | 33 | 18 | 8 | 7 | 68 | 44 | +24 | **62** |
-| 3 | 2025-2026 Dutch Eredivisi | **FC Twente** | 33 | 15 | 13 | 5 | 58 | 35 | +23 | **58** |
-| 4 | 2025-2026 Dutch Eredivisi | **NEC Nijmegen** | 33 | 15 | 11 | 7 | 75 | 52 | +23 | **56** |
-| 5 | 2025-2026 Dutch Eredivisi | **Ajax Amsterdam** | 33 | 14 | 13 | 6 | 62 | 41 | +21 | **55** |
-| 6 | 2025-2026 Dutch Eredivisi | **AZ Alkmaar** | 33 | 14 | 9 | 10 | 55 | 48 | +7 | **51** |
-| 7 | 2025-2026 Dutch Eredivisi | **FC Utrecht** | 33 | 14 | 8 | 11 | 53 | 42 | +11 | **50** |
-| 8 | 2025-2026 Dutch Eredivisi | **Heerenveen** | 33 | 14 | 8 | 11 | 57 | 53 | +4 | **50** |
-| 9 | 2025-2026 Dutch Eredivisi | **FC Groningen** | 33 | 13 | 6 | 14 | 47 | 44 | +3 | **45** |
-| 10 | 2025-2026 Dutch Eredivisi | **Sparta Rotterdam** | 33 | 12 | 7 | 14 | 38 | 59 | -21 | **43** |
-| 11 | 2025-2026 Dutch Eredivisi | **Fortuna Sittard** | 33 | 11 | 6 | 16 | 49 | 61 | -12 | **39** |
-| 12 | 2025-2026 Dutch Eredivisi | **Go Ahead Eagles** | 33 | 8 | 14 | 11 | 53 | 51 | +2 | **38** |
-| 13 | 2025-2026 Dutch Eredivisi | **PEC Zwolle** | 33 | 9 | 10 | 14 | 44 | 69 | -25 | **37** |
-| 14 | 2025-2026 Dutch Eredivisi | **Excelsior** | 33 | 9 | 8 | 16 | 40 | 54 | -14 | **35** |
-| 15 | 2025-2026 Dutch Eredivisi | **Telstar** | 33 | 8 | 10 | 15 | 47 | 54 | -7 | **34** |
-| 16 | 2025-2026 Dutch Eredivisi | **FC Volendam** | 33 | 8 | 8 | 17 | 34 | 53 | -19 | **32** |
-| 17 | 2025-2026 Dutch Eredivisi | **NAC Breda** | 33 | 6 | 10 | 17 | 32 | 55 | -23 | **28** |
-| 18 | 2025-2026 Dutch Eredivisi | **Heracles Almelo** | 33 | 5 | 4 | 24 | 34 | 83 | -49 | **19** |
+| 1 | 2025-2026 Dutch Eredivisi | **PSV Eindhoven** | 34 | 27 | 3 | 4 | 101 | 45 | +56 | **84** |
+| 2 | 2025-2026 Dutch Eredivisi | **Feyenoord Rotterdam** | 34 | 19 | 8 | 7 | 70 | 44 | +26 | **65** |
+| 3 | 2025-2026 Dutch Eredivisi | **NEC Nijmegen** | 34 | 16 | 11 | 7 | 77 | 53 | +24 | **59** |
+| 4 | 2025-2026 Dutch Eredivisi | **FC Twente** | 34 | 15 | 13 | 6 | 59 | 40 | +19 | **58** |
+| 5 | 2025-2026 Dutch Eredivisi | **Ajax Amsterdam** | 34 | 14 | 14 | 6 | 62 | 41 | +21 | **56** |
+| 6 | 2025-2026 Dutch Eredivisi | **FC Utrecht** | 34 | 15 | 8 | 11 | 55 | 42 | +13 | **53** |
+| 7 | 2025-2026 Dutch Eredivisi | **AZ Alkmaar** | 34 | 14 | 10 | 10 | 58 | 51 | +7 | **52** |
+| 8 | 2025-2026 Dutch Eredivisi | **Heerenveen** | 34 | 14 | 9 | 11 | 57 | 53 | +4 | **51** |
+| 9 | 2025-2026 Dutch Eredivisi | **FC Groningen** | 34 | 14 | 6 | 14 | 49 | 45 | +4 | **48** |
+| 10 | 2025-2026 Dutch Eredivisi | **Sparta Rotterdam** | 34 | 12 | 7 | 15 | 40 | 62 | -22 | **43** |
+| 11 | 2025-2026 Dutch Eredivisi | **Fortuna Sittard** | 34 | 11 | 6 | 17 | 49 | 63 | -14 | **39** |
+| 12 | 2025-2026 Dutch Eredivisi | **Go Ahead Eagles** | 34 | 8 | 14 | 12 | 54 | 53 | +1 | **38** |
+| 13 | 2025-2026 Dutch Eredivisi | **Excelsior** | 34 | 10 | 8 | 16 | 43 | 56 | -13 | **38** |
+| 14 | 2025-2026 Dutch Eredivisi | **Telstar** | 34 | 9 | 10 | 15 | 49 | 55 | -6 | **37** |
+| 15 | 2025-2026 Dutch Eredivisi | **PEC Zwolle** | 34 | 9 | 10 | 15 | 44 | 71 | -27 | **37** |
+| 16 | 2025-2026 Dutch Eredivisi | **FC Volendam** | 34 | 8 | 8 | 18 | 35 | 55 | -20 | **32** |
+| 17 | 2025-2026 Dutch Eredivisi | **NAC Breda** | 34 | 6 | 11 | 17 | 35 | 58 | -23 | **29** |
+| 18 | 2025-2026 Dutch Eredivisi | **Heracles Almelo** | 34 | 5 | 4 | 25 | 35 | 85 | -50 | **19** |
 
 #### Points Table
 
@@ -707,12 +707,12 @@
 | 4 | 2025-26 Scottish Premiers | **Motherwell** | 38 | 16 | 13 | 9 | 59 | 36 | +23 | **61** |
 | 5 | 2025-26 Scottish Premiers | **Hibernian** | 38 | 15 | 12 | 11 | 58 | 44 | +14 | **57** |
 | 6 | 2025-26 Scottish Premiers | **Falkirk** | 38 | 14 | 7 | 17 | 50 | 62 | -12 | **49** |
-| 7 | 2025-26 Scottish Premiers | **Dundee United** | 37 | 10 | 14 | 13 | 48 | 59 | -11 | **44** |
-| 8 | 2025-26 Scottish Premiers | **Aberdeen** | 37 | 11 | 7 | 19 | 38 | 52 | -14 | **40** |
-| 9 | 2025-26 Scottish Premiers | **Dundee** | 37 | 10 | 9 | 18 | 39 | 59 | -20 | **39** |
-| 10 | 2025-26 Scottish Premiers | **Kilmarnock** | 37 | 9 | 10 | 18 | 46 | 67 | -21 | **37** |
-| 11 | 2025-26 Scottish Premiers | **St Mirren** | 37 | 8 | 9 | 20 | 29 | 54 | -25 | **33** |
-| 12 | 2025-26 Scottish Premiers | **Livingston** | 37 | 2 | 15 | 20 | 39 | 71 | -32 | **21** |
+| 7 | 2025-26 Scottish Premiers | **Dundee United** | 38 | 10 | 15 | 13 | 49 | 60 | -11 | **45** |
+| 8 | 2025-26 Scottish Premiers | **Dundee** | 38 | 11 | 9 | 18 | 42 | 61 | -19 | **42** |
+| 9 | 2025-26 Scottish Premiers | **Aberdeen** | 38 | 11 | 7 | 20 | 40 | 55 | -15 | **40** |
+| 10 | 2025-26 Scottish Premiers | **Kilmarnock** | 38 | 10 | 10 | 18 | 50 | 68 | -18 | **40** |
+| 11 | 2025-26 Scottish Premiers | **St Mirren** | 38 | 8 | 10 | 20 | 30 | 55 | -25 | **34** |
+| 12 | 2025-26 Scottish Premiers | **Livingston** | 38 | 2 | 15 | 21 | 40 | 75 | -35 | **21** |
 
 #### Points Table
 
