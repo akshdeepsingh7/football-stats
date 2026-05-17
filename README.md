@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-17 21:02:22 UTC
+> **Last updated:** 2026-05-17 22:27:26 UTC
 
 ---
 
@@ -22,7 +22,7 @@
 | League | Leader | Pts | Best Attack | GF |
 |--------|--------|-----|-------------|-----|
 | **English Premier League** | **Arsenal** | 79 | **Manchester City** | 75 |
-| **Spanish La Liga** | **Barcelona** | 91 | **Barcelona** | 91 |
+| **Spanish La Liga** | **Barcelona** | 94 | **Barcelona** | 94 |
 | **Italian Serie A** | **Internazionale** | 86 | **Internazionale** | 86 |
 | **German Bundesliga** | **Bayern Munich** | 89 | **Bayern Munich** | 122 |
 | **French Ligue 1** | **Paris Saint-Germain** | 76 | **Paris Saint-Germain** | 74 |
@@ -130,11 +130,11 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-26 LALIGA | **Barcelona** | 36 | 30 | 1 | 5 | 91 | 32 | +59 | **91** |
+| 1 | 2025-26 LALIGA | **Barcelona** | 37 | 31 | 1 | 5 | 94 | 33 | +61 | **94** |
 | 2 | 2025-26 LALIGA | **Real Madrid** | 37 | 26 | 5 | 6 | 73 | 33 | +40 | **83** |
 | 3 | 2025-26 LALIGA | **Villarreal** | 37 | 21 | 6 | 10 | 67 | 45 | +22 | **69** |
 | 4 | 2025-26 LALIGA | **Atlético Madrid** | 37 | 21 | 6 | 10 | 61 | 39 | +22 | **69** |
-| 5 | 2025-26 LALIGA | **Real Betis** | 36 | 14 | 15 | 7 | 56 | 44 | +12 | **57** |
+| 5 | 2025-26 LALIGA | **Real Betis** | 37 | 14 | 15 | 8 | 57 | 47 | +10 | **57** |
 | 6 | 2025-26 LALIGA | **Celta Vigo** | 37 | 13 | 12 | 12 | 52 | 48 | +4 | **51** |
 | 7 | 2025-26 LALIGA | **Getafe** | 37 | 14 | 6 | 17 | 31 | 38 | -7 | **48** |
 | 8 | 2025-26 LALIGA | **Rayo Vallecano** | 37 | 11 | 14 | 12 | 39 | 43 | -4 | **47** |
