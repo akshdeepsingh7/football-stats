@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-18 20:41:49 UTC
+> **Last updated:** 2026-05-18 22:07:49 UTC
 
 ---
 
@@ -21,7 +21,7 @@
 
 | League | Leader | Pts | Best Attack | GF |
 |--------|--------|-----|-------------|-----|
-| **English Premier League** | **Arsenal** | 79 | **Manchester City** | 75 |
+| **English Premier League** | **Arsenal** | 82 | **Manchester City** | 75 |
 | **Spanish La Liga** | **Barcelona** | 94 | **Barcelona** | 94 |
 | **Italian Serie A** | **Internazionale** | 86 | **Internazionale** | 86 |
 | **German Bundesliga** | **Bayern Munich** | 89 | **Bayern Munich** | 122 |
@@ -69,7 +69,7 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | English Premier League 20 | **Arsenal** | 36 | 24 | 7 | 5 | 68 | 26 | +42 | **79** |
+| 1 | English Premier League 20 | **Arsenal** | 37 | 25 | 7 | 5 | 69 | 26 | +43 | **82** |
 | 2 | English Premier League 20 | **Manchester City** | 36 | 23 | 8 | 5 | 75 | 32 | +43 | **77** |
 | 3 | English Premier League 20 | **Manchester United** | 37 | 19 | 11 | 7 | 66 | 50 | +16 | **68** |
 | 4 | English Premier League 20 | **Aston Villa** | 37 | 18 | 8 | 11 | 54 | 48 | +6 | **62** |
@@ -87,7 +87,7 @@
 | 16 | English Premier League 20 | **Nottingham Forest** | 37 | 11 | 10 | 16 | 47 | 50 | -3 | **43** |
 | 17 | English Premier League 20 | **Tottenham Hotspur** | 36 | 9 | 11 | 16 | 46 | 55 | -9 | **38** |
 | 18 | English Premier League 20 | **West Ham United** | 37 | 9 | 9 | 19 | 43 | 65 | -22 | **36** |
-| 19 | English Premier League 20 | **Burnley** | 36 | 4 | 9 | 23 | 37 | 73 | -36 | **21** |
+| 19 | English Premier League 20 | **Burnley** | 37 | 4 | 9 | 24 | 37 | 74 | -37 | **21** |
 | 20 | English Premier League 20 | **Wolverhampton Wanderers** | 37 | 3 | 10 | 24 | 26 | 67 | -41 | **19** |
 
 #### Points Table
