@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-19 20:15:48 UTC
+> **Last updated:** 2026-05-19 21:56:01 UTC
 
 ---
 
@@ -21,7 +21,7 @@
 
 | League | Leader | Pts | Best Attack | GF |
 |--------|--------|-----|-------------|-----|
-| **English Premier League** | **Arsenal** | 82 | **Manchester City** | 75 |
+| **English Premier League** | **Arsenal** | 82 | **Manchester City** | 76 |
 | **Spanish La Liga** | **Barcelona** | 94 | **Barcelona** | 94 |
 | **Italian Serie A** | **Internazionale** | 86 | **Internazionale** | 86 |
 | **German Bundesliga** | **Bayern Munich** | 89 | **Bayern Munich** | 122 |
@@ -70,22 +70,22 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | English Premier League 20 | **Arsenal** | 37 | 25 | 7 | 5 | 69 | 26 | +43 | **82** |
-| 2 | English Premier League 20 | **Manchester City** | 36 | 23 | 8 | 5 | 75 | 32 | +43 | **77** |
+| 2 | English Premier League 20 | **Manchester City** | 37 | 23 | 9 | 5 | 76 | 33 | +43 | **78** |
 | 3 | English Premier League 20 | **Manchester United** | 37 | 19 | 11 | 7 | 66 | 50 | +16 | **68** |
 | 4 | English Premier League 20 | **Aston Villa** | 37 | 18 | 8 | 11 | 54 | 48 | +6 | **62** |
 | 5 | English Premier League 20 | **Liverpool** | 37 | 17 | 8 | 12 | 62 | 52 | +10 | **59** |
-| 6 | English Premier League 20 | **AFC Bournemouth** | 36 | 13 | 16 | 7 | 56 | 52 | +4 | **55** |
+| 6 | English Premier League 20 | **AFC Bournemouth** | 37 | 13 | 17 | 7 | 57 | 53 | +4 | **56** |
 | 7 | English Premier League 20 | **Brighton & Hove Albion** | 37 | 14 | 11 | 12 | 52 | 43 | +9 | **53** |
-| 8 | English Premier League 20 | **Brentford** | 37 | 14 | 10 | 13 | 54 | 51 | +3 | **52** |
-| 9 | English Premier League 20 | **Sunderland** | 37 | 13 | 12 | 12 | 40 | 47 | -7 | **51** |
-| 10 | English Premier League 20 | **Chelsea** | 36 | 13 | 10 | 13 | 55 | 49 | +6 | **49** |
+| 8 | English Premier League 20 | **Chelsea** | 37 | 14 | 10 | 13 | 57 | 50 | +7 | **52** |
+| 9 | English Premier League 20 | **Brentford** | 37 | 14 | 10 | 13 | 54 | 51 | +3 | **52** |
+| 10 | English Premier League 20 | **Sunderland** | 37 | 13 | 12 | 12 | 40 | 47 | -7 | **51** |
 | 11 | English Premier League 20 | **Newcastle United** | 37 | 14 | 7 | 16 | 53 | 53 | 0 | **49** |
 | 12 | English Premier League 20 | **Everton** | 37 | 13 | 10 | 14 | 47 | 49 | -2 | **49** |
 | 13 | English Premier League 20 | **Fulham** | 37 | 14 | 7 | 16 | 45 | 51 | -6 | **49** |
 | 14 | English Premier League 20 | **Leeds United** | 37 | 11 | 14 | 12 | 49 | 53 | -4 | **47** |
 | 15 | English Premier League 20 | **Crystal Palace** | 37 | 11 | 12 | 14 | 40 | 49 | -9 | **45** |
 | 16 | English Premier League 20 | **Nottingham Forest** | 37 | 11 | 10 | 16 | 47 | 50 | -3 | **43** |
-| 17 | English Premier League 20 | **Tottenham Hotspur** | 36 | 9 | 11 | 16 | 46 | 55 | -9 | **38** |
+| 17 | English Premier League 20 | **Tottenham Hotspur** | 37 | 9 | 11 | 17 | 47 | 57 | -10 | **38** |
 | 18 | English Premier League 20 | **West Ham United** | 37 | 9 | 9 | 19 | 43 | 65 | -22 | **36** |
 | 19 | English Premier League 20 | **Burnley** | 37 | 4 | 9 | 24 | 37 | 74 | -37 | **21** |
 | 20 | English Premier League 20 | **Wolverhampton Wanderers** | 37 | 3 | 10 | 24 | 26 | 67 | -41 | **19** |
