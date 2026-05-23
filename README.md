@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-23 17:11:15 UTC
+> **Last updated:** 2026-05-23 18:34:52 UTC
 
 ---
 
@@ -23,7 +23,7 @@
 |--------|--------|-----|-------------|-----|
 | **English Premier League** | **Arsenal** | 82 | **Manchester City** | 76 |
 | **Spanish La Liga** | **Barcelona** | 94 | **Barcelona** | 94 |
-| **Italian Serie A** | **Internazionale** | 86 | **Internazionale** | 86 |
+| **Italian Serie A** | **Internazionale** | 87 | **Internazionale** | 89 |
 | **German Bundesliga** | **Bayern Munich** | 89 | **Bayern Munich** | 122 |
 | **French Ligue 1** | **Paris Saint-Germain** | 76 | **Paris Saint-Germain** | 74 |
 | **UEFA Champions League** | **Arsenal** | 24 | **Arsenal** | 23 |
@@ -191,14 +191,14 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-2026 Italian Serie A | **Internazionale** | 37 | 27 | 5 | 5 | 86 | 32 | +54 | **86** |
+| 1 | 2025-2026 Italian Serie A | **Internazionale** | 38 | 27 | 6 | 5 | 89 | 35 | +54 | **87** |
 | 2 | 2025-2026 Italian Serie A | **Napoli** | 37 | 22 | 7 | 8 | 57 | 36 | +21 | **73** |
 | 3 | 2025-2026 Italian Serie A | **AC Milan** | 37 | 20 | 10 | 7 | 52 | 33 | +19 | **70** |
 | 4 | 2025-2026 Italian Serie A | **AS Roma** | 37 | 22 | 4 | 11 | 57 | 31 | +26 | **70** |
 | 5 | 2025-2026 Italian Serie A | **Como** | 37 | 19 | 11 | 7 | 61 | 28 | +33 | **68** |
 | 6 | 2025-2026 Italian Serie A | **Juventus** | 37 | 19 | 11 | 7 | 59 | 32 | +27 | **68** |
 | 7 | 2025-2026 Italian Serie A | **Atalanta** | 38 | 15 | 14 | 9 | 51 | 36 | +15 | **59** |
-| 8 | 2025-2026 Italian Serie A | **Bologna** | 37 | 16 | 7 | 14 | 46 | 43 | +3 | **55** |
+| 8 | 2025-2026 Italian Serie A | **Bologna** | 38 | 16 | 8 | 14 | 49 | 46 | +3 | **56** |
 | 9 | 2025-2026 Italian Serie A | **Lazio** | 37 | 13 | 12 | 12 | 39 | 39 | 0 | **51** |
 | 10 | 2025-2026 Italian Serie A | **Udinese** | 37 | 14 | 8 | 15 | 45 | 47 | -2 | **50** |
 | 11 | 2025-2026 Italian Serie A | **Sassuolo** | 37 | 14 | 7 | 16 | 46 | 49 | -3 | **49** |
