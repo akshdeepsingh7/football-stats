@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-24 16:34:12 UTC
+> **Last updated:** 2026-05-24 18:03:38 UTC
 
 ---
 
@@ -21,7 +21,7 @@
 
 | League | Leader | Pts | Best Attack | GF |
 |--------|--------|-----|-------------|-----|
-| **English Premier League** | **Arsenal** | 82 | **Manchester City** | 76 |
+| **English Premier League** | **Arsenal** | 85 | **Manchester City** | 77 |
 | **Spanish La Liga** | **Barcelona** | 94 | **Barcelona** | 95 |
 | **Italian Serie A** | **Internazionale** | 87 | **Internazionale** | 89 |
 | **German Bundesliga** | **Bayern Munich** | 89 | **Bayern Munich** | 122 |
@@ -69,26 +69,26 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | English Premier League 20 | **Arsenal** | 37 | 25 | 7 | 5 | 69 | 26 | +43 | **82** |
-| 2 | English Premier League 20 | **Manchester City** | 37 | 23 | 9 | 5 | 76 | 33 | +43 | **78** |
-| 3 | English Premier League 20 | **Manchester United** | 37 | 19 | 11 | 7 | 66 | 50 | +16 | **68** |
-| 4 | English Premier League 20 | **Aston Villa** | 37 | 18 | 8 | 11 | 54 | 48 | +6 | **62** |
-| 5 | English Premier League 20 | **Liverpool** | 37 | 17 | 8 | 12 | 62 | 52 | +10 | **59** |
-| 6 | English Premier League 20 | **AFC Bournemouth** | 37 | 13 | 17 | 7 | 57 | 53 | +4 | **56** |
-| 7 | English Premier League 20 | **Brighton & Hove Albion** | 37 | 14 | 11 | 12 | 52 | 43 | +9 | **53** |
-| 8 | English Premier League 20 | **Chelsea** | 37 | 14 | 10 | 13 | 57 | 50 | +7 | **52** |
-| 9 | English Premier League 20 | **Brentford** | 37 | 14 | 10 | 13 | 54 | 51 | +3 | **52** |
-| 10 | English Premier League 20 | **Sunderland** | 37 | 13 | 12 | 12 | 40 | 47 | -7 | **51** |
-| 11 | English Premier League 20 | **Newcastle United** | 37 | 14 | 7 | 16 | 53 | 53 | 0 | **49** |
-| 12 | English Premier League 20 | **Everton** | 37 | 13 | 10 | 14 | 47 | 49 | -2 | **49** |
-| 13 | English Premier League 20 | **Fulham** | 37 | 14 | 7 | 16 | 45 | 51 | -6 | **49** |
-| 14 | English Premier League 20 | **Leeds United** | 37 | 11 | 14 | 12 | 49 | 53 | -4 | **47** |
-| 15 | English Premier League 20 | **Crystal Palace** | 37 | 11 | 12 | 14 | 40 | 49 | -9 | **45** |
-| 16 | English Premier League 20 | **Nottingham Forest** | 37 | 11 | 10 | 16 | 47 | 50 | -3 | **43** |
-| 17 | English Premier League 20 | **Tottenham Hotspur** | 37 | 9 | 11 | 17 | 47 | 57 | -10 | **38** |
-| 18 | English Premier League 20 | **West Ham United** | 37 | 9 | 9 | 19 | 43 | 65 | -22 | **36** |
-| 19 | English Premier League 20 | **Burnley** | 37 | 4 | 9 | 24 | 37 | 74 | -37 | **21** |
-| 20 | English Premier League 20 | **Wolverhampton Wanderers** | 37 | 3 | 10 | 24 | 26 | 67 | -41 | **19** |
+| 1 | English Premier League 20 | **Arsenal** | 38 | 26 | 7 | 5 | 71 | 27 | +44 | **85** |
+| 2 | English Premier League 20 | **Manchester City** | 38 | 23 | 9 | 6 | 77 | 35 | +42 | **78** |
+| 3 | English Premier League 20 | **Manchester United** | 38 | 20 | 11 | 7 | 69 | 50 | +19 | **71** |
+| 4 | English Premier League 20 | **Aston Villa** | 38 | 19 | 8 | 11 | 56 | 49 | +7 | **65** |
+| 5 | English Premier League 20 | **Liverpool** | 38 | 17 | 9 | 12 | 63 | 53 | +10 | **60** |
+| 6 | English Premier League 20 | **AFC Bournemouth** | 38 | 13 | 18 | 7 | 58 | 54 | +4 | **57** |
+| 7 | English Premier League 20 | **Sunderland** | 38 | 14 | 12 | 12 | 42 | 48 | -6 | **54** |
+| 8 | English Premier League 20 | **Brighton & Hove Albion** | 38 | 14 | 11 | 13 | 52 | 46 | +6 | **53** |
+| 9 | English Premier League 20 | **Brentford** | 38 | 14 | 11 | 13 | 55 | 52 | +3 | **53** |
+| 10 | English Premier League 20 | **Chelsea** | 38 | 14 | 10 | 14 | 58 | 52 | +6 | **52** |
+| 11 | English Premier League 20 | **Fulham** | 38 | 15 | 7 | 16 | 47 | 51 | -4 | **52** |
+| 12 | English Premier League 20 | **Newcastle United** | 38 | 14 | 7 | 17 | 53 | 55 | -2 | **49** |
+| 13 | English Premier League 20 | **Everton** | 38 | 13 | 10 | 15 | 47 | 50 | -3 | **49** |
+| 14 | English Premier League 20 | **Leeds United** | 38 | 11 | 14 | 13 | 49 | 56 | -7 | **47** |
+| 15 | English Premier League 20 | **Crystal Palace** | 38 | 11 | 12 | 15 | 41 | 51 | -10 | **45** |
+| 16 | English Premier League 20 | **Nottingham Forest** | 38 | 11 | 11 | 16 | 48 | 51 | -3 | **44** |
+| 17 | English Premier League 20 | **Tottenham Hotspur** | 38 | 10 | 11 | 17 | 48 | 57 | -9 | **41** |
+| 18 | English Premier League 20 | **West Ham United** | 38 | 10 | 9 | 19 | 46 | 65 | -19 | **39** |
+| 19 | English Premier League 20 | **Burnley** | 38 | 4 | 10 | 24 | 38 | 75 | -37 | **22** |
+| 20 | English Premier League 20 | **Wolverhampton Wanderers** | 38 | 3 | 11 | 24 | 27 | 68 | -41 | **20** |
 
 #### Points Table
 
@@ -192,7 +192,7 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 2025-2026 Italian Serie A | **Internazionale** | 38 | 27 | 6 | 5 | 89 | 35 | +54 | **87** |
-| 2 | 2025-2026 Italian Serie A | **Napoli** | 37 | 22 | 7 | 8 | 57 | 36 | +21 | **73** |
+| 2 | 2025-2026 Italian Serie A | **Napoli** | 38 | 23 | 7 | 8 | 58 | 36 | +22 | **76** |
 | 3 | 2025-2026 Italian Serie A | **AC Milan** | 37 | 20 | 10 | 7 | 52 | 33 | +19 | **70** |
 | 4 | 2025-2026 Italian Serie A | **AS Roma** | 37 | 22 | 4 | 11 | 57 | 31 | +26 | **70** |
 | 5 | 2025-2026 Italian Serie A | **Como** | 37 | 19 | 11 | 7 | 61 | 28 | +33 | **68** |
@@ -200,7 +200,7 @@
 | 7 | 2025-2026 Italian Serie A | **Atalanta** | 38 | 15 | 14 | 9 | 51 | 36 | +15 | **59** |
 | 8 | 2025-2026 Italian Serie A | **Bologna** | 38 | 16 | 8 | 14 | 49 | 46 | +3 | **56** |
 | 9 | 2025-2026 Italian Serie A | **Lazio** | 38 | 14 | 12 | 12 | 41 | 40 | +1 | **54** |
-| 10 | 2025-2026 Italian Serie A | **Udinese** | 37 | 14 | 8 | 15 | 45 | 47 | -2 | **50** |
+| 10 | 2025-2026 Italian Serie A | **Udinese** | 38 | 14 | 8 | 16 | 45 | 48 | -3 | **50** |
 | 11 | 2025-2026 Italian Serie A | **Sassuolo** | 38 | 14 | 7 | 17 | 46 | 50 | -4 | **49** |
 | 12 | 2025-2026 Italian Serie A | **Parma** | 38 | 11 | 12 | 15 | 28 | 46 | -18 | **45** |
 | 13 | 2025-2026 Italian Serie A | **Torino** | 37 | 12 | 8 | 17 | 42 | 61 | -19 | **44** |
