@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-24 22:31:56 UTC
+> **Last updated:** 2026-05-25 00:06:58 UTC
 
 ---
 
@@ -755,17 +755,17 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 3 | Eastern Conference | **Chicago Fire FC** | 14 | 8 | 2 | 4 | 27 | 16 | +11 | **26** |
-| 13 | Eastern Conference | **Columbus Crew** | 14 | 3 | 4 | 7 | 19 | 23 | -4 | **13** |
+| 10 | Eastern Conference | **Columbus Crew** | 15 | 4 | 4 | 7 | 21 | 23 | -2 | **16** |
 | 4 | Eastern Conference | **New England Revolution** | 14 | 8 | 1 | 5 | 22 | 18 | +4 | **25** |
 | 5 | Eastern Conference | **Red Bull New York** | 15 | 6 | 4 | 5 | 25 | 32 | -7 | **22** |
 | 9 | Eastern Conference | **D.C. United** | 15 | 4 | 6 | 5 | 21 | 25 | -4 | **18** |
-| 12 | Eastern Conference | **Toronto FC** | 14 | 3 | 5 | 6 | 22 | 29 | -7 | **14** |
-| 10 | Eastern Conference | **CF Montréal** | 14 | 4 | 2 | 8 | 22 | 31 | -9 | **14** |
+| 13 | Eastern Conference | **Toronto FC** | 14 | 3 | 5 | 6 | 22 | 29 | -7 | **14** |
+| 11 | Eastern Conference | **CF Montréal** | 14 | 4 | 2 | 8 | 22 | 31 | -9 | **14** |
 | 15 | Eastern Conference | **Philadelphia Union** | 14 | 1 | 4 | 9 | 14 | 24 | -10 | **7** |
-| 11 | Eastern Conference | **Orlando City SC** | 15 | 4 | 2 | 9 | 23 | 44 | -21 | **14** |
+| 12 | Eastern Conference | **Orlando City SC** | 15 | 4 | 2 | 9 | 23 | 44 | -21 | **14** |
 | 8 | Eastern Conference | **New York City FC** | 15 | 5 | 4 | 6 | 25 | 21 | +4 | **19** |
 | 7 | Eastern Conference | **FC Cincinnati** | 15 | 5 | 5 | 5 | 36 | 37 | -1 | **20** |
-| 14 | Eastern Conference | **Atlanta United FC** | 13 | 3 | 2 | 8 | 14 | 21 | -7 | **11** |
+| 14 | Eastern Conference | **Atlanta United FC** | 14 | 3 | 2 | 9 | 14 | 23 | -9 | **11** |
 | 1 | Eastern Conference | **Nashville SC** | 14 | 10 | 3 | 1 | 31 | 11 | +20 | **33** |
 | 2 | Eastern Conference | **Inter Miami CF** | 14 | 8 | 4 | 2 | 33 | 24 | +9 | **28** |
 | 6 | Eastern Conference | **Charlotte FC** | 15 | 6 | 3 | 6 | 24 | 23 | +1 | **21** |
@@ -836,11 +836,11 @@
 | 9 | 2026 | **Cruzeiro** | 17 | 6 | 5 | 6 | 23 | 27 | -4 | **23** |
 | 10 | 2026 | **Botafogo** | 16 | 6 | 4 | 6 | 30 | 29 | +1 | **22** |
 | 11 | 2026 | **Vitória** | 16 | 6 | 4 | 6 | 20 | 22 | -2 | **22** |
-| 12 | 2026 | **Atlético-MG** | 16 | 6 | 3 | 7 | 21 | 22 | -1 | **21** |
+| 12 | 2026 | **Atlético-MG** | 17 | 6 | 3 | 8 | 21 | 23 | -2 | **21** |
 | 13 | 2026 | **Internacional** | 17 | 5 | 6 | 6 | 20 | 19 | +1 | **21** |
 | 14 | 2026 | **Grêmio** | 17 | 5 | 6 | 6 | 19 | 20 | -1 | **21** |
-| 15 | 2026 | **Vasco da Gama** | 16 | 5 | 5 | 6 | 22 | 25 | -3 | **20** |
-| 16 | 2026 | **Corinthians** | 16 | 4 | 6 | 6 | 14 | 18 | -4 | **18** |
+| 15 | 2026 | **Corinthians** | 17 | 5 | 6 | 6 | 15 | 18 | -3 | **21** |
+| 16 | 2026 | **Vasco da Gama** | 16 | 5 | 5 | 6 | 22 | 25 | -3 | **20** |
 | 17 | 2026 | **Santos** | 17 | 4 | 6 | 7 | 23 | 28 | -5 | **18** |
 | 18 | 2026 | **Mirassol** | 16 | 4 | 4 | 8 | 18 | 23 | -5 | **16** |
 | 19 | 2026 | **Remo** | 17 | 3 | 6 | 8 | 20 | 29 | -9 | **15** |
