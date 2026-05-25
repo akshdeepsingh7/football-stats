@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-25 00:06:58 UTC
+> **Last updated:** 2026-05-25 05:07:39 UTC
 
 ---
 
@@ -32,7 +32,7 @@
 | **Dutch Eredivisie** | **PSV Eindhoven** | 84 | **PSV Eindhoven** | 101 |
 | **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
 | **Scottish Premiership** | **Celtic** | 82 | **Rangers** | 76 |
-| **MLS** | **Chicago Fire FC** | 26 | **FC Cincinnati** | 36 |
+| **MLS** | **Chicago Fire FC** | 26 | **Inter Miami CF** | 39 |
 | **Brazilian Serie A** | **Palmeiras** | 38 | **Botafogo** | 30 |
 | **Argentine Liga Profesional** | **Boca Juniors** | 30 | **Independiente Rivadavia** | 29 |
 | **Mexican Liga MX** | **Pumas UNAM** | 36 | **Pumas UNAM** | 34 |
@@ -761,13 +761,13 @@
 | 9 | Eastern Conference | **D.C. United** | 15 | 4 | 6 | 5 | 21 | 25 | -4 | **18** |
 | 13 | Eastern Conference | **Toronto FC** | 14 | 3 | 5 | 6 | 22 | 29 | -7 | **14** |
 | 11 | Eastern Conference | **CF Montréal** | 14 | 4 | 2 | 8 | 22 | 31 | -9 | **14** |
-| 15 | Eastern Conference | **Philadelphia Union** | 14 | 1 | 4 | 9 | 14 | 24 | -10 | **7** |
+| 15 | Eastern Conference | **Philadelphia Union** | 15 | 1 | 4 | 10 | 18 | 30 | -12 | **7** |
 | 12 | Eastern Conference | **Orlando City SC** | 15 | 4 | 2 | 9 | 23 | 44 | -21 | **14** |
 | 8 | Eastern Conference | **New York City FC** | 15 | 5 | 4 | 6 | 25 | 21 | +4 | **19** |
 | 7 | Eastern Conference | **FC Cincinnati** | 15 | 5 | 5 | 5 | 36 | 37 | -1 | **20** |
 | 14 | Eastern Conference | **Atlanta United FC** | 14 | 3 | 2 | 9 | 14 | 23 | -9 | **11** |
 | 1 | Eastern Conference | **Nashville SC** | 14 | 10 | 3 | 1 | 31 | 11 | +20 | **33** |
-| 2 | Eastern Conference | **Inter Miami CF** | 14 | 8 | 4 | 2 | 33 | 24 | +9 | **28** |
+| 2 | Eastern Conference | **Inter Miami CF** | 15 | 9 | 4 | 2 | 39 | 28 | +11 | **31** |
 | 6 | Eastern Conference | **Charlotte FC** | 15 | 6 | 3 | 6 | 24 | 23 | +1 | **21** |
 | 11 | Western Conference | **Colorado Rapids** | 15 | 5 | 1 | 9 | 25 | 24 | +1 | **16** |
 | 4 | Western Conference | **FC Dallas** | 15 | 7 | 4 | 4 | 30 | 22 | +8 | **25** |
@@ -775,12 +775,12 @@
 | 9 | Western Conference | **LA Galaxy** | 15 | 5 | 5 | 5 | 22 | 22 | 0 | **20** |
 | 2 | Western Conference | **San Jose Earthquakes** | 15 | 10 | 2 | 3 | 34 | 15 | +19 | **32** |
 | 3 | Western Conference | **Real Salt Lake** | 14 | 8 | 2 | 4 | 26 | 19 | +7 | **26** |
-| 6 | Western Conference | **Houston Dynamo FC** | 14 | 7 | 1 | 6 | 19 | 23 | -4 | **22** |
+| 7 | Western Conference | **Houston Dynamo FC** | 14 | 7 | 1 | 6 | 19 | 23 | -4 | **22** |
 | 13 | Western Conference | **Portland Timbers** | 14 | 4 | 2 | 8 | 22 | 28 | -6 | **14** |
-| 5 | Western Conference | **Seattle Sounders FC** | 12 | 7 | 3 | 2 | 17 | 10 | +7 | **24** |
+| 6 | Western Conference | **Seattle Sounders FC** | 13 | 7 | 3 | 3 | 17 | 11 | +6 | **24** |
 | 1 | Western Conference | **Vancouver Whitecaps** | 14 | 10 | 2 | 2 | 34 | 12 | +22 | **32** |
-| 7 | Western Conference | **Minnesota United FC** | 15 | 6 | 4 | 5 | 18 | 22 | -4 | **22** |
-| 8 | Western Conference | **LAFC** | 14 | 6 | 3 | 5 | 23 | 17 | +6 | **21** |
+| 8 | Western Conference | **Minnesota United FC** | 15 | 6 | 4 | 5 | 18 | 22 | -4 | **22** |
+| 5 | Western Conference | **LAFC** | 15 | 7 | 3 | 5 | 24 | 17 | +7 | **24** |
 | 14 | Western Conference | **Austin FC** | 15 | 3 | 5 | 7 | 19 | 31 | -12 | **14** |
 | 12 | Western Conference | **St. Louis CITY SC** | 14 | 4 | 4 | 6 | 16 | 20 | -4 | **16** |
 | 10 | Western Conference | **San Diego FC** | 15 | 4 | 5 | 6 | 30 | 27 | +3 | **17** |
@@ -829,8 +829,8 @@
 | 2 | 2026 | **Flamengo** | 16 | 9 | 4 | 3 | 28 | 16 | +12 | **31** |
 | 3 | 2026 | **Fluminense** | 17 | 9 | 3 | 5 | 27 | 22 | +5 | **30** |
 | 4 | 2026 | **Athletico Paranaense** | 17 | 8 | 3 | 6 | 23 | 18 | +5 | **27** |
-| 5 | 2026 | **São Paulo** | 17 | 7 | 4 | 6 | 23 | 19 | +4 | **25** |
-| 6 | 2026 | **Red Bull Bragantino** | 16 | 7 | 2 | 7 | 19 | 18 | +1 | **23** |
+| 5 | 2026 | **Red Bull Bragantino** | 17 | 8 | 2 | 7 | 22 | 18 | +4 | **26** |
+| 6 | 2026 | **São Paulo** | 17 | 7 | 4 | 6 | 23 | 19 | +4 | **25** |
 | 7 | 2026 | **Bahia** | 15 | 6 | 5 | 4 | 21 | 19 | +2 | **23** |
 | 8 | 2026 | **Coritiba** | 16 | 6 | 5 | 5 | 21 | 19 | +2 | **23** |
 | 9 | 2026 | **Cruzeiro** | 17 | 6 | 5 | 6 | 23 | 27 | -4 | **23** |
@@ -840,7 +840,7 @@
 | 13 | 2026 | **Internacional** | 17 | 5 | 6 | 6 | 20 | 19 | +1 | **21** |
 | 14 | 2026 | **Grêmio** | 17 | 5 | 6 | 6 | 19 | 20 | -1 | **21** |
 | 15 | 2026 | **Corinthians** | 17 | 5 | 6 | 6 | 15 | 18 | -3 | **21** |
-| 16 | 2026 | **Vasco da Gama** | 16 | 5 | 5 | 6 | 22 | 25 | -3 | **20** |
+| 16 | 2026 | **Vasco da Gama** | 17 | 5 | 5 | 7 | 22 | 28 | -6 | **20** |
 | 17 | 2026 | **Santos** | 17 | 4 | 6 | 7 | 23 | 28 | -5 | **18** |
 | 18 | 2026 | **Mirassol** | 16 | 4 | 4 | 8 | 18 | 23 | -5 | **16** |
 | 19 | 2026 | **Remo** | 17 | 3 | 6 | 8 | 20 | 29 | -9 | **15** |
