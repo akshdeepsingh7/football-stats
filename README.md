@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-05-30 21:08:40 UTC
+> **Last updated:** 2026-05-30 22:32:40 UTC
 
 ---
 
@@ -33,7 +33,7 @@
 | **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
 | **Scottish Premiership** | **Celtic** | 82 | **Rangers** | 76 |
 | **MLS** | **Chicago Fire FC** | 26 | **Inter Miami CF** | 39 |
-| **Brazilian Serie A** | **Palmeiras** | 38 | **Botafogo** | 30 |
+| **Brazilian Serie A** | **Palmeiras** | 38 | **Flamengo** | 31 |
 | **Argentine Liga Profesional** | **Boca Juniors** | 30 | **Independiente Rivadavia** | 29 |
 | **Mexican Liga MX** | **Pumas UNAM** | 36 | **Pumas UNAM** | 34 |
 
@@ -826,11 +826,11 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 2026 | **Palmeiras** | 17 | 11 | 5 | 1 | 29 | 13 | +16 | **38** |
-| 2 | 2026 | **Flamengo** | 16 | 9 | 4 | 3 | 28 | 16 | +12 | **31** |
-| 3 | 2026 | **Fluminense** | 17 | 9 | 3 | 5 | 27 | 22 | +5 | **30** |
-| 4 | 2026 | **Athletico Paranaense** | 17 | 8 | 3 | 6 | 23 | 18 | +5 | **27** |
+| 2 | 2026 | **Flamengo** | 17 | 10 | 4 | 3 | 31 | 16 | +15 | **34** |
+| 3 | 2026 | **Athletico Paranaense** | 18 | 9 | 3 | 6 | 24 | 18 | +6 | **30** |
+| 4 | 2026 | **Fluminense** | 17 | 9 | 3 | 5 | 27 | 22 | +5 | **30** |
 | 5 | 2026 | **Red Bull Bragantino** | 17 | 8 | 2 | 7 | 22 | 18 | +4 | **26** |
-| 6 | 2026 | **Coritiba** | 17 | 7 | 5 | 5 | 24 | 21 | +3 | **26** |
+| 6 | 2026 | **Coritiba** | 18 | 7 | 5 | 6 | 24 | 24 | 0 | **26** |
 | 7 | 2026 | **São Paulo** | 17 | 7 | 4 | 6 | 23 | 19 | +4 | **25** |
 | 8 | 2026 | **Bahia** | 16 | 6 | 5 | 5 | 23 | 22 | +1 | **23** |
 | 9 | 2026 | **Cruzeiro** | 17 | 6 | 5 | 6 | 23 | 27 | -4 | **23** |
@@ -842,7 +842,7 @@
 | 15 | 2026 | **Corinthians** | 17 | 5 | 6 | 6 | 15 | 18 | -3 | **21** |
 | 16 | 2026 | **Vasco da Gama** | 17 | 5 | 5 | 7 | 22 | 28 | -6 | **20** |
 | 17 | 2026 | **Santos** | 17 | 4 | 6 | 7 | 23 | 28 | -5 | **18** |
-| 18 | 2026 | **Mirassol** | 16 | 4 | 4 | 8 | 18 | 23 | -5 | **16** |
+| 18 | 2026 | **Mirassol** | 17 | 4 | 4 | 9 | 18 | 24 | -6 | **16** |
 | 19 | 2026 | **Remo** | 17 | 3 | 6 | 8 | 20 | 29 | -9 | **15** |
 | 20 | 2026 | **Chapecoense** | 16 | 1 | 6 | 9 | 17 | 32 | -15 | **9** |
 
