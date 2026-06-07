@@ -1,19 +1,19 @@
 # Football League Standings
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leagues-14%2F15-brightgreen?style=for-the-badge" alt="Leagues"/>
-  <img src="https://img.shields.io/badge/Teams-312-blue?style=for-the-badge" alt="Teams"/>
+  <img src="https://img.shields.io/badge/Leagues-15%2F15-brightgreen?style=for-the-badge" alt="Leagues"/>
+  <img src="https://img.shields.io/badge/Teams-332-blue?style=for-the-badge" alt="Teams"/>
   <img src="https://img.shields.io/badge/Confederations-3-orange?style=for-the-badge" alt="Confs"/>
   <img src="https://img.shields.io/badge/Visualizations-Image%20Stats-9b59b6?style=for-the-badge" alt="Images"/>
 </p>
 
 <p align="center">
-  <b>Live football standings from 14 major leagues across 3 confederations with rich visual statistics.</b>
+  <b>Live football standings from 15 major leagues across 3 confederations with rich visual statistics.</b>
 </p>
 
 ---
 
-> **Last updated:** 2026-06-07 01:38:35 UTC
+> **Last updated:** 2026-06-07 06:37:14 UTC
 
 ---
 
@@ -23,6 +23,7 @@
 |--------|--------|-----|-------------|-----|
 | **English Premier League** | **Arsenal** | 85 | **Manchester City** | 77 |
 | **Spanish La Liga** | **Barcelona** | 94 | **Barcelona** | 95 |
+| **Italian Serie A** | **AC Milan** | 0 | **AC Milan** | 0 |
 | **German Bundesliga** | **Bayern Munich** | 89 | **Bayern Munich** | 122 |
 | **French Ligue 1** | **Paris Saint-Germain** | 76 | **Paris Saint-Germain** | 74 |
 | **UEFA Champions League** | **Arsenal** | 24 | **Arsenal** | 23 |
@@ -52,7 +53,7 @@
 |---|---|---|
 | **CONCACAF (N. America)** | MLS, Mexican Liga MX | 48 |
 | **CONMEBOL (S. America)** | Brazilian Serie A, Argentine Liga Profesional | 50 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 214 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 |
 
 ---
 
@@ -186,7 +187,58 @@
 
 ### Italian Serie A
 
-*No data available.*
+**Italy** | UEFA | 20 teams
+
+| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 2026-2027 Italian Serie A | **AC Milan** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | 2026-2027 Italian Serie A | **Atalanta** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | 2026-2027 Italian Serie A | **Bologna** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | 2026-2027 Italian Serie A | **Cagliari** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | 2026-2027 Italian Serie A | **Como** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | 2026-2027 Italian Serie A | **Fiorentina** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | 2026-2027 Italian Serie A | **Frosinone** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | 2026-2027 Italian Serie A | **Genoa** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | 2026-2027 Italian Serie A | **Internazionale** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | 2026-2027 Italian Serie A | **Juventus** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | 2026-2027 Italian Serie A | **Lazio** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | 2026-2027 Italian Serie A | **Lecce** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | 2026-2027 Italian Serie A | **Monza** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | 2026-2027 Italian Serie A | **Napoli** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | 2026-2027 Italian Serie A | **Parma** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | 2026-2027 Italian Serie A | **AS Roma** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | 2026-2027 Italian Serie A | **Sassuolo** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | 2026-2027 Italian Serie A | **Torino** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 19 | 2026-2027 Italian Serie A | **Udinese** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 20 | 2026-2027 Italian Serie A | **Venezia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+
+#### Points Table
+
+![Points Table - Italian Serie A](images/standings_italian_serie_a.png)
+
+#### Points & Win Rate
+
+![Points & Win Rate - Italian Serie A](images/points_progression_italian_serie_a.png)
+
+#### Wins / Draws / Losses
+
+![Wins / Draws / Losses - Italian Serie A](images/wdl_italian_serie_a.png)
+
+#### Winning Chance %
+
+![Winning Chance % - Italian Serie A](images/winning_chance_italian_serie_a.png)
+
+#### Goals For vs Against
+
+![Goals For vs Against - Italian Serie A](images/goals_italian_serie_a.png)
+
+#### Goal Difference
+
+![Goal Difference - Italian Serie A](images/gd_italian_serie_a.png)
+
+#### Top 5 Teams Radar
+
+![Top 5 Teams Radar - Italian Serie A](images/radar_italian_serie_a.png)
 
 ---
 
