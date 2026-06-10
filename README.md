@@ -1,19 +1,19 @@
 # Football League Standings
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leagues-14%2F15-brightgreen?style=for-the-badge" alt="Leagues"/>
-  <img src="https://img.shields.io/badge/Teams-314-blue?style=for-the-badge" alt="Teams"/>
+  <img src="https://img.shields.io/badge/Leagues-13%2F15-brightgreen?style=for-the-badge" alt="Leagues"/>
+  <img src="https://img.shields.io/badge/Teams-296-blue?style=for-the-badge" alt="Teams"/>
   <img src="https://img.shields.io/badge/Confederations-3-orange?style=for-the-badge" alt="Confs"/>
   <img src="https://img.shields.io/badge/Visualizations-Image%20Stats-9b59b6?style=for-the-badge" alt="Images"/>
 </p>
 
 <p align="center">
-  <b>Live football standings from 14 major leagues across 3 confederations with rich visual statistics.</b>
+  <b>Live football standings from 13 major leagues across 3 confederations with rich visual statistics.</b>
 </p>
 
 ---
 
-> **Last updated:** 2026-06-10 22:10:35 UTC
+> **Last updated:** 2026-06-10 23:57:27 UTC
 
 ---
 
@@ -34,7 +34,6 @@
 | **MLS** | **Chicago Fire FC** | 26 | **Inter Miami CF** | 39 |
 | **Brazilian Serie A** | **Palmeiras** | 41 | **Flamengo** | 31 |
 | **Argentine Liga Profesional** | **Boca Juniors** | 30 | **Independiente Rivadavia** | 29 |
-| **Mexican Liga MX** | **Pumas UNAM** | 36 | **Pumas UNAM** | 34 |
 
 ![Quick Stats](images/quick_stats.png)
 
@@ -50,7 +49,7 @@
 
 | Confederation | Leagues | Teams |
 |---|---|---|
-| **CONCACAF (N. America)** | MLS, Mexican Liga MX | 48 |
+| **CONCACAF (N. America)** | MLS, Mexican Liga MX | 30 |
 | **CONMEBOL (S. America)** | Brazilian Serie A, Argentine Liga Profesional | 50 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 216 |
 
@@ -891,60 +890,7 @@
 
 ### Mexican Liga MX
 
-**Mexico** | CONCACAF | 18 teams
-
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025 Torneo Clausura | **Pumas UNAM** | 17 | 10 | 6 | 1 | 34 | 17 | +17 | **36** |
-| 2 | 2025 Torneo Clausura | **Guadalajara** | 17 | 11 | 3 | 3 | 33 | 17 | +16 | **36** |
-| 3 | 2025 Torneo Clausura | **Cruz Azul** | 17 | 9 | 6 | 2 | 31 | 18 | +13 | **33** |
-| 4 | 2025 Torneo Clausura | **Pachuca** | 17 | 9 | 4 | 4 | 25 | 19 | +6 | **31** |
-| 5 | 2025 Torneo Clausura | **Toluca** | 17 | 8 | 6 | 3 | 28 | 16 | +12 | **30** |
-| 6 | 2025 Torneo Clausura | **Atlas** | 17 | 7 | 5 | 5 | 16 | 18 | -2 | **26** |
-| 7 | 2025 Torneo Clausura | **Tigres UANL** | 17 | 7 | 4 | 6 | 28 | 18 | +10 | **25** |
-| 8 | 2025 Torneo Clausura | **América** | 17 | 7 | 4 | 6 | 20 | 17 | +3 | **25** |
-| 9 | 2025 Torneo Clausura | **Tijuana** | 17 | 5 | 8 | 4 | 19 | 17 | +2 | **23** |
-| 10 | 2025 Torneo Clausura | **León** | 17 | 7 | 1 | 9 | 22 | 32 | -10 | **22** |
-| 11 | 2025 Torneo Clausura | **Querétaro** | 17 | 4 | 8 | 5 | 17 | 21 | -4 | **20** |
-| 12 | 2025 Torneo Clausura | **FC Juarez** | 17 | 5 | 4 | 8 | 26 | 32 | -6 | **19** |
-| 13 | 2025 Torneo Clausura | **Monterrey** | 17 | 5 | 3 | 9 | 22 | 24 | -2 | **18** |
-| 14 | 2025 Torneo Clausura | **Atlético de San Luis** | 17 | 5 | 3 | 9 | 24 | 27 | -3 | **18** |
-| 15 | 2025 Torneo Clausura | **Necaxa** | 17 | 5 | 3 | 9 | 19 | 25 | -6 | **18** |
-| 16 | 2025 Torneo Clausura | **Mazatlán FC** | 17 | 4 | 3 | 10 | 22 | 37 | -15 | **15** |
-| 17 | 2025 Torneo Clausura | **Puebla** | 17 | 3 | 4 | 10 | 13 | 26 | -13 | **13** |
-| 18 | 2025 Torneo Clausura | **Santos** | 17 | 3 | 3 | 11 | 20 | 38 | -18 | **12** |
-
-#### Points Table
-
-![Points Table - Mexican Liga MX](images/standings_mexican_liga_mx.png)
-
-#### Points & Win Rate
-
-![Points & Win Rate - Mexican Liga MX](images/points_progression_mexican_liga_mx.png)
-
-#### Wins / Draws / Losses
-
-![Wins / Draws / Losses - Mexican Liga MX](images/wdl_mexican_liga_mx.png)
-
-#### Winning Chance %
-
-![Winning Chance % - Mexican Liga MX](images/winning_chance_mexican_liga_mx.png)
-
-#### Goals For vs Against
-
-![Goals For vs Against - Mexican Liga MX](images/goals_mexican_liga_mx.png)
-
-#### Goal Difference
-
-![Goal Difference - Mexican Liga MX](images/gd_mexican_liga_mx.png)
-
-#### Match Outcome Distribution
-
-![Match Outcome Distribution - Mexican Liga MX](images/winrate_mexican_liga_mx.png)
-
-#### Top 5 Teams Radar
-
-![Top 5 Teams Radar - Mexican Liga MX](images/radar_mexican_liga_mx.png)
+*No data available.*
 
 ---
 
