@@ -1,19 +1,19 @@
 # Football League Standings
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leagues-15%2F15-brightgreen?style=for-the-badge" alt="Leagues"/>
-  <img src="https://img.shields.io/badge/Teams-332-blue?style=for-the-badge" alt="Teams"/>
+  <img src="https://img.shields.io/badge/Leagues-14%2F15-brightgreen?style=for-the-badge" alt="Leagues"/>
+  <img src="https://img.shields.io/badge/Teams-314-blue?style=for-the-badge" alt="Teams"/>
   <img src="https://img.shields.io/badge/Confederations-3-orange?style=for-the-badge" alt="Confs"/>
   <img src="https://img.shields.io/badge/Visualizations-Image%20Stats-9b59b6?style=for-the-badge" alt="Images"/>
 </p>
 
 <p align="center">
-  <b>Live football standings from 15 major leagues across 3 confederations with rich visual statistics.</b>
+  <b>Live football standings from 14 major leagues across 3 confederations with rich visual statistics.</b>
 </p>
 
 ---
 
-> **Last updated:** 2026-06-10 16:40:00 UTC
+> **Last updated:** 2026-06-10 19:40:45 UTC
 
 ---
 
@@ -25,7 +25,6 @@
 | **Spanish La Liga** | **Barcelona** | 94 | **Barcelona** | 95 |
 | **Italian Serie A** | **AC Milan** | 0 | **AC Milan** | 0 |
 | **German Bundesliga** | **Bayern Munich** | 89 | **Bayern Munich** | 122 |
-| **French Ligue 1** | **Paris Saint-Germain** | 76 | **Paris Saint-Germain** | 74 |
 | **UEFA Champions League** | **Arsenal** | 24 | **Arsenal** | 23 |
 | **UEFA Europa League** | **Lyon** | 21 | **Lyon** | 18 |
 | **Portuguese Primeira Liga** | **FC Porto** | 88 | **Sporting CP** | 89 |
@@ -53,7 +52,7 @@
 |---|---|---|
 | **CONCACAF (N. America)** | MLS, Mexican Liga MX | 48 |
 | **CONMEBOL (S. America)** | Brazilian Serie A, Argentine Liga Profesional | 50 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 216 |
 
 ---
 
@@ -303,60 +302,7 @@
 
 ### French Ligue 1
 
-**France** | UEFA | 18 teams
-
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | French Ligue 1 2025-26 | **Paris Saint-Germain** | 34 | 24 | 4 | 6 | 74 | 29 | +45 | **76** |
-| 2 | French Ligue 1 2025-26 | **Lens** | 34 | 22 | 4 | 8 | 66 | 35 | +31 | **70** |
-| 3 | French Ligue 1 2025-26 | **Lille** | 34 | 18 | 7 | 9 | 52 | 37 | +15 | **61** |
-| 4 | French Ligue 1 2025-26 | **Lyon** | 34 | 18 | 6 | 10 | 53 | 40 | +13 | **60** |
-| 5 | French Ligue 1 2025-26 | **Marseille** | 34 | 18 | 5 | 11 | 63 | 45 | +18 | **59** |
-| 6 | French Ligue 1 2025-26 | **Stade Rennais** | 34 | 17 | 8 | 9 | 59 | 50 | +9 | **59** |
-| 7 | French Ligue 1 2025-26 | **AS Monaco** | 34 | 16 | 6 | 12 | 60 | 54 | +6 | **54** |
-| 8 | French Ligue 1 2025-26 | **Strasbourg** | 34 | 15 | 8 | 11 | 58 | 47 | +11 | **53** |
-| 9 | French Ligue 1 2025-26 | **Lorient** | 34 | 11 | 12 | 11 | 48 | 51 | -3 | **45** |
-| 10 | French Ligue 1 2025-26 | **Toulouse** | 33 | 12 | 8 | 13 | 47 | 46 | +1 | **44** |
-| 11 | French Ligue 1 2025-26 | **Paris FC** | 34 | 11 | 11 | 12 | 47 | 50 | -3 | **44** |
-| 12 | French Ligue 1 2025-26 | **Brest** | 34 | 10 | 9 | 15 | 43 | 55 | -12 | **39** |
-| 13 | French Ligue 1 2025-26 | **Angers** | 34 | 9 | 9 | 16 | 29 | 48 | -19 | **36** |
-| 14 | French Ligue 1 2025-26 | **Le Havre AC** | 34 | 7 | 14 | 13 | 32 | 44 | -12 | **35** |
-| 15 | French Ligue 1 2025-26 | **AJ Auxerre** | 34 | 8 | 10 | 16 | 34 | 44 | -10 | **34** |
-| 16 | French Ligue 1 2025-26 | **Nice** | 34 | 7 | 11 | 16 | 37 | 60 | -23 | **32** |
-| 17 | French Ligue 1 2025-26 | **Nantes** | 33 | 5 | 8 | 20 | 29 | 52 | -23 | **23** |
-| 18 | French Ligue 1 2025-26 | **Metz** | 34 | 3 | 8 | 23 | 32 | 76 | -44 | **17** |
-
-#### Points Table
-
-![Points Table - French Ligue 1](images/standings_french_ligue_1.png)
-
-#### Points & Win Rate
-
-![Points & Win Rate - French Ligue 1](images/points_progression_french_ligue_1.png)
-
-#### Wins / Draws / Losses
-
-![Wins / Draws / Losses - French Ligue 1](images/wdl_french_ligue_1.png)
-
-#### Winning Chance %
-
-![Winning Chance % - French Ligue 1](images/winning_chance_french_ligue_1.png)
-
-#### Goals For vs Against
-
-![Goals For vs Against - French Ligue 1](images/goals_french_ligue_1.png)
-
-#### Goal Difference
-
-![Goal Difference - French Ligue 1](images/gd_french_ligue_1.png)
-
-#### Match Outcome Distribution
-
-![Match Outcome Distribution - French Ligue 1](images/winrate_french_ligue_1.png)
-
-#### Top 5 Teams Radar
-
-![Top 5 Teams Radar - French Ligue 1](images/radar_french_ligue_1.png)
+*No data available.*
 
 ---
 
