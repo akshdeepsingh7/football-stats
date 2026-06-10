@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-06-10 12:44:31 UTC
+> **Last updated:** 2026-06-10 16:40:00 UTC
 
 ---
 
@@ -29,7 +29,7 @@
 | **UEFA Champions League** | **Arsenal** | 24 | **Arsenal** | 23 |
 | **UEFA Europa League** | **Lyon** | 21 | **Lyon** | 18 |
 | **Portuguese Primeira Liga** | **FC Porto** | 88 | **Sporting CP** | 89 |
-| **Dutch Eredivisie** | **PSV Eindhoven** | 84 | **PSV Eindhoven** | 101 |
+| **Dutch Eredivisie** | **ADO Den Haag** | 0 | **ADO Den Haag** | 0 |
 | **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
 | **Scottish Premiership** | **Celtic** | 82 | **Rangers** | 76 |
 | **MLS** | **Chicago Fire FC** | 26 | **Inter Miami CF** | 39 |
@@ -579,24 +579,24 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-2026 Dutch Eredivisi | **PSV Eindhoven** | 34 | 27 | 3 | 4 | 101 | 45 | +56 | **84** |
-| 2 | 2025-2026 Dutch Eredivisi | **Feyenoord Rotterdam** | 34 | 19 | 8 | 7 | 70 | 44 | +26 | **65** |
-| 3 | 2025-2026 Dutch Eredivisi | **NEC Nijmegen** | 34 | 16 | 11 | 7 | 77 | 53 | +24 | **59** |
-| 4 | 2025-2026 Dutch Eredivisi | **FC Twente** | 34 | 15 | 13 | 6 | 59 | 40 | +19 | **58** |
-| 5 | 2025-2026 Dutch Eredivisi | **Ajax Amsterdam** | 34 | 14 | 14 | 6 | 62 | 41 | +21 | **56** |
-| 6 | 2025-2026 Dutch Eredivisi | **FC Utrecht** | 34 | 15 | 8 | 11 | 55 | 42 | +13 | **53** |
-| 7 | 2025-2026 Dutch Eredivisi | **AZ Alkmaar** | 34 | 14 | 10 | 10 | 58 | 51 | +7 | **52** |
-| 8 | 2025-2026 Dutch Eredivisi | **Heerenveen** | 34 | 14 | 9 | 11 | 57 | 53 | +4 | **51** |
-| 9 | 2025-2026 Dutch Eredivisi | **FC Groningen** | 34 | 14 | 6 | 14 | 49 | 45 | +4 | **48** |
-| 10 | 2025-2026 Dutch Eredivisi | **Sparta Rotterdam** | 34 | 12 | 7 | 15 | 40 | 62 | -22 | **43** |
-| 11 | 2025-2026 Dutch Eredivisi | **Fortuna Sittard** | 34 | 11 | 6 | 17 | 49 | 63 | -14 | **39** |
-| 12 | 2025-2026 Dutch Eredivisi | **Go Ahead Eagles** | 34 | 8 | 14 | 12 | 54 | 53 | +1 | **38** |
-| 13 | 2025-2026 Dutch Eredivisi | **Excelsior** | 34 | 10 | 8 | 16 | 43 | 56 | -13 | **38** |
-| 14 | 2025-2026 Dutch Eredivisi | **Telstar** | 34 | 9 | 10 | 15 | 49 | 55 | -6 | **37** |
-| 15 | 2025-2026 Dutch Eredivisi | **PEC Zwolle** | 34 | 9 | 10 | 15 | 44 | 71 | -27 | **37** |
-| 16 | 2025-2026 Dutch Eredivisi | **FC Volendam** | 34 | 8 | 8 | 18 | 35 | 55 | -20 | **32** |
-| 17 | 2025-2026 Dutch Eredivisi | **NAC Breda** | 34 | 6 | 11 | 17 | 35 | 58 | -23 | **29** |
-| 18 | 2025-2026 Dutch Eredivisi | **Heracles Almelo** | 34 | 5 | 4 | 25 | 35 | 85 | -50 | **19** |
+| 1 | 2026-2027 Dutch Eredivisi | **ADO Den Haag** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | 2026-2027 Dutch Eredivisi | **AZ Alkmaar** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | 2026-2027 Dutch Eredivisi | **Ajax Amsterdam** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | 2026-2027 Dutch Eredivisi | **SC Cambuur** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | 2026-2027 Dutch Eredivisi | **Excelsior** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | 2026-2027 Dutch Eredivisi | **Feyenoord Rotterdam** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | 2026-2027 Dutch Eredivisi | **Fortuna Sittard** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | 2026-2027 Dutch Eredivisi | **Go Ahead Eagles** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | 2026-2027 Dutch Eredivisi | **FC Groningen** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | 2026-2027 Dutch Eredivisi | **Heerenveen** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | 2026-2027 Dutch Eredivisi | **NEC Nijmegen** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | 2026-2027 Dutch Eredivisi | **PEC Zwolle** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | 2026-2027 Dutch Eredivisi | **PSV Eindhoven** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | 2026-2027 Dutch Eredivisi | **Sparta Rotterdam** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | 2026-2027 Dutch Eredivisi | **Telstar** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | 2026-2027 Dutch Eredivisi | **FC Twente** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | 2026-2027 Dutch Eredivisi | **FC Utrecht** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | 2026-2027 Dutch Eredivisi | **Willem II** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 #### Points Table
 
@@ -621,10 +621,6 @@
 #### Goal Difference
 
 ![Goal Difference - Dutch Eredivisie](images/gd_dutch_eredivisie.png)
-
-#### Match Outcome Distribution
-
-![Match Outcome Distribution - Dutch Eredivisie](images/winrate_dutch_eredivisie.png)
 
 #### Top 5 Teams Radar
 
