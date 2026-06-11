@@ -1,19 +1,19 @@
 # Football League Standings
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leagues-13%2F15-brightgreen?style=for-the-badge" alt="Leagues"/>
-  <img src="https://img.shields.io/badge/Teams-296-blue?style=for-the-badge" alt="Teams"/>
+  <img src="https://img.shields.io/badge/Leagues-15%2F15-brightgreen?style=for-the-badge" alt="Leagues"/>
+  <img src="https://img.shields.io/badge/Teams-332-blue?style=for-the-badge" alt="Teams"/>
   <img src="https://img.shields.io/badge/Confederations-3-orange?style=for-the-badge" alt="Confs"/>
   <img src="https://img.shields.io/badge/Visualizations-Image%20Stats-9b59b6?style=for-the-badge" alt="Images"/>
 </p>
 
 <p align="center">
-  <b>Live football standings from 13 major leagues across 3 confederations with rich visual statistics.</b>
+  <b>Live football standings from 15 major leagues across 3 confederations with rich visual statistics.</b>
 </p>
 
 ---
 
-> **Last updated:** 2026-06-10 23:57:27 UTC
+> **Last updated:** 2026-06-11 04:52:46 UTC
 
 ---
 
@@ -25,6 +25,7 @@
 | **Spanish La Liga** | **Barcelona** | 94 | **Barcelona** | 95 |
 | **Italian Serie A** | **AC Milan** | 0 | **AC Milan** | 0 |
 | **German Bundesliga** | **Bayern Munich** | 89 | **Bayern Munich** | 122 |
+| **French Ligue 1** | **Angers** | 0 | **Angers** | 0 |
 | **UEFA Champions League** | **Arsenal** | 24 | **Arsenal** | 23 |
 | **UEFA Europa League** | **Lyon** | 21 | **Lyon** | 18 |
 | **Portuguese Primeira Liga** | **FC Porto** | 88 | **Sporting CP** | 89 |
@@ -34,6 +35,7 @@
 | **MLS** | **Chicago Fire FC** | 26 | **Inter Miami CF** | 39 |
 | **Brazilian Serie A** | **Palmeiras** | 41 | **Flamengo** | 31 |
 | **Argentine Liga Profesional** | **Boca Juniors** | 30 | **Independiente Rivadavia** | 29 |
+| **Mexican Liga MX** | **Atlante** | 0 | **Atlante** | 0 |
 
 ![Quick Stats](images/quick_stats.png)
 
@@ -49,9 +51,9 @@
 
 | Confederation | Leagues | Teams |
 |---|---|---|
-| **CONCACAF (N. America)** | MLS, Mexican Liga MX | 30 |
+| **CONCACAF (N. America)** | MLS, Mexican Liga MX | 48 |
 | **CONMEBOL (S. America)** | Brazilian Serie A, Argentine Liga Profesional | 50 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 216 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 |
 
 ---
 
@@ -301,7 +303,56 @@
 
 ### French Ligue 1
 
-*No data available.*
+**France** | UEFA | 18 teams
+
+| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | French Ligue 1 2026-27 | **Angers** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | French Ligue 1 2026-27 | **AJ Auxerre** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | French Ligue 1 2026-27 | **Brest** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | French Ligue 1 2026-27 | **Le Havre AC** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | French Ligue 1 2026-27 | **Le Mans** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | French Ligue 1 2026-27 | **Lens** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | French Ligue 1 2026-27 | **Lille** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | French Ligue 1 2026-27 | **Lorient** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | French Ligue 1 2026-27 | **Lyon** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | French Ligue 1 2026-27 | **Marseille** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | French Ligue 1 2026-27 | **AS Monaco** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | French Ligue 1 2026-27 | **Nice** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | French Ligue 1 2026-27 | **Paris FC** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | French Ligue 1 2026-27 | **Paris Saint-Germain** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | French Ligue 1 2026-27 | **Stade Rennais** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | French Ligue 1 2026-27 | **Strasbourg** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | French Ligue 1 2026-27 | **Toulouse** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | French Ligue 1 2026-27 | **Troyes** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+
+#### Points Table
+
+![Points Table - French Ligue 1](images/standings_french_ligue_1.png)
+
+#### Points & Win Rate
+
+![Points & Win Rate - French Ligue 1](images/points_progression_french_ligue_1.png)
+
+#### Wins / Draws / Losses
+
+![Wins / Draws / Losses - French Ligue 1](images/wdl_french_ligue_1.png)
+
+#### Winning Chance %
+
+![Winning Chance % - French Ligue 1](images/winning_chance_french_ligue_1.png)
+
+#### Goals For vs Against
+
+![Goals For vs Against - French Ligue 1](images/goals_french_ligue_1.png)
+
+#### Goal Difference
+
+![Goal Difference - French Ligue 1](images/gd_french_ligue_1.png)
+
+#### Top 5 Teams Radar
+
+![Top 5 Teams Radar - French Ligue 1](images/radar_french_ligue_1.png)
 
 ---
 
@@ -890,7 +941,56 @@
 
 ### Mexican Liga MX
 
-*No data available.*
+**Mexico** | CONCACAF | 18 teams
+
+| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 2026 Torneo Apertura | **Atlante** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | 2026 Torneo Apertura | **Atlas** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | 2026 Torneo Apertura | **Atlético de San Luis** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | 2026 Torneo Apertura | **América** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | 2026 Torneo Apertura | **Cruz Azul** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | 2026 Torneo Apertura | **Guadalajara** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | 2026 Torneo Apertura | **FC Juarez** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | 2026 Torneo Apertura | **León** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | 2026 Torneo Apertura | **Monterrey** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | 2026 Torneo Apertura | **Necaxa** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | 2026 Torneo Apertura | **Pachuca** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | 2026 Torneo Apertura | **Puebla** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | 2026 Torneo Apertura | **Pumas UNAM** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | 2026 Torneo Apertura | **Querétaro** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | 2026 Torneo Apertura | **Santos** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | 2026 Torneo Apertura | **Tigres UANL** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | 2026 Torneo Apertura | **Tijuana** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | 2026 Torneo Apertura | **Toluca** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+
+#### Points Table
+
+![Points Table - Mexican Liga MX](images/standings_mexican_liga_mx.png)
+
+#### Points & Win Rate
+
+![Points & Win Rate - Mexican Liga MX](images/points_progression_mexican_liga_mx.png)
+
+#### Wins / Draws / Losses
+
+![Wins / Draws / Losses - Mexican Liga MX](images/wdl_mexican_liga_mx.png)
+
+#### Winning Chance %
+
+![Winning Chance % - Mexican Liga MX](images/winning_chance_mexican_liga_mx.png)
+
+#### Goals For vs Against
+
+![Goals For vs Against - Mexican Liga MX](images/goals_mexican_liga_mx.png)
+
+#### Goal Difference
+
+![Goal Difference - Mexican Liga MX](images/gd_mexican_liga_mx.png)
+
+#### Top 5 Teams Radar
+
+![Top 5 Teams Radar - Mexican Liga MX](images/radar_mexican_liga_mx.png)
 
 ---
 
