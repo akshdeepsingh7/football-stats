@@ -1,19 +1,19 @@
 # Football League Standings
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leagues-14%2F15-brightgreen?style=for-the-badge" alt="Leagues"/>
-  <img src="https://img.shields.io/badge/Teams-312-blue?style=for-the-badge" alt="Teams"/>
+  <img src="https://img.shields.io/badge/Leagues-15%2F15-brightgreen?style=for-the-badge" alt="Leagues"/>
+  <img src="https://img.shields.io/badge/Teams-332-blue?style=for-the-badge" alt="Teams"/>
   <img src="https://img.shields.io/badge/Confederations-3-orange?style=for-the-badge" alt="Confs"/>
   <img src="https://img.shields.io/badge/Visualizations-Image%20Stats-9b59b6?style=for-the-badge" alt="Images"/>
 </p>
 
 <p align="center">
-  <b>Live football standings from 14 major leagues across 3 confederations with rich visual statistics.</b>
+  <b>Live football standings from 15 major leagues across 3 confederations with rich visual statistics.</b>
 </p>
 
 ---
 
-> **Last updated:** 2026-06-14 21:53:12 UTC
+> **Last updated:** 2026-06-14 23:16:11 UTC
 
 ---
 
@@ -22,6 +22,7 @@
 | League | Leader | Pts | Best Attack | GF |
 |--------|--------|-----|-------------|-----|
 | **English Premier League** | **Arsenal** | 85 | **Manchester City** | 77 |
+| **Spanish La Liga** | **Barcelona** | 94 | **Barcelona** | 95 |
 | **Italian Serie A** | **AC Milan** | 0 | **AC Milan** | 0 |
 | **German Bundesliga** | **Bayern Munich** | 89 | **Bayern Munich** | 122 |
 | **French Ligue 1** | **Angers** | 0 | **Angers** | 0 |
@@ -52,7 +53,7 @@
 |---|---|---|
 | **CONCACAF (N. America)** | MLS, Mexican Liga MX | 48 |
 | **CONMEBOL (S. America)** | Brazilian Serie A, Argentine Liga Profesional | 50 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 214 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 |
 
 ---
 
@@ -125,7 +126,62 @@
 
 ### Spanish La Liga
 
-*No data available.*
+**Spain** | UEFA | 20 teams
+
+| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 2025-26 LALIGA | **Barcelona** | 38 | 31 | 1 | 6 | 95 | 36 | +59 | **94** |
+| 2 | 2025-26 LALIGA | **Real Madrid** | 38 | 27 | 5 | 6 | 77 | 35 | +42 | **86** |
+| 3 | 2025-26 LALIGA | **Villarreal** | 38 | 22 | 6 | 10 | 72 | 46 | +26 | **72** |
+| 4 | 2025-26 LALIGA | **Atlético Madrid** | 38 | 21 | 6 | 11 | 62 | 44 | +18 | **69** |
+| 5 | 2025-26 LALIGA | **Real Betis** | 38 | 15 | 15 | 8 | 59 | 48 | +11 | **60** |
+| 6 | 2025-26 LALIGA | **Celta Vigo** | 38 | 14 | 12 | 12 | 53 | 48 | +5 | **54** |
+| 7 | 2025-26 LALIGA | **Getafe** | 38 | 15 | 6 | 17 | 32 | 38 | -6 | **51** |
+| 8 | 2025-26 LALIGA | **Rayo Vallecano** | 38 | 12 | 14 | 12 | 41 | 44 | -3 | **50** |
+| 9 | 2025-26 LALIGA | **Valencia** | 38 | 13 | 10 | 15 | 46 | 55 | -9 | **49** |
+| 10 | 2025-26 LALIGA | **Real Sociedad** | 38 | 11 | 13 | 14 | 59 | 61 | -2 | **46** |
+| 11 | 2025-26 LALIGA | **Espanyol** | 38 | 12 | 10 | 16 | 43 | 55 | -12 | **46** |
+| 12 | 2025-26 LALIGA | **Athletic Club** | 38 | 13 | 6 | 19 | 43 | 58 | -15 | **45** |
+| 13 | 2025-26 LALIGA | **Sevilla** | 38 | 12 | 7 | 19 | 46 | 60 | -14 | **43** |
+| 14 | 2025-26 LALIGA | **Alavés** | 38 | 11 | 10 | 17 | 44 | 56 | -12 | **43** |
+| 15 | 2025-26 LALIGA | **Elche** | 38 | 10 | 13 | 15 | 49 | 57 | -8 | **43** |
+| 16 | 2025-26 LALIGA | **Levante** | 38 | 11 | 9 | 18 | 47 | 61 | -14 | **42** |
+| 17 | 2025-26 LALIGA | **Osasuna** | 38 | 11 | 9 | 18 | 44 | 50 | -6 | **42** |
+| 18 | 2025-26 LALIGA | **Mallorca** | 38 | 11 | 9 | 18 | 47 | 57 | -10 | **42** |
+| 19 | 2025-26 LALIGA | **Girona** | 38 | 9 | 14 | 15 | 39 | 55 | -16 | **41** |
+| 20 | 2025-26 LALIGA | **Real Oviedo** | 38 | 6 | 11 | 21 | 26 | 60 | -34 | **29** |
+
+#### Points Table
+
+![Points Table - Spanish La Liga](images/standings_spanish_la_liga.png)
+
+#### Points & Win Rate
+
+![Points & Win Rate - Spanish La Liga](images/points_progression_spanish_la_liga.png)
+
+#### Wins / Draws / Losses
+
+![Wins / Draws / Losses - Spanish La Liga](images/wdl_spanish_la_liga.png)
+
+#### Winning Chance %
+
+![Winning Chance % - Spanish La Liga](images/winning_chance_spanish_la_liga.png)
+
+#### Goals For vs Against
+
+![Goals For vs Against - Spanish La Liga](images/goals_spanish_la_liga.png)
+
+#### Goal Difference
+
+![Goal Difference - Spanish La Liga](images/gd_spanish_la_liga.png)
+
+#### Match Outcome Distribution
+
+![Match Outcome Distribution - Spanish La Liga](images/winrate_spanish_la_liga.png)
+
+#### Top 5 Teams Radar
+
+![Top 5 Teams Radar - Spanish La Liga](images/radar_spanish_la_liga.png)
 
 ---
 
