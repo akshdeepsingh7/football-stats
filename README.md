@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-06-18 12:38:15 UTC
+> **Last updated:** 2026-06-18 16:38:49 UTC
 
 ---
 
@@ -31,7 +31,7 @@
 | **Portuguese Primeira Liga** | **FC Porto** | 88 | **Sporting CP** | 89 |
 | **Dutch Eredivisie** | **ADO Den Haag** | 0 | **ADO Den Haag** | 0 |
 | **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
-| **Scottish Premiership** | **Celtic** | 82 | **Rangers** | 76 |
+| **Scottish Premiership** | **Aberdeen** | 0 | **Aberdeen** | 0 |
 | **MLS** | **Chicago Fire FC** | 26 | **Inter Miami CF** | 39 |
 | **Brazilian Serie A** | **Palmeiras** | 41 | **Flamengo** | 31 |
 | **Argentine Liga Profesional** | **Boca Juniors** | 30 | **Independiente Rivadavia** | 29 |
@@ -689,18 +689,18 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-26 Scottish Premiers | **Celtic** | 38 | 26 | 4 | 8 | 73 | 41 | +32 | **82** |
-| 2 | 2025-26 Scottish Premiers | **Heart of Midlothian** | 38 | 24 | 8 | 6 | 67 | 34 | +33 | **80** |
-| 3 | 2025-26 Scottish Premiers | **Rangers** | 38 | 20 | 12 | 6 | 76 | 43 | +33 | **72** |
-| 4 | 2025-26 Scottish Premiers | **Motherwell** | 38 | 16 | 13 | 9 | 59 | 36 | +23 | **61** |
-| 5 | 2025-26 Scottish Premiers | **Hibernian** | 38 | 15 | 12 | 11 | 58 | 44 | +14 | **57** |
-| 6 | 2025-26 Scottish Premiers | **Falkirk** | 38 | 14 | 7 | 17 | 50 | 62 | -12 | **49** |
-| 7 | 2025-26 Scottish Premiers | **Dundee United** | 38 | 10 | 15 | 13 | 49 | 60 | -11 | **45** |
-| 8 | 2025-26 Scottish Premiers | **Dundee** | 38 | 11 | 9 | 18 | 42 | 61 | -19 | **42** |
-| 9 | 2025-26 Scottish Premiers | **Aberdeen** | 38 | 11 | 7 | 20 | 40 | 55 | -15 | **40** |
-| 10 | 2025-26 Scottish Premiers | **Kilmarnock** | 38 | 10 | 10 | 18 | 50 | 68 | -18 | **40** |
-| 11 | 2025-26 Scottish Premiers | **St Mirren** | 38 | 8 | 10 | 20 | 30 | 55 | -25 | **34** |
-| 12 | 2025-26 Scottish Premiers | **Livingston** | 38 | 2 | 15 | 21 | 40 | 75 | -35 | **21** |
+| 1 | 2026-27 Scottish Premiers | **Aberdeen** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | 2026-27 Scottish Premiers | **Celtic** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | 2026-27 Scottish Premiers | **Dundee** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | 2026-27 Scottish Premiers | **Dundee United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | 2026-27 Scottish Premiers | **Falkirk** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | 2026-27 Scottish Premiers | **Heart of Midlothian** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | 2026-27 Scottish Premiers | **Hibernian** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | 2026-27 Scottish Premiers | **Kilmarnock** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | 2026-27 Scottish Premiers | **Motherwell** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | 2026-27 Scottish Premiers | **Rangers** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | 2026-27 Scottish Premiers | **St Johnstone** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | 2026-27 Scottish Premiers | **St Mirren** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 #### Points Table
 
@@ -725,10 +725,6 @@
 #### Goal Difference
 
 ![Goal Difference - Scottish Premiership](images/gd_scottish_premiership.png)
-
-#### Match Outcome Distribution
-
-![Match Outcome Distribution - Scottish Premiership](images/winrate_scottish_premiership.png)
 
 #### Top 5 Teams Radar
 
