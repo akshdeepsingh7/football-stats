@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-06-19 05:35:29 UTC
+> **Last updated:** 2026-06-19 10:49:26 UTC
 
 ---
 
@@ -21,7 +21,7 @@
 
 | League | Leader | Pts | Best Attack | GF |
 |--------|--------|-----|-------------|-----|
-| **English Premier League** | **Arsenal** | 85 | **Manchester City** | 77 |
+| **English Premier League** | **AFC Bournemouth** | 0 | **AFC Bournemouth** | 0 |
 | **Spanish La Liga** | **Barcelona** | 94 | **Barcelona** | 95 |
 | **Italian Serie A** | **AC Milan** | 0 | **AC Milan** | 0 |
 | **German Bundesliga** | **Bayern Munich** | 89 | **Bayern Munich** | 122 |
@@ -69,26 +69,26 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | English Premier League 20 | **Arsenal** | 38 | 26 | 7 | 5 | 71 | 27 | +44 | **85** |
-| 2 | English Premier League 20 | **Manchester City** | 38 | 23 | 9 | 6 | 77 | 35 | +42 | **78** |
-| 3 | English Premier League 20 | **Manchester United** | 38 | 20 | 11 | 7 | 69 | 50 | +19 | **71** |
-| 4 | English Premier League 20 | **Aston Villa** | 38 | 19 | 8 | 11 | 56 | 49 | +7 | **65** |
-| 5 | English Premier League 20 | **Liverpool** | 38 | 17 | 9 | 12 | 63 | 53 | +10 | **60** |
-| 6 | English Premier League 20 | **AFC Bournemouth** | 38 | 13 | 18 | 7 | 58 | 54 | +4 | **57** |
-| 7 | English Premier League 20 | **Sunderland** | 38 | 14 | 12 | 12 | 42 | 48 | -6 | **54** |
-| 8 | English Premier League 20 | **Brighton & Hove Albion** | 38 | 14 | 11 | 13 | 52 | 46 | +6 | **53** |
-| 9 | English Premier League 20 | **Brentford** | 38 | 14 | 11 | 13 | 55 | 52 | +3 | **53** |
-| 10 | English Premier League 20 | **Chelsea** | 38 | 14 | 10 | 14 | 58 | 52 | +6 | **52** |
-| 11 | English Premier League 20 | **Fulham** | 38 | 15 | 7 | 16 | 47 | 51 | -4 | **52** |
-| 12 | English Premier League 20 | **Newcastle United** | 38 | 14 | 7 | 17 | 53 | 55 | -2 | **49** |
-| 13 | English Premier League 20 | **Everton** | 38 | 13 | 10 | 15 | 47 | 50 | -3 | **49** |
-| 14 | English Premier League 20 | **Leeds United** | 38 | 11 | 14 | 13 | 49 | 56 | -7 | **47** |
-| 15 | English Premier League 20 | **Crystal Palace** | 38 | 11 | 12 | 15 | 41 | 51 | -10 | **45** |
-| 16 | English Premier League 20 | **Nottingham Forest** | 38 | 11 | 11 | 16 | 48 | 51 | -3 | **44** |
-| 17 | English Premier League 20 | **Tottenham Hotspur** | 38 | 10 | 11 | 17 | 48 | 57 | -9 | **41** |
-| 18 | English Premier League 20 | **West Ham United** | 38 | 10 | 9 | 19 | 46 | 65 | -19 | **39** |
-| 19 | English Premier League 20 | **Burnley** | 38 | 4 | 10 | 24 | 38 | 75 | -37 | **22** |
-| 20 | English Premier League 20 | **Wolverhampton Wanderers** | 38 | 3 | 11 | 24 | 27 | 68 | -41 | **20** |
+| 1 | English Premier League 20 | **AFC Bournemouth** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | English Premier League 20 | **Arsenal** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | English Premier League 20 | **Aston Villa** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | English Premier League 20 | **Brentford** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | English Premier League 20 | **Brighton & Hove Albion** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | English Premier League 20 | **Chelsea** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | English Premier League 20 | **Coventry City** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | English Premier League 20 | **Crystal Palace** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | English Premier League 20 | **Everton** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | English Premier League 20 | **Fulham** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | English Premier League 20 | **Hull City** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | English Premier League 20 | **Ipswich Town** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | English Premier League 20 | **Leeds United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | English Premier League 20 | **Liverpool** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | English Premier League 20 | **Manchester City** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | English Premier League 20 | **Manchester United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | English Premier League 20 | **Newcastle United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | English Premier League 20 | **Nottingham Forest** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 19 | English Premier League 20 | **Sunderland** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 20 | English Premier League 20 | **Tottenham Hotspur** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 #### Points Table
 
@@ -113,10 +113,6 @@
 #### Goal Difference
 
 ![Goal Difference - English Premier League](images/gd_english_premier_league.png)
-
-#### Match Outcome Distribution
-
-![Match Outcome Distribution - English Premier League](images/winrate_english_premier_league.png)
 
 #### Top 5 Teams Radar
 
