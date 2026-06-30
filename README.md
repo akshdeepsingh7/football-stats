@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-06-30 21:16:31 UTC
+> **Last updated:** 2026-06-30 22:52:07 UTC
 
 ---
 
@@ -22,7 +22,7 @@
 | League | Leader | Pts | Best Attack | GF |
 |--------|--------|-----|-------------|-----|
 | **English Premier League** | **AFC Bournemouth** | 0 | **AFC Bournemouth** | 0 |
-| **Spanish La Liga** | **Barcelona** | 94 | **Barcelona** | 95 |
+| **Spanish La Liga** | **Alavés** | 0 | **Alavés** | 0 |
 | **Italian Serie A** | **AC Milan** | 0 | **AC Milan** | 0 |
 | **German Bundesliga** | **Bayern Munich** | 89 | **Bayern Munich** | 122 |
 | **French Ligue 1** | **Angers** | 0 | **Angers** | 0 |
@@ -126,26 +126,26 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-26 LALIGA | **Barcelona** | 38 | 31 | 1 | 6 | 95 | 36 | +59 | **94** |
-| 2 | 2025-26 LALIGA | **Real Madrid** | 38 | 27 | 5 | 6 | 77 | 35 | +42 | **86** |
-| 3 | 2025-26 LALIGA | **Villarreal** | 38 | 22 | 6 | 10 | 72 | 46 | +26 | **72** |
-| 4 | 2025-26 LALIGA | **Atlético Madrid** | 38 | 21 | 6 | 11 | 62 | 44 | +18 | **69** |
-| 5 | 2025-26 LALIGA | **Real Betis** | 38 | 15 | 15 | 8 | 59 | 48 | +11 | **60** |
-| 6 | 2025-26 LALIGA | **Celta Vigo** | 38 | 14 | 12 | 12 | 53 | 48 | +5 | **54** |
-| 7 | 2025-26 LALIGA | **Getafe** | 38 | 15 | 6 | 17 | 32 | 38 | -6 | **51** |
-| 8 | 2025-26 LALIGA | **Rayo Vallecano** | 38 | 12 | 14 | 12 | 41 | 44 | -3 | **50** |
-| 9 | 2025-26 LALIGA | **Valencia** | 38 | 13 | 10 | 15 | 46 | 55 | -9 | **49** |
-| 10 | 2025-26 LALIGA | **Real Sociedad** | 38 | 11 | 13 | 14 | 59 | 61 | -2 | **46** |
-| 11 | 2025-26 LALIGA | **Espanyol** | 38 | 12 | 10 | 16 | 43 | 55 | -12 | **46** |
-| 12 | 2025-26 LALIGA | **Athletic Club** | 38 | 13 | 6 | 19 | 43 | 58 | -15 | **45** |
-| 13 | 2025-26 LALIGA | **Sevilla** | 38 | 12 | 7 | 19 | 46 | 60 | -14 | **43** |
-| 14 | 2025-26 LALIGA | **Alavés** | 38 | 11 | 10 | 17 | 44 | 56 | -12 | **43** |
-| 15 | 2025-26 LALIGA | **Elche** | 38 | 10 | 13 | 15 | 49 | 57 | -8 | **43** |
-| 16 | 2025-26 LALIGA | **Levante** | 38 | 11 | 9 | 18 | 47 | 61 | -14 | **42** |
-| 17 | 2025-26 LALIGA | **Osasuna** | 38 | 11 | 9 | 18 | 44 | 50 | -6 | **42** |
-| 18 | 2025-26 LALIGA | **Mallorca** | 38 | 11 | 9 | 18 | 47 | 57 | -10 | **42** |
-| 19 | 2025-26 LALIGA | **Girona** | 38 | 9 | 14 | 15 | 39 | 55 | -16 | **41** |
-| 20 | 2025-26 LALIGA | **Real Oviedo** | 38 | 6 | 11 | 21 | 26 | 60 | -34 | **29** |
+| 1 | 2026-27 LALIGA | **Alavés** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | 2026-27 LALIGA | **Athletic Club** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | 2026-27 LALIGA | **Atlético Madrid** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | 2026-27 LALIGA | **Barcelona** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | 2026-27 LALIGA | **Celta Vigo** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | 2026-27 LALIGA | **Deportivo La Coruña** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | 2026-27 LALIGA | **Elche** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | 2026-27 LALIGA | **Espanyol** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | 2026-27 LALIGA | **Getafe** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | 2026-27 LALIGA | **Levante** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | 2026-27 LALIGA | **Málaga** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | 2026-27 LALIGA | **Osasuna** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | 2026-27 LALIGA | **Racing Santander** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | 2026-27 LALIGA | **Rayo Vallecano** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | 2026-27 LALIGA | **Real Betis** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | 2026-27 LALIGA | **Real Madrid** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | 2026-27 LALIGA | **Real Sociedad** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | 2026-27 LALIGA | **Sevilla** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 19 | 2026-27 LALIGA | **Valencia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 20 | 2026-27 LALIGA | **Villarreal** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 #### Points Table
 
@@ -170,10 +170,6 @@
 #### Goal Difference
 
 ![Goal Difference - Spanish La Liga](images/gd_spanish_la_liga.png)
-
-#### Match Outcome Distribution
-
-![Match Outcome Distribution - Spanish La Liga](images/winrate_spanish_la_liga.png)
 
 #### Top 5 Teams Radar
 
