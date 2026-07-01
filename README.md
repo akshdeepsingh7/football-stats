@@ -1,19 +1,19 @@
 # Football League Standings
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leagues-14%2F15-brightgreen?style=for-the-badge" alt="Leagues"/>
-  <img src="https://img.shields.io/badge/Teams-302-blue?style=for-the-badge" alt="Teams"/>
+  <img src="https://img.shields.io/badge/Leagues-15%2F15-brightgreen?style=for-the-badge" alt="Leagues"/>
+  <img src="https://img.shields.io/badge/Teams-332-blue?style=for-the-badge" alt="Teams"/>
   <img src="https://img.shields.io/badge/Confederations-3-orange?style=for-the-badge" alt="Confs"/>
   <img src="https://img.shields.io/badge/Visualizations-Image%20Stats-9b59b6?style=for-the-badge" alt="Images"/>
 </p>
 
 <p align="center">
-  <b>Live football standings from 14 major leagues across 3 confederations with rich visual statistics.</b>
+  <b>Live football standings from 15 major leagues across 3 confederations with rich visual statistics.</b>
 </p>
 
 ---
 
-> **Last updated:** 2026-07-01 12:16:07 UTC
+> **Last updated:** 2026-07-01 15:21:37 UTC
 
 ---
 
@@ -34,6 +34,7 @@
 | **Scottish Premiership** | **Aberdeen** | 0 | **Aberdeen** | 0 |
 | **MLS** | **Chicago Fire FC** | 26 | **Inter Miami CF** | 39 |
 | **Brazilian Serie A** | **Palmeiras** | 41 | **Flamengo** | 31 |
+| **Argentine Liga Profesional** | **Argentinos Juniors** | 0 | **Argentinos Juniors** | 0 |
 | **Mexican Liga MX** | **Atlante** | 0 | **Atlante** | 0 |
 
 ![Quick Stats](images/quick_stats.png)
@@ -51,7 +52,7 @@
 | Confederation | Leagues | Teams |
 |---|---|---|
 | **CONCACAF (N. America)** | MLS, Mexican Liga MX | 48 |
-| **CONMEBOL (S. America)** | Brazilian Serie A, Argentine Liga Profesional | 20 |
+| **CONMEBOL (S. America)** | Brazilian Serie A, Argentine Liga Profesional | 50 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 |
 
 ---
@@ -857,7 +858,68 @@
 
 ### Argentine Liga Profesional
 
-*No data available.*
+**Argentina** | CONMEBOL | 30 teams
+
+| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 2 | Group A | **Argentinos Juniors** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | Group A | **Belgrano (Córdoba)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 1 | Group A | **Boca Juniors** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | Group A | **Estudiantes de La Plata** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | Group A | **Gimnasia La Plata** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | Group A | **Huracán** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | Group A | **Independiente** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | Group A | **Lanús** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | Group A | **Newell's Old Boys** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | Group A | **Racing Club** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | Group A | **River Plate** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | Group A | **Rosario Central** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | Group A | **San Lorenzo** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | Group A | **Talleres (Córdoba)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | Group A | **Unión (Santa Fe)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | Group A | **Vélez Sarsfield** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | Group A | **Banfield** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | Group A | **Instituto (Córdoba)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | Group A | **Platense** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | Group A | **Tigre** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | Group A | **Defensa y Justicia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 1 | Group A | **Aldosivi** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | Group A | **Independiente Rivadavia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | Group A | **Atlético Tucumán** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | Group A | **Barracas Central** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | Group A | **Sarmiento (Junín)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | Group A | **Gimnasia (Mendoza)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | Group A | **Central Córdoba (Santiago del Estero)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | Group A | **Deportivo Riestra** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | Group A | **Estudiantes de Río Cuarto** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+
+#### Points Table
+
+![Points Table - Argentine Liga Profesional](images/standings_argentine_liga_profesional.png)
+
+#### Points & Win Rate
+
+![Points & Win Rate - Argentine Liga Profesional](images/points_progression_argentine_liga_profesional.png)
+
+#### Wins / Draws / Losses
+
+![Wins / Draws / Losses - Argentine Liga Profesional](images/wdl_argentine_liga_profesional.png)
+
+#### Winning Chance %
+
+![Winning Chance % - Argentine Liga Profesional](images/winning_chance_argentine_liga_profesional.png)
+
+#### Goals For vs Against
+
+![Goals For vs Against - Argentine Liga Profesional](images/goals_argentine_liga_profesional.png)
+
+#### Goal Difference
+
+![Goal Difference - Argentine Liga Profesional](images/gd_argentine_liga_profesional.png)
+
+#### Top 5 Teams Radar
+
+![Top 5 Teams Radar - Argentine Liga Profesional](images/radar_argentine_liga_profesional.png)
 
 ---
 
