@@ -1,19 +1,19 @@
 # Football League Standings
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leagues-15%2F15-brightgreen?style=for-the-badge" alt="Leagues"/>
-  <img src="https://img.shields.io/badge/Teams-332-blue?style=for-the-badge" alt="Teams"/>
+  <img src="https://img.shields.io/badge/Leagues-14%2F15-brightgreen?style=for-the-badge" alt="Leagues"/>
+  <img src="https://img.shields.io/badge/Teams-302-blue?style=for-the-badge" alt="Teams"/>
   <img src="https://img.shields.io/badge/Confederations-3-orange?style=for-the-badge" alt="Confs"/>
   <img src="https://img.shields.io/badge/Visualizations-Image%20Stats-9b59b6?style=for-the-badge" alt="Images"/>
 </p>
 
 <p align="center">
-  <b>Live football standings from 15 major leagues across 3 confederations with rich visual statistics.</b>
+  <b>Live football standings from 14 major leagues across 3 confederations with rich visual statistics.</b>
 </p>
 
 ---
 
-> **Last updated:** 2026-07-01 05:08:18 UTC
+> **Last updated:** 2026-07-01 09:00:26 UTC
 
 ---
 
@@ -34,7 +34,6 @@
 | **Scottish Premiership** | **Aberdeen** | 0 | **Aberdeen** | 0 |
 | **MLS** | **Chicago Fire FC** | 26 | **Inter Miami CF** | 39 |
 | **Brazilian Serie A** | **Palmeiras** | 41 | **Flamengo** | 31 |
-| **Argentine Liga Profesional** | **Boca Juniors** | 30 | **Independiente Rivadavia** | 29 |
 | **Mexican Liga MX** | **Atlante** | 0 | **Atlante** | 0 |
 
 ![Quick Stats](images/quick_stats.png)
@@ -52,7 +51,7 @@
 | Confederation | Leagues | Teams |
 |---|---|---|
 | **CONCACAF (N. America)** | MLS, Mexican Liga MX | 48 |
-| **CONMEBOL (S. America)** | Brazilian Serie A, Argentine Liga Profesional | 50 |
+| **CONMEBOL (S. America)** | Brazilian Serie A, Argentine Liga Profesional | 20 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 |
 
 ---
@@ -858,72 +857,7 @@
 
 ### Argentine Liga Profesional
 
-**Argentina** | CONMEBOL | 30 teams
-
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 2 | Group A | **Boca Juniors** | 16 | 8 | 6 | 2 | 22 | 9 | +13 | **30** |
-| 1 | Group A | **Estudiantes de La Plata** | 16 | 9 | 4 | 3 | 19 | 7 | +12 | **31** |
-| 5 | Group A | **Independiente** | 16 | 6 | 6 | 4 | 24 | 20 | +4 | **24** |
-| 6 | Group A | **Lanús** | 16 | 6 | 6 | 4 | 18 | 15 | +3 | **24** |
-| 14 | Group A | **Newell's Old Boys** | 16 | 3 | 6 | 7 | 15 | 27 | -12 | **15** |
-| 7 | Group A | **San Lorenzo** | 16 | 5 | 7 | 4 | 14 | 14 | 0 | **22** |
-| 4 | Group A | **Talleres (Córdoba)** | 16 | 7 | 5 | 4 | 17 | 13 | +4 | **26** |
-| 8 | Group A | **Unión (Santa Fe)** | 16 | 5 | 6 | 5 | 24 | 20 | +4 | **21** |
-| 3 | Group A | **Vélez Sarsfield** | 16 | 7 | 7 | 2 | 18 | 12 | +6 | **28** |
-| 9 | Group A | **Instituto (Córdoba)** | 16 | 6 | 3 | 7 | 17 | 17 | 0 | **21** |
-| 12 | Group A | **Platense** | 16 | 3 | 7 | 6 | 10 | 15 | -5 | **16** |
-| 10 | Group A | **Defensa y Justicia** | 16 | 4 | 7 | 5 | 18 | 21 | -3 | **19** |
-| 11 | Group A | **Gimnasia (Mendoza)** | 16 | 5 | 4 | 7 | 14 | 22 | -8 | **19** |
-| 13 | Group A | **Central Córdoba (Santiago del Estero)** | 16 | 4 | 4 | 8 | 11 | 21 | -10 | **16** |
-| 15 | Group A | **Deportivo Riestra** | 16 | 1 | 8 | 7 | 5 | 12 | -7 | **11** |
-| 3 | 2026 Argentine Liga Profe | **Argentinos Juniors** | 16 | 8 | 5 | 3 | 17 | 13 | +4 | **29** |
-| 5 | 2026 Argentine Liga Profe | **Belgrano (Córdoba)** | 16 | 7 | 5 | 4 | 17 | 13 | +4 | **26** |
-| 6 | 2026 Argentine Liga Profe | **Gimnasia La Plata** | 16 | 8 | 2 | 6 | 19 | 19 | 0 | **26** |
-| 7 | 2026 Argentine Liga Profe | **Huracán** | 16 | 5 | 7 | 4 | 17 | 13 | +4 | **22** |
-| 8 | 2026 Argentine Liga Profe | **Racing Club** | 16 | 5 | 6 | 5 | 17 | 15 | +2 | **21** |
-| 2 | 2026 Argentine Liga Profe | **River Plate** | 16 | 9 | 2 | 5 | 22 | 12 | +10 | **29** |
-| 4 | 2026 Argentine Liga Profe | **Rosario Central** | 16 | 8 | 4 | 4 | 20 | 16 | +4 | **28** |
-| 12 | 2026 Argentine Liga Profe | **Banfield** | 16 | 5 | 3 | 8 | 17 | 19 | -2 | **18** |
-| 10 | 2026 Argentine Liga Profe | **Tigre** | 16 | 4 | 8 | 4 | 18 | 15 | +3 | **20** |
-| 14 | 2026 Argentine Liga Profe | **Aldosivi** | 16 | 0 | 8 | 8 | 6 | 19 | -13 | **8** |
-| 1 | 2026 Argentine Liga Profe | **Independiente Rivadavia** | 16 | 10 | 4 | 2 | 29 | 15 | +14 | **34** |
-| 13 | 2026 Argentine Liga Profe | **Atlético Tucumán** | 16 | 3 | 5 | 8 | 15 | 20 | -5 | **14** |
-| 9 | 2026 Argentine Liga Profe | **Barracas Central** | 16 | 5 | 6 | 5 | 15 | 15 | 0 | **21** |
-| 11 | 2026 Argentine Liga Profe | **Sarmiento (Junín)** | 16 | 6 | 1 | 9 | 13 | 20 | -7 | **19** |
-| 15 | 2026 Argentine Liga Profe | **Estudiantes de Río Cuarto** | 16 | 1 | 2 | 13 | 5 | 24 | -19 | **5** |
-
-#### Points Table
-
-![Points Table - Argentine Liga Profesional](images/standings_argentine_liga_profesional.png)
-
-#### Points & Win Rate
-
-![Points & Win Rate - Argentine Liga Profesional](images/points_progression_argentine_liga_profesional.png)
-
-#### Wins / Draws / Losses
-
-![Wins / Draws / Losses - Argentine Liga Profesional](images/wdl_argentine_liga_profesional.png)
-
-#### Winning Chance %
-
-![Winning Chance % - Argentine Liga Profesional](images/winning_chance_argentine_liga_profesional.png)
-
-#### Goals For vs Against
-
-![Goals For vs Against - Argentine Liga Profesional](images/goals_argentine_liga_profesional.png)
-
-#### Goal Difference
-
-![Goal Difference - Argentine Liga Profesional](images/gd_argentine_liga_profesional.png)
-
-#### Match Outcome Distribution
-
-![Match Outcome Distribution - Argentine Liga Profesional](images/winrate_argentine_liga_profesional.png)
-
-#### Top 5 Teams Radar
-
-![Top 5 Teams Radar - Argentine Liga Profesional](images/radar_argentine_liga_profesional.png)
+*No data available.*
 
 ---
 
