@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-07-01 19:22:04 UTC
+> **Last updated:** 2026-07-01 21:09:21 UTC
 
 ---
 
@@ -34,7 +34,7 @@
 | **Scottish Premiership** | **Aberdeen** | 0 | **Aberdeen** | 0 |
 | **MLS** | **Chicago Fire FC** | 26 | **Inter Miami CF** | 39 |
 | **Brazilian Serie A** | **Palmeiras** | 41 | **Flamengo** | 31 |
-| **Argentine Liga Profesional** | **Argentinos Juniors** | 0 | **Argentinos Juniors** | 0 |
+| **Argentine Liga Profesional** | **Boca Juniors** | 0 | **Boca Juniors** | 0 |
 | **Mexican Liga MX** | **Atlante** | 0 | **Atlante** | 0 |
 
 ![Quick Stats](images/quick_stats.png)
@@ -862,36 +862,36 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 2 | Group A | **Argentinos Juniors** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 6 | Group A | **Belgrano (Córdoba)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 1 | Group A | **Boca Juniors** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 5 | Group A | **Estudiantes de La Plata** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 8 | Group A | **Gimnasia La Plata** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 9 | Group A | **Huracán** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 7 | Group A | **Independiente** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 9 | Group A | **Lanús** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 10 | Group A | **Newell's Old Boys** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 11 | Group A | **Racing Club** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 12 | Group A | **River Plate** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 13 | Group A | **Rosario Central** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 12 | Group A | **San Lorenzo** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 13 | Group A | **Talleres (Córdoba)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 14 | Group A | **Unión (Santa Fe)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 15 | Group A | **Vélez Sarsfield** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 4 | Group A | **Banfield** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 8 | Group A | **Instituto (Córdoba)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 11 | Group A | **Platense** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 15 | Group A | **Tigre** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 3 | Group A | **Defensa y Justicia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 1 | Group A | **Aldosivi** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 10 | Group A | **Independiente Rivadavia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 3 | Group A | **Atlético Tucumán** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 5 | Group A | **Barracas Central** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 14 | Group A | **Sarmiento (Junín)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 6 | Group A | **Gimnasia (Mendoza)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 2 | Group A | **Central Córdoba (Santiago del Estero)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 4 | Group A | **Deportivo Riestra** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 7 | Group A | **Estudiantes de Río Cuarto** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | Group B | **Argentinos Juniors** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | Group B | **Belgrano (Córdoba)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | Group B | **Gimnasia La Plata** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | Group B | **Huracán** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | Group B | **Racing Club** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | Group B | **River Plate** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | Group B | **Rosario Central** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | Group B | **Banfield** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | Group B | **Tigre** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 1 | Group B | **Aldosivi** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | Group B | **Independiente Rivadavia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | Group B | **Atlético Tucumán** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | Group B | **Barracas Central** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | Group B | **Sarmiento (Junín)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | Group B | **Estudiantes de Río Cuarto** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 #### Points Table
 
