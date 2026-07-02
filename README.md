@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-07-02 13:19:21 UTC
+> **Last updated:** 2026-07-02 15:53:15 UTC
 
 ---
 
@@ -24,7 +24,7 @@
 | **English Premier League** | **AFC Bournemouth** | 0 | **AFC Bournemouth** | 0 |
 | **Spanish La Liga** | **Alavés** | 0 | **Alavés** | 0 |
 | **Italian Serie A** | **AC Milan** | 0 | **AC Milan** | 0 |
-| **German Bundesliga** | **Bayern Munich** | 89 | **Bayern Munich** | 122 |
+| **German Bundesliga** | **FC Augsburg** | 0 | **FC Augsburg** | 0 |
 | **French Ligue 1** | **Angers** | 0 | **Angers** | 0 |
 | **UEFA Champions League** | **Arsenal** | 24 | **Arsenal** | 23 |
 | **UEFA Europa League** | **Lyon** | 21 | **Lyon** | 18 |
@@ -240,24 +240,24 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025-26 German Bundesliga | **Bayern Munich** | 34 | 28 | 5 | 1 | 122 | 36 | +86 | **89** |
-| 2 | 2025-26 German Bundesliga | **Borussia Dortmund** | 34 | 22 | 7 | 5 | 70 | 34 | +36 | **73** |
-| 3 | 2025-26 German Bundesliga | **RB Leipzig** | 34 | 20 | 5 | 9 | 66 | 47 | +19 | **65** |
-| 4 | 2025-26 German Bundesliga | **VfB Stuttgart** | 34 | 18 | 8 | 8 | 71 | 49 | +22 | **62** |
-| 5 | 2025-26 German Bundesliga | **TSG Hoffenheim** | 34 | 18 | 7 | 9 | 65 | 52 | +13 | **61** |
-| 6 | 2025-26 German Bundesliga | **Bayer Leverkusen** | 34 | 17 | 8 | 9 | 68 | 47 | +21 | **59** |
-| 7 | 2025-26 German Bundesliga | **SC Freiburg** | 34 | 13 | 8 | 13 | 51 | 57 | -6 | **47** |
-| 8 | 2025-26 German Bundesliga | **Eintracht Frankfurt** | 34 | 11 | 11 | 12 | 61 | 65 | -4 | **44** |
-| 9 | 2025-26 German Bundesliga | **FC Augsburg** | 34 | 12 | 7 | 15 | 45 | 61 | -16 | **43** |
-| 10 | 2025-26 German Bundesliga | **Mainz** | 34 | 10 | 10 | 14 | 44 | 53 | -9 | **40** |
-| 11 | 2025-26 German Bundesliga | **1. FC Union Berlin** | 34 | 10 | 9 | 15 | 44 | 58 | -14 | **39** |
-| 12 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 34 | 9 | 11 | 14 | 42 | 53 | -11 | **38** |
-| 13 | 2025-26 German Bundesliga | **Hamburg SV** | 34 | 9 | 11 | 14 | 40 | 54 | -14 | **38** |
-| 14 | 2025-26 German Bundesliga | **FC Cologne** | 34 | 7 | 11 | 16 | 49 | 63 | -14 | **32** |
-| 15 | 2025-26 German Bundesliga | **Werder Bremen** | 34 | 8 | 8 | 18 | 37 | 60 | -23 | **32** |
-| 16 | 2025-26 German Bundesliga | **VfL Wolfsburg** | 34 | 7 | 8 | 19 | 45 | 69 | -24 | **29** |
-| 17 | 2025-26 German Bundesliga | **1. FC Heidenheim 1846** | 34 | 6 | 8 | 20 | 41 | 72 | -31 | **26** |
-| 18 | 2025-26 German Bundesliga | **St. Pauli** | 34 | 6 | 8 | 20 | 29 | 60 | -31 | **26** |
+| 1 | 2026-27 German Bundesliga | **FC Augsburg** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | 2026-27 German Bundesliga | **Bayer Leverkusen** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | 2026-27 German Bundesliga | **Bayern Munich** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | 2026-27 German Bundesliga | **Borussia Dortmund** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | 2026-27 German Bundesliga | **Borussia Mönchengladbach** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | 2026-27 German Bundesliga | **Eintracht Frankfurt** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | 2026-27 German Bundesliga | **SV Elversberg** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | 2026-27 German Bundesliga | **FC Cologne** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | 2026-27 German Bundesliga | **SC Freiburg** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | 2026-27 German Bundesliga | **Hamburg SV** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | 2026-27 German Bundesliga | **TSG Hoffenheim** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | 2026-27 German Bundesliga | **Mainz** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | 2026-27 German Bundesliga | **SC Paderborn 07** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | 2026-27 German Bundesliga | **RB Leipzig** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | 2026-27 German Bundesliga | **Schalke 04** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | 2026-27 German Bundesliga | **VfB Stuttgart** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | 2026-27 German Bundesliga | **1. FC Union Berlin** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | 2026-27 German Bundesliga | **Werder Bremen** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 #### Points Table
 
@@ -282,10 +282,6 @@
 #### Goal Difference
 
 ![Goal Difference - German Bundesliga](images/gd_german_bundesliga.png)
-
-#### Match Outcome Distribution
-
-![Match Outcome Distribution - German Bundesliga](images/winrate_german_bundesliga.png)
 
 #### Top 5 Teams Radar
 
