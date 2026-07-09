@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-07-09 12:45:07 UTC
+> **Last updated:** 2026-07-09 16:04:53 UTC
 
 ---
 
@@ -30,7 +30,7 @@
 | **UEFA Europa League** | **Lyon** | 21 | **Lyon** | 18 |
 | **Portuguese Primeira Liga** | **Académico de Viseu** | 0 | **Académico de Viseu** | 0 |
 | **Dutch Eredivisie** | **ADO Den Haag** | 0 | **ADO Den Haag** | 0 |
-| **Turkish Super Lig** | **Galatasaray** | 77 | **Galatasaray** | 77 |
+| **Turkish Super Lig** | **Alanyaspor** | 0 | **Alanyaspor** | 0 |
 | **Scottish Premiership** | **Aberdeen** | 0 | **Aberdeen** | 0 |
 | **MLS** | **Chicago Fire FC** | 26 | **Inter Miami CF** | 39 |
 | **Brazilian Serie A** | **Palmeiras** | 41 | **Flamengo** | 31 |
@@ -614,24 +614,24 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2025/2026 Turkish Super L | **Galatasaray** | 34 | 24 | 5 | 5 | 77 | 30 | +47 | **77** |
-| 2 | 2025/2026 Turkish Super L | **Fenerbahce** | 34 | 21 | 11 | 2 | 77 | 37 | +40 | **74** |
-| 3 | 2025/2026 Turkish Super L | **Trabzonspor** | 34 | 20 | 9 | 5 | 61 | 39 | +22 | **69** |
-| 4 | 2025/2026 Turkish Super L | **Besiktas** | 34 | 17 | 9 | 8 | 59 | 40 | +19 | **60** |
-| 5 | 2025/2026 Turkish Super L | **Istanbul Basaksehir** | 34 | 16 | 9 | 9 | 58 | 35 | +23 | **57** |
-| 6 | 2025/2026 Turkish Super L | **Goztepe** | 34 | 14 | 13 | 7 | 42 | 32 | +10 | **55** |
-| 7 | 2025/2026 Turkish Super L | **Samsunspor** | 34 | 13 | 12 | 9 | 46 | 45 | +1 | **51** |
-| 8 | 2025/2026 Turkish Super L | **Caykur Rizespor** | 34 | 10 | 11 | 13 | 46 | 52 | -6 | **41** |
-| 9 | 2025/2026 Turkish Super L | **Konyaspor** | 34 | 10 | 10 | 14 | 43 | 50 | -7 | **40** |
-| 10 | 2025/2026 Turkish Super L | **Kocaelispor** | 34 | 9 | 10 | 15 | 26 | 38 | -12 | **37** |
-| 11 | 2025/2026 Turkish Super L | **Alanyaspor** | 34 | 7 | 16 | 11 | 41 | 41 | 0 | **37** |
-| 12 | 2025/2026 Turkish Super L | **Gaziantep FK** | 34 | 9 | 10 | 15 | 43 | 58 | -15 | **37** |
-| 13 | 2025/2026 Turkish Super L | **Kasimpasa** | 34 | 8 | 11 | 15 | 33 | 49 | -16 | **35** |
-| 14 | 2025/2026 Turkish Super L | **Genclerbirligi** | 34 | 9 | 7 | 18 | 36 | 47 | -11 | **34** |
-| 15 | 2025/2026 Turkish Super L | **Eyupspor** | 34 | 8 | 9 | 17 | 33 | 48 | -15 | **33** |
-| 16 | 2025/2026 Turkish Super L | **Antalyaspor** | 34 | 8 | 8 | 18 | 33 | 55 | -22 | **32** |
-| 17 | 2025/2026 Turkish Super L | **Kayserispor** | 34 | 6 | 12 | 16 | 27 | 62 | -35 | **30** |
-| 18 | 2025/2026 Turkish Super L | **Fatih Karagümrük** | 34 | 8 | 6 | 20 | 31 | 54 | -23 | **30** |
+| 1 | 2026/2027 Turkish Super L | **Alanyaspor** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | 2026/2027 Turkish Super L | **Amed SFK** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | 2026/2027 Turkish Super L | **Besiktas** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | 2026/2027 Turkish Super L | **Erzurum BB** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | 2026/2027 Turkish Super L | **Eyupspor** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | 2026/2027 Turkish Super L | **Fenerbahce** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | 2026/2027 Turkish Super L | **Galatasaray** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | 2026/2027 Turkish Super L | **Gaziantep FK** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | 2026/2027 Turkish Super L | **Genclerbirligi** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | 2026/2027 Turkish Super L | **Goztepe** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | 2026/2027 Turkish Super L | **Istanbul Basaksehir** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | 2026/2027 Turkish Super L | **Kasimpasa** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | 2026/2027 Turkish Super L | **Kocaelispor** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | 2026/2027 Turkish Super L | **Konyaspor** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | 2026/2027 Turkish Super L | **Caykur Rizespor** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | 2026/2027 Turkish Super L | **Samsunspor** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | 2026/2027 Turkish Super L | **Trabzonspor** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | 2026/2027 Turkish Super L | **Çorum FK** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 #### Points Table
 
@@ -656,10 +656,6 @@
 #### Goal Difference
 
 ![Goal Difference - Turkish Super Lig](images/gd_turkish_super_lig.png)
-
-#### Match Outcome Distribution
-
-![Match Outcome Distribution - Turkish Super Lig](images/winrate_turkish_super_lig.png)
 
 #### Top 5 Teams Radar
 
