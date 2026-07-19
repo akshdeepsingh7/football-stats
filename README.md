@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Leagues-15%2F15-brightgreen?style=for-the-badge" alt="Leagues"/>
-  <img src="https://img.shields.io/badge/Teams-347-blue?style=for-the-badge" alt="Teams"/>
+  <img src="https://img.shields.io/badge/Teams-332-blue?style=for-the-badge" alt="Teams"/>
   <img src="https://img.shields.io/badge/Confederations-3-orange?style=for-the-badge" alt="Confs"/>
   <img src="https://img.shields.io/badge/Visualizations-Image%20Stats-9b59b6?style=for-the-badge" alt="Images"/>
 </p>
@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-07-19 09:57:44 UTC
+> **Last updated:** 2026-07-19 11:17:23 UTC
 
 ---
 
@@ -51,7 +51,7 @@
 
 | Confederation | Leagues | Teams |
 |---|---|---|
-| **CONCACAF (N. America)** | MLS, Mexican Liga MX | 63 |
+| **CONCACAF (N. America)** | MLS, Mexican Liga MX | 48 |
 | **CONMEBOL (S. America)** | Brazilian Serie A, Argentine Liga Profesional | 50 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 |
 
@@ -714,40 +714,25 @@
 
 ### MLS
 
-**USA / Canada** | CONCACAF | 45 teams
+**USA / Canada** | CONCACAF | 30 teams
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 3 | Eastern Conference | **Chicago Fire FC** | 14 | 8 | 2 | 4 | 27 | 16 | +11 | **26** |
 | 10 | Eastern Conference | **Columbus Crew** | 15 | 4 | 4 | 7 | 21 | 23 | -2 | **16** |
-| 13 | Eastern Conference | **Colorado Rapids** | 15 | 5 | 1 | 9 | 25 | 24 | +1 | **16** |
-| 5 | Eastern Conference | **FC Dallas** | 15 | 7 | 4 | 4 | 30 | 22 | +8 | **25** |
-| 15 | Eastern Conference | **Sporting Kansas City** | 15 | 3 | 2 | 10 | 16 | 39 | -23 | **11** |
-| 9 | Eastern Conference | **LA Galaxy** | 16 | 5 | 5 | 6 | 22 | 25 | -3 | **20** |
 | 4 | Eastern Conference | **New England Revolution** | 14 | 8 | 1 | 5 | 22 | 18 | +4 | **25** |
 | 5 | Eastern Conference | **Red Bull New York** | 15 | 6 | 4 | 5 | 25 | 32 | -7 | **22** |
-| 2 | Eastern Conference | **San Jose Earthquakes** | 15 | 10 | 2 | 3 | 34 | 15 | +19 | **32** |
 | 9 | Eastern Conference | **D.C. United** | 15 | 4 | 6 | 5 | 21 | 25 | -4 | **18** |
-| 4 | Eastern Conference | **Real Salt Lake** | 14 | 8 | 2 | 4 | 26 | 19 | +7 | **26** |
-| 7 | Eastern Conference | **Houston Dynamo FC** | 14 | 7 | 1 | 6 | 19 | 23 | -4 | **22** |
 | 12 | Eastern Conference | **Toronto FC** | 15 | 3 | 6 | 6 | 22 | 29 | -7 | **15** |
 | 11 | Eastern Conference | **CF Montréal** | 15 | 4 | 3 | 8 | 22 | 31 | -9 | **15** |
-| 11 | Eastern Conference | **Portland Timbers** | 15 | 5 | 2 | 8 | 27 | 29 | -2 | **17** |
-| 6 | Eastern Conference | **Seattle Sounders FC** | 14 | 7 | 3 | 4 | 18 | 16 | +2 | **24** |
-| 1 | Eastern Conference | **Vancouver Whitecaps** | 14 | 10 | 2 | 2 | 34 | 12 | +22 | **32** |
 | 15 | Eastern Conference | **Philadelphia Union** | 15 | 1 | 4 | 10 | 18 | 30 | -12 | **7** |
 | 13 | Eastern Conference | **Orlando City SC** | 15 | 4 | 2 | 9 | 23 | 44 | -21 | **14** |
-| 8 | Eastern Conference | **Minnesota United FC** | 15 | 6 | 4 | 5 | 18 | 22 | -4 | **22** |
 | 8 | Eastern Conference | **New York City FC** | 15 | 5 | 4 | 6 | 25 | 21 | +4 | **19** |
 | 7 | Eastern Conference | **FC Cincinnati** | 15 | 5 | 5 | 5 | 36 | 37 | -1 | **20** |
 | 14 | Eastern Conference | **Atlanta United FC** | 15 | 3 | 2 | 10 | 14 | 24 | -10 | **11** |
-| 3 | Eastern Conference | **LAFC** | 16 | 8 | 3 | 5 | 27 | 17 | +10 | **27** |
 | 1 | Eastern Conference | **Nashville SC** | 15 | 11 | 3 | 1 | 32 | 11 | +21 | **36** |
 | 2 | Eastern Conference | **Inter Miami CF** | 15 | 9 | 4 | 2 | 39 | 28 | +11 | **31** |
-| 14 | Eastern Conference | **Austin FC** | 15 | 3 | 5 | 7 | 19 | 31 | -12 | **14** |
 | 6 | Eastern Conference | **Charlotte FC** | 15 | 6 | 3 | 6 | 24 | 23 | +1 | **21** |
-| 10 | Eastern Conference | **St. Louis CITY SC** | 15 | 5 | 4 | 6 | 19 | 22 | -3 | **19** |
-| 12 | Eastern Conference | **San Diego FC** | 15 | 4 | 5 | 6 | 30 | 27 | +3 | **17** |
 | 11 | Western Conference | **Colorado Rapids** | 15 | 5 | 1 | 9 | 25 | 24 | +1 | **16** |
 | 4 | Western Conference | **FC Dallas** | 15 | 7 | 4 | 4 | 30 | 22 | +8 | **25** |
 | 15 | Western Conference | **Sporting Kansas City** | 14 | 3 | 2 | 9 | 14 | 36 | -22 | **11** |
