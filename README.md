@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-07-19 04:52:10 UTC
+> **Last updated:** 2026-07-19 07:30:59 UTC
 
 ---
 
@@ -924,14 +924,14 @@
 | 5 | 2026 Torneo Apertura | **Atlas** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
 | 6 | 2026 Torneo Apertura | **Monterrey** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
 | 7 | 2026 Torneo Apertura | **Necaxa** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
-| 8 | 2026 Torneo Apertura | **Puebla** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 9 | 2026 Torneo Apertura | **América** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 10 | 2026 Torneo Apertura | **Querétaro** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 11 | 2026 Torneo Apertura | **Santos** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
-| 12 | 2026 Torneo Apertura | **Atlético de San Luis** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
-| 13 | 2026 Torneo Apertura | **León** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
-| 14 | 2026 Torneo Apertura | **Atlante** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
-| 15 | 2026 Torneo Apertura | **FC Juarez** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 8 | 2026 Torneo Apertura | **América** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 9 | 2026 Torneo Apertura | **Puebla** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 10 | 2026 Torneo Apertura | **Santos** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
+| 11 | 2026 Torneo Apertura | **Atlético de San Luis** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
+| 12 | 2026 Torneo Apertura | **León** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
+| 13 | 2026 Torneo Apertura | **Atlante** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
+| 14 | 2026 Torneo Apertura | **FC Juarez** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 15 | 2026 Torneo Apertura | **Querétaro** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
 | 16 | 2026 Torneo Apertura | **Tigres UANL** | 1 | 0 | 0 | 1 | 1 | 3 | -2 | **0** |
 | 17 | 2026 Torneo Apertura | **Guadalajara** | 1 | 0 | 0 | 1 | 0 | 2 | -2 | **0** |
 | 18 | 2026 Torneo Apertura | **Pumas UNAM** | 1 | 0 | 0 | 1 | 0 | 3 | -3 | **0** |
