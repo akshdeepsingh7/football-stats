@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-07-23 03:55:53 UTC
+> **Last updated:** 2026-07-23 06:36:05 UTC
 
 ---
 
@@ -719,35 +719,35 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 3 | Eastern Conference | **Chicago Fire FC** | 15 | 8 | 2 | 5 | 29 | 19 | +10 | **26** |
-| 10 | Eastern Conference | **Columbus Crew** | 16 | 4 | 4 | 8 | 22 | 25 | -3 | **16** |
-| 14 | Eastern Conference | **Colorado Rapids** | 15 | 5 | 1 | 9 | 25 | 24 | +1 | **16** |
-| 5 | Eastern Conference | **FC Dallas** | 15 | 7 | 4 | 4 | 30 | 22 | +8 | **25** |
+| 11 | Eastern Conference | **Columbus Crew** | 16 | 4 | 4 | 8 | 22 | 25 | -3 | **16** |
+| 11 | Eastern Conference | **Colorado Rapids** | 16 | 6 | 1 | 9 | 26 | 24 | +2 | **19** |
+| 5 | Eastern Conference | **FC Dallas** | 16 | 7 | 5 | 4 | 32 | 24 | +8 | **26** |
 | 15 | Eastern Conference | **Sporting Kansas City** | 16 | 4 | 2 | 10 | 18 | 40 | -22 | **14** |
-| 9 | Eastern Conference | **LA Galaxy** | 16 | 5 | 5 | 6 | 22 | 25 | -3 | **20** |
+| 10 | Eastern Conference | **LA Galaxy** | 17 | 5 | 5 | 7 | 23 | 28 | -5 | **20** |
 | 4 | Eastern Conference | **New England Revolution** | 15 | 8 | 2 | 5 | 22 | 18 | +4 | **26** |
 | 8 | Eastern Conference | **Red Bull New York** | 16 | 6 | 4 | 6 | 26 | 35 | -9 | **22** |
-| 2 | Eastern Conference | **San Jose Earthquakes** | 15 | 10 | 2 | 3 | 34 | 15 | +19 | **32** |
+| 2 | Eastern Conference | **San Jose Earthquakes** | 16 | 10 | 2 | 4 | 34 | 19 | +15 | **32** |
 | 9 | Eastern Conference | **D.C. United** | 16 | 4 | 7 | 5 | 22 | 26 | -4 | **19** |
-| 4 | Eastern Conference | **Real Salt Lake** | 14 | 8 | 2 | 4 | 26 | 19 | +7 | **26** |
+| 4 | Eastern Conference | **Real Salt Lake** | 15 | 8 | 2 | 5 | 27 | 22 | +5 | **26** |
 | 7 | Eastern Conference | **Houston Dynamo FC** | 15 | 7 | 2 | 6 | 20 | 24 | -4 | **23** |
-| 11 | Eastern Conference | **Toronto FC** | 16 | 3 | 7 | 6 | 22 | 29 | -7 | **16** |
-| 12 | Eastern Conference | **CF Montréal** | 16 | 4 | 3 | 9 | 22 | 32 | -10 | **15** |
-| 11 | Eastern Conference | **Portland Timbers** | 15 | 5 | 2 | 8 | 27 | 29 | -2 | **17** |
+| 12 | Eastern Conference | **Toronto FC** | 16 | 3 | 7 | 6 | 22 | 29 | -7 | **16** |
+| 13 | Eastern Conference | **CF Montréal** | 16 | 4 | 3 | 9 | 22 | 32 | -10 | **15** |
+| 12 | Eastern Conference | **Portland Timbers** | 16 | 5 | 3 | 8 | 29 | 31 | -2 | **18** |
 | 6 | Eastern Conference | **Seattle Sounders FC** | 15 | 7 | 3 | 5 | 19 | 19 | 0 | **24** |
 | 1 | Eastern Conference | **Vancouver Whitecaps** | 15 | 10 | 2 | 3 | 37 | 16 | +21 | **32** |
 | 15 | Eastern Conference | **Philadelphia Union** | 16 | 2 | 4 | 10 | 21 | 31 | -10 | **10** |
-| 13 | Eastern Conference | **Orlando City SC** | 15 | 4 | 2 | 9 | 23 | 44 | -21 | **14** |
-| 8 | Eastern Conference | **Minnesota United FC** | 16 | 6 | 4 | 6 | 19 | 24 | -5 | **22** |
+| 10 | Eastern Conference | **Orlando City SC** | 16 | 5 | 2 | 9 | 27 | 44 | -17 | **17** |
+| 9 | Eastern Conference | **Minnesota United FC** | 16 | 6 | 4 | 6 | 19 | 24 | -5 | **22** |
 | 6 | Eastern Conference | **New York City FC** | 16 | 6 | 4 | 6 | 27 | 22 | +5 | **22** |
 | 5 | Eastern Conference | **FC Cincinnati** | 16 | 6 | 5 | 5 | 40 | 40 | 0 | **23** |
 | 14 | Eastern Conference | **Atlanta United FC** | 16 | 3 | 3 | 10 | 16 | 26 | -10 | **12** |
-| 3 | Eastern Conference | **LAFC** | 16 | 8 | 3 | 5 | 27 | 17 | +10 | **27** |
+| 3 | Eastern Conference | **LAFC** | 17 | 9 | 3 | 5 | 30 | 18 | +12 | **30** |
 | 1 | Eastern Conference | **Nashville SC** | 16 | 12 | 3 | 1 | 33 | 11 | +22 | **39** |
 | 2 | Eastern Conference | **Inter Miami CF** | 16 | 10 | 4 | 2 | 42 | 30 | +12 | **34** |
-| 13 | Eastern Conference | **Austin FC** | 16 | 4 | 5 | 7 | 22 | 32 | -10 | **17** |
+| 14 | Eastern Conference | **Austin FC** | 16 | 4 | 5 | 7 | 22 | 32 | -10 | **17** |
 | 7 | Eastern Conference | **Charlotte FC** | 16 | 6 | 4 | 6 | 26 | 25 | +1 | **22** |
-| 10 | Eastern Conference | **St. Louis CITY SC** | 15 | 5 | 4 | 6 | 19 | 22 | -3 | **19** |
-| 12 | Eastern Conference | **San Diego FC** | 15 | 4 | 5 | 6 | 30 | 27 | +3 | **17** |
+| 8 | Eastern Conference | **St. Louis CITY SC** | 16 | 6 | 4 | 6 | 22 | 23 | -1 | **22** |
+| 13 | Eastern Conference | **San Diego FC** | 16 | 4 | 5 | 7 | 30 | 28 | +2 | **17** |
 | 11 | Western Conference | **Colorado Rapids** | 15 | 5 | 1 | 9 | 25 | 24 | +1 | **16** |
 | 4 | Western Conference | **FC Dallas** | 15 | 7 | 4 | 4 | 30 | 22 | +8 | **25** |
 | 15 | Western Conference | **Sporting Kansas City** | 14 | 3 | 2 | 9 | 14 | 36 | -22 | **11** |
