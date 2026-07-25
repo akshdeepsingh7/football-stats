@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-07-25 22:04:07 UTC
+> **Last updated:** 2026-07-25 23:32:53 UTC
 
 ---
 
@@ -791,7 +791,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 2026 | **Palmeiras** | 19 | 13 | 5 | 1 | 33 | 14 | +19 | **44** |
 | 2 | 2026 | **Flamengo** | 18 | 11 | 4 | 3 | 35 | 16 | +19 | **37** |
-| 3 | 2026 | **Athletico Paranaense** | 19 | 10 | 3 | 6 | 26 | 19 | +7 | **33** |
+| 3 | 2026 | **Athletico Paranaense** | 20 | 11 | 3 | 6 | 28 | 19 | +9 | **36** |
 | 4 | 2026 | **Fluminense** | 19 | 9 | 5 | 5 | 29 | 24 | +5 | **32** |
 | 5 | 2026 | **Red Bull Bragantino** | 19 | 9 | 3 | 7 | 26 | 20 | +6 | **30** |
 | 6 | 2026 | **Bahia** | 19 | 8 | 6 | 5 | 28 | 24 | +4 | **30** |
@@ -802,13 +802,13 @@
 | 11 | 2026 | **Vitória** | 19 | 7 | 5 | 7 | 22 | 25 | -3 | **26** |
 | 12 | 2026 | **São Paulo** | 19 | 7 | 4 | 8 | 24 | 22 | +2 | **25** |
 | 13 | 2026 | **Atlético-MG** | 19 | 7 | 4 | 8 | 23 | 24 | -1 | **25** |
-| 14 | 2026 | **Internacional** | 19 | 5 | 6 | 8 | 22 | 24 | -2 | **21** |
-| 15 | 2026 | **Santos** | 19 | 5 | 6 | 8 | 27 | 31 | -4 | **21** |
+| 14 | 2026 | **Santos** | 20 | 5 | 7 | 8 | 29 | 33 | -4 | **22** |
+| 15 | 2026 | **Internacional** | 20 | 5 | 6 | 9 | 22 | 26 | -4 | **21** |
 | 16 | 2026 | **Grêmio** | 19 | 5 | 6 | 8 | 21 | 25 | -4 | **21** |
 | 17 | 2026 | **Vasco da Gama** | 19 | 5 | 5 | 9 | 22 | 30 | -8 | **20** |
 | 18 | 2026 | **Mirassol** | 18 | 5 | 4 | 9 | 20 | 25 | -5 | **19** |
 | 19 | 2026 | **Remo** | 19 | 4 | 6 | 9 | 21 | 32 | -11 | **18** |
-| 20 | 2026 | **Chapecoense** | 19 | 1 | 6 | 12 | 17 | 39 | -22 | **9** |
+| 20 | 2026 | **Chapecoense** | 20 | 1 | 7 | 12 | 19 | 41 | -22 | **10** |
 
 #### Points Table
 
@@ -850,21 +850,21 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 6 | Group A | **Boca Juniors** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 8 | Group A | **Estudiantes de La Plata** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 9 | Group A | **Independiente** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 10 | Group A | **Lanús** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 11 | Group A | **Newell's Old Boys** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | Group A | **Boca Juniors** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | Group A | **Estudiantes de La Plata** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | Group A | **Independiente** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | Group A | **Lanús** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | Group A | **Newell's Old Boys** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
 | 12 | Group A | **San Lorenzo** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 13 | Group A | **Talleres (Córdoba)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 3 | Group A | **Unión (Santa Fe)** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
-| 2 | Group A | **Vélez Sarsfield** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 15 | Group A | **Instituto (Córdoba)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 4 | Group A | **Platense** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
-| 5 | Group A | **Defensa y Justicia** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| 15 | Group A | **Talleres (Córdoba)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 4 | Group A | **Unión (Santa Fe)** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
+| 3 | Group A | **Vélez Sarsfield** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 14 | Group A | **Instituto (Córdoba)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 5 | Group A | **Platense** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
+| 6 | Group A | **Defensa y Justicia** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
 | 1 | Group A | **Gimnasia (Mendoza)** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 14 | Group A | **Central Córdoba (Santiago del Estero)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 7 | Group A | **Deportivo Riestra** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | Group A | **Central Córdoba (Santiago del Estero)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 8 | Group A | **Deportivo Riestra** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 1 | Group B | **Argentinos Juniors** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
 | 2 | Group B | **Belgrano (Córdoba)** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
 | 13 | Group B | **Gimnasia La Plata** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
