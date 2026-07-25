@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-07-25 03:22:59 UTC
+> **Last updated:** 2026-07-25 06:01:47 UTC
 
 ---
 
@@ -35,7 +35,7 @@
 | **MLS** | **Chicago Fire FC** | 26 | **Inter Miami CF** | 42 |
 | **Brazilian Serie A** | **Palmeiras** | 44 | **Flamengo** | 35 |
 | **Argentine Liga Profesional** | **Boca Juniors** | 0 | **Argentinos Juniors** | 3 |
-| **Mexican Liga MX** | **Cruz Azul** | 6 | **Cruz Azul** | 5 |
+| **Mexican Liga MX** | **Tijuana** | 6 | **Cruz Azul** | 5 |
 
 ![Quick Stats](images/quick_stats.png)
 
@@ -921,22 +921,22 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2026 Torneo Apertura | **Cruz Azul** | 2 | 2 | 0 | 0 | 5 | 3 | +2 | **6** |
-| 2 | 2026 Torneo Apertura | **Pachuca** | 1 | 1 | 0 | 0 | 3 | 0 | +3 | **3** |
-| 3 | 2026 Torneo Apertura | **Tijuana** | 1 | 1 | 0 | 0 | 3 | 1 | +2 | **3** |
-| 4 | 2026 Torneo Apertura | **Atlas** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
-| 5 | 2026 Torneo Apertura | **Toluca** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
-| 6 | 2026 Torneo Apertura | **Monterrey** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
-| 7 | 2026 Torneo Apertura | **Necaxa** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
-| 8 | 2026 Torneo Apertura | **América** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 1 | 2026 Torneo Apertura | **Tijuana** | 2 | 2 | 0 | 0 | 4 | 1 | +3 | **6** |
+| 2 | 2026 Torneo Apertura | **Cruz Azul** | 2 | 2 | 0 | 0 | 5 | 3 | +2 | **6** |
+| 3 | 2026 Torneo Apertura | **América** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
+| 4 | 2026 Torneo Apertura | **Pachuca** | 1 | 1 | 0 | 0 | 3 | 0 | +3 | **3** |
+| 5 | 2026 Torneo Apertura | **Atlas** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
+| 6 | 2026 Torneo Apertura | **Toluca** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
+| 7 | 2026 Torneo Apertura | **Monterrey** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
+| 8 | 2026 Torneo Apertura | **Necaxa** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
 | 9 | 2026 Torneo Apertura | **Puebla** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
 | 10 | 2026 Torneo Apertura | **Pumas UNAM** | 2 | 1 | 0 | 1 | 2 | 4 | -2 | **3** |
-| 11 | 2026 Torneo Apertura | **Santos** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
-| 12 | 2026 Torneo Apertura | **Atlético de San Luis** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
-| 13 | 2026 Torneo Apertura | **León** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
-| 14 | 2026 Torneo Apertura | **Atlante** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
-| 15 | 2026 Torneo Apertura | **FC Juarez** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 16 | 2026 Torneo Apertura | **Querétaro** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 11 | 2026 Torneo Apertura | **Atlante** | 2 | 0 | 1 | 1 | 2 | 3 | -1 | **1** |
+| 12 | 2026 Torneo Apertura | **Santos** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
+| 13 | 2026 Torneo Apertura | **Atlético de San Luis** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
+| 14 | 2026 Torneo Apertura | **FC Juarez** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 15 | 2026 Torneo Apertura | **Querétaro** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 16 | 2026 Torneo Apertura | **León** | 2 | 0 | 0 | 2 | 2 | 4 | -2 | **0** |
 | 17 | 2026 Torneo Apertura | **Tigres UANL** | 1 | 0 | 0 | 1 | 1 | 3 | -2 | **0** |
 | 18 | 2026 Torneo Apertura | **Guadalajara** | 1 | 0 | 0 | 1 | 0 | 2 | -2 | **0** |
 
