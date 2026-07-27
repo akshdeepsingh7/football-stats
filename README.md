@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-07-26 23:31:56 UTC
+> **Last updated:** 2026-07-27 03:45:45 UTC
 
 ---
 
@@ -33,8 +33,8 @@
 | **Turkish Super Lig** | **Alanyaspor** | 0 | **Alanyaspor** | 0 |
 | **Scottish Premiership** | **Aberdeen** | 0 | **Aberdeen** | 0 |
 | **MLS** | **Chicago Fire FC** | 26 | **Inter Miami CF** | 43 |
-| **Brazilian Serie A** | **Palmeiras** | 44 | **Flamengo** | 35 |
-| **Argentine Liga Profesional** | **Boca Juniors** | 0 | **Argentinos Juniors** | 3 |
+| **Brazilian Serie A** | **Palmeiras** | 44 | **Flamengo** | 36 |
+| **Argentine Liga Profesional** | **Boca Juniors** | 0 | **Deportivo Riestra** | 3 |
 | **Mexican Liga MX** | **Tijuana** | 6 | **Cruz Azul** | 5 |
 
 ![Quick Stats](images/quick_stats.png)
@@ -804,25 +804,25 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2026 | **Palmeiras** | 19 | 13 | 5 | 1 | 33 | 14 | +19 | **44** |
-| 2 | 2026 | **Flamengo** | 18 | 11 | 4 | 3 | 35 | 16 | +19 | **37** |
+| 1 | 2026 | **Palmeiras** | 20 | 13 | 5 | 2 | 34 | 16 | +18 | **44** |
+| 2 | 2026 | **Flamengo** | 19 | 11 | 5 | 3 | 36 | 17 | +19 | **38** |
 | 3 | 2026 | **Athletico Paranaense** | 20 | 11 | 3 | 6 | 28 | 19 | +9 | **36** |
 | 4 | 2026 | **Fluminense** | 20 | 9 | 6 | 5 | 30 | 25 | +5 | **33** |
 | 5 | 2026 | **Red Bull Bragantino** | 20 | 9 | 4 | 7 | 26 | 20 | +6 | **31** |
 | 6 | 2026 | **Bahia** | 20 | 8 | 7 | 5 | 29 | 25 | +4 | **31** |
 | 7 | 2026 | **Botafogo** | 20 | 8 | 5 | 7 | 34 | 32 | +2 | **29** |
-| 8 | 2026 | **Corinthians** | 20 | 7 | 7 | 6 | 22 | 20 | +2 | **28** |
-| 9 | 2026 | **Coritiba** | 20 | 7 | 6 | 7 | 25 | 27 | -2 | **27** |
-| 10 | 2026 | **Cruzeiro** | 20 | 7 | 6 | 7 | 26 | 30 | -4 | **27** |
-| 11 | 2026 | **Vitória** | 19 | 7 | 5 | 7 | 22 | 25 | -3 | **26** |
-| 12 | 2026 | **São Paulo** | 19 | 7 | 4 | 8 | 24 | 22 | +2 | **25** |
-| 13 | 2026 | **Atlético-MG** | 19 | 7 | 4 | 8 | 23 | 24 | -1 | **25** |
+| 8 | 2026 | **Atlético-MG** | 20 | 8 | 4 | 8 | 25 | 25 | 0 | **28** |
+| 9 | 2026 | **Corinthians** | 20 | 7 | 7 | 6 | 22 | 20 | +2 | **28** |
+| 10 | 2026 | **Coritiba** | 20 | 7 | 6 | 7 | 25 | 27 | -2 | **27** |
+| 11 | 2026 | **Cruzeiro** | 20 | 7 | 6 | 7 | 26 | 30 | -4 | **27** |
+| 12 | 2026 | **São Paulo** | 20 | 7 | 5 | 8 | 25 | 23 | +2 | **26** |
+| 13 | 2026 | **Vitória** | 20 | 7 | 5 | 8 | 22 | 27 | -5 | **26** |
 | 14 | 2026 | **Santos** | 20 | 5 | 7 | 8 | 29 | 33 | -4 | **22** |
 | 15 | 2026 | **Grêmio** | 20 | 5 | 7 | 8 | 22 | 26 | -4 | **22** |
 | 16 | 2026 | **Internacional** | 20 | 5 | 6 | 9 | 22 | 26 | -4 | **21** |
 | 17 | 2026 | **Vasco da Gama** | 20 | 5 | 6 | 9 | 23 | 31 | -8 | **21** |
-| 18 | 2026 | **Mirassol** | 19 | 5 | 5 | 9 | 21 | 26 | -5 | **20** |
-| 19 | 2026 | **Remo** | 19 | 4 | 6 | 9 | 21 | 32 | -11 | **18** |
+| 18 | 2026 | **Remo** | 20 | 5 | 6 | 9 | 23 | 32 | -9 | **21** |
+| 19 | 2026 | **Mirassol** | 19 | 5 | 5 | 9 | 21 | 26 | -5 | **20** |
 | 20 | 2026 | **Chapecoense** | 20 | 1 | 7 | 12 | 19 | 41 | -22 | **10** |
 
 #### Points Table
@@ -865,21 +865,21 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 9 | Group A | **Boca Juniors** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 15 | Group A | **Estudiantes de La Plata** | 1 | 0 | 0 | 1 | 0 | 2 | -2 | **0** |
-| 1 | Group A | **Independiente** | 1 | 1 | 0 | 0 | 2 | 0 | +2 | **3** |
-| 5 | Group A | **Lanús** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 3 | Group A | **Newell's Old Boys** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 14 | Group A | **San Lorenzo** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 13 | Group A | **Talleres (Córdoba)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 6 | Group A | **Unión (Santa Fe)** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
-| 4 | Group A | **Vélez Sarsfield** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 12 | Group A | **Instituto (Córdoba)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 7 | Group A | **Platense** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
-| 8 | Group A | **Defensa y Justicia** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| 2 | Group A | **Gimnasia (Mendoza)** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 11 | Group A | **Central Córdoba (Santiago del Estero)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 10 | Group A | **Deportivo Riestra** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | Group A | **Boca Juniors** | 1 | 0 | 0 | 1 | 0 | 3 | -3 | **0** |
+| 14 | Group A | **Estudiantes de La Plata** | 1 | 0 | 0 | 1 | 0 | 2 | -2 | **0** |
+| 2 | Group A | **Independiente** | 1 | 1 | 0 | 0 | 2 | 0 | +2 | **3** |
+| 6 | Group A | **Lanús** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 4 | Group A | **Newell's Old Boys** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 13 | Group A | **San Lorenzo** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 12 | Group A | **Talleres (Córdoba)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 7 | Group A | **Unión (Santa Fe)** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
+| 5 | Group A | **Vélez Sarsfield** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 11 | Group A | **Instituto (Córdoba)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 8 | Group A | **Platense** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
+| 9 | Group A | **Defensa y Justicia** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| 3 | Group A | **Gimnasia (Mendoza)** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 10 | Group A | **Central Córdoba (Santiago del Estero)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 1 | Group A | **Deportivo Riestra** | 1 | 1 | 0 | 0 | 3 | 0 | +3 | **3** |
 | 1 | Group B | **Argentinos Juniors** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
 | 2 | Group B | **Belgrano (Córdoba)** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
 | 12 | Group B | **Gimnasia La Plata** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
@@ -939,18 +939,18 @@
 | 1 | 2026 Torneo Apertura | **Tijuana** | 2 | 2 | 0 | 0 | 4 | 1 | +3 | **6** |
 | 2 | 2026 Torneo Apertura | **Cruz Azul** | 2 | 2 | 0 | 0 | 5 | 3 | +2 | **6** |
 | 3 | 2026 Torneo Apertura | **Atlas** | 2 | 2 | 0 | 0 | 4 | 2 | +2 | **6** |
-| 4 | 2026 Torneo Apertura | **América** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
-| 5 | 2026 Torneo Apertura | **Pachuca** | 1 | 1 | 0 | 0 | 3 | 0 | +3 | **3** |
-| 6 | 2026 Torneo Apertura | **Toluca** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
-| 7 | 2026 Torneo Apertura | **Monterrey** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
-| 8 | 2026 Torneo Apertura | **Necaxa** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
+| 4 | 2026 Torneo Apertura | **Necaxa** | 2 | 2 | 0 | 0 | 4 | 2 | +2 | **6** |
+| 5 | 2026 Torneo Apertura | **América** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
+| 6 | 2026 Torneo Apertura | **Pachuca** | 2 | 1 | 0 | 1 | 4 | 2 | +2 | **3** |
+| 7 | 2026 Torneo Apertura | **Toluca** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
+| 8 | 2026 Torneo Apertura | **Monterrey** | 2 | 1 | 0 | 1 | 4 | 4 | 0 | **3** |
 | 9 | 2026 Torneo Apertura | **Puebla** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
-| 10 | 2026 Torneo Apertura | **Guadalajara** | 2 | 1 | 0 | 1 | 1 | 2 | -1 | **3** |
-| 11 | 2026 Torneo Apertura | **Pumas UNAM** | 2 | 1 | 0 | 1 | 2 | 4 | -2 | **3** |
-| 12 | 2026 Torneo Apertura | **Atlético de San Luis** | 2 | 0 | 1 | 1 | 4 | 5 | -1 | **1** |
-| 13 | 2026 Torneo Apertura | **Atlante** | 2 | 0 | 1 | 1 | 2 | 3 | -1 | **1** |
-| 14 | 2026 Torneo Apertura | **Tigres UANL** | 2 | 0 | 1 | 1 | 3 | 5 | -2 | **1** |
-| 15 | 2026 Torneo Apertura | **Querétaro** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 10 | 2026 Torneo Apertura | **Querétaro** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
+| 11 | 2026 Torneo Apertura | **Guadalajara** | 2 | 1 | 0 | 1 | 1 | 2 | -1 | **3** |
+| 12 | 2026 Torneo Apertura | **Pumas UNAM** | 2 | 1 | 0 | 1 | 2 | 4 | -2 | **3** |
+| 13 | 2026 Torneo Apertura | **Atlético de San Luis** | 2 | 0 | 1 | 1 | 4 | 5 | -1 | **1** |
+| 14 | 2026 Torneo Apertura | **Atlante** | 2 | 0 | 1 | 1 | 2 | 3 | -1 | **1** |
+| 15 | 2026 Torneo Apertura | **Tigres UANL** | 2 | 0 | 1 | 1 | 3 | 5 | -2 | **1** |
 | 16 | 2026 Torneo Apertura | **Santos** | 2 | 0 | 0 | 2 | 2 | 4 | -2 | **0** |
 | 17 | 2026 Torneo Apertura | **León** | 2 | 0 | 0 | 2 | 2 | 4 | -2 | **0** |
 | 18 | 2026 Torneo Apertura | **FC Juarez** | 2 | 0 | 0 | 2 | 0 | 2 | -2 | **0** |
