@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-08-01 01:05:42 UTC
+> **Last updated:** 2026-08-01 04:56:56 UTC
 
 ---
 
@@ -727,11 +727,11 @@
 | 3 | Eastern Conference | **New England Revolution** | 16 | 9 | 2 | 5 | 26 | 19 | +7 | **29** |
 | 8 | Eastern Conference | **Red Bull New York** | 17 | 6 | 4 | 7 | 26 | 37 | -11 | **22** |
 | 9 | Eastern Conference | **D.C. United** | 17 | 5 | 7 | 5 | 24 | 27 | -3 | **22** |
-| 12 | Eastern Conference | **Toronto FC** | 17 | 3 | 7 | 7 | 23 | 31 | -8 | **16** |
+| 12 | Eastern Conference | **Toronto FC** | 18 | 3 | 8 | 7 | 24 | 32 | -8 | **17** |
 | 13 | Eastern Conference | **CF Montréal** | 17 | 4 | 3 | 10 | 22 | 33 | -11 | **15** |
 | 14 | Eastern Conference | **Philadelphia Union** | 17 | 3 | 4 | 10 | 22 | 31 | -9 | **13** |
 | 10 | Eastern Conference | **Orlando City SC** | 17 | 6 | 2 | 9 | 28 | 44 | -16 | **20** |
-| 5 | Eastern Conference | **New York City FC** | 17 | 7 | 4 | 6 | 30 | 23 | +7 | **25** |
+| 5 | Eastern Conference | **New York City FC** | 18 | 7 | 5 | 6 | 31 | 24 | +7 | **26** |
 | 7 | Eastern Conference | **FC Cincinnati** | 17 | 6 | 5 | 6 | 41 | 42 | -1 | **23** |
 | 15 | Eastern Conference | **Atlanta United FC** | 17 | 3 | 3 | 11 | 17 | 30 | -13 | **12** |
 | 1 | Eastern Conference | **Nashville SC** | 17 | 12 | 3 | 2 | 33 | 12 | +21 | **39** |
@@ -930,12 +930,12 @@
 | 3 | 2026 Torneo Apertura | **Atlas** | 2 | 2 | 0 | 0 | 4 | 2 | +2 | **6** |
 | 4 | 2026 Torneo Apertura | **Necaxa** | 2 | 2 | 0 | 0 | 4 | 2 | +2 | **6** |
 | 5 | 2026 Torneo Apertura | **América** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
-| 6 | 2026 Torneo Apertura | **Pachuca** | 2 | 1 | 0 | 1 | 4 | 2 | +2 | **3** |
-| 7 | 2026 Torneo Apertura | **Toluca** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
-| 8 | 2026 Torneo Apertura | **Monterrey** | 2 | 1 | 0 | 1 | 4 | 4 | 0 | **3** |
-| 9 | 2026 Torneo Apertura | **Puebla** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
-| 10 | 2026 Torneo Apertura | **Querétaro** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
-| 11 | 2026 Torneo Apertura | **Guadalajara** | 2 | 1 | 0 | 1 | 1 | 2 | -1 | **3** |
+| 6 | 2026 Torneo Apertura | **Puebla** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
+| 7 | 2026 Torneo Apertura | **Guadalajara** | 3 | 1 | 1 | 1 | 2 | 3 | -1 | **4** |
+| 8 | 2026 Torneo Apertura | **Pachuca** | 2 | 1 | 0 | 1 | 4 | 2 | +2 | **3** |
+| 9 | 2026 Torneo Apertura | **Toluca** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
+| 10 | 2026 Torneo Apertura | **Monterrey** | 2 | 1 | 0 | 1 | 4 | 4 | 0 | **3** |
+| 11 | 2026 Torneo Apertura | **Querétaro** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
 | 12 | 2026 Torneo Apertura | **Pumas UNAM** | 2 | 1 | 0 | 1 | 2 | 4 | -2 | **3** |
 | 13 | 2026 Torneo Apertura | **Atlético de San Luis** | 2 | 0 | 1 | 1 | 4 | 5 | -1 | **1** |
 | 14 | 2026 Torneo Apertura | **Atlante** | 2 | 0 | 1 | 1 | 2 | 3 | -1 | **1** |
