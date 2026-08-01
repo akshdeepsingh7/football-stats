@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-08-01 19:18:56 UTC
+> **Last updated:** 2026-08-01 20:27:57 UTC
 
 ---
 
@@ -870,20 +870,20 @@
 | 15 | Group A | **Central Córdoba (Santiago del Estero)** | 2 | 0 | 0 | 2 | 0 | 3 | -3 | **0** |
 | 4 | Group A | **Deportivo Riestra** | 2 | 1 | 0 | 1 | 4 | 2 | +2 | **3** |
 | 1 | Group B | **Argentinos Juniors** | 2 | 2 | 0 | 0 | 6 | 2 | +4 | **6** |
-| 6 | Group B | **Belgrano (Córdoba)** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
-| 8 | Group B | **Gimnasia La Plata** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
-| 9 | Group B | **Huracán** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
+| 8 | Group B | **Belgrano (Córdoba)** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
+| 9 | Group B | **Gimnasia La Plata** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
+| 10 | Group B | **Huracán** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
 | 5 | Group B | **Racing Club** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
 | 15 | Group B | **River Plate** | 2 | 0 | 0 | 2 | 0 | 2 | -2 | **0** |
 | 11 | Group B | **Rosario Central** | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
-| 7 | Group B | **Banfield** | 2 | 1 | 0 | 1 | 3 | 3 | 0 | **3** |
+| 6 | Group B | **Banfield** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
 | 13 | Group B | **Tigre** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
 | 12 | Group B | **Aldosivi** | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
 | 4 | Group B | **Independiente Rivadavia** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
 | 3 | Group B | **Atlético Tucumán** | 2 | 1 | 1 | 0 | 2 | 0 | +2 | **4** |
 | 2 | Group B | **Barracas Central** | 2 | 2 | 0 | 0 | 2 | 0 | +2 | **6** |
 | 14 | Group B | **Sarmiento (Junín)** | 2 | 0 | 0 | 2 | 4 | 6 | -2 | **0** |
-| 10 | Group B | **Estudiantes de Río Cuarto** | 2 | 1 | 0 | 1 | 1 | 3 | -2 | **3** |
+| 7 | Group B | **Estudiantes de Río Cuarto** | 3 | 1 | 1 | 1 | 1 | 3 | -2 | **4** |
 
 #### Points Table
 
