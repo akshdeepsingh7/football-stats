@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-08-02 00:02:18 UTC
+> **Last updated:** 2026-08-02 04:06:25 UTC
 
 ---
 
@@ -32,7 +32,7 @@
 | **Dutch Eredivisie** | **ADO Den Haag** | 0 | **ADO Den Haag** | 0 |
 | **Turkish Super Lig** | **Alanyaspor** | 0 | **Alanyaspor** | 0 |
 | **Scottish Premiership** | **St Mirren** | 3 | **St Mirren** | 2 |
-| **MLS** | **Chicago Fire FC** | 26 | **Inter Miami CF** | 43 |
+| **MLS** | **Chicago Fire FC** | 29 | **FC Cincinnati** | 45 |
 | **Brazilian Serie A** | **Palmeiras** | 47 | **Palmeiras** | 38 |
 | **Argentine Liga Profesional** | **Boca Juniors** | 0 | **Argentinos Juniors** | 7 |
 | **Mexican Liga MX** | **Tijuana** | 7 | **Pumas UNAM** | 7 |
@@ -722,36 +722,36 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 4 | Eastern Conference | **Chicago Fire FC** | 16 | 8 | 2 | 6 | 30 | 22 | +8 | **26** |
-| 11 | Eastern Conference | **Columbus Crew** | 17 | 5 | 4 | 8 | 24 | 26 | -2 | **19** |
-| 3 | Eastern Conference | **New England Revolution** | 16 | 9 | 2 | 5 | 26 | 19 | +7 | **29** |
-| 8 | Eastern Conference | **Red Bull New York** | 17 | 6 | 4 | 7 | 26 | 37 | -11 | **22** |
-| 9 | Eastern Conference | **D.C. United** | 17 | 5 | 7 | 5 | 24 | 27 | -3 | **22** |
+| 4 | Eastern Conference | **Chicago Fire FC** | 17 | 9 | 2 | 6 | 32 | 23 | +9 | **29** |
+| 11 | Eastern Conference | **Columbus Crew** | 18 | 5 | 5 | 8 | 26 | 28 | -2 | **20** |
+| 3 | Eastern Conference | **New England Revolution** | 17 | 9 | 3 | 5 | 28 | 21 | +7 | **30** |
+| 8 | Eastern Conference | **Red Bull New York** | 18 | 7 | 4 | 7 | 29 | 39 | -10 | **25** |
+| 9 | Eastern Conference | **D.C. United** | 18 | 5 | 8 | 5 | 26 | 29 | -3 | **23** |
 | 12 | Eastern Conference | **Toronto FC** | 18 | 3 | 8 | 7 | 24 | 32 | -8 | **17** |
-| 13 | Eastern Conference | **CF Montréal** | 17 | 4 | 3 | 10 | 22 | 33 | -11 | **15** |
-| 14 | Eastern Conference | **Philadelphia Union** | 17 | 3 | 4 | 10 | 22 | 31 | -9 | **13** |
-| 10 | Eastern Conference | **Orlando City SC** | 17 | 6 | 2 | 9 | 28 | 44 | -16 | **20** |
+| 14 | Eastern Conference | **CF Montréal** | 18 | 4 | 4 | 10 | 24 | 35 | -11 | **16** |
+| 13 | Eastern Conference | **Philadelphia Union** | 18 | 4 | 4 | 10 | 25 | 33 | -8 | **16** |
+| 10 | Eastern Conference | **Orlando City SC** | 18 | 6 | 2 | 10 | 30 | 47 | -17 | **20** |
 | 5 | Eastern Conference | **New York City FC** | 18 | 7 | 5 | 6 | 31 | 24 | +7 | **26** |
-| 7 | Eastern Conference | **FC Cincinnati** | 17 | 6 | 5 | 6 | 41 | 42 | -1 | **23** |
-| 15 | Eastern Conference | **Atlanta United FC** | 17 | 3 | 3 | 11 | 17 | 30 | -13 | **12** |
-| 1 | Eastern Conference | **Nashville SC** | 17 | 12 | 3 | 2 | 33 | 12 | +21 | **39** |
-| 2 | Eastern Conference | **Inter Miami CF** | 17 | 11 | 4 | 2 | 43 | 30 | +13 | **37** |
-| 6 | Eastern Conference | **Charlotte FC** | 17 | 7 | 4 | 6 | 28 | 25 | +3 | **25** |
-| 13 | Western Conference | **Colorado Rapids** | 17 | 6 | 1 | 10 | 26 | 25 | +1 | **19** |
+| 6 | Eastern Conference | **FC Cincinnati** | 18 | 7 | 5 | 6 | 45 | 44 | +1 | **26** |
+| 15 | Eastern Conference | **Atlanta United FC** | 18 | 3 | 3 | 12 | 19 | 33 | -14 | **12** |
+| 1 | Eastern Conference | **Nashville SC** | 18 | 12 | 4 | 2 | 35 | 14 | +21 | **40** |
+| 2 | Eastern Conference | **Inter Miami CF** | 18 | 11 | 5 | 2 | 45 | 32 | +13 | **38** |
+| 7 | Eastern Conference | **Charlotte FC** | 18 | 7 | 4 | 7 | 29 | 27 | +2 | **25** |
+| 10 | Western Conference | **Colorado Rapids** | 18 | 7 | 1 | 10 | 27 | 25 | +2 | **22** |
 | 6 | Western Conference | **FC Dallas** | 17 | 7 | 5 | 5 | 32 | 25 | +7 | **26** |
-| 15 | Western Conference | **Sporting Kansas City** | 17 | 4 | 2 | 11 | 18 | 44 | -26 | **14** |
-| 11 | Western Conference | **LA Galaxy** | 18 | 5 | 6 | 7 | 24 | 29 | -5 | **21** |
-| 3 | Western Conference | **San Jose Earthquakes** | 17 | 10 | 3 | 4 | 35 | 20 | +15 | **33** |
-| 4 | Western Conference | **Real Salt Lake** | 16 | 8 | 2 | 6 | 28 | 24 | +4 | **26** |
-| 5 | Western Conference | **Houston Dynamo FC** | 16 | 8 | 2 | 6 | 23 | 24 | -1 | **26** |
-| 10 | Western Conference | **Portland Timbers** | 17 | 6 | 3 | 8 | 31 | 32 | -1 | **21** |
+| 15 | Western Conference | **Sporting Kansas City** | 18 | 4 | 2 | 12 | 18 | 46 | -28 | **14** |
+| 13 | Western Conference | **LA Galaxy** | 18 | 5 | 6 | 7 | 24 | 29 | -5 | **21** |
+| 3 | Western Conference | **San Jose Earthquakes** | 18 | 10 | 3 | 5 | 37 | 24 | +13 | **33** |
+| 5 | Western Conference | **Real Salt Lake** | 17 | 8 | 3 | 6 | 29 | 25 | +4 | **27** |
+| 4 | Western Conference | **Houston Dynamo FC** | 17 | 9 | 2 | 6 | 25 | 24 | +1 | **29** |
+| 11 | Western Conference | **Portland Timbers** | 17 | 6 | 3 | 8 | 31 | 32 | -1 | **21** |
 | 8 | Western Conference | **Seattle Sounders FC** | 16 | 7 | 3 | 6 | 19 | 20 | -1 | **24** |
-| 1 | Western Conference | **Vancouver Whitecaps** | 16 | 10 | 3 | 3 | 37 | 16 | +21 | **33** |
-| 9 | Western Conference | **Minnesota United FC** | 17 | 6 | 5 | 6 | 19 | 24 | -5 | **23** |
-| 2 | Western Conference | **LAFC** | 18 | 10 | 3 | 5 | 34 | 18 | +16 | **33** |
-| 14 | Western Conference | **Austin FC** | 17 | 4 | 5 | 8 | 22 | 35 | -13 | **17** |
-| 7 | Western Conference | **St. Louis CITY SC** | 17 | 7 | 4 | 6 | 23 | 23 | 0 | **25** |
-| 12 | Western Conference | **San Diego FC** | 17 | 5 | 5 | 7 | 31 | 28 | +3 | **20** |
+| 1 | Western Conference | **Vancouver Whitecaps** | 17 | 10 | 4 | 3 | 38 | 17 | +21 | **34** |
+| 9 | Western Conference | **Minnesota United FC** | 18 | 6 | 6 | 6 | 20 | 25 | -5 | **24** |
+| 2 | Western Conference | **LAFC** | 19 | 10 | 4 | 5 | 35 | 19 | +16 | **34** |
+| 14 | Western Conference | **Austin FC** | 18 | 4 | 5 | 9 | 22 | 36 | -14 | **17** |
+| 7 | Western Conference | **St. Louis CITY SC** | 18 | 7 | 5 | 6 | 24 | 24 | 0 | **26** |
+| 12 | Western Conference | **San Diego FC** | 18 | 5 | 6 | 7 | 32 | 29 | +3 | **21** |
 
 #### Points Table
 
@@ -870,15 +870,15 @@
 | 15 | Group A | **Central Córdoba (Santiago del Estero)** | 2 | 0 | 0 | 2 | 0 | 3 | -3 | **0** |
 | 5 | Group A | **Deportivo Riestra** | 2 | 1 | 0 | 1 | 4 | 2 | +2 | **3** |
 | 1 | Group B | **Argentinos Juniors** | 3 | 3 | 0 | 0 | 7 | 2 | +5 | **9** |
-| 8 | Group B | **Belgrano (Córdoba)** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
-| 9 | Group B | **Gimnasia La Plata** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
-| 10 | Group B | **Huracán** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
-| 5 | Group B | **Racing Club** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
+| 9 | Group B | **Belgrano (Córdoba)** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
+| 10 | Group B | **Gimnasia La Plata** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
+| 11 | Group B | **Huracán** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
+| 6 | Group B | **Racing Club** | 3 | 1 | 1 | 1 | 3 | 4 | -1 | **4** |
 | 15 | Group B | **River Plate** | 2 | 0 | 0 | 2 | 0 | 2 | -2 | **0** |
-| 11 | Group B | **Rosario Central** | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
-| 6 | Group B | **Banfield** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
-| 13 | Group B | **Tigre** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 12 | Group B | **Aldosivi** | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
+| 12 | Group B | **Rosario Central** | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
+| 5 | Group B | **Banfield** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
+| 8 | Group B | **Tigre** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
+| 13 | Group B | **Aldosivi** | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
 | 4 | Group B | **Independiente Rivadavia** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
 | 3 | Group B | **Atlético Tucumán** | 2 | 1 | 1 | 0 | 2 | 0 | +2 | **4** |
 | 2 | Group B | **Barracas Central** | 2 | 2 | 0 | 0 | 2 | 0 | +2 | **6** |
@@ -927,21 +927,21 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 2026 Torneo Apertura | **Tijuana** | 3 | 2 | 1 | 0 | 4 | 1 | +3 | **7** |
 | 2 | 2026 Torneo Apertura | **Pumas UNAM** | 3 | 2 | 0 | 1 | 7 | 5 | +2 | **6** |
-| 3 | 2026 Torneo Apertura | **Cruz Azul** | 2 | 2 | 0 | 0 | 5 | 3 | +2 | **6** |
-| 4 | 2026 Torneo Apertura | **Atlas** | 2 | 2 | 0 | 0 | 4 | 2 | +2 | **6** |
+| 3 | 2026 Torneo Apertura | **Monterrey** | 3 | 2 | 0 | 1 | 6 | 4 | +2 | **6** |
+| 4 | 2026 Torneo Apertura | **Cruz Azul** | 2 | 2 | 0 | 0 | 5 | 3 | +2 | **6** |
 | 5 | 2026 Torneo Apertura | **Necaxa** | 2 | 2 | 0 | 0 | 4 | 2 | +2 | **6** |
-| 6 | 2026 Torneo Apertura | **América** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
-| 7 | 2026 Torneo Apertura | **Puebla** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
-| 8 | 2026 Torneo Apertura | **Guadalajara** | 3 | 1 | 1 | 1 | 2 | 3 | -1 | **4** |
-| 9 | 2026 Torneo Apertura | **Pachuca** | 2 | 1 | 0 | 1 | 4 | 2 | +2 | **3** |
-| 10 | 2026 Torneo Apertura | **Toluca** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
-| 11 | 2026 Torneo Apertura | **Monterrey** | 2 | 1 | 0 | 1 | 4 | 4 | 0 | **3** |
-| 12 | 2026 Torneo Apertura | **Querétaro** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
-| 13 | 2026 Torneo Apertura | **Atlético de San Luis** | 3 | 0 | 2 | 1 | 4 | 5 | -1 | **2** |
-| 14 | 2026 Torneo Apertura | **Atlante** | 2 | 0 | 1 | 1 | 2 | 3 | -1 | **1** |
-| 15 | 2026 Torneo Apertura | **Tigres UANL** | 2 | 0 | 1 | 1 | 3 | 5 | -2 | **1** |
-| 16 | 2026 Torneo Apertura | **Santos** | 2 | 0 | 0 | 2 | 2 | 4 | -2 | **0** |
-| 17 | 2026 Torneo Apertura | **León** | 2 | 0 | 0 | 2 | 2 | 4 | -2 | **0** |
+| 6 | 2026 Torneo Apertura | **Querétaro** | 3 | 2 | 0 | 1 | 5 | 4 | +1 | **6** |
+| 7 | 2026 Torneo Apertura | **Atlas** | 3 | 2 | 0 | 1 | 4 | 4 | 0 | **6** |
+| 8 | 2026 Torneo Apertura | **América** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
+| 9 | 2026 Torneo Apertura | **Puebla** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
+| 10 | 2026 Torneo Apertura | **Guadalajara** | 3 | 1 | 1 | 1 | 2 | 3 | -1 | **4** |
+| 11 | 2026 Torneo Apertura | **Pachuca** | 3 | 1 | 0 | 2 | 4 | 3 | +1 | **3** |
+| 12 | 2026 Torneo Apertura | **Toluca** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
+| 13 | 2026 Torneo Apertura | **León** | 3 | 1 | 0 | 2 | 3 | 4 | -1 | **3** |
+| 14 | 2026 Torneo Apertura | **Atlético de San Luis** | 3 | 0 | 2 | 1 | 4 | 5 | -1 | **2** |
+| 15 | 2026 Torneo Apertura | **Atlante** | 2 | 0 | 1 | 1 | 2 | 3 | -1 | **1** |
+| 16 | 2026 Torneo Apertura | **Tigres UANL** | 3 | 0 | 1 | 2 | 5 | 8 | -3 | **1** |
+| 17 | 2026 Torneo Apertura | **Santos** | 2 | 0 | 0 | 2 | 2 | 4 | -2 | **0** |
 | 18 | 2026 Torneo Apertura | **FC Juarez** | 3 | 0 | 0 | 3 | 1 | 7 | -6 | **0** |
 
 #### Points Table
