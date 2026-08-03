@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-08-03 00:03:27 UTC
+> **Last updated:** 2026-08-03 04:08:15 UTC
 
 ---
 
@@ -35,7 +35,7 @@
 | **MLS** | **Chicago Fire FC** | 29 | **FC Cincinnati** | 45 |
 | **Brazilian Serie A** | **Palmeiras** | 47 | **Palmeiras** | 38 |
 | **Argentine Liga Profesional** | **Boca Juniors** | 1 | **Argentinos Juniors** | 7 |
-| **Mexican Liga MX** | **Tijuana** | 7 | **Pumas UNAM** | 7 |
+| **Mexican Liga MX** | **América** | 7 | **Pumas UNAM** | 7 |
 
 ![Quick Stats](images/quick_stats.png)
 
@@ -855,35 +855,35 @@
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 13 | Group A | **Boca Juniors** | 2 | 0 | 1 | 1 | 2 | 5 | -3 | **1** |
-| 7 | Group A | **Estudiantes de La Plata** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
+| 8 | Group A | **Estudiantes de La Plata** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
 | 2 | Group A | **Independiente** | 2 | 2 | 0 | 0 | 3 | 0 | +3 | **6** |
-| 8 | Group A | **Lanús** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 4 | Group A | **Newell's Old Boys** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
+| 9 | Group A | **Lanús** | 2 | 1 | 0 | 1 | 1 | 1 | 0 | **3** |
+| 5 | Group A | **Newell's Old Boys** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
 | 10 | Group A | **San Lorenzo** | 2 | 1 | 0 | 1 | 1 | 1 | 0 | **3** |
 | 14 | Group A | **Talleres (Córdoba)** | 2 | 0 | 0 | 2 | 1 | 4 | -3 | **0** |
 | 12 | Group A | **Unión (Santa Fe)** | 2 | 0 | 1 | 1 | 2 | 4 | -2 | **1** |
 | 1 | Group A | **Vélez Sarsfield** | 2 | 2 | 0 | 0 | 4 | 1 | +3 | **6** |
-| 9 | Group A | **Instituto (Córdoba)** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
+| 4 | Group A | **Instituto (Córdoba)** | 3 | 2 | 0 | 1 | 3 | 2 | +1 | **6** |
 | 11 | Group A | **Platense** | 2 | 0 | 1 | 1 | 3 | 4 | -1 | **1** |
-| 5 | Group A | **Defensa y Justicia** | 3 | 1 | 1 | 1 | 3 | 5 | -2 | **4** |
+| 6 | Group A | **Defensa y Justicia** | 3 | 1 | 1 | 1 | 3 | 5 | -2 | **4** |
 | 3 | Group A | **Gimnasia (Mendoza)** | 3 | 2 | 0 | 1 | 3 | 1 | +2 | **6** |
 | 15 | Group A | **Central Córdoba (Santiago del Estero)** | 2 | 0 | 0 | 2 | 0 | 3 | -3 | **0** |
-| 6 | Group A | **Deportivo Riestra** | 3 | 1 | 0 | 2 | 4 | 3 | +1 | **3** |
+| 7 | Group A | **Deportivo Riestra** | 3 | 1 | 0 | 2 | 4 | 3 | +1 | **3** |
 | 1 | Group B | **Argentinos Juniors** | 3 | 3 | 0 | 0 | 7 | 2 | +5 | **9** |
-| 10 | Group B | **Belgrano (Córdoba)** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
+| 11 | Group B | **Belgrano (Córdoba)** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
 | 3 | Group B | **Gimnasia La Plata** | 3 | 2 | 0 | 1 | 4 | 3 | +1 | **6** |
-| 11 | Group B | **Huracán** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
-| 7 | Group B | **Racing Club** | 3 | 1 | 1 | 1 | 3 | 4 | -1 | **4** |
-| 15 | Group B | **River Plate** | 2 | 0 | 0 | 2 | 0 | 2 | -2 | **0** |
-| 12 | Group B | **Rosario Central** | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
+| 12 | Group B | **Huracán** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
+| 8 | Group B | **Racing Club** | 3 | 1 | 1 | 1 | 3 | 4 | -1 | **4** |
+| 15 | Group B | **River Plate** | 3 | 0 | 0 | 3 | 0 | 3 | -3 | **0** |
+| 7 | Group B | **Rosario Central** | 3 | 1 | 1 | 1 | 2 | 2 | 0 | **4** |
 | 6 | Group B | **Banfield** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
-| 9 | Group B | **Tigre** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
+| 10 | Group B | **Tigre** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
 | 13 | Group B | **Aldosivi** | 3 | 0 | 1 | 2 | 2 | 4 | -2 | **1** |
 | 5 | Group B | **Independiente Rivadavia** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
 | 4 | Group B | **Atlético Tucumán** | 2 | 1 | 1 | 0 | 2 | 0 | +2 | **4** |
 | 2 | Group B | **Barracas Central** | 3 | 3 | 0 | 0 | 3 | 0 | +3 | **9** |
 | 14 | Group B | **Sarmiento (Junín)** | 2 | 0 | 0 | 2 | 4 | 6 | -2 | **0** |
-| 8 | Group B | **Estudiantes de Río Cuarto** | 3 | 1 | 1 | 1 | 1 | 3 | -2 | **4** |
+| 9 | Group B | **Estudiantes de Río Cuarto** | 3 | 1 | 1 | 1 | 1 | 3 | -2 | **4** |
 
 #### Points Table
 
@@ -925,23 +925,23 @@
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2026 Torneo Apertura | **Tijuana** | 3 | 2 | 1 | 0 | 4 | 1 | +3 | **7** |
-| 2 | 2026 Torneo Apertura | **Pumas UNAM** | 3 | 2 | 0 | 1 | 7 | 5 | +2 | **6** |
-| 3 | 2026 Torneo Apertura | **Monterrey** | 3 | 2 | 0 | 1 | 6 | 4 | +2 | **6** |
-| 4 | 2026 Torneo Apertura | **Necaxa** | 2 | 2 | 0 | 0 | 4 | 2 | +2 | **6** |
-| 5 | 2026 Torneo Apertura | **Cruz Azul** | 3 | 2 | 0 | 1 | 7 | 6 | +1 | **6** |
-| 6 | 2026 Torneo Apertura | **Querétaro** | 3 | 2 | 0 | 1 | 5 | 4 | +1 | **6** |
-| 7 | 2026 Torneo Apertura | **Atlas** | 3 | 2 | 0 | 1 | 4 | 4 | 0 | **6** |
-| 8 | 2026 Torneo Apertura | **América** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
-| 9 | 2026 Torneo Apertura | **Atlante** | 3 | 1 | 1 | 1 | 5 | 5 | 0 | **4** |
-| 10 | 2026 Torneo Apertura | **Puebla** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
-| 11 | 2026 Torneo Apertura | **Guadalajara** | 3 | 1 | 1 | 1 | 2 | 3 | -1 | **4** |
-| 12 | 2026 Torneo Apertura | **Pachuca** | 3 | 1 | 0 | 2 | 4 | 3 | +1 | **3** |
-| 13 | 2026 Torneo Apertura | **Toluca** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
+| 1 | 2026 Torneo Apertura | **América** | 3 | 2 | 1 | 0 | 5 | 1 | +4 | **7** |
+| 2 | 2026 Torneo Apertura | **Tijuana** | 3 | 2 | 1 | 0 | 4 | 1 | +3 | **7** |
+| 3 | 2026 Torneo Apertura | **Toluca** | 3 | 2 | 0 | 1 | 6 | 3 | +3 | **6** |
+| 4 | 2026 Torneo Apertura | **Pumas UNAM** | 3 | 2 | 0 | 1 | 7 | 5 | +2 | **6** |
+| 5 | 2026 Torneo Apertura | **Monterrey** | 3 | 2 | 0 | 1 | 6 | 4 | +2 | **6** |
+| 6 | 2026 Torneo Apertura | **Cruz Azul** | 3 | 2 | 0 | 1 | 7 | 6 | +1 | **6** |
+| 7 | 2026 Torneo Apertura | **Querétaro** | 3 | 2 | 0 | 1 | 5 | 4 | +1 | **6** |
+| 8 | 2026 Torneo Apertura | **Necaxa** | 3 | 2 | 0 | 1 | 5 | 5 | 0 | **6** |
+| 9 | 2026 Torneo Apertura | **Atlas** | 3 | 2 | 0 | 1 | 4 | 4 | 0 | **6** |
+| 10 | 2026 Torneo Apertura | **Atlante** | 3 | 1 | 1 | 1 | 5 | 5 | 0 | **4** |
+| 11 | 2026 Torneo Apertura | **Puebla** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
+| 12 | 2026 Torneo Apertura | **Guadalajara** | 3 | 1 | 1 | 1 | 2 | 3 | -1 | **4** |
+| 13 | 2026 Torneo Apertura | **Pachuca** | 3 | 1 | 0 | 2 | 4 | 3 | +1 | **3** |
 | 14 | 2026 Torneo Apertura | **León** | 3 | 1 | 0 | 2 | 3 | 4 | -1 | **3** |
 | 15 | 2026 Torneo Apertura | **Atlético de San Luis** | 3 | 0 | 2 | 1 | 4 | 5 | -1 | **2** |
 | 16 | 2026 Torneo Apertura | **Tigres UANL** | 3 | 0 | 1 | 2 | 5 | 8 | -3 | **1** |
-| 17 | 2026 Torneo Apertura | **Santos** | 2 | 0 | 0 | 2 | 2 | 4 | -2 | **0** |
+| 17 | 2026 Torneo Apertura | **Santos** | 3 | 0 | 0 | 3 | 2 | 7 | -5 | **0** |
 | 18 | 2026 Torneo Apertura | **FC Juarez** | 3 | 0 | 0 | 3 | 1 | 7 | -6 | **0** |
 
 #### Points Table
