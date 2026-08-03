@@ -13,7 +13,7 @@
 
 ---
 
-> **Last updated:** 2026-08-03 19:07:46 UTC
+> **Last updated:** 2026-08-03 20:44:44 UTC
 
 ---
 
@@ -673,13 +673,13 @@
 | 2 | 2026-27 Scottish Premiers | **St Johnstone** | 1 | 1 | 0 | 0 | 4 | 3 | +1 | **3** |
 | 3 | 2026-27 Scottish Premiers | **Aberdeen** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
 | 4 | 2026-27 Scottish Premiers | **Motherwell** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
-| 5 | 2026-27 Scottish Premiers | **Dundee United** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| 6 | 2026-27 Scottish Premiers | **Rangers** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| 7 | 2026-27 Scottish Premiers | **Celtic** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 8 | 2026-27 Scottish Premiers | **Dundee** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 9 | 2026-27 Scottish Premiers | **Kilmarnock** | 1 | 0 | 0 | 1 | 3 | 4 | -1 | **0** |
-| 10 | 2026-27 Scottish Premiers | **Heart of Midlothian** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
-| 11 | 2026-27 Scottish Premiers | **Hibernian** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
+| 5 | 2026-27 Scottish Premiers | **Celtic** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 6 | 2026-27 Scottish Premiers | **Dundee United** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| 7 | 2026-27 Scottish Premiers | **Rangers** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| 8 | 2026-27 Scottish Premiers | **Kilmarnock** | 1 | 0 | 0 | 1 | 3 | 4 | -1 | **0** |
+| 9 | 2026-27 Scottish Premiers | **Heart of Midlothian** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
+| 10 | 2026-27 Scottish Premiers | **Hibernian** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
+| 11 | 2026-27 Scottish Premiers | **Dundee** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
 | 12 | 2026-27 Scottish Premiers | **Falkirk** | 1 | 0 | 0 | 1 | 0 | 2 | -2 | **0** |
 
 #### Points Table
